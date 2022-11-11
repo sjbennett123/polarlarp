@@ -379,7 +379,7 @@ Drae have -2 Body Points in the daytime (defined as 6 a.m. to 6 p.m.). At 6 a.m.
 
 Drae can buy Resist Sleep and Resist Charm . They can also buy the Archery skill at half cost (round up), but they cannot use Two Handed Blunt weapons or Two Handed Swords.
 
-Elf
+## Elf
 
 Elves are long-lived people with pointed ears. That may be the only thing all the elven races have in common!
 
