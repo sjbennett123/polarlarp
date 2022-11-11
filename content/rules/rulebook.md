@@ -387,17 +387,17 @@ All elves can buy the skills Resist Sleep and Resist Charm . They have one less 
 
 There are many varieties of elves. The most common are:
 
-Amani elf
+**Amani Elf**
 
 Amani elves are descendants of Quentari elves. Many years ago, a political rift developed in Quentari and many of the elves movedto the Ash Forest (or the “Amani” forest in their language) in the Duchy of Ashbury in Evendarr to start anew. Since then, they have spread all over the continent. 
 
 Amani elves are friendlier and more down-to-earth than their Quentari cousins. They get along much better with other races but still do not socialize a great deal with them. Even though they socialize with other races, they rarely marry any other than their fellow Amani elves. An Amani who falls in love with another race is not shunned from the society, but is obviously not treated with the same degree of respect by his or her fellow Amani elves.
 
-Quentari elf
+**Quentari Elf**
 
 Quentari elves come from the elven kingdom of Quentari. They consider themselves to be the most civilized race; all others are barbaric in comparison. To some degree this is true—they have the oldest culture, the greatest cities, and the most learned scholars. It is this attitude however that makes their living with other races a problem, as no one likes being seen as inferior. Quentari elves tend to be scholars, and it is rare to encounter a Quentari elf who does not know how to read and write. When fighting, they tend to prefer bows and short swords, but fighting is seen as a last resort when peaceful negotiations are unsuccessful.
 
-Stone elf:
+**Stone Elf** 
 
 Stone elves have whitish skin, upturned eyebrows, and pointed ears. Stone elves do not show emotions and as such are viewed by other races as humorless and intense. This is part of their culture as well as being part of their race. This restriction makes the stone elves very hard to role-play—if you cannot keep a straight face when told a funny joke, you should not be playing a stone elf.
 
@@ -407,7 +407,7 @@ Mentalist: Stone elves, like biata, have spent years honing mental skills and as
 
 In order to use this role-playing skill, you must touch the other person and concentrate completely. Any Stone elf that simply touches someone and says “There, you no longer have a fear of heights (or whatever)” is not playing the race properly. For more information about these skills, see “Mind Abilities” on page 93.
 
-Wild Elf
+**Wild Elf**
 
 Wild elves live in nomadic tribes like barbarians and share many barbarian traits. Wild elves are distinguished in-game by their furs and other barbarian clothing, even though they have pointed ears like all other elves.
 
@@ -596,11 +596,7 @@ Once First Aid has begun; with the call “First Aid“, the one minute death co
 
 ### Dead
 
-If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All
-
-of your active spells, alchemical substances, and other effects will immediately disappear. The only things that will remain are Gypsy Curse, Forget-it-Well, Forget-me-Not,
-
-and Enslavement. Sometimes, a Curse of Transform ation or an Infection might disappear when a character dies. No other game effect is active after death, except for certain
+If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All of your active spells, alchemical substances, and other effects will immediately disappear. The only things that will remain are Gypsy Curse, Forget-it-Well, Forget-me-Not, and Enslavement. Sometimes, a Curse of Transform ation or an Infection might disappear when a character dies. No other game effect is active after death, except for certain
 
 Formal Magic Spells (this will be stated on the tag). The only thing that can save you now is a Life spell delivered within five minutes. Even if a Life spell is given to you, all your active spells, alchemical substances and other effects (except those listed above) are lost. If the five minutes pass without a Life spell then your body dissipates, all of your in game items drop to the ground, and you must immediately become a spirit and can only be brought back by a resurrection
 
@@ -804,8 +800,7 @@ A spellcaster is not immune to his or her own spells, nor can they automatically
 
 ### Visible Effects
 
-- Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as they take the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
-
+Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as they take the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
 
 ### Eldritch Power
 
@@ -3574,56 +3569,68 @@ Applying a vorpal coating takes time to apply. It cannot be done with a quick to
 
 
 
-Alchemical Solvent
+**Alchemical Solvent**
 
+```
 Level Contact : 2
  Level Elixer : 
  Level Gas : 
  Duration: Instant
+```
 
 This solvent, covering one square foot per dose, will remove either an Oil of Slipperiness or a Past of Stickiness. Once used, the entire dosage is consumed.
 
 \---
 
-Antidote (Contact)
+**Antidote (Contact)**
 
+```
 Level Contact : 
  Level Elixer : 2
  Level Gas : 
  Duration: Instant
+```
 
 Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word “Gas”. Enslavement needs a specific antidote.
 
 \---
 
-Antidote (Gas)
+**Antidote (Gas)**
 
+```
 Level Contact : 
  Level Elixer : 4
  Level Gas : 
  Duration: Instant
+```
 
 Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word “Gas”. Enslavement needs a specific antidote.
 
 \---
 
-Antidote (Ingested)
+**Antidote (Ingested)**
 
+```
 Level Contact : 
  Level Elixer : 5
  Level Gas : 
  Duration: Instant
+```
 
 Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word “Gas”. Enslavement needs a specific antidote.
 
 \---
 
-Berserk
+**Berserk**
 
+```
 Level Contact : 
  Level Elixer : 10
  Level Gas : 
  Duration: 5 Minutes
+```
+
+#todo
 
 
 
@@ -3640,71 +3647,75 @@ This substance does 10 points of body damage.
 
 \---
 
-Cause Light Damage
+**Cause Light Damage**
 
+```
 Level Contact : 
  Level Elixer : 1
  Level Gas : 2
  Duration: Instant
+```
 
 This substance does 5 points of body damage.
 
 \---
 
-Cause Serious Damage
+**Cause Serious Damage**
 
+```
 Level Contact : 
  Level Elixer : 4
  Level Gas : 5
  Duration: Instant
+```
 
 This substance does 20 points of body damage.
 
 \---
 
-Charm
+**Charm**
 
+```
 Level Contact : 
  Level Elixer : 
  Level Gas : 8
  Duration: 5 Minutes
+```
 
 This alchemical substance will cause the victim to be under the same effects as a Charm spell. The victim will be Charmed to the creature who administered the poison. It can be resisted by those with a Resist Charm ability.
 
-\---
+**Cure Light Damage**
 
-Cure Light Damage
-
+```
 Level Contact : 
  Level Elixer : 1
  Level Gas : 
  Duration: Instant
+```
 
 This substance heals 5 points of body damage.
 
-\---
+**Death**
 
-Death
-
+```
 Level Contact : 
  Level Elixer : 9
  Level Gas : 
  Duration: Instant
+```
 
 This causes death immediately, see Table 2-2 on page 23. This elixir does not leave any traceable marks, and cannot be identified as the cause of death. The only thing that will save the victim of this poison is a Life spell given within five minutes.
 
-\---
+**Enslavement**
 
-Enslavement
-
+```
 Level Contact : 
  Level Elixer : 
  Level Gas : 
  Duration: Indefinate
+```
 
-The victim of this poison will be enslaved to the person administering the poison and will obey absolutely any and all commands given by the person to whom they are enslaved, and will even commit
-
-suicide. Otherwise, it is has the same effects as a Charm spell. Enslavement can only be cured by a specific antidote. This effect is also removed if the character resurrects. This effect is stronger than Calm, Calm Animal, Charm, Charm Animal, Shun, shun animal, Control Undead, or Fear. See Table 5-6 on page 64. Please note that additional Enslavement effects will override another 
+The victim of this poison will be enslaved to the person administering the poison and will obey absolutely any and all commands given by the person to whom they are enslaved, and will even commit suicide. Otherwise, it is has the same effects as a Charm spell. Enslavement can only be cured by a specific antidote. This effect is also removed if the character resurrects. This effect is stronger than Calm, Calm Animal, Charm, Charm Animal, Shun, shun animal, Control Undead, or Fear. See Table 5-6 on page 64. Please note that additional Enslavement effects will override another 
 
 Enslavement effect, see “Charm Effects” on page 47.
 
@@ -3714,44 +3725,43 @@ No other effect (either LCO or otherwise) may duplicate the ability of Enslaveme
 
 In addition, the following rules apply to Enslavement: 
 
-You cannot administer Enslavement to yourself.
+- You cannot administer Enslavement to yourself.
 
-You cannot be enslaved to “act normally,” However a person under the effects of enslavement does not act like a robot or strangely, they are just compelled to follow the wishes of the enslaver.
+- You cannot be enslaved to “act normally,” However a person under the effects of enslavement does not act like a robot or strangely, they are just compelled to follow the wishes of the enslaver.
 
-The duration of Enslavement is permanent, and it can only be cured by the specific antidote or the resurrection of the target.
+- The duration of Enslavement is permanent, and it can only be cured by the specific antidote or the resurrection of the target.
 
-\---
 
-Enslavement Antidote
+**Enslavement Antidote**
 
+```
 Level Contact : 
  Level Elixer : 10
  Level Gas : 
  Duration: Instant
+```
 
 This antidote is the only thing that will release a victim from the effects of an Enslavement poison. After the Enslavement is cured, the victim remembers everything that happened and knows they were enslaved and to whom.
 
-\---
+**Feeblemind**
 
-Feeblemind
-
+```
 Level Contact : 
  Level Elixer : 6
  Level Gas : 7
  Duration: 5 Minutes
+```
 
 This alchemical substance lowers a character’s intelligence to that of an idiot for 5 minutes. While under its effects, a character cannot use any skills and is so stupid that he or she is not even aware of the poisoning.
 
- 
-
-\---
-
 Forget-it-Well
 
+```
 Level Contact : 
  Level Elixer : 10
  Level Gas : 
  Duration: Indefinate
+```
 
 This poison will cause the victim to forget everything that happened within the last hour. This amnesia becomes permanent if not cured within ten minutes by a Purify Bl ood spell or the appropriate antidote. A Killing Blow within the ten minutes will not reverse the memory loss effect of this poison, and neither will resurrection, but if the victim’s body dissipates before the 10 minute period has elapsed, then the poison will be negated and the memories restored. Forget-it poisons, like all poisons, may never be used on a creature that is dead.
 
@@ -3759,12 +3769,14 @@ This poison will cause the victim to forget everything that happened within the 
 
 \---
 
-Forget-Me-Not
+**Forget-Me-Not**
 
+```
 Level Contact : 
  Level Elixer : 7
  Level Gas : 
  Duration: Indefinate
+```
 
 This alchemical substance will cause the victim to lose memory of the last 15 minutes. In every other way it acts the same as a Forget-it-Well .
 
@@ -3772,12 +3784,14 @@ This alchemical substance will cause the victim to lose memory of the last 15 mi
 
 \---
 
-Hallucinoid
+**Hallucinoid**
 
+```
 Level Contact : 
  Level Elixer : 2
  Level Gas : 
  Duration: 5 Minutes
+```
 
 This alchemical substance causes the victim to hallucinate. They will see pink elephants and other strange things for 5 minutes. The victim will probably be aware that they are under the effects of a poison but will be unable to do much about it. When under its effects, game skills can be used, but the player will most likely use them against imaginary creatures.
 
@@ -3785,12 +3799,14 @@ This alchemical substance causes the victim to hallucinate. They will see pink e
 
 \---
 
-Intoxicant
+**Intoxicant**
 
+```
 Level Contact : 
  Level Elixer : 1
  Level Gas : 
  Duration: 1 Hour
+```
 
 This acts as a strong alcoholic drink. It will render the victim quite drunk for 1 hour.
 
@@ -3800,10 +3816,12 @@ This acts as a strong alcoholic drink. It will render the victim quite drunk for
 
 Liquid Light
 
+```
 Level Contact : 1
- Level Elixer : 
- Level Gas : 
- Duration: 5 Days
+ **Level Elixer :** 
+ **Level Gas :** 
+ Duration: 5 Days****
+```
 
 This substance will allow a glow stick or other light physical representation to be used in game as per the Illumination spell. It cannot be applied to a tree or other object to make it glow; it can only be used on a phys-rep that gives off light. Please note that Alchemy 1 is required to activate a Liquid Light, but not to hold, or otherwise use one, once it has been activated.
 
@@ -3813,10 +3831,12 @@ This substance will allow a glow stick or other light physical representation to
 
 Nausea
 
+```
 Level Contact : 
  Level Elixer : 5
  Level Gas : 6
  Duration: 5 Minutes
+```
 
 This elixir will cause the victim to be nauseous for five minutes, during which time no in game skills can be used.
 
@@ -3826,10 +3846,12 @@ This elixir will cause the victim to be nauseous for five minutes, during which 
 
 Oil of Slipperiness
 
+```
 Level Contact : 5
  Level Elixer : 
  Level Gas : 
  Duration: 1 Hour
+```
 
 This is a contact oil that will last for one hour once exposed to air. If put on an item, the oil will make the item impossible to pick up. It could also be placed on the ground (if enough were used) to prevent anyone from standing in the area. You would not be able to even crawl out of the area unless you could grab a hold onto something or someone outside of the area to pull free. One dose will cover an object up to one square foot in area. It can be counteracted by an Alchemical Solvent or a Paste of Stickiness . 
 
@@ -3839,10 +3861,12 @@ This is a contact oil that will last for one hour once exposed to air. If put on
 
 Paralyze
 
+```
 Level Contact : 
  Level Elixer : 8
  Level Gas : 9
  Duration: 5 Minutes
+```
 
 This poison is identical to a Paralyze spell.
 
@@ -3852,10 +3876,12 @@ This poison is identical to a Paralyze spell.
 
 Paranoia
 
+```
 Level Contact : 
  Level Elixer : 2
  Level Gas : 3
  Duration: 5 Minutes
+```
 
 This causes the victim to think that people he or she normally dislikes are out to kill them. It lasts one hour.
 
@@ -3865,10 +3891,12 @@ This causes the victim to think that people he or she normally dislikes are out 
 
 Paste of Stickiness
 
+```
 Level Contact : 5
- Level Elixer : 
+ Level Elixir : 
  Level Gas : 
  Duration: 1 Hour
+```
 
 It can also be used to pin people to the ground if enough is available. Note that this paste will have no effect in combat as it takes three seconds to set; thus you cannot put it on your shield or sword to “capture” enemy weapons. It can be counteracted by an Alchemical Solvent, an Oil of Slipperiness , or a Release spell.
 
@@ -3876,45 +3904,53 @@ It can also be used to pin people to the ground if enough is available. Note tha
 
 \---
 
-Poison Shield
+**Poison Shield**
 
+```
 Level Contact : 
- Level Elixer : 4
+ Level Elixir : 4
  Level Gas : 
- Duration: Indefinate
+ Duration: Indefinite
+```
 
 This elixir works exactly as the spell of the same name. It grants a Spell Defense to the recipient. It cannot be stacked with the spell of the same name, nor can it be removed by Purify Blood.
 
 \---
 
-Sleep
+**Sleep**
 
+```
 Level Contact : 
  Level Elixer : 6
  Level Gas : 7
  Duration: 5 Minutes
+```
 
 This poison acts as a Sleep spell.
 
 \---
 
-Vertigo
+**Vertigo**
 
+```
 Level Contact : 
  Level Elixer : 5
  Level Gas : 6
  Duration: 5 Minutes
+```
 
 This poison will cause the victim to lose balance and be unable to remain standing for five minutes, during which the victim can not use any in-game skills.
 
 \---
 
-Vorpal Coating 1
+**Vorpal Coating 1**
 
+```
 Level Contact : 1
  Level Elixer : 
  Level Gas : 
  Duration: Indefinate
+```
 
 Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.
 
@@ -3922,12 +3958,14 @@ Putting this contact gel on a weapon makes the weapon do 5 extra points of damag
 
 \---
 
-Vorpal Coating 3
+**Vorpal Coating 3**
 
+```
 Level Contact : 3
  Level Elixer : 
  Level Gas : 
  Duration: Indefinate
+```
 
 Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.
 
@@ -3935,20 +3973,14 @@ Putting this contact gel on a weapon makes the weapon do 5 extra points of damag
 
 \---
 
-Vorpal Coating 5
+**Vorpal Coating 5**
 
 Level Contact : 5
  Level Elixer : 
  Level Gas : 
  Duration: Indefinate
 
-Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.
-
-
-
-
-
- 
+Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating
 
 
 
@@ -3979,8 +4011,6 @@ The atmosphere of our game depends on the players staying in character. This mea
 There is no such thing as Darkvision or Low-Light vision in the NERO world. Elves, Dwarves, Hoblings and the like do not get any special visual ability.
 
 Whatever you the player can see is what your character can see.
-
- 
 
 ### Languages
 
@@ -4036,7 +4066,7 @@ When word of a cheater’s actions gets back to NERO—and it will—then we wil
 
 Marshals in our game are identified at the start of each event during Opening Ceremonies. They may also carry identification cards. If you have a rules question, need an official to witness an action, or have any other problem, you may ask one of the Marshals.
 
-## . Anachronisms
+## Anachronisms
 
 Some anachronisms cannot be avoided. However, NERO makes every attempt to avoid modern trappings whenever possible. Please— no Snoopy shields, smiley face banners or other silliness (and keep the Monty Python bits to a minimum). Do not use cell phones, and keep your soda cans and candy wrappers in your cabin!
 
@@ -4296,15 +4326,14 @@ For example: Say Amilio the Stout wanted an audience with the King because he th
 
 He would, if following proper channels, take the case to a local Baronial guard or to the Baronial Seneschal if one was available. If neither of these were available to listen to the problem, he could even try approaching one of the Baronial knights who may be willing to listen. Should our hero’s pleas still go ignored or his request to speak to the King not considered important, he might consider taking his case to the local mage or healers’ guild representative to plea his case for him. They might command more attention. That person would approach the Baron and request the Baron to listen to Amilio’s problem. If the Baron listens, he may then elect to 
 
-(1) solve the problem himself;
+1. solve the problem himself;
 
-(2) offer to take the problem to the Duke himself;
+2. offer to take the problem to the Duke himself;
 
-(3) decide that the problem is better left alone for now and thank
+3. decide that the problem is better left alone for now and thank Amilio for his concern; or
 
-Amilio for his concern; or
+4. petition for an audience with his liege (probably a Count or Duke) on behalf of Amilio.
 
-(4) petition for an audience with his liege (probably a Count or Duke) on behalf of Amilio.
 
 If Amilio is the reasonable sort who speaks politely (and nicely), the Baron may recommend that Amilio present his case himself. At this point, Amilio may find himself talking to his Count (who may go through the same decision process) or may find himself with an audience with the Duke himself.
 
@@ -4341,10 +4370,6 @@ Becoming a knight requires work. Put a lot of effort into your costume. Constant
 ### Bloodlines
 
 Many societies and cultures in the NERO world care a great deal about bloodlines and lineage. In particular, many of the races of the world are concerned about interbreeding. However, with a millennia of interaction among the races, no PC member of a race can absolutely verify, through magical means or otherwise, the complete “purity” of their bloodline.
-
-
-
- 
 
 # NERO Formal Magic
 
@@ -4714,10 +4739,6 @@ Cantrips may have the following durations:
 
 **2 Year**: Until removed by in-game methods or 2 years passes. Unless otherwise indicated, the effect of any Cantrip with the duration of Day is lost if the target requires a life spell.
 
-
-
- 
-
 # Nero 9th Edition Rulebook Errata
 
 ### Focus Errata
@@ -4830,63 +4851,7 @@ Make the following changes to the table on page 60
 
 ### Healing Pool
 
-Change the incantation for healing pool on page 66 to “By the earth I create a healing pool.”.
-
-
-
- 
-
-Treasure Distribution Policy
-
- 
-
-Coin
-
-Pay to max out
-
-1.5 times the amount of 
-
-Automaxout
-
-.5 times the total amount of build in silver.
-
-You can also send back 50% of the coins you take in from PCs, from merchants or thieves.
-
- 
-
- 
-
-Magic Item Distribution
-
-Standard
-
-1 1-year item per 10 PCs per day - Up to 5 effects
-
-1 2-year item per 25 - Up to 5 effects
-
- 
-
-Low Power 
-
-where you can put out double the amount of magic items, if the average number of effects per item is 2.5 or less. An indestructible item with no combat effects counts as a zero for calculating the average.
-
- 
-
-2 Components per player per day
-
- 
-
-Production
-
-Total PC build and divide it by 5 that is the amount of levels of production 
-
- 
-
- 
-
-
-
- 
+Change the incantation for healing pool on page 66 to “By the earth I create a healing pool.”
 
 # NERO 9’th Edition Changelog
 
