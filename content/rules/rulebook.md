@@ -44,11 +44,7 @@ In NERO, a cast of non-player characters (NPCs) are used to set the tone and pro
 
 NERO uses padded weapons to simulate actual combat, and a magic system that uses packets made of fabric and bird seed to represent the hurling of spells. Mock (and sometimes real) armor and other costumes are used to enhance the atmosphere. 
 
-There are many types of NERO events. The most common are day events, weekend events, and long events. Each type of event runs non-stop from start to completion. Day events start and end on the same day and may last for 8 or more hours. A day event is usually composed of a single scenario (module) and may be very linear in nature. Weekend events run from Friday night to Sunday morning/afternoon. Long events are any event that runs longer than a weekend event. The most common long event lasts for 4
-
-days (Friday to Monday), but it is not unheard of for a long event to last for 9 or more consecutive days. Weekend and long events are composed of collections of modules with multiple plot-lines and bring to life a medieval town with all its inhabitants and intrigues. There is nothing to compare with the feeling of playing for 24 hours
-
-a day along with possibly hundreds of other players, each with their own desires, fears, and aspirations.
+There are many types of NERO events. The most common are day events, weekend events, and long events. Each type of event runs non-stop from start to completion. Day events start and end on the same day and may last for 8 or more hours. A day event is usually composed of a single scenario (module) and may be very linear in nature. Weekend events run from Friday night to Sunday morning/afternoon. Long events are any event that runs longer than a weekend event. The most common long event lasts for 4 days (Friday to Monday), but it is not unheard of for a long event to last for 9 or more consecutive days. Weekend and long events are composed of collections of modules with multiple plot-lines and bring to life a medieval town with all its inhabitants and intrigues. There is nothing to compare with the feeling of playing for 24 hours a day along with possibly hundreds of other players, each with their own desires, fears, and aspirations.
 
 It sounds simple, but when you are in the middle of a dungeon with shadowy shapes moving towards you in the darkness and strange sounds echoing down the halls, trying to remember what that fellow in the tavern said a half hour ago about how to get through this infernal door, your perspective on the difficulty of the situation may change.
 
@@ -62,11 +58,11 @@ This book has many rules and requirements and for new players it can sometimes b
 
 **The Body Contact Rule:** NERO prohibits all body contact during combat. All combat must take place with NERO approved safe weapons, and certain parts of the body (head, groin, hands) are not allowed to be hit, even with these NERO safe weapons. This rule does not apply to packet delivered attacks, which may hit any part of the body.
 
-**The Alcohol Rule:**NERO absolutely forbids alcohol and illegal drugs at its events, and you are not permitted to use these off site and then come to the game drunk or high.
+**The Alcohol Rule:** NERO absolutely forbids alcohol and illegal drugs at its events, and you are not permitted to use these off site and then come to the game drunk or high.
 
-**The Hold Rule:**If you hear someone yell “Hold!” stop everything you are doing and drop to one knee. Holds should only be called if there is a real need, and usually only for safety reasons. You cannot call a hold to check on a rule, or ask if someone knows that you hit them with a spell or ability, unless that rule or effect is so integral to the situation that it would affect every person involved in that situation.
+**The Hold Rule:** If you hear someone yell “Hold!” stop everything you are doing and drop to one knee. Holds should only be called if there is a real need, and usually only for safety reasons. You cannot call a hold to check on a rule, or ask if someone knows that you hit them with a spell or ability, unless that rule or effect is so integral to the situation that it would affect every person involved in that situation.
 
-**The Sneaking Rule:**If you wish to sneak into a building or tent (regardless of whether you are sleeping in that building or tent for the event), you must have a marshal present. This rule helps ensure that out-of-game items (the personal property of other players) are not accidentally taken if your character chooses to steal items from another player’s building or tent.
+**The Sneaking Rule:** If you wish to sneak into a building or tent (regardless of whether you are sleeping in that building or tent for the event), you must have a marshal present. This rule helps ensure that out-of-game items (the personal property of other players) are not accidentally taken if your character chooses to steal items from another player’s building or tent.
 
 Please follow these rules completely and report anyone who does not to a marshal.
 
@@ -74,7 +70,7 @@ Please follow these rules completely and report anyone who does not to a marshal
 
 A lot of what you will read in the upcoming pages may be confusing; there seems to be a lot of rules, and some rules rely on other rules to a degree that understanding one is not possible until you understand the other—but how can you do both at the same time? Don’t be discouraged. It’s really a lot easier than it seems. There is also a quick character generation guide at the back of the book.
 
-### A basic overview to get you started:
+### A Basic Overview
 
 You, the player, will portray a character for the duration of the event. Your character has certain skills. Some of these are usable whenever you’d like (such as your skill in a specific weapon) and some are usable a limited number of times per day (like the ability to cast a spell). In order to learn more skills, or to be able to cast a large number of spells per day, you will have to gain experience. 
 
@@ -96,7 +92,7 @@ Spells may be cast during battles and they can affect the battle in many ways. Y
 
 Now let’s look at a typical NERO weekend and see how some of these rules are applied.
 
-## Your First Weekend
+## First Weekend Example of Play
 
 Here’s an example of a typical NERO weekend as experienced by a new player (You!): 
 
@@ -170,7 +166,7 @@ Unless you are NPC’ing, you cannot play more than one character during an even
 
 Each NERO chapter abides by the rules listed in this book. Additionally, these rules can be modified and new rules added by official NERO play tests. The NERO International Office makes available an official list of rules that are being play tested on their website www.nerolarp.com. Each chapter must make available a list of the play tests that they are using, so that players attending events at a chapter can find out ahead of time which play tests will be in use.
 
-## Be a Successful NERO Player
+## Being a Successful NERO Player
 
 Creating a believable and fun character history is a significant key to enjoying a NERO event. Knowing your character’s persona can give you wide reaching role-playing possibilities. Written character histories are not required to play NERO but they will provide you with background and us with opportunities to give you plot.
 
@@ -182,7 +178,7 @@ Avoid the clichés common in so many fantasy films and literature. And that incl
 
 Be creative in your ideas and your presentation! Some players have written their character histories as letters to family, interviews or even once a confession after being caught stealing, explaining why the person was a thief! Use your imagination!
 
-Here is an example of an unimaginative (and all too common) character history. Please do not send us something that reads like this:
+## Bad Character History Example
 
 *My name is Deathbringer Bloodblade Darkshadow. My father was a Count and my mother was the heir to the throne of the Elven Kingdom. When I was but a baby, my parents were killed by a marauding group of bandits from Rotaria who left me and my twin brother to die. They captured my beautiful sister and sold her to Eastern barbarians where she now serves in the harem of their evil leader Konad. My brother was later kidnapped by gypsies and I had to fend for myself. I proved my worth and strength at an early age when I killed an armed troll with my bare hands.*
 
@@ -194,6 +190,8 @@ Here is an example of an unimaginative (and all too common) character history. P
 
 *Although I have often been asked to join with other adventuring groups, I keep to myself and to mine own self I am true. I do adventure from time to time when the cause is worthy.*
 
+## Bad Character History Notes
+
 There are lots of problems with this history - first of all, it contains every hackneyed cliché overused in bad literature of this type. One or two may have been acceptable, but this is ridiculous. (And who names their kids Deathbringer Bloodblade Darkshadow, anyway?) Secondly, and perhaps more importantly, if this person has done all of these great heroic things, then why in the world is he entering game as a lowly second level character? 
 
 Most character histories that are rejected fail because of that reason. Players write histories naming themselves as great heroes who can cast amazing spells and have written great learned treatises or have killed great monsters, but as a starting player in our game, they can’t afford to buy Read and Write or Weapon Proficiencies. What, did your character forget everything all of a sudden?
@@ -202,7 +200,7 @@ A well fleshed-out and detailed character history need not be filled with advent
 
 Think about your own life as a guideline. What is it in your past that has made you what you are today? What is your family like? Your schooling? Your friends? The types of places you have lived? Your jobs? After all, every experience you have shapes your personality.
 
-Here is an example of a good character history:
+## Good Character History Example
 
 *My name is Trin Hallison. I am the eldest son of Lorin and Frinda Hallison. I have two younger brothers and two older sisters. I was born in the mining city of Ironvale in the duchy of Ravenholt in the kingdom of Evendarr in 576. My father was the head cook of one of the mines in the area and my mother worked in the payroll department.*
 
@@ -226,6 +224,8 @@ Here is an example of a good character history:
 
 *I have now arrived in the city of Ashbury, where I hope soon to obtain a job and maybe - just maybe - find some adventure!*
 
+## Good Character History Notes
+
 Notice how this history establishes a few character traits with which the player can have lots of fun—a dislike and mistrust of nobility, a fear of enclosed spaces and darkness, and a desire never to kill. Imagine the complications in game when his views and desires run up against situations which require him to confront his fears. 
 
 This history also explains how he got the skills with which he will be entering the game: One Handed Edged, Healing Arts, First Aid, Read and Write, and a spell.
@@ -236,19 +236,56 @@ So go to it! Write an interesting character history and see how much more fun NE
 
 ## Character Profile
 
-Character Profile
+Use these questions as a way to help “flesh out” your character history. 
 
-Use these questions as a way to help “flesh out” your character history: Where and when were you born? Are you aware of your parent’s names? If so, what are they? What were their occupations? Do you know if they are alive or dead? If they are dead, how did they die?
+**General**
 
-**Family**: Do you have any siblings? Are you aware of them, and if so, how did you get along as children? Do you know where they are now, and if so, how do you get along now? Where are your siblings and what are they like?
+- Where and when were you born? 
+- Are you aware of your parent’s names? If so, what are they? 
+- What were their occupations? 
+- Do you know if they are alive or dead? If they are dead, how did they die?
 
-**Your Past**: What was your childhood like? What were your parents’ childhoods like? Where, how, and from whom did you learn your trade?
+**Family**
 
-**Ambitions**: What do you want out of life? What are your personal goals and ambitions? Is there anything about your life that you would change? What tempts you? Do you have any phobias? Do you have any superstitions?
+- Do you have any siblings? 
+- Are you aware of them, and if so, how did you get along as children? 
+- Do you know where they are now, and if so, how do you get along now? 
+- Where are your siblings and what are they like?
 
-**Profession**: Are you an adventurer, and if so, why? What would cause you to give up adventuring? Do you have any close friends? Do you have any enemies? 
+**Your Past**
 
-**Opinions**: What is your attitude about fighting and killing? How about mercenaries? What is your attitude about magic? How about mages? What do you think about necromancy? Do you think it is wrong to cast necromantic spells? What is your attitude towards theft and thieves in general? How about someone in your group who steals? How about someone who steals from your group, especially if they are a member? What is your opinion about Good and Evil? What is your attitude towards the law? How do you feel about nobility? What are your future plans?
+- What was your childhood like? 
+- What were your parents’ childhoods like? 
+- Where, how, and from whom did you learn your trade?
+
+**Ambitions**
+
+- What do you want out of life? 
+- What are your personal goals and ambitions? 
+- Is there anything about your life that you would change? 
+- What tempts you? Do you have any phobias? 
+- Do you have any superstitions?
+
+**Profession**: 
+
+- Are you an adventurer, and if so, why? 
+- What would cause you to give up adventuring? 
+- Do you have any close friends? 
+- Do you have any enemies? 
+
+**Opinions**
+
+- What is your attitude about fighting and killing? How about mercenaries? 
+- What is your attitude about magic? How about mages? 
+- What do you think about necromancy? 
+- Do you think it is wrong to cast necromantic spells? 
+- What is your attitude towards theft and thieves in general? 
+- How about someone in your group who steals? 
+- How about someone who steals from your group, especially if they are a member? 
+- What is your opinion about Good and Evil? 
+- What is your attitude towards the law? 
+- How do you feel about nobility? 
+- What are your future plans?
 
 
 
