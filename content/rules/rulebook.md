@@ -122,9 +122,7 @@ You now have both taken two points of damage. Since you’ve never fought a gobl
 
 “Never!” you reply, jumping in and taking the foul creature by surprise. His yelp of pain as your dagger slices his chest is very satisfying.. .but he’s still up!Perhaps running away might be a good option.
 
-The goblin senses your apprehension and follows with a flurry of attacks. You are able to block most of them, but one lands its target,
-
-cutting through your torn shirt and releasing a spray of blood. The goblin laughs triumphantly.
+The goblin senses your apprehension and follows with a flurry of attacks. You are able to block most of them, but one lands its target,cutting through your torn shirt and releasing a spray of blood. The goblin laughs triumphantly.
 
 That does it! This really sparks your anger and you lunge in like a mad man, hacking away at the green-skinned creature. This is more than he can take, and he falls to the ground. You stand there breathing heavily for a minute, and then you lean over him and search him.
 
@@ -724,6 +722,16 @@ Similarly, the proficiency system represents a level of skill that the player mi
 
 This is, after all, a fantasy. A person should be able to acquire skills that allow their character to do things that they themselves could not do in real life.
 
+## Spell Slots
+
+## Skill Costs
+
+## Production Skills
+
+## Skill Descriptions
+
+### Alchemy 
+
 # Chapter 4 Magic
 
 ## Spell Aura
@@ -885,9 +893,10 @@ If the caster breaks Line of Sight by imposing a very large object such as a bui
 *I command you to awaken.*
 
 ```
-Celestial: Yes :: Scroll: Yes
-Earth: Yes     :: Potion: Yes
-Manifold: Yes  :: Duration: Instant
+Celestial: Yes   ,Scroll: Yes
+Earth: Yes       ,Potion: Yes
+Manifold: Yes    
+Duration: Instant
 ```
 
 This spell awakens the recipient from a Waylay, any sleep effect, and the charm effects Calm, Calm animal, Calm, Calm Animal, Shun, shun Animal, Silence, Fear, and Vampire Charm. It does not in any way affect Enslavement.
@@ -897,9 +906,10 @@ This spell awakens the recipient from a Waylay, any sleep effect, and the charm 
 *With eldrich force I banish you.*
 
 ```
-Celestial: Yes :: Scroll: No
-Earth: Yes     :: Potion: No
-Manifold: No   :: Duration: Instant
+Celestial: Yes   ,Scroll: No
+Earth: Yes       ,Potion: No
+Manifold: No
+Duration: Instant
 ```
 
 This spell sends any extraplanar creature from Tyrra to its plane of origin and will keep the creature on its own home plane for 24 Tyrran hours. All items carried by the creature will be left behind unless Spirit Linked. This spell cannot be used to return to Tyrra from another plane.
@@ -909,9 +919,10 @@ This spell sends any extraplanar creature from Tyrra to its plane of origin and 
 *With mystic force I bind you.*
 
 ```
-Celestial:Yes   :: Scroll: Yes
-Earth: Yes      :: Potion No
-Manifold: No    :: Duration: line of sight
+Celestial:Yes   ,Scroll: Yes
+Earth: Yes      ,Potion: No
+Manifold: No
+Duration: line of sight
 ```
 
 This spell snares the victim’s arms, binding them straight to its sides. The victim may talk freely, but may not use any game skills requiring use of the arms, including using a weapon or shield, casting a spell, or activating a gas globe. The victim may walk, run, or leave the combat area as desired. This spell does not prevent the victim from being searched or being given a Killing Blow, although a moving victim is unlikely to allow either action.
@@ -921,10 +932,10 @@ This spell snares the victim’s arms, binding them straight to its sides. The v
 *I grant you the power of a bless.*
 
 ```
-Celestial:No           :: Scroll: No
- Earth:Yes             ::Potion Yes
- Manifold:No
- Duration: Indefinate
+Celestial: No    ,Scroll: No
+Earth: Yes       ,Potion: Yes
+Manifold: No
+Duration: Indefinate
 ```
 
 This spell gives the recipient five extra Body Points. These points are the first Body Points lost to damage. This spell cannot be used to revive an unconscious person or harm an undead.
@@ -934,9 +945,9 @@ This spell gives the recipient five extra Body Points. These points are the firs
 *I command you to be calm.*
 
 ```
-Celestial:Yes           :: Scroll: No
- Earth:Yes             ::Potion No
- Manifold:No
+Celestial:Yes  ,Scroll: No
+ Earth:Yes     ,Potion: No
+ Manifold: No
  Duration: 5 Minutes
 ```
 
@@ -947,10 +958,10 @@ By means of this spell the caster can calm one target. This makes the target doc
 I command this animal to be calm.
 
 ```
-Celestial:No           :: Scroll: No
- Earth:Yes             ::Potion No
- Manifold:No
- Duration: 5 Minutes
+Celestial:No       ,Scroll: No
+Earth: Yes         ,Potion: No
+Manifold: No
+Duration: 5 Minutes
 ```
 
 By means of this spell the caster can calm one creature that is designated as an animal. This calm makes the creature docile and non-aggressive for the duration of five minutes. They cannot take any aggressive actions such as participating in combat nor will they attempt to remove the spell. The animal might wander off or simply sit down and rest for a while. This is a form of charm and will over-ride any normal behavior so long as it is effective it can be stopped by the ability Resist Charm. If anyone attacks the creature in any way this effect will mmediately be dispelled. An Aw aken or Dispel Magic will also work to remove this effect. This will not affect magical animals, hybrid animals, animal men, only ordinary animals, fish, and birds. For example an eagle would be affected but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected but it would not affect a minotaur or a bull scavenger. A horse would be affected but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal though it will still trigger a Shield Magic or similar protective.
@@ -960,10 +971,10 @@ By means of this spell the caster can calm one creature that is designated as an
 *I call upon chaos to cause critical wounds 30.*
 
 ```
-Celestial:No           :: Scroll: No
- Earth:Yes             ::Potion Yes
- Manifold:No
- Duration: Instant
+Celestial: No          ,Scroll: No
+Earth: Yes             ,Potion: Yes
+Manifold: No
+Duration: Instant
 ```
 
 This spell will deal 30 points of body damage to the target. It does not affect armor. It will cure 30 Body Points to an undead creature.
@@ -973,10 +984,10 @@ This spell will deal 30 points of body damage to the target. It does not affect 
 *I call upon chaos to cause disease.*
 
 ```
-Celestial:No           :: Scroll: No
- Earth:Yes             ::Potion Yes
- Manifold:Yes
- Duration: Indefinate
+Celestial: No           ,Scroll: No
+Earth: Yes             ,Potion: Yes
+Manifold: Yes
+Duration: Indefinate
 ```
 
 This spell will infect the recipient with a debilitating disease. The infection is not contagious, but makes the target unable to run. The spell Purify Blood will not cure someone under the effects of this spell. This spell might not be effective against creatures with no metabolism.
@@ -2892,35 +2903,38 @@ Any player that knowingly reports a false amount of build or levels, or abuses t
 
 **All NERO Participants**
 
-Follow the spirit of the rules, as well as the letter of the rules.
+- Follow the spirit of the rules, as well as the letter of the rules.
 
-Play fairly and honestly.
+- Play fairly and honestly.
 
-Be considerate of all other NERO participants.
+- Be considerate of all other NERO participants.
 
-Remember, everyone has the right to enjoy NERO as much as you do.
+- Remember, everyone has the right to enjoy NERO as much as you do.
 
-Contribute to the fun of all NERO participants.
+- Contribute to the fun of all NERO participants.
 
-Don’t play in a style that detracts from the fun of the event, or anyone’s chance to have fun at an event.
+- Don’t play in a style that detracts from the fun of the event, or anyone’s chance to have fun at an event.
+
 
 **Staff, Marshals, etc...**
 
-Abide by the expectations that apply to all NERO participants.
+- Abide by the expectations that apply to all NERO participants.
 
-It is your job to run the event. Remember, you are not playing against the players. Everyone’s enjoyment of the event is your top priority.
+- It is your job to run the event. Remember, you are not playing against the players. Everyone’s enjoyment of the event is your top priority.
 
-All participants must be treated equally and equitably, by you and by other participants. Favoritism will not be tolerated.
+- All participants must be treated equally and equitably, by you and by other participants. Favoritism will not be tolerated.
 
-Run events in a professional manner. Remember that you represent NERO to anyone present at an event, whether participating or observing.
+- Run events in a professional manner. Remember that you represent NERO to anyone present at an event, whether participating or observing.
+
 
 **Administration (National, Local, etc...)**
 
-Abide by the expectations that apply to all NERO participants, Staff, Marshals, etc....
+- Abide by the expectations that apply to all NERO participants, Staff, Marshals, etc....
 
-Respond and communicate in a timely, respectful, and articulate manner.
+- Respond and communicate in a timely, respectful, and articulate manner.
 
-Uphold the authority of your staff, and do not overrule them without careful investigation.
+- Uphold the authority of your staff, and do not overrule them without careful investigation.
+
 
 ## Code of Conduct
 
@@ -2942,7 +2956,7 @@ Do not nitpick on the details of the situation - understand and follow the inten
 
 NERO will remove any member who NERO suspects is intoxicated or high.
 
-### Content
+## Content
 
 References to explicit sexual behavior or concepts, particularly violent ones, are not allowed.
 
@@ -2980,11 +2994,7 @@ In order to use a flashlight for in game purposes, you must have someone cast an
 
 A Liquid Light elixir can also be used but preferably the phys-reps for these should be chemical “light sticks.” The small battery operated glass “candles” and other small battery operated lighting devices cannot be used while adventuring. These things tend to break very easily and can be dangerous. If you want to use your flashlight to represent a candle or a small torch, you must have in your possession somewhere a real candle or torch that the flashlight represents.
 
-
-
- 
-
-# Chapter 7 Adventuring Gear
+# Chapter 7: Adventuring Gear
 
 ## Physical Rerepresentation
 
@@ -4138,9 +4148,7 @@ Minimum Costuming Requirements: You must make at least an attempt at a costume. 
 
 ### Disguises
 
-You are not allowed to disguise your character using any sort of makeup to change your appearance, since makeup is the only way that NERO players can represent another race or physical characteristics
-
-that the players themselves do not have. If you wish to have your character travel incognito, you must use costume and mannerisms.
+You are not allowed to disguise your character using any sort of makeup to change your appearance, since makeup is the only way that NERO players can represent another race or physical characteristics that the players themselves do not have. If you wish to have your character travel incognito, you must use costume and mannerisms.
 
 After all, if the world of Tyrra really existed and there really were Elves and Orcs and Hoblings, you would be able to easily distinguish between a real Dark Elf and someone disguised as a Dark Elf wearing fake ears and face paint.
 
