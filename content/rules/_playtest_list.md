@@ -13,13 +13,13 @@ Unified refitting
 
 |name|date released|In use at Polar |
 |---|---|---|
-|Acane Delivery |April 17, 2018|   |
+|Arcane Delivery |April 17, 2018|   |
 |Arrow Bolt Alteration|||
-|Base 10 Celestial |||
+|Celestial Base 10 |||
 |Foam Weapon Bonus|||
-|manuver |||
-|Race Changes|||
+|Weapon Maneuver |||
+|Racial Traits|||
 |Slash Five|||
-|PvE Celestial|||
+|Celestial PvE Base 20|||
 |Unified Refitting|||
-|Race Rule Changes|||
+|Racial Traits|||
