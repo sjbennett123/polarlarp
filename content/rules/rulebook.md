@@ -1,7 +1,7 @@
 ---
 title: "Rulebook"
 date: 2022-11-10T10:33:21-05:00
-draft: true
+draft: false
 ---
 
 # Chapter 1 : Getting Started
