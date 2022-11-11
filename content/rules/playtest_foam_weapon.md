@@ -4,7 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-Version 1.1 by NERO International
+**Version**: 1.1
 
 **Effective Dates**: August 1, 2014 through December 31, 2015. This is an optional playtest for Local NERO Chapters and is not mandatory.
 
