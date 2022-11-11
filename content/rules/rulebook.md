@@ -391,21 +391,21 @@ Amani elves are descendants of Quentari elves. Many years ago, a political rift 
 
 Amani elves are friendlier and more down-to-earth than their Quentari cousins. They get along much better with other races but still do not socialize a great deal with them. Even though they socialize with other races, they rarely marry any other than their fellow Amani elves. An Amani who falls in love with another race is not shunned from the society, but is obviously not treated with the same degree of respect by his or her fellow Amani elves.
 
-**Quentari Elf**
+#### Quentari Elf
 
 Quentari elves come from the elven kingdom of Quentari. They consider themselves to be the most civilized race; all others are barbaric in comparison. To some degree this is true—they have the oldest culture, the greatest cities, and the most learned scholars. It is this attitude however that makes their living with other races a problem, as no one likes being seen as inferior. Quentari elves tend to be scholars, and it is rare to encounter a Quentari elf who does not know how to read and write. When fighting, they tend to prefer bows and short swords, but fighting is seen as a last resort when peaceful negotiations are unsuccessful.
 
-**Stone Elf** 
+#### Stone Elf 
 
 Stone elves have whitish skin, upturned eyebrows, and pointed ears. Stone elves do not show emotions and as such are viewed by other races as humorless and intense. This is part of their culture as well as being part of their race. This restriction makes the stone elves very hard to role-play—if you cannot keep a straight face when told a funny joke, you should not be playing a stone elf.
 
 They have a natural affinity for celestial magic and make excellent celestial casters. Although there are of course healers in their society, most stone elf casters are celestial. 
 
-Mentalist: Stone elves, like biata, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a stone elf can remove role-playing insanity based on emotions or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember memories lost to Forget elixirs or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured.
+**Mentalist**: Stone elves, like biata, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a stone elf can remove role-playing insanity based on emotions or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember memories lost to Forget elixirs or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured.
 
 In order to use this role-playing skill, you must touch the other person and concentrate completely. Any Stone elf that simply touches someone and says “There, you no longer have a fear of heights (or whatever)” is not playing the race properly. For more information about these skills, see “Mind Abilities” on page 93.
 
-**Wild Elf**
+#### Wild Elf
 
 Wild elves live in nomadic tribes like barbarians and share many barbarian traits. Wild elves are distinguished in-game by their furs and other barbarian clothing, even though they have pointed ears like all other elves.
 
@@ -531,9 +531,7 @@ All monsters are the size of the NPC or physical representation playing the part
 
 ### States of Existence
 
-There are three Standard States that someone at a NERO event can
-
-be in. These are:
+There are three Standard States that someone at a NERO event can be in.  These are:
 
 1. OOG: Out Of Game
 
