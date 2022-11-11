@@ -295,7 +295,7 @@ Use these questions as a way to help “flesh out” your character history.
 
 ## Classes
 
-Classes are used to describe your character’s natural talents. This may or may not have anything to do with your character’s profession. For example, not all rogues are thieves and not all scholars are spell casters.
+Classes describe your character’s natural talents. This may or may not have anything to do with your character’s profession. For example, not all rogues are thieves and not all scholars are spell casters.
 
 Your own physical characteristics and abilities need not match those of your chosen character but it can help you in your adventuring career if your actual physical skills are congruent with your character’s fantasy skills. The NERO system allows players to play characters that are very different from themselves and still be able to prosper.
 
@@ -341,7 +341,7 @@ These role-playing rules are put in place to allow players to make assumptions a
 
 The following lists the basic NERO races (other than human). This is a very short overview. you play one of these races, you can find find a more thorough explanation for your particular race that will provide more background for your character on the NeroLarp.com website.
 
-The skills mentioned in the descriptions ahead are explained in greater detail in the “Skill Descriptions” on page 33. When reference is made to“Scholarly Skills” or “Stealth Skills,” it means only those skills listed under those categories in the Skill cost tables. (“Scholarly Skills” for example includes Read and WRite and Read Magic.) Note that if you are playing a nonhuman, you should buy your racial skills as soon as possible. After all, how can you possibly role-play your race properly if you don’t have the basic skills and abilities that help to define that race? If you reach 5th level or so and still haven’t purchased your skills, other members of your race should treat you as inferior or look at you with pity because you cannot resist sleep or break a charm. 
+The skills mentioned in the descriptions ahead are explained in greater detail in the “Skill Descriptions” on page 33. When reference is made to“Scholarly Skills” or “Stealth Skills,” it means only those skills listed under those categories in the Skill cost tables. (“Scholarly Skills” for example includes Read and Write and Read Magic.) Note that if you are playing a nonhuman, you should buy your racial skills as soon as possible. After all, how can you possibly role-play your race properly if you don’t have the basic skills and abilities that help to define that race? If you reach 5th level or so and still haven’t purchased your skills, other members of your race should treat you as inferior or look at you with pity because you cannot resist sleep or break a charm. 
 
 The next section of this book lists the various races other than human. If playing a human, you are free to devise any sort of personality you wish without any benefits or disadvantages 
 
@@ -425,7 +425,7 @@ Dwarves have an extreme hatred of trolls who often attack and take the dwarven c
 
 Dwarves are generally peaceful and have no problem with other races—although they think elves are pompous, humans are impatient, hoblings are troublemakers, and half-orcs and-half ogres are incapable of understanding the finer things in life (like a well made weapon and a fine wine).
 
-They start with one extra body point, can buy Resist Poison, and can buy the Sm ithing skill for one point less. Dwarves cannot use Polearms, Staves, Two Handed Blunt weapons or Two Handed Swords. They must pay double for Read Magic.
+They start with one extra body point, can buy Resist Poison, and can buy the Smithing skill for one point less. Dwarves cannot use Polearms, Staves, Two Handed Blunt weapons or Two Handed Swords. They must pay double for Read Magic.
 
 ## Gypsy
 
@@ -433,9 +433,7 @@ Unlike other races that are distinguished by physical features, gypsies are defi
 
 Many gypsy tribes may coexist in the same area, each being ruled by its own Bandoleer or “Prince/Princess.” There is a Gypsy King but quite often this figure is far removed from normal gypsy life and has no great influence over the local tribes. Usually a gypsy tribe will have its own distinctive predominate color or marking, used to differentiate itself from other tribes in the area.
 
-Gypsies can bestow or remove Gypsy Curse, the use of which is limited by the Gypsy Code of Honor. The Gypsy Code of Honor requires that a gypsy be always honest and trustworthy among members of his or her own tribe. The gypsy will support the other tribe members and will do whatever it takes to help (including lying
-
-to, stealing from, and cursing or killing non-tribe members).
+Gypsies can bestow or remove Gypsy Curse, the use of which is limited by the Gypsy Code of Honor. The Gypsy Code of Honor requires that a gypsy be always honest and trustworthy among members of his or her own tribe. The gypsy will support the other tribe members and will do whatever it takes to help (including lying to, stealing from, and cursing or killing non-tribe members).
 
 The Gypsy Code of Honor means respecting the actions of fellow gypsies as well. If a gypsy places a Gypsy Curse on someone, it had better be for a good reason (sometimes, the recipient might take action against the entire tribe). If there was a good reason, then the entire tribe will support that gypsy.
 
@@ -539,11 +537,12 @@ There are three Standard States that someone at a NERO event can
 
 be in. These are:
 
-\1) OOG: Out Of Game
+1. OOG: Out Of Game
 
-\2) IG: In game and completely visible to those around you (Yes, you can try to hide in bushes, etc... but you actually have to hide.)
+2. IG: In game and completely visible to those around you (Yes, you can try to hide in bushes, etc... but you actually have to hide.)
 
-\3) Spirit: In game and a spirit 
+3. Spirit: In game and a spirit 
+
 
 Alternate States (such as flying, burrowing, invisible, etc.) are not possible.
 
@@ -575,27 +574,27 @@ You must update your Armor Points and Body Points at the end of a battle to refl
 
 Knowing the rules in this section can literally make the difference between life and death. Some of this will be confusing upon a first reading, as this section makes references to rules that have not yet been covered. If this is your first reading of the NERO© Rule Book©, get the general idea of this section and then come back after you’ve read more.
 
-Unconscious:
+### Unconscious
 
 If you are reduced to exactly zero Body Points, then you are unconscious. You will regain consciousness at one Body Point only after one minute.
 
 You can make no sounds at all while unconscious or dying. If your party doesn’t notice you lying there, you can’t moan or say “Well, it looks like I’m unconscious.”
 
-### Carrying the Incapacitated:
+### Carrying the Incapacitated
 
 To carry another character or creature that is incapacitated, you must place a hand near the torso and tell the other player “I am carrying you”. The recipient must
 
 get up and stand in front of you. Then you hold both hands over their shoulders to indicate you are carrying them. Both hands must be free. You must walk at a normal pace. You may walk forward or drag them by walking with them backwards. Whether walking or running you must wait for the person playing the body to get up and follow you. You cannot “tag” them and sprint, claiming that you have the body. The person must move with you. If a packet, weapon, or other game effect strikes you or the body being carried, you must drop the body. You may pick it up again once it stops moving. The effect is applied to whomever it hit, following all normal NERO rules.
 
-All of the same rules apply if you use a game effect upon yourself, including Im prison, healing spells, or gaseous form. If you cast Imprison upon yourself or go gaseous, the carried body must be dropped and hence cannot be included in the effect.
+All of the same rules apply if you use a game effect upon yourself, including Imprison, healing spells, or gaseous form. If you cast Imprison upon yourself or go gaseous, the carried body must be dropped and hence cannot be included in the effect.
 
-Dying:
+### Dying
 
 Any time you are reduced below zero Body Points, you drop to -1 and no further, even if the last blow to you did 48 points of damage. Once you are reduced to -1, then your character is dying. You will die unless given First Aid or curing within one minute. This one minute is referred to as your “death countdown.” First Aid takes a complete uninterrupted minute to be successful.
 
 Once First Aid has begun; with the call “First Aid“, the one minute death countdown freezes. If you receive another hit while in this condition, then the aid is considered to be interrupted and you will continue the death countdown from where it was frozen by the First Aid. If the First Aid is completed, then you will be at zero Body Points (unconscious) and will wake in 1 minute with 1 Body Point. First Aid is not required if you are at 0. Curing that brings you to at least 1 Body Point will immediately bring you to consciousness without the minute needed for First Aid. If you are at -1, then for all healing it only takes 1 point to reach zero. So, for example, if you received 5 points of healing you would have 4 Body Points.
 
-### Dead:
+### Dead
 
 If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All
 
@@ -611,9 +610,7 @@ There are many ways in our game to render an opponent completely helpless. These
 
 Once a person has been incapacitated, it is not too difficult to kill them. This is represented by a Killing Blow.
 
-If the character is being actively guarded by companions, however, it is another matter entirely! When you have leisure to do so, it is easy to find a chink in the armor or slip a dagger under the helmet and deliver a Killing Blow. It is considerably more difficult to do so if someone is trying to prevent you from accomplishing
-
-that very feat. Therefore, there are a few restrictions as to its use. To administer a killing blow, you must place your weapon or touch a packet in your hand somewhere on the victim’s torso and remain in that position while you recite “Killing Blow One; Killing Blow Two; Killing Blow Three <damage type>.”
+If the character is being actively guarded by companions, however, it is another matter entirely! When you have leisure to do so, it is easy to find a chink in the armor or slip a dagger under the helmet and deliver a Killing Blow. It is considerably more difficult to do so if someone is trying to prevent you from accomplishing that very feat. Therefore, there are a few restrictions as to its use. To administer a killing blow, you must place your weapon or touch a packet in your hand somewhere on the victim’s torso and remain in that position while you recite “Killing Blow One; Killing Blow Two; Killing Blow Three <damage type>.”
 
 If anyone strikes you during the count or knocks your weapon away, then the Killing Blow is interrupted and fails to kill the person.
 
@@ -667,7 +664,7 @@ If you pick a Death Stone, then your character has permanently died. At this poi
 
 However, lying out in the middle of the woods all night hoping someone finds your body is not fun for most players. Therefore it is completely acceptable to leave a note saying “You see Raymond’s body here.” Any spirit-linked items will remain there and will be spirit-linked to the next appropriate person who touches them.
 
-### First Event Deaths:
+### First Event Deaths
 
 Any first-time NERO player will not have any of the deaths taken during his first event count toward his character. This policy is done as a service to new players so that they can get used to the game before being penalized for their deaths, not as a way to abuse the system and be immortal. This is out-of-game knowledge, so deaths taken by a new player should still be role-played appropriately. Any player that is deemed to be abusing this policy for intentional gain or detriment to the game or other players will be dealt with accordingly, at the discretion of the local chapter affected. This benefit is only given during a player’s first game, and experienced players that start a new character will not be allowed these unlimited deaths.
 
@@ -683,7 +680,7 @@ It is possible to, at maximum, double this experience through several means.
 
 At the end of the event, you may pay to the game staff one silver per additional experience point you wish to gain . This is known as “Maxing Out.” You may also pay less than the maximum amount for correspondingly less gain.
 
-Ex. Dave has 40 build points, he receives a Blanket of 40xp for attending a two day event and can pay 1-40 silver for an extra 1-40xp.
+*Ex. Dave has 40 build points, he receives a Blanket of 40xp for attending a two day event and can pay 1-40 silver for an extra 1-40xp.*
 
 Some chapters will let you max out through helping NPC, or clean-up/setup duties and some will let you max out automatically. See your local chapter for their policies on max out.
 
@@ -702,10 +699,6 @@ Experience Points are automatically converted to Build Points (BP), which you th
 ### Levels
 
 Your level determines how many Body Points you get and how many Experience Points you need to get a Build Point. Table 2-4 shows the character’s level based on the total Build Points. It also shows the number of XP needed for the next BP, and the Body Point value per class (fighter, rogue, scholar, and templar) for the level attained.
-
-
-
- 
 
 # Chapter 3 The Skill System
 
@@ -734,10 +727,6 @@ The level of ability represented by the skill bought can be considerably differe
 Similarly, the proficiency system represents a level of skill that the player might never obtain. We use it as a way to artificially give a player’s character, no matter what his or her real world skill, an advantage over another whose character is not as skilled. It allows a player of indifferent skill to defeat or hold their own against a player of much greater skill. 
 
 This is, after all, a fantasy. A person should be able to acquire skills that allow their character to do things that they themselves could not do in real life.
-
-
-
- 
 
 # Chapter 4 Magic
 
@@ -815,7 +804,8 @@ A spellcaster is not immune to his or her own spells, nor can they automatically
 
 ### Visible Effects
 
-Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as they take the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
+- Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as they take the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
+
 
 ### Eldritch Power
 
@@ -848,9 +838,6 @@ Damage Types, in order – Essence, Destruction, Order, Chaos, Dream, Reason, Li
 No character can ever use a plot given power to gain information about a PC’s actions after the fact. This includes approved spells and skills such as Dreamvision as well as other abilities such as clairvoyance, clairaudience, tracking or scrying of any manner.
 
 If a character wants to know what was said or done by a PC first hand, he must actually be present at the time of the action. Plot will never provide this information via one of the listed abilities, or through any similar means, and a PC can never claim to have known it due to ESP or other special abilities after the fact.
-
-**
-**
 
 # Chapter 5 : Spells
 
@@ -898,56 +885,63 @@ If the caster breaks Line of Sight by imposing a very large object such as a bui
 
 #### Awaken
 
-I command you to awaken.
+*I command you to awaken.*
 
-Celestial:Yes :: Scroll: Yes
- Earth:YesPotion Yes
- Manifold:Yes
- Duration: Instant
+```
+Celestial: Yes :: Scroll: Yes
+Earth: Yes     :: Potion: Yes
+Manifold: Yes  :: Duration: Instant
+```
 
 This spell awakens the recipient from a Waylay, any sleep effect, and the charm effects Calm, Calm animal, Calm, Calm Animal, Shun, shun Animal, Silence, Fear, and Vampire Charm. It does not in any way affect Enslavement.
 
 #### Banish
 
-With eldrich force I banish you.
+*With eldrich force I banish you.*
 
-Celestial:Yes :: Scroll: No
- Earth:YesPotion No
- Manifold:No
- Duration: Instant
+```
+Celestial: Yes :: Scroll: No
+Earth: Yes     :: Potion: No
+Manifold: No   :: Duration: Instant
+```
 
 This spell sends any extraplanar creature from Tyrra to its plane of origin and will keep the creature on its own home plane for 24 Tyrran hours. All items carried by the creature will be left behind unless Spirit Linked. This spell cannot be used to return to Tyrra from another plane.
 
 #### Bind
 
-With mystic force I bind you.
+*With mystic force I bind you.*
 
-Celestial:Yes           :: Scroll: Yes
- Earth:Yes             ::Potion No
- Manifold:No
- Duration: line of sight
+```
+Celestial:Yes   :: Scroll: Yes
+Earth: Yes      :: Potion No
+Manifold: No    :: Duration: line of sight
+```
 
 This spell snares the victim’s arms, binding them straight to its sides. The victim may talk freely, but may not use any game skills requiring use of the arms, including using a weapon or shield, casting a spell, or activating a gas globe. The victim may walk, run, or leave the combat area as desired. This spell does not prevent the victim from being searched or being given a Killing Blow, although a moving victim is unlikely to allow either action.
 
 #### Bless
 
-I grant you the power of a bless.
+**I grant you the power of a bless.**
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
  Duration: Indefinate
+```
 
 This spell gives the recipient five extra Body Points. These points are the first Body Points lost to damage. This spell cannot be used to revive an unconscious person or harm an undead.
 
 #### Calm
 
-I command you to be calm.
+*I command you to be calm.*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 5 Minutes
+```
 
 By means of this spell the caster can calm one target. This makes the target docile and non-aggressive for the duration of five minutes. The target might wander off, head for the tavern for a drink, or simply sit down and rest for a while. They cannot take any aggressive actions while under the effect of this spell, they will not participate in combat nor will they attempt to remove the spell. This is a form of charm and will over-ride any normal behavior so long as it is effective it can be stopped by the ability Resist Charm. If anyone attacks the target in any way this effect will immediately be dispelled. An Awaken or Dispel Magic will also work to remove this effect.
 
@@ -955,98 +949,116 @@ By means of this spell the caster can calm one target. This makes the target doc
 
 I command this animal to be calm.
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 5 Minutes
+```
 
 By means of this spell the caster can calm one creature that is designated as an animal. This calm makes the creature docile and non-aggressive for the duration of five minutes. They cannot take any aggressive actions such as participating in combat nor will they attempt to remove the spell. The animal might wander off or simply sit down and rest for a while. This is a form of charm and will over-ride any normal behavior so long as it is effective it can be stopped by the ability Resist Charm. If anyone attacks the creature in any way this effect will mmediately be dispelled. An Aw aken or Dispel Magic will also work to remove this effect. This will not affect magical animals, hybrid animals, animal men, only ordinary animals, fish, and birds. For example an eagle would be affected but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected but it would not affect a minotaur or a bull scavenger. A horse would be affected but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal though it will still trigger a Shield Magic or similar protective.
 
 #### Cause Critical Wounds
 
-I call upon chaos to cause critical wounds 30.
+*I call upon chaos to cause critical wounds 30.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
  Duration: Instant
+```
 
 This spell will deal 30 points of body damage to the target. It does not affect armor. It will cure 30 Body Points to an undead creature.
 
 #### Cause Disease
 
-I call upon chaos to cause disease.
+*I call upon chaos to cause disease.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell will infect the recipient with a debilitating disease. The infection is not contagious, but makes the target unable to run. The spell Purify Blood will not cure someone under the effects of this spell. This spell might not be effective against creatures with no metabolism.
 
 #### Cause Light Wounds
 
-I call upon chaos to cause light wounds 5.
+*I call upon chaos to cause light wounds 5.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will deal 5 points of body damage to the target. It does not affect armor. It will cure 5 Body Points of damage on an undead creature.
 
 #### Cause Mortal Wounds
 
-I call upon chaos to cause mortal wounds 40.
+*I call upon chaos to cause mortal wounds 40.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will deal 40 points of body damage to the target. It does not affect armor. It will cure 40 Body Points to an undead creature.
 
 #### Cause Serious Wounds
 
-I call upon chaos to cause serious wounds 20.
+*I call upon chaos to cause serious wounds 20.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will deal 20 points of body damage to the target. It does not affect armor. It will cure 20 Body Points to an undead creature.
 
 #### Cause Wounds
 
-I call upon chaos to cause wounds 10
+*I call upon chaos to cause wounds 10*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will deal 10 points of body damage to the target. It does not affect armor. It will cure 10 Body Points to an undead creature.
 
 #### Charm
 
-I command you to be charmed.
+*I command you to be charmed.*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 5 Minutes
+```
 
-This spell makes the victim view the caster as his or her best friend in the whole world. While this spell is in effect, no amount of logic or role-playing will convince the victim that he or she has been Charmed, and the victim will not remember the casting of the spell until after it has worn off or been cured. An attack on the victim by the caster’s party will not immediately break the spell, but if the caster cannot come up with a good reason why he or she is not helping to defend the victim, then that will. If the caster attacks the victim, then the spell is broken immediately. A victim of this spell will not do anything completely against his or her own nature (such as attack his or her own party) unless a very good reason can be given by the caster. The spell does not turn the victim into a mindless robot blindly following orders, but it does require the victim to stay by the side of the new “friend” and listen to his or her suggestions.” (Note that this assumes that they both speak the same language. You cannot obey a “suggestion” that you don’t understand.) This spell only works on creatures that have a mind as defined by the game. Several creatures (such as lesser undead, golems, or some giant insects) do not have a mind that can be affected by this spell. After the spell’s duration expires, the victim remembers everything that happened except the actual casting of the Charm spell. Depending upon the circumstances,the victim might sometimes realize that he or she had been charmed. Note that this spell is not strong enough to override Control Undead, Fear, Enslavement or Vampire Charm Table 5-6 on page 64.
+This spell makes the victim view the caster as his or her best friend in the whole world. While this spell is in effect, no amount of logic or role-playing will convince the victim that he or she has been Charmed, and the victim will not remember the casting of the spell until after it has worn off or been cured. An attack on the victim by the caster’s party will not immediately break the spell, but if the caster cannot come up with a good reason why he or she is not helping to defend the victim, then that will. If the caster attacks the victim, then the spell is broken immediately. A victim of this spell will not do anything completely against his or her own nature (such as attack his or her own party) unless a very good reason can be given by the caster. The spell does not turn the victim into a mindless robot blindly following orders, but it does require the victim to stay by the side of the new “friend” and listen to his or her suggestions.” (Note that this assumes that they both speak the same language. You cannot obey a “suggestion” that you don’t understand.) This spell only works on creatures that have a mind as defined by the game. Several creatures (such as lesser undead, golems, or some giant insects) do not have a mind that can be affected by this spell. After the spell’s duration expires, the victim remembers everything that happened except the actual casting of the Charm spell. Depending upon the circumstances,the victim might sometimes realize that he or she had been charmed. *Note that this spell is not strong enough to override Control Undead, Fear, Enslavement or Vampire Charm Table 5-6 on page 64.*
 
 #### Circle of Harmony
 
-With eldrich force I build a circle of harmony
+*With eldrich force I build a circle of harmony*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 1 Hour
+```
 
 This spell allows the caster to charm a single creature which must be an animal. This spell duplicates the Charm spell, except that it may only be cast on ordinary animals. Since the Animal will not understand the common tongue this in general only keeps the caster safe from the animal attacking him. If the caster is attacked the animal will generally attempt to defend him and if the caster interposes himself between the animal and another target the animal will understand that it shouldn’t attack the target. If the animal has been trained to follow commands it will listen to the caster as if he were the one who normally gives the commands and will perform any commands he is trained to at the request of the caster, this does not mean the animal will do anything they are not specifically trained to do. This spell is a type of charm and can be resisted with the ability Resist Charm, and it can be cured with an Aw aken spell or Dispel Magic spell. Stronger charms such as Vampire Charm or Enslavement will override its effects Table 5-6 on page 64. This will not affect magical animals, hybrid animals, nimal men, only ordinary animals, fish, and birds. For example an eagle would be affected but it would not affect a gryphon, a phoenix, or a biata. A bull would be affected but it would not affect a minotaur or a bull scavenger. A horse would be affected but a unicorn would not. This spell has no effect on any being which is not designated as an ordinary animal though it will still trigger a shield magic or similar protective.
 
@@ -1054,10 +1066,12 @@ This spell allows the caster to charm a single creature which must be an animal.
 
 With eldrich force I build a circle of power.
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 10 Minutes
+```
 
 The caster may draw out or construct an intricate circle which acts as a prepared hearth, for the school of magic from which this spell was cast, without the need to be indoors. The circle ust consist of a circle within a circle to form a circular band. Between the two circles their must be no less than eight symbols or glyphs. The circle must be fully prepared before the spell s cast. The maximum radius of the outer circle is six feet, and the inner circle must be at least six inches smaller in radius. The area within the outer circle represents the area of effect. The spell lasts for one hour or until the circle is in part or whole erased, pulled apart, destroyed, or a dispel magic is cast upon the phys-rep. The caster must place an individually recognizable styled “H” in the center of the circle as if it were a hearth indicating it is active, the “H” is OOG the way a “W” is for a ward. The circle remains active even if the caster leaves it but if dispelled or otherwise disrupted the “H” must be removed. A player must confirm their “H” is still present before using a Circle of Harmony. A player may cast this spell from both schools of magic in order to have the effect of the hearth for both schools. If they do this the “H” must reflect this to them. Multiple characters can have this effect active on the same area, but each Circle of Harmony must have its own “H” which must be recognizable by the player who cast it and distinct rom any others.
 
@@ -1065,131 +1079,155 @@ The caster may draw out or construct an intricate circle which acts as a prepare
 
 With mystic force I confine you.
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Line of Sight
+```
 
 This spell snares the arms of its victim, binding them straight to its sides, and immobilizes the victim completely from the neck down making them helpless. The victim may talk freely, but may not use any game skills requiring use of the arms, including using a weapon or shield, casting a spell, or activating a gas globe. The victim may not walk, run, or be moved in any way Any item the victim is holding cannot be dropped. However, since the effect allows the victim to be searched, anyone else can choose to physically remove a hand-held item from the victim by simply “searching” them. Even a victim with Superhuman Strength cannot prevent himself from being “searched” in this manner. This spell does not prevent the victim from being given a Killing Blow.
 
 ## Control Undead
 
-I call upon chaos to control undead.
+*I call upon chaos to control undead.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 5 Minutes
+```
 
 This spell allows the caster to control one lesser undead for 5 minutes. Tasks may not involve any sentient thought higher than an animal: “Guard this” is fine, but “Count all the leaves on that tree” requires sentience and will not work. The most recent Control Undead effect takes precedent, if there is a conflict. This spell will not affect a living target, although it will remove a living person’s Shield Magic or Reflect Magic. This effect is stronger than calm, Calm animal, Charm, Charm Animal, Shun, Shun Animal or Fear. The most recent Control Undead, Vampire Charm or Enslavement effect will take precedent if there is a conflict Table 5-6 on page 64.
 
 ## Corruption
 
-I call upon chaos to corrupt you.
+*I call upon chaos to corrupt you.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 1 Minute
+```
 
 This spell restores an undead target or other target healed by necromancy or chaos to his or her full body points. Once the spell is successfully cast, the target will begin to regenerate as per the rules of the special ability Regeneration. Corruption requires that the character stand or sit in one place for one minute and concentrate. If this process is interrupted before its  completion, the spell is lost for no effect. The target may not be restored to a total of body higher than is appropriate for his race and level via this spell. This spell may not be used to aid a living character in any way. This spell only affects targets which are healed by necromancy or chaos. This spell does not remove any other negative effects. This spell is the reverse of Regeneration.
 
 #### Create Undead
 
-I call upon chaos to create undead.
+*I call upon chaos to create undead.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: 5 Minutes
+```
 
 This spell only works on a corpse that has not previously been animated and will pull the character’s spirit back to reanimate its former body. The resulting zombie will then follow the caster’s commands as if a control undead spell had been cast upon it. Note that this spell must be cast within the fie minute period between a character’s death and the point where the spirit heads to the Earth Circle for resurrection. This spell transforms the individual into a mindless berserker who will fight at their normal speed until reduced to no hit points or until ordered to stop by the caster. The creature’s visual appearance does not change. While Created as an undead the fie minute count until resurrection is suspended. If the zombie is reduced to zero Body Points or takes effect from a Dispel Magic then the spell ends and the resurrection count resumes where it left off. The spirit will remember nothing of the time spent as a zombie. The zombie created will have the maximum body points the victim had in life.
 
 #### Cure Critical Wounds
 
-I call upon the earth to cure crtical wounds 30.
+*I call upon the earth to cure crtical wounds 30.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will restore up to 30 points of body damage but never more than a character’s maximum. It will restore an unconscious or dying character but will not resurrect a dead one. Against undead this spell will deal 30 points of body damage.
 
 #### Cure Disease
 
-I call upon the earth to cure diease.
+*I call upon the earth to cure diease.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will cure a character infected with a disease.
 
 #### Cure Light Wounds
 
-I call upon the earth to cure light wounds 5.
+*I call upon the earth to cure light wounds 5.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will restore up to 5 points of body damage but never more than a character’s maximum. It will restore an unconscious character but will not resurrect a dead one. Against undead, this spell will do 5 points of body damage.
 
 #### Cure Mortal Wounds
 
-I call upon the earth to cure mortal wounds 40.
+*I call upon the earth to cure mortal wounds 40.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will restore up to 40 points of body damage but never more than a character’s maximum. It will restore an unconscious character but will not resurrect a dead one. Against undead, this spell will do 40 points of body damage.
 
 #### Cure Serious Wounds
 
-I call upon the earth to cure serious wounds 20
+*I call upon the earth to cure serious wounds 20*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will restore up to 20 points of body damage but never more than a character’s maximum. It will restore an unconscious character but will not resurrect a dead one. Against undead, this spell will do 20 points of body damage.
 
 #### Cure Wounds
 
-I call upon the earth to cure wounds 10.
+*I call upon the earth to cure wounds 10.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will restore up to 10 points of body damage but never more than a character’s maximum. It will restore an unconscious character but will not resurrect a dead one. Against undead, this spell will do 10 points of body damage.
 
 #### Curse
 
-I curse you with destruction.
+*I curse you with destruction.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion Yes
  Manifold:No
  Duration: Indefinate
+```
 
 This spell will cause the victim to take double damage from all attacks that would affect them. It can be removed by a Remove Curse or a Dispel Magic. The damage taken is doubled before any Spell Defenses are applied. The Curse effect does not lower a creature’s Threshold, nor does it make the creature affected by additional attacks that would not normally affect it.
 
 #### Death
 
-I grant you the gift of death.
+*I grant you the gift of death.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell causes the victim’s spirit to flee its body, if it has a metabolism. Any armor the character was wearing is still intact, but any spells active on the victim will disappear. This spell brings a character to death, and the only thing that will save the victim is a Life spell.
 
@@ -1197,208 +1235,246 @@ This spell causes the victim’s spirit to flee its body, if it has a metabolism
 
 I grant you the power of a delayed endow.
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell endows the recipient with the ability to do two extra points of damage for one swing if it hits the target. The total damage must be announced while swinging. Once called the spell is used up whether the blow was successful or not. Unlike a normal Endow the recipient may choose when to use a Delayed Endow. The recipient may also expend this spell to rip form Pin as per the monster ability. Delayed endow ill not benefit creatures that have Superhuman Strenght greater than +1 and will only add +1 to a creature with +1 strength. The spell may be stacked iwth other Blade Effects(maximum three spells total)
 
 #### Desecrate
 
-I call upon chaos to desecrate you.
+*I call upon chaos to desecrate you.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Indefinate
+```
 
 The recipient is protected against all non-ranged atacks from living creatures. ranged attacks (such as spells missle weapons and gas globes) can affect the recipient. this spell will remain in effect as long as the subject's hands are crossed on their chest and they do not recieve any body damage. I f you are unsure if an attacker is living or not you will affected by them. YTou may not call a Hold or otherwise go out of game to asertain their status. the cahracter with a Desecrate active may use no game abilities ecept touchcasting on themselves. Attempting to pick up an item will distrupt the spell.
 
 ## Destroy
 
-I summon a force to destroy your <item>.
+*I summon a force to destroy your <item>.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes              ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell will render any tagged object up to the size of a normal door, useless. It can not be used to create a door-sized hole in an object larger than a door. It can target a suit of armor, although the Shield spell, and Dexterity Armor will be unaffected. Armor successfully destroyed will require the tag to be discarded as useless. This spell will not work on an item that has been Rendered Indestructible. It may also be cast at a creature to affect such an item, or to target the creature directly as some creatures may be harmed by this spell. If the caster does not specify an item or if the spell is received from a carrier attack, then it is the target’s choice as to which currently non-rendered item matching the description becomes Destroyed. If no item exists call “got it” see stacking spells "Stacked Effects" on page 47. Destroying an item that has other items within, hanging from, or fastened to it will destroy all of the items. This spell will destroy not only a shield but also any scrolls , or Gas globes, etc. attached to the back. Destroying a trapped door or item will set off and destroy the trap as well. After the item is destroyed the prop for the item remains, but is unusable.
 
 ## Destroy Undead
 
-I call upon the earth to destroy undead 70.
+*I call upon the earth to destroy undead 70.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell will destroy any one lesser undead creature. Greater undead will take 70 points of body damage. this spell will not affect a living target although like all spells it will remove a living person's shield magic or reflect magic.
 
 ## Detect Magic
 
-I call fourth mystic power to detect magic.
+*I call fourth mystic power to detect magic.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 Casting this spell on an object or person will reveal to the caster and only the caster if any magic is present. Any visible items worn or carried by the target will be revealed, but items hidden under clothing or in bags or boxes will not be. This spell will cover up to a door sized area. The subject must tell the caster which (if any) magic items are visible, and which schools of magic are present on all of the detected items (Earth, Celestial, Both or Other.) If the subject has any spell defenses currently active (such as Endow or Magic Armor), then the subject will detect as magical to the caster. This does not overshadow any items on the person. In other words, the fact that a subject has a Shield spell upon him or her does not cover the fact that a magic item is worn. If cast upon a Circle of Power or Ward, this spell will not only detect the target’s school, but also whether the target’s duration is ten minutes, one hour, one year or two years.
 
 ## Dispel Magic
 
-I call fourth mystic power to dispel magic.
+*I call fourth mystic power to dispel magic.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Instant
+```
 
 This spell will dispel all active non-formal magical effects on a given creature or object unless specifically noted by the spell description. A Shield Magic or Reflect Magic will protect all  ther spells on a person from a Dispel Magic, but will be used up in the process. A Dispel Magic potion isn’t stopped by a Shield Magic or a Reflect Magic, and will dispel those spells and all others spells active upon the drinker.
 
 #### Displacement
 
-I grant you the power of a displacement.
+*I grant you the power of a displacement.*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:No              ::Potion No
  Manifold:No
  Duration: Indefinate
+```
 
 This spell grants the caster, and only the caster, a shield against the first effect that hits them. It may not be cast upon another target. This will always be the first protective spell lost if it is appropriate to defend against an attack and will be used before a Shield Magic, Elemental Shield, Magic Armor or any other automatic protective effect, though a Formal Magic Cloak or Bane can be used before a Displacement. The caster may choose to accept a touch cast effect under the protection of this spell. When struck by an appropriate attack the defense is automatically triggered. Displacement cannot be Imbued via Formal Magic Cantrip, placed into a Magic Item of any kind (including a Spell Store item), or by any other means transferred to someone else to cast. The proper call for this defense is “Phase.”
 
 #### Dragon's Breath
 
-I call fourth a dragon's breath 40.
+*I call fourth a dragon's breath 40.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell allows the caster to cast a bolt of magical fire, dealing 40 hit points of eldritch fire damage to the target. The fire is eldritch in origin and will not otherwise set anything alight.
 
 #### Eldrich Blast
 
-I call fourth a <flame ice lightning or stone> blast 45.
+*I call fourth a <flame ice lightning or stone> blast 45.*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:No              ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell allows the caster to affect a target with a bolt of magical fire, ice, lightning or stone dealing 45 hit points of eldritch damage. The caster may choose which type of damage to throw at the time of the casting, signifying such through the verbal. The damage will not otherwise set anything alight or freeze anything. This spell may also be called <Fire, Ice, Lightning or Stone> Blast for the purposes of magic deliverance, monster abilities, magic items, and similar situations.
 
 #### Elemental Blade
 
-I grant you the power of an elemental blade.
+*I grant you the power of an elemental blade.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell allows the recipient to do five extra points of damage for one swing if the blow is successful. The spell is used up whether the blow is successful or not. Unlike an Endow, the recipient may choose when to use an Elemental Blade. The recipient must announce the total damage while swinging. This damage will not set anything alight, freeze it, turn it to stone, etc. The extra damage comes from the spell’s eldritch effect, and its bonus can added fully to damage done by creatures with Superhuman Strength. The spell may be stacked with two other Blade Effects see Table 5-6 on page 64, but the spells will only work one at a time. It does not allow you to hurt a monster that can only be damaged by magical weapons. When using this spell, you may call out “Fire, Ice, Lightning or Stone” as a damage type. The user of the spell chooses the type of damage done. The damage type is chosen when the damage is added to the weapon blow.
 
 #### Elemental Shield
 
-I grant you the power of an elemental shield.
+*I grant you the power of an elemental shield.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion Yes
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell protects the recipient from the next effect with the word “elemental” in the verbal. It is then immediately used up. When used, the call is “Elemental Shield.”
 
 #### Empathic Healing
 
-I call upon the earth to transfer <effect>.
+*I call upon the earth to transfer <effect>.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell allows the caster to transfer one detrimental effect from the target to the caster. The effects this spell may transfer to the caster are Disease, Curse, Paralyze, Silence, Sleep, Taint Blood, Weakness, Wither Limb, Drain, Drain Life, Feeblemind, Hallucinoid, Intoxicant, Nausea, Paralyze, and Vertigo. No effect not on this list may be transferred using Empathic Healing. The caster cannot use spell protectives or combat abilities like Dodg e or Phase to negate the effect upon them. If the effect is not inflicted upon the caster because of immunity to the effect, a formal magic defense, or a magical item, then the spell fails. The caster must take the effect or use a racial resist for the spell to succeed. The caster must begin the duration of the negative effect they take upon themselves from the point they take the effect not when it was originally cast on the one they removed it from.
 
 #### Enchanted Blade
 
-I grant you the power of an enchanted blade.
+*I grant you the power of an enchanted blade.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell allows the recipient to use the “Magic” weapon type against one opponent for the one battle, in the manner of a Critical Attack page 35 The recipient may choose when to use the Enchanted Blade, and must announce the total damage of the swing while saying “Magic” instead of “Normal” or “Silver.” The spell may be stacked with other Endow/Blade spells (maximum three spells total), but the spells will only work one at a time. Enchanted Blade will have no effect with a Damage Aura or Magic Aura.
 
 #### Endow
 
-I grant you the power of an endow.
+*I grant you the power of an endow.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell endows the recipient with the ability to do three extra points of damage on the next swing, if it hits the target. The total damage must be announced while swinging. Once called, the spell is used up whether the blow was successful or not. The spell may be stacked with two other Blade Effects see Table 5-6 on page 64 , but the spells will only work one at a time. It does not allow you to hurt a monster that can only be damaged by magical weapons. Endow will not benefit creatures that have Superhuman Strength greater than +1, and will only add one to a creature with +1 strength.
 
 #### Enflame
 
-I summon a force to enflame your <item> 20.
+*I summon a force to enflame your <item> 20.*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:No              ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell causes any hand-held itemto burst into fire for 5 seconds, dealing 20 points of eldritch fire damage to the person or creature carrying the item as if they were struck by a Flame Bolt. It will also act as a Fumble spell towards that item if the creature was affected by the fire. A defense against Fire will negate this spell.
 
 #### Extended Hearth
 
-With eldrich force I build an extended hearth.
+*With eldrich force I build an extended hearth.*
 
+```
 Celestial:Yes           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Indefinate
+```
 
 When this spell is cast on an existing circle of power or ward it will allow the circle or ward to act as a prepared hearth for the caster for the school this spell was cast from. The prepared hearth will last as long as the circle or ward if they are not already extended through formal magic. If they are already extended through formal magic this spell will last for five days. The extended hearth is only dispelled if the circle or ward is destroyed, a Dispel Magic will not suffice. When cast the caster must place an individually recognizable stylized “H” up on the door or wall or within the center of the circle obviously indicating that a hearth is in affect, the “H” is OOG the way a “W” is for a ward. If the effect is dispelled the “H” must be removed. A player must confirm their “H” is still present before using an extended hearth. A player may cast this spell from both schools of magic in order to have the effect of the hearth for both schools. If they do this the “H” must reflect this to them. Multiple characters can have this effect active on the same area, but each Extended Hearth must have its own “H” which must be recognizable by the player who cast it and distinct fromany others. This spell cannot be thrown.
 
 #### Flame Bolt
 
-I call fourth a flame Bolt 20.
+*I call fourth a flame Bolt 20.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell deals 20 points of eldritch fire damage to the victim.
 
 #### Free Undead
 
-I call upon chaos to free undead.
+*I call upon chaos to free undead.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell free an undead creature from the effects of a Trap Undead spell. This spell will not affect a living target, although it will remove a living person’s Shield Magic or Reflect Magic.
 
 #### Fumble
 
-I summon a force to fumble your <item>.
+*I summon a force to fumble your <item>.*
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell causes the target to be unable to use a specific hand-held item. Only the item named may be fumbled in this manner. Saying a general description like “weapon” is fine, although if the target is holding two items which match the description, then it is the target’s choice as to which they cannot use. A shield is not considered a “weapon” for purposes of this spell. Spell packets cannot be affected, while orange gas globes can be affected.
 
@@ -1406,32 +1482,38 @@ This spell causes the target to be unable to use a specific hand-held item. Only
 
 I grant you the power of a <fire, ide, lightning or stone> shield.
 
+```
 Celestial:Yes           :: Scroll: Yes
  Earth:No              ::Potion No
  Manifold:Yes
  Duration: Indefinate
+```
 
 This spell grants a shield to fire, ice, lightning, or stone as determined by the caster at the time of casting. This will nearly always be the first protective spell lost if it is appropriate to defend against an attack and will be used before a Shield Magic, Elemental Shield, Magic Armor or any other automatic protective effect other than Displacement which still comes before this spell. This spell will defend against packet delivered attacks and weapon delivered attacks as long as the damage or effect type is appropriate. For combined effects such as Enflame where the spell is both a fire attack and another effect this spell will protect against both. A player may have only a single casting of this spell upon them if another casting is placed upon them it will replace the prior one. When struck by an appropriate attack the spell automatically goes off the target may not choose to accept the spell and save this protection for later. This protective will be set off prior to any more general protective such as a Shield Magic. The caster may choose to accept a touch cast effect under the protection of this spell. When used, the call is “<fire, ice, lightning, stone> Shield.”
 
 #### Harm Undead
 
-I call upon the earth to harm undead
+*I call upon the earth to harm undead*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:
  Duration: Instant
+```
 
 This spell will deal 30 points of body damage to an undead creature. This spell will not affect a living target, although like all spells it will remove a living person’s Shield Magic or Reflect Magic.
 
 #### Help Undead
 
-I call upon chaos to help undead.
+*I call upon chaos to help undead.*
 
+```
 Celestial:No           :: Scroll: No
  Earth:Yes             ::Potion No
  Manifold:No
  Duration: Instant
+```
 
 This spell will heal an undead creature for 30 points of body damage. This spell will not affect a living target although like all spells it will remove a living person’s Shield Magic or Reflect Magic.
 
