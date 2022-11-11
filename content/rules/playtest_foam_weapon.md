@@ -6,6 +6,8 @@ draft: false
 
 **Version**: 1.1
 
+**Authors**: Jason Mote and Jerry Boyd
+
 **Effective Dates**: August 1, 2014 through December 31, 2015. This is an optional playtest for Local NERO Chapters and is not mandatory.
 
 **Forward**: This playtest is an attempt to incentivize better looking weapons and costuming. Latex and Plastidip weapons have already been in use prior to this playtest. NERO has been asking players and staff to go to the “next level” of theatrical costuming for many years. This playtest alone will not address this, but it will hopefully start to drive movement forward.
@@ -37,4 +39,3 @@ to qualify in this playtest:
 
 **Playtest Challenges**: A list of “NERO Approved Latex Weapons” is currently under development. In addition, a policy which outlines the standard methods for how to construct NERO safe Plastidip weapons is currently under development.
 
-**Playtest Contact**: This playtest is maintained by Jason Mote and Jerry Boyd.
