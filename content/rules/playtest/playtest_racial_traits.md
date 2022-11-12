@@ -22,35 +22,35 @@ draft: false
 | Strong Arm             | Strong     | 10              | 20                 |
 | Rip from Binding       | Strong     | 4               | 8                  |
 | Light Touch            | Fast       | 2               | 4                  |
-| Dodge                  | Fast       |                 |                    |
-| Sneak Attack           | Fast       |                 |                    |
-| Merchant               | Tradesman  |                 |                    |
-| Harvester              | Tough      |                 |                    |
-| Grand Master           | Wild       |                 |                    |
-| Resist Poison          | Telepathic |                 |                    |
-| Resist Physical        | Survivor   |                 |                    |
-| Toughness              |            |                 |                    |
-| Detect Magic           |            |                 |                    |
-| Dispel Magic           |            |                 |                    |
-| Battle Rage            |            |                 |                    |
-| Resist Sleep           |            |                 |                    |
-| Resist Charm           |            |                 |                    |
-| Remove Fear            |            |                 |                    |
-| Awaken                 |            |                 |                    |
-| Calm                   |            |                 |                    |
-| Break Charm            |            |                 |                    |
-| Detect Poison/Antidote |            |                 |                    |
-| Will to Live           |            |                 |                    |
-| Ready Armor            |            |                 |                    |
+| Dodge                  | Fast       | 12              | 24                 |
+| Sneak Attack           | Fast       | 8               | 8                  |
+| Merchant               | Tradesman  | 5               | 10                 |
+| Harvester              | Tough      | 5               | 10                 |
+| Grand Master           | Wild       | 10              | 20                 |
+| Resist Poison          | Telepathic | 4               | 8                  |
+| Resist Physical        | Survivor   | 5               | 10                 |
+| Toughness              | Tough      | 4               | 8                  |
+| Detect Magic           | Wild       | 4               | 8                  |
+| Dispel Magic           | Wild       | 4               | 8                  |
+| Battle Rage            | Wild       | 2               | 4                  |
+| Resist Sleep           | Willful    | 2               | 4                  |
+| Resist Charm           | Willful    | 2               | 4                  |
+| Remove Fear            | Willful    | 2               | 4                  |
+| Awaken                 | Telepathic | 2               | 4                  |
+| Calm                   | Telepathic | 2               | 4                  |
+| Break Charm            | Telepathic | 5               | 10                 |
+| Detect Poison/Antidote | Survivor   | 3               | 6                  |
+| Will to Live           | Survivor   | 10              | 20                 |
+| Ready Armor            | Survivor   | 4               | 8                  |
 
 ## Table 2. Racial Traits and Features
 
-|           |                     |                      |
+| Race      | Traits              | Feature              |
 | --------- | ------------------- | -------------------- |
-| Barbarian | strong, wild        | 2 Handed Mastery     |
+| Barbarian | Strong, Wild        | 2 Handed Mastery     |
 | Biata     | Willful, Telepathic | Mentalist            |
 | Drae      | Fast, Willful       | Crossbow Mastery     |
-| Wild Elf  | Wild, Fast          | Break Charm          |
+| Wild Elf  | Wild, Fast          | Bow Mastery          |
 | Dwarf     | Tough, Tradesman    | Hammer Mastery       |
 | Elf       | Fast, Willful       | Bow Mastery          |
 | Stone Elf | Willful,Telepathic  | Mentalist            |
@@ -60,7 +60,7 @@ draft: false
 | Hobling   | Fast,Tough          | Short Weapon Mastery |
 | Human     | Choice of One       | None                 |
 | Sarr      | Fast, Survivor      | Claw Mastery         |
-| Scavenger | Fast, Survivor      | Claw Mastery         |
+| Scavenger | Tough, Survivor     | Claw Mastery         |
 
 ## Racial Skills
 
@@ -132,7 +132,7 @@ Cost with Trait: 5
 Cost without Trait: 10
 ```
 
-
+This skill allows the character to exchange their "master" levels of production for items of equal level rom another type of normal production skill. These choices are limited to Alchemy, Potions,Scrolls,Traps, and Weapons. 
 
 ### Harvester
 
@@ -142,7 +142,9 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-### Grand Master
+This skill allows the character to harves their own "materials" to agment productinm, They need not furnish silver ot recive the bonus levels.
+
+Grand Master
 
 ```
 Category: Tradesman
@@ -150,7 +152,7 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-
+This skill allows the character   to revie bonus "workshop"levels of production without access to aa workshop. If the character has access to a workshop they many double the bonus "workshop" levels. 
 
 ### Resist Poison
 
@@ -160,7 +162,7 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-
+This skill functions exactly as described in the 9'th edition NERO Rulebook
 
 ### Resist Physical
 
@@ -170,7 +172,7 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-
+This skill allows the character to resist one attack with "physical" in the verbal or weapon blow, once per day.
 
 ### Toughness
 
@@ -180,7 +182,7 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-
+This skill allows the character to invoke the "Bless" spell and the "Eldritch Bless" cantrip effects through natural means. It is activated by the phrase "I invoke toughness". Using this skill requires the ability to speak, and 3 seconds of role-lay. It can be used once per day. These effect do not stack with "Bless" or "Eldritch Bless"
 
 ### Detect Magic
 
@@ -190,7 +192,7 @@ Cost with Trait: 10
 Cost without Trait: 20 
 ```
 
-
+This skill allows a character to detect magic by touch
 
 ### Dispel Magic
 
@@ -306,19 +308,36 @@ Cost without Trait: 20
 
 ### 2 Handed Mastery
 
+Races with this feature have a ntuarl skill with 2 handed weaposn of all types. Once a character with this feature learns any weapon skill that character may then wield all weapons covered by the skill 2 handed weapon master as it appears in the 9th edition nero rulebook witout the purchase fo the necessary skill. In additon, characters with htis skill may apply all weapon proficiences and slays that they have to non-ranged 2 handed weapons they weild.
+
 ### Mentalist
 
-### Crossbow Mastery
+This Feature grants all the abilities listed in the Ninth edition NERO rulebook under Mentalist. In addition, a character iwth tyhis skill may expend his powers for the day to act as an intspiration spell on a firendly targe, it is activated iwth 3 seconds of role-lay and the phrase " I invoke inspriation", it is then delivered by tough only. It counts as a character's one use of hte inspiration effect, as if it was the spell.
+
+### Crossbow Mastery 
+
+Races iwth this featuree have a natural skill with crossbows 
 
 ### Bow Mastery
 
 ### Break Charm
 
+This feature works exactly like the racial skill listed above it is granted to races with this feature free. 
+
 ### Gypsy Curse
+
+This feature works exactly as described in the ninth edition NERO rulebook. However it can be used an unlimited number of times per day, up to once per minute. A character can only have one target cursed at one time. 
 
 ### Axe Mastery
 
+Races with this feature have a natural skill with axes. Once a character with this feature learns any weapons skill, that character my then wield all axes without the purchase of the necessary skill. In addition, characters with this skill may apply all weapon proficiencies and slays that they have to axes they wield.
+
 ### Short Weapon Mastery
+
+Races with this feature have a natural skill with short weapons. Once a character with this feature learns any weapons skill, that character my then wield all axes without the purchase of the necessary skill. In addition, characters with this skill may apply all weapon proficiencies and slays that they have to short weapons they wield.
 
 ### Claw Mastery
 
+Races with this feature have a natural skill with Claws. Once a character with this feature learns any weapons skill, that character my then wield all axes without the purchase of the necessary skill. In addition, characters with this skill may apply all weapon proficiencies and slays that they have to short weapons they wield.
+
+-- fix this 
