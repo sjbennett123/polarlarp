@@ -44,11 +44,12 @@ The main feature of a property to be concerned with is the number of room slots 
 Room slots are not a fixed dimension. Therefore, the cost of adding a room will vary depending on the size of the building it is placed within. After all, even though a small bedroom is only 1 room slot, a small bedroom in a small hut would not be the same size as a small bedroom in a large house.
 Each property type has a set number of days needed to construct/repair the structure. Typically, the larger the building, the longer it will take to build, and the more costly the labor and materials. If you wish to have your property built more quickly, you can pay more money (which represents hiring more workers and expediting the delivery of building materials).
 
-·    To build a property in half the time, the cost is multiplied by three.
+- To build a property in half the time, the cost is multiplied by three.
 
-·    To build a property in one third the time, the cost is multiplied by six.
+- To build a property in one third the time, the cost is multiplied by six.
 
-·    To build a property in one quarter the time, the cost is multiplied by ten.
+- To build a property in one quarter the time, the cost is multiplied by ten.
+
 
 Once completed, you have the option of adding on another floor (if applicable), which will double the number of room slots in your building.
 
