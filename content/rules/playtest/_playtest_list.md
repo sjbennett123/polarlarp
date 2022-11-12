@@ -4,11 +4,15 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-Properties (estates)
-Workshops
-Foam Weapon
-PvE Celestial
-Unified refitting
+
+
+## In use at polar 
+
+- Properties (estates)
+- Workshops
+- Foam Weapon
+- PvE Celestial
+- Unified refitting
 
 
 |name|date released|In use at Polar |

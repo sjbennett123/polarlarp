@@ -13,11 +13,11 @@ draft: false
 
 **Objective**: This playtest supports the Slash Five Playtest’s Math Streamline objective.
 
-** Secondary Objective**: Add Character Specialization / Options: high cost skills/talents relating to character concept/theme. These should not add significant amounts of power, but make characters shine in certain situations. These should be available to new characters.
+**Secondary Objective**: Add Character Specialization / Options: high cost skills/talents relating to character concept/theme. These should not add significant amounts of power, but make characters shine in certain situations. These should be available to new characters.
 
 **Summary**: This playtest is to be used in conjunction with the Slash Five playtest. It introduces an alternate system for back attacks and critical attacks. Any number of critical attacks/back attacks may be purchased, and sold back to pay for proficiencies/backstabs. Proficiencies/Backstabs may be used with any weapon. Characters may specialize their combat role by learning Maneuvers, skills which let them spend their critical attacks and back attacks in different ways. After using five critical attacks, back attacks, or maneuvers, a character needs to rest for a few minutes before they can use them again.
 This playtest replaces the Slash Five playtest’s notes about weapon proficiencies and backstabs.
-Note
+**Note**
 Absolutely no magic items may duplicate maneuvers or other abilities in this playtest. (Including Local Chapter Only items)
 Page 89, table 6-2
 Add the row “Weapon Strike” to the “Weapon Blow” category.
@@ -25,54 +25,15 @@ Tagline: “Weapon Strike <Effect>”.
 Example: “Weapon Strike Weakness”.
 Page 89, under the heading “Special Abilities”
 “Weapon Strike
-Some characters have the ability to deliver a status effect with their weapon. These effects work just like a
-physical version of a spell, but they are delivered with a weapon strike to a legal target. Like a regular weapon
-swing, this effect can be stopped by a Magic Armor, Parry, or blocked like any other weapon swing. All weapon
-safety rules must be followed. The user must have the in-game skill to wield the weapon in order to use the
-Weapon Strike. For example, if the user is under a game effect that prohibits the use of in-game skills, then they
-cannot use a Weapon Strike. Also, if the Weapon Strike is delivered by a non-ranged weapon, then the attack
-will not affect creatures under the effects of a Sanctuary, and Desecrate, as appropriate.
-All Weapon Strikes are considered “physical”	attacks (and can be removed by a Remove Physical Affliction spell)
-unless another attack type is specified. For example, “Weapon strike poison drain” can be blocked by a poison
-shield and cured by purify blood. “Weapon strike weakness” can be removed by Remove Weakness or Remove
-Physical Affliction.
+Some characters have the ability to deliver a status effect with their weapon. These effects work just like a physical version of a spell, but they are delivered with a weapon strike to a legal target. Like a regular weapon
+swing, this effect can be stopped by a Magic Armor, Parry, or blocked like any other weapon swing. All weapon safety rules must be followed. The user must have the in-game skill to wield the weapon in order to use the
+Weapon Strike. For example, if the user is under a game effect that prohibits the use of in-game skills, then they cannot use a Weapon Strike. Also, if the Weapon Strike is delivered by a non-ranged weapon, then the attack will not affect creatures under the effects of a Sanctuary, and Desecrate, as appropriate.
+All Weapon Strikes are considered “physical” attacks (and can be removed by a Remove Physical Affliction spell) unless another attack type is specified. For example, “Weapon strike poison drain” can be blocked by a poison shield and cured by purify blood. “Weapon strike weakness” can be removed by Remove Weakness or Remove
+**Physical Affliction.**
 
-Objective:
-This playtest supports the Slash Five Playtest’s Math Streamline objective.
-Secondary Objective:
-Add Character Specialization / Options: high cost skills/talents relating to character concept/theme. These
-should not add significant amounts of power, but make characters shine in certain situations. These should be
-available to new characters.
-Summary
-This playtest is to be used in conjunction with the Slash Five playtest. It introduces an alternate system for back
-attacks and critical attacks. Any number of critical attacks/back attacks may be purchased, and sold back to pay
-for proficiencies/backstabs. Proficiencies/Backstabs may be used with any weapon. Characters may specialize
-their combat role by learning Maneuvers, skills which let them spend their critical attacks and back attacks in
-different ways. After using five critical attacks, back attacks, or maneuvers, a character needs to rest for a few
-minutes before they can use them again.
-This playtest replaces the Slash Five playtest’s notes about weapon proficiencies and backstabs.
-Note
-Absolutely no magic items may duplicate maneuvers or other abilities in this playtest. (Including Local Chapter
-Only items)
-Page 89, table 6-2
-Add the row “Weapon Strike” to the “Weapon Blow” category.
-Tagline: “Weapon Strike <Effect>”.
-Example: “Weapon Strike Weakness”.
-Page 89, under the heading “Special Abilities”
-“Weapon Strike
-Some characters have the ability to deliver a status effect with their weapon. These effects work just like a
-physical version of a spell, but they are delivered with a weapon strike to a legal target. Like a regular weapon
-swing, this effect can be stopped by a Magic Armor, Parry, or blocked like any other weapon swing. All weapon
-safety rules must be followed. The user must have the in-game skill to wield the weapon in order to use the
-Weapon Strike. For example, if the user is under a game effect that prohibits the use of in-game skills, then they
-cannot use a Weapon Strike. Also, if the Weapon Strike is delivered by a non-ranged weapon, then the attack
-will not affect creatures under the effects of a Sanctuary, and Desecrate, as appropriate.
-All Weapon Strikes are considered “physical”	attacks (and can be removed by a Remove Physical Affliction spell)
-unless another attack type is specified. For example, “Weapon strike poison drain” can be blocked by a poison
-shield and cured by purify blood. “Weapon strike weakness” can be removed by Remove Weakness or Remove
-Physical Affliction.
 
-Archer’s Stance
+
+**Archer’s Stance**
 This maneuver allows the character to spend a Back
 Attack or a Critical Attack to enter a stance that is
 good for pinning your targets in place. It requires

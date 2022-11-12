@@ -4,6 +4,8 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
+**Updated**: August 1, 2014
+
 **Version**: 1.1
 
 **Authors**: Jason Mote and Jerry Boyd
@@ -37,5 +39,4 @@ to qualify in this playtest:
 
 **Exclusions**: “Boffer” style weapons are excluded from this playtest. This includes any weapon constructed with duct tape or kite tape, “ultra-light” boffer weapons, as well as “Flatblade” boffer weapons. Javelins are also excluded from this playtest. There are no known safe Javelins crafted of Latex or Plastidip.
 
-**Playtest Challenges**: A list of “NERO Approved Latex Weapons” is currently under development. In addition, a policy which outlines the standard methods for how to construct NERO safe Plastidip weapons is currently under development.
-
+**Playtest Challenges**: A list of “NERO Approved Latex Weapons” is currently under development. In addition, a policy which outlines the standard methods for how to construct NERO safe P lastidip weapons is currently under development.

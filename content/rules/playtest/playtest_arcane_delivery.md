@@ -2,8 +2,12 @@
 title: "Playtest - Arcane Delivery"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+include_toc: true
 ---
+
 **Updated**:  April	17, 2018
+
+**Version**: v1.0
 
 **Authors**:  Ian Petley, Jerry Boyd and Nick Denny
 

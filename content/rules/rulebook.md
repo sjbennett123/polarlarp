@@ -4,6 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
+
 # Chapter 1 : Getting Started
 
 ## Introduction
@@ -96,7 +97,7 @@ Now let’s look at a typical NERO weekend and see how some of these rules are a
 
 Here’s an example of a typical NERO weekend as experienced by a new player (You!): 
 
-Once you have your character established, you check in for a NERO event. You are given a small amount of starting money tags representing your starting equipment and a character card which lists your current skills and other pertinent information. You will get a new card for every event in order to keep this information accurate and up to date. This allows you, other characters, and the game marshals to keep track of your abilities should any disputes arise. You will also receive either tags for each of your abilities or a character skill sheet.
+Once you have your character established, you check in for a NERO event. You are given a small amount of starting money, tags representing your starting equipment, and a character card which lists your current skills and other pertinent information. You will get a new card for every event in order to keep this information accurate and up to date. This allows you, other characters, and the game marshals to keep track of your abilities should any disputes arise. You will also receive either tags for each of your abilities or a character skill sheet.
 
 You also have to get your weapon checked. Even players who attend every event must get their weapons checked each time. If your weapon is approved, you are given a safety tag that is attached to your weapon. If you do not have one already, you are given a cabin assignment. Once you have finished checking in to the event, you put on a white headband (signifying that you are out-of-game) and carry your bedding and other equipment to your room. You are then ready to get into your costume. 
 
