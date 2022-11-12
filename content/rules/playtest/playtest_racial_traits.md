@@ -4,7 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-**version**:  1.2
+**Version**:  1.2
 
 **Objective**:  This playtest expands racial abilities and opens them up to purchase and use for all races at an increased cost. The primary purpose of this is to facilitate a broader range of character concepts and role-play otions to all NERO players
 
@@ -14,36 +14,53 @@ draft: false
 
 **Note**: This playtests removes all restrictions and benefits related to race listed in the Nero 9'th edition rulebook. Body point changes, build discounts, and skill purchase requirements; they are all considered removed when using this playtest. 
 
-Table 1. Racial Skills
+## Table 1. Racial Skills
 
-| Skill Name  | Category   | Cost with Trait | Cost without Trait |
-| ----------- | ---------- | --------------- | ------------------ |
-| Mighty Slay | Strong     | 10              | 20                 |
-|             | Strong     | 10              | 20                 |
-|             | Strong     | 4               | 8                  |
-|             | Fast       | 2               | 4                  |
-|             | Fast       |                 |                    |
-|             | Fast       |                 |                    |
-|             | Tradesman  |                 |                    |
-|             | Tough      |                 |                    |
-|             | Wild       |                 |                    |
-|             | Telepathic |                 |                    |
-|             | Survivor   |                 |                    |
+| Skill Name             | Category   | Cost with Trait | Cost without Trait |
+| ---------------------- | ---------- | --------------- | ------------------ |
+| Mighty Slay            | Strong     | 10              | 20                 |
+| Strong Arm             | Strong     | 10              | 20                 |
+| Rip from Binding       | Strong     | 4               | 8                  |
+| Light Touch            | Fast       | 2               | 4                  |
+| Dodge                  | Fast       |                 |                    |
+| Sneak Attack           | Fast       |                 |                    |
+| Merchant               | Tradesman  |                 |                    |
+| Harvester              | Tough      |                 |                    |
+| Grand Master           | Wild       |                 |                    |
+| Resist Poison          | Telepathic |                 |                    |
+| Resist Physical        | Survivor   |                 |                    |
+| Toughness              |            |                 |                    |
+| Detect Magic           |            |                 |                    |
+| Dispel Magic           |            |                 |                    |
+| Battle Rage            |            |                 |                    |
+| Resist Sleep           |            |                 |                    |
+| Resist Charm           |            |                 |                    |
+| Remove Fear            |            |                 |                    |
+| Awaken                 |            |                 |                    |
+| Calm                   |            |                 |                    |
+| Break Charm            |            |                 |                    |
+| Detect Poison/Antidote |            |                 |                    |
+| Will to Live           |            |                 |                    |
+| Ready Armor            |            |                 |                    |
 
+## Table 2. Racial Traits and Features
 
-
-
-
-
-
-Table 2. Racial Traits and Features
-
-|           |      |      |
-| --------- | ---- | ---- |
-| Barbarian |      |      |
-| Biata     |      |      |
-| Drae`     |      |      |
-| Wild Elf  |      |      |
+|           |                     |                      |
+| --------- | ------------------- | -------------------- |
+| Barbarian | strong, wild        | 2 Handed Mastery     |
+| Biata     | Willful, Telepathic | Mentalist            |
+| Drae      | Fast, Willful       | Crossbow Mastery     |
+| Wild Elf  | Wild, Fast          | Break Charm          |
+| Dwarf     | Tough, Tradesman    | Hammer Mastery       |
+| Elf       | Fast, Willful       | Bow Mastery          |
+| Stone Elf | Willful,Telepathic  | Mentalist            |
+| Gypsy     | Survivor,Tradesman  | Gypsy Curse          |
+| Half Ogre | Strong, Tough       | 2 Handed Mastery     |
+| Half Orc  | Strong, Wild        | Axe Mastery          |
+| Hobling   | Fast,Tough          | Short Weapon Mastery |
+| Human     | Choice of One       | None                 |
+| Sarr      | Fast, Survivor      | Claw Mastery         |
+| Scavenger | Fast, Survivor      | Claw Mastery         |
 
 ## Racial Skills
 
@@ -127,53 +144,181 @@ Cost without Trait: 20
 
 ### Grand Master
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Resist Poison
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Resist Physical
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Toughness
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Detect Magic
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Dispel Magic
 
-### Batle Rage
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
+### Battle Rage
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Resist Sleep
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Resist Charm
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Remove Fear
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Awaken
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Calm
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Break Charm
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Detect Poison/Antidote
 
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
+
 ### Will to Live
+
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
+
+
 
 ### Ready Armor
 
-### Racial Features
+```
+Category: Tradesman
+Cost with Trait: 10
+Cost without Trait: 20 
+```
 
-#### 2 Handed Mastery
 
-#### Menatalist
 
-#### Crossbow Mastery
+## Racial Features
 
-#### Bow Mastery
+### 2 Handed Mastery
 
-#### Break Charm
+### Mentalist
 
-#### Gypsy Curse
+### Crossbow Mastery
 
-#### Axe Mastery
+### Bow Mastery
 
-#### Short Weapon Mastery
+### Break Charm
 
-#### Claw Mastery
+### Gypsy Curse
+
+### Axe Mastery
+
+### Short Weapon Mastery
+
+### Claw Mastery
 
