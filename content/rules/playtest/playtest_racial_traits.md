@@ -308,15 +308,15 @@ Cost without Trait: 20
 
 ### 2 Handed Mastery
 
-Races with this feature have a ntuarl skill with 2 handed weaposn of all types. Once a character with this feature learns any weapon skill that character may then wield all weapons covered by the skill 2 handed weapon master as it appears in the 9th edition nero rulebook witout the purchase fo the necessary skill. In additon, characters with htis skill may apply all weapon proficiences and slays that they have to non-ranged 2 handed weapons they weild.
+Races with this feature have a natural skill with 2 handed weapons of all types. Once a character with this feature learns any weapon skill that character may then wield all weapons covered by the skill 2 handed weapon master as it appears in the 9th edition nero rulebook without the purchase of the necessary skill. In addition, characters with this skill may apply all weapon proficiencies and slays that they have to non-ranged 2 handed weapons they wield.
 
 ### Mentalist
 
-This Feature grants all the abilities listed in the Ninth edition NERO rulebook under Mentalist. In addition, a character iwth tyhis skill may expend his powers for the day to act as an intspiration spell on a firendly targe, it is activated iwth 3 seconds of role-lay and the phrase " I invoke inspriation", it is then delivered by tough only. It counts as a character's one use of hte inspiration effect, as if it was the spell.
+This Feature grants all the abilities listed in the Ninth edition NERO rulebook under Mentalist. In addition, a character with this skill may expend his powers for the day to act as an inspiration spell on a friendly target, it is activated with 3 seconds of role-lay and the phrase " I invoke inspiration", it is then delivered by tough only. It counts as a character's one use of hte inspiration effect, as if it was the spell.
 
 ### Crossbow Mastery 
 
-Races iwth this featuree have a natural skill with crossbows 
+Races with this feature have a natural skill with crossbows 
 
 ### Bow Mastery
 
