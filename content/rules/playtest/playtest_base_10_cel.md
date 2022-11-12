@@ -13,17 +13,22 @@ draft: false
 **Objective**: The objective of this playtest is to increase Celestial’s ability to deal direct damage to it’s targets.
 
 **Summary**: Celestial damage spells will now be base 10 instead of base 5.
-The following changes to Celestial spells are as follows (changing table 5-5, and Figures 5-7
+The following changes to Celestial spells are as follows (changing table 5-5, and Figures 5-7) 
 
-Level Spell New damage
-1 Magic Missle 10
-2 Lightning Bolt 20
-3 Ice Bolt 30
-4 Flame Bolt 40
-5 Stone Bolt 40
-6 Enflame 40 
-6 Lighting Storm 60
-7 Ice Storm 70
-8 Dragons Breath 80
-9 Eldrich Blast 80
-9 Magic Storm 10
+| Level           | Spell          | New damage |
+| --------------- | -------------- | ---------- |
+| 1               | Magic Missile  | 10         |
+| 2               | Lightning Bolt | 20         |
+| 3               | Ice Bolt       | 30         |
+| 4               | Flame Bolt     | 40         |
+| 5               | Stone Bolt     | 40         |
+| 6               | Enflame        | 40         |
+| 7               | Ice Storm      | 70         |
+| 8               | Dragons Breath | 80         |
+| 9               | Eldrich Blast  | 80         |
+| 9               | Magic Storm    | 10         |
+
+
+
+
+

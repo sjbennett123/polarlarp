@@ -1,9 +1,9 @@
 ---
-title: "Playtest - Weapon Manuer"
+title: "Playtest - Weapon Maneuver"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
-**Updated**:  April	17, 2018
+**Updated**:  April 17, 2018
 
 **version**: 1.1
 
@@ -16,7 +16,9 @@ draft: false
 **Secondary Objective**: Add Character Specialization / Options: high cost skills/talents relating to character concept/theme. These should not add significant amounts of power, but make characters shine in certain situations. These should be available to new characters.
 
 **Summary**: This playtest is to be used in conjunction with the Slash Five playtest. It introduces an alternate system for back attacks and critical attacks. Any number of critical attacks/back attacks may be purchased, and sold back to pay for proficiencies/backstabs. Proficiencies/Backstabs may be used with any weapon. Characters may specialize their combat role by learning Maneuvers, skills which let them spend their critical attacks and back attacks in different ways. After using five critical attacks, back attacks, or maneuvers, a character needs to rest for a few minutes before they can use them again.
+
 This playtest replaces the Slash Five playtest’s notes about weapon proficiencies and backstabs.
+
 **Note**
 Absolutely no magic items may duplicate maneuvers or other abilities in this playtest. (Including Local Chapter Only items)
 Page 89, table 6-2
@@ -34,31 +36,12 @@ All Weapon Strikes are considered “physical” attacks (and can be removed by 
 
 
 **Archer’s Stance**
-This maneuver allows the character to spend a Back
-Attack or a Critical Attack to enter a stance that is
-good for pinning your targets in place. It requires
-the use of a bow. To activate the Archer Stance,
-spend at least three seconds firmly planting one of
-your feet on the ground.
-While in this stance, you may shoot two arrows for
-“physical pin” and two arrows for “lesser physical
-pin”.
-You may only have one stance active at a time. The
-stance ends if your foot moves from that spot, the
-battle ends, or you lose consciousness.
-Back Attack
-This skill allows the character to do two extra points
-of damage against any one opponent from behind
-for the duration of the battle (which is defined as
-“Line of Sight” as per spells) once per day for each
-time this skill is taken. This bonus applies to any
-weapon.	You must be behind and able to see the
-victim’s shoulder blades to do a Back Attack; you
-cannot reach around from the front or from the
-side.
-Some skills, called maneuvers, allow you to spend
-back attacks in different ways. Multiple abilities
-may not be stacked on one weapon swing.
+This maneuver allows the character to spend a Back Attack or a Critical Attack to enter a stance that is good for pinning your targets in place. It requires the use of a bow. To activate the Archer Stance, spend at least three seconds firmly planting one of your feet on the ground.
+While in this stance, you may shoot two arrows for “physical pin” and two arrows for “lesser physical pin”.
+You may only have one stance active at a time. The stance ends if your foot moves from that spot, the battle ends, or you lose consciousness. 
+**Back Attack**
+This skill allows the character to do two extra points of damage against any one opponent from behind for the duration of the battle (which is defined as “Line of Sight” as per spells) once per day for each time this skill is taken. This bonus applies to any weapon. You must be behind and able to see the victim’s shoulder blades to do a Back Attack; you cannot reach around from the front or from the side.
+Some skills, called maneuvers, allow you to spend back attacks in different ways. Multiple abilities may not be stacked on one weapon swing.
 After you have used any combination of five back
 attacks, critical attacks or maneuvers, you are
 fatigued. You cannot use back attacks or maneuvers
