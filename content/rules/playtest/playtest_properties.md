@@ -6,11 +6,11 @@ draft: false
 
 **Updated**:  Aug 12, 2014
 
-**Authors**:  Marzilli, Michael
+**Authors**:   Michael Marzilli
 
-**version**:  1.0.0 
+**Version**:  1.0.0 
 
-**Introduction to the NERO LARP Personal Estates System**
+## **Introduction**
 
 Welcome to NERO LARP’s Personal Estate System. This system is designed to work in tandem with the larger NERO LARP Estate System, which covers running estates ranging from small hamlets to entire empires. The personal estate system is developed to allow the player to further develop their character by allowing the purchase of homes and/or businesses, as well as hire employees/hirelings. While the bulk of this system exists to give your character “a place to live” and “some place to be while not adventuring”, there are certain aspects which allow the player to maintain and improve his/her holdings.
 
@@ -24,7 +24,7 @@ The final rule of the Personal Estate System is to use the system primarily as a
 
 (This system is currently under development. The numbers and formulas included in this document are subject to change as the system is tested and improved. Please direct any questions, problems, comments or ideas to [rowell@nerolarponline.com](mailto:rowell@nerolarponline.com)  or visit the Forum Topic dedicated to this system at: http://nerolarp.com/e107_plugins/forum/forum_viewtopic.php?8682 )
 
-**Character Bank and Estate Bank**
+## **Character Bank and Estate Bank**
 
 All purchases and income transacted in the Estate System work with the character’s Estate Bank, which is a separate account from the characters regular bank. The reason for this is that the estate system can generate some very large numbers, which would throw the in-game economies of most chapters completely out of whack. Since the estate system is mainly an off-board system, a different metric of currency is needed which will 1) allow players to gain wealth within the system to improve their estates, and 2) keep that wealth from filtering back into the in-game economies of NERO chapters. The estate system is an off-board “mini-game”, which has indirect ties to the in-game realm.
 
@@ -34,7 +34,7 @@ Conversely, a character can withdraw money from their estate bank into their cha
 
 Again, this is done to preserve the in-game economies of the various NERO LARP chapters.
 
-**Character Properties**
+## **Character Properties**
 
 Properties refer to the building and the land the building sits upon. A property can be a home or a place of business. In some cases, a property can refer to a vehicle in which a character can live (such as a ship, or a caravan wagon). A property can also refer to a mobile camp site that the character can erect and break down. For a list of the various property types, see Table 1-1 (Business Properties) and Table 1-2 (Dwelling Properties).
 The number of properties that a character can own is based upon the character’s level. A new character will start off with the ability to purchase one property. Within a few levels, the character will be able to purchase an additional property. Beyond the first property, a character gains the ability to purchase an additional property at every tenth level.
@@ -61,7 +61,7 @@ In order to increase revenue, you can hire employees. Non-Combat employees have 
 
 Employees must also be paid a salary. Each week/month, an employee is paid their salary from the character’s estate bank. When an employee is initially hired, their starting salary is pre-set, based upon the skill of the employee, and the job they will be performing. You can always change the salary, higher or lower.  Lower salary means an unhappy worker, while a higher salary tends to mean a happier worker. The system does not directly factor salary into happiness; so paying an employee a large salary will not rocket the employee’s happiness.  In fact, such an act could back fire, as the employee will continually expect a high salary, and higher raises.
 
-**Rooms**
+## **Rooms**
 
 Each property is made up of rooms. Each room type serves a distinct purpose, ranging from sleeping quarters to sale floors. The property comes with a Default set of rooms. These are the rooms most likely found in the type of property purchased.
 
@@ -71,7 +71,7 @@ If your property has enough free room space, you can opt to build new rooms. Eac
 
 For a list of Room Types and their functions, please see Table 1-3 (Estate Room Types)
 
-**Character Assets**
+## **Character Assets**
 
 Estate Assets are objects which are added to rooms or properties, and add a special ability to the property.
 
@@ -81,7 +81,7 @@ Non-Personal Workshops (i.e., Group, Guild and Town workshops) allow the owner t
 
 For a list of Estate Assets, see Table 1-4 (Estate Asset Types).
 
-**Character Employees & Hirelings**
+## **Character Employees & Hirelings**
 
 Employees and Hirelings are NPC characters created by the system to work for the character in various capacities. Employees are NPC’s that work as general help, such as a clerk in the character’s shop, or a barkeep that works in the character’s tavern. 
 
@@ -91,7 +91,7 @@ There are two types of Employee: Combat and non-combat. Combat NPC’s are train
 
 Non-combat employees are trained in a profession, such as farming, sales or beekeeping. These employees do not engage in combat. Their level is based upon the skill level in their profession (see Table 1-5 Profession Skill Levels). Non-combat employees generate additional revenue at the business the work within, or provide a service in the home they are hired into. The more skilled an employee is, the more sales income they generate. 
 
-Table 1-1 Business Type Properties
+### Table 1-1 Business Type Properties
 
 | **Property Type**   | **Time   To Build (in days) ** | **Cost   To Build ( in silver) ** | **Room   Slots** | **Maximum   Employees/**   **Occupants** | **Max   # of Floors** | **Average**   **Income** (in silver) | **Average**   **Expenses ( in silver)** | **Default Rooms**                                            |
 | ------------------- | ------------------------------ | --------------------------------- | ---------------- | ---------------------------------------- | --------------------- | ------------------------------------ | --------------------------------------- | ------------------------------------------------------------ |
@@ -111,7 +111,7 @@ Table 1-1 Business Type Properties
 | Tavern              | 21                             | 500                               | 25               | 10                                       | 3                     | 15                                   | 5                                       | Medium Banquet Hall (6), Medium Pantry (2),  Medium Business Kitchen (4), Small Retail Space (2) |
 | Schooner            | 15                             | 200                               | 18               | 8                                        | 1                     | 10                                   | 2                                       | Small Bedroom (1), Large Bedroom (3), Small  Pantry (1), Large Warehouse Space (12) |
 
-Table 1-2 Dwelling Type Properties
+### Table 1-2 Dwelling Type Properties
 
 | **Property Type** | **Time   To Build** | **Cost   To Build** | **Room   Slots** | **Maximum   Employees/**   **Occupants** | **Max   # of Floors** | **Average**   **Income** | **Average**   **Expense** | **Default Rooms**                                            |
 | ----------------- | ------------------- | ------------------- | ---------------- | ---------------------------------------- | --------------------- | ------------------------ | ------------------------- | ------------------------------------------------------------ |
@@ -125,7 +125,7 @@ Table 1-2 Dwelling Type Properties
 | House (Large)     | 16  days            | 200s                | 20               | 30                                       | 2                     | N/A                      | 2s                        | Large Bedroom x2 (6), Small Dining Room (1),  Small Pantry (1), Small Kitchen (1) |
 | Manor House       | 21  days            | 300s                | 20               | 5                                        | 2                     | N/A                      | 3s                        | Small Bedroom x3 (3), Small Dining Room (1),  Privy/Water Closet (1), Small Pantry (1), Small Kitchen (1) |
 
-Table 1-3 Room Type
+### Table 1-3 Room Type
 
 | **Room Type**              | **Room Slots Taken** | **Description**                                              |
 | -------------------------- | -------------------- | ------------------------------------------------------------ |
@@ -174,7 +174,7 @@ Table 1-3 Room Type
 | Guild Workshop             | 15                   | Specifically built to contain a Guild Workshop Asset (or  smaller) |
 | Open Workshop              | 20                   | Specifically built to contain a Town Workshop Asset (or  smaller) |
 
-Table 1-4 Estate Asset Types
+### Table 1-4 Estate Asset Types
 
 | **Asset Type**    | **Maximum Trustees** | **Cost** |
 | ----------------- | -------------------- | -------- |
@@ -183,7 +183,7 @@ Table 1-4 Estate Asset Types
 | Guild Workshop    | 25                   | 5000     |
 | Town Workshop     | 999                  | 10000    |
 
-Table 1-5 Profession Skill Levels
+### Table 1-5 Profession Skill Levels
 
 | Untrained     |
 | ------------- |
