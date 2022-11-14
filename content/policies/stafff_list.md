@@ -38,7 +38,9 @@ These are more than staff positions; these positions grow and determine where PO
 
 500 GS / Event
 
-- Open - Per Plot Committee 
+Open - Per Plot Committee 
+
+- 
 
 ## Head Marshal
 
@@ -68,14 +70,18 @@ These are more than staff positions; these positions grow and determine where PO
 
 200GS / Month
 
-- Open - 1 Position
+Open - 1 Position
+
+- 
 
 ## Site Marshal
 
 200 GS / Event
 
+Open - 1 Positions
+
 - Bobby Lee White 
-- Open - 1 Positions
+- 
 
 ## Safety Marshal
 
@@ -88,7 +94,10 @@ These are more than staff positions; these positions grow and determine where PO
 
 200 GS / Month
 
-- Open - 2 Positions
+Open - 2 Positions
+
+- 
+- 
 
 ## New Player Coordinator
 
@@ -101,9 +110,11 @@ These are more than staff positions; these positions grow and determine where PO
 
 250 GS / Event
 
+1 Open Positions
+
 - Kiera Phillips 
 - Cheryl Preaux-Suchacek 
-- 1 Open Positions
+- 
 
 ## Staff Medic
 
@@ -115,23 +126,30 @@ These are more than staff positions; these positions grow and determine where PO
 
 50 GS / Game Day 
 
-- Open - Per Head Marshal 
-- 5 - Open Positions
+Open - Per Head Marshal  5 - Open Positions
+
+- 
+-  
+-  
+-  
+- 
 
 ## Formal Marshal 
 
 50 GS / Game Day 
 
-- Open - Per Head Marshal 
+Open - Per Head Marshal 4 Open Positions =
+
 - Ken Courtney 
-- 4 Open Positions 
 
 ## Medical Marshal
 
-50 GS / Game Day Open - Per Staff Medic
+50 GS / Game Day
+
+ Open - Per Staff Medic 1 Open Position 
 
 - John Thompson 
 - Michael Kebert 
 - Erin Albert Jamison 
 - Joanna Jarvis  
-- 1 Open Position 
+- 
