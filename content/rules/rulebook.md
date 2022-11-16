@@ -369,7 +369,7 @@ Biata can buy the skills Break Charm , Resist Charm , and Resist Sleep. Biata ca
 
 ### Drae
 
-Drae are dark elves, a mysterious race that mostly lives underground, shunning sunlight. They have jet black skin, white or silver hair, and pointed ears. They rarely socialize with other races. They keep to themselves and generally feel themselves to be superior to all other races.
+Drae are dark elves, a mysterious race that mostly lives underground, shunning sunlight. They have monster grey skin, white or silver hair, and pointed ears. They rarely socialize with other races. They keep to themselves and generally feel themselves to be superior to all other races.
 
 When playing a drae, the most important thing to remember is honor. The Drae culture emphasizes honor to such a degree that a Drae who has lost honor should commit suicide as punishment before honor can be regained. This does not mean that you cannot be an evil Drae; it merely means that you will keep your word once it is given. If you are disgraced in any way, you will publicly do what needs to be done for your honor to be restored.
 
