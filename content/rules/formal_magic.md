@@ -194,9 +194,9 @@ Formal magic spells that target a spirit may be refused, with the exception of I
 
 Casting a pyramid based formal magic upon an item with the same pyramid based formal magic already on it (from another batch) does not increase the original pyramid. In order to increase the size of a pyramid once cast, a new pyramid larger than the first must be cast, in which case the first pyramid immediately expires and the second pyramid takes effect.
 
-### Gypsy Curse and Formal Magic
+### Hex and Formal Magic
 
-Gypsy curse may in no way affect the casting of formal magic.
+Hex may in no way affect the casting of formal magic.
 
 ### Flaw and Backlash Effects
 

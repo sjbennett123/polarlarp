@@ -427,15 +427,15 @@ Dwarves are generally peaceful and have no problem with other races—although t
 
 They start with one extra body point, can buy Resist Poison, and can buy the Smithing skill for one point less. Dwarves cannot use Polearms, Staves, Two Handed Blunt weapons or Two Handed Swords. They must pay double for Read Magic.
 
-### Gypsy
+### Gadabari
 
 Unlike other races that are distinguished by physical features, Gadabari are defined by costume, behavior, and culture. To be a Gadabari means to be boisterous, extroverted, and larger than life. Gadabari, a fiery and passionate race, love to dance and sing. The most important aspect of Gadabari life is family. The Gadabari have enormous loyalty to their people, treating each as a family member and referring to them as “brother” or “sister.”
 
 Many Gadabari tribes may coexist in the same area, each being ruled by its own Bandoleer or “Prince/Princess.” There is a Gadabari King but quite often this figure is far removed from normal Gadabari life and has no great influence over the local tribes. Usually a Gadabari tribe will have its own distinctive predominate color or marking, used to differentiate itself from other tribes in the area.
 
-Gadabari can bestow or remove Hex, the use of which is limited by the Gypsy Code of Honor. The Gypsy Code of Honor requires that a Gadabari be always honest and trustworthy among members of his or her own tribe. The Gadabari will support the other tribe members and will do whatever it takes to help (including lying to, stealing from, and cursing or killing non-tribe members).
+Gadabari can bestow or remove a Hex, the use of which is limited by the Gadabari Code of Honor. The Gadabari Code of Honor requires that a Gadabari be always honest and trustworthy among members of his or her own tribe. The Gadabari will support the other tribe members and will do whatever it takes to help (including lying to, stealing from, and cursing or killing non-tribe members).
 
-The Gadabari Code of Honor means respecting the actions of fellow Gadabari as well. If a Gadabari places a Gypsy Curse on someone, it had better be for a good reason (sometimes, the recipient might take action against the entire tribe). If there was a good reason, then the entire tribe will support that Gadabari.
+The Gadabari Code of Honor means respecting the actions of fellow Gadabari as well. If a Gadabari places a Hex on someone, it had better be for a good reason (sometimes, the recipient might take action against the entire tribe). If there was a good reason, then the entire tribe will support that Gadabari.
 
 ### Half Ogre
 
@@ -594,7 +594,7 @@ Once First Aid has begun; with the call “First Aid“, the one minute death co
 
 ### Dead
 
-If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All of your active spells, alchemical substances, and other effects will immediately disappear. The only things that will remain are Gypsy Curse, Forget-it-Well, Forget-me-Not, and Enslavement. Sometimes, a Curse of Transform ation or an Infection might disappear when a character dies. No other game effect is active after death, except for certain
+If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All of your active spells, alchemical substances, and other effects will immediately disappear. The only things that will remain are Hex, Forget-it-Well, Forget-me-Not, and Enslavement. Sometimes, a Curse of Transform ation or an Infection might disappear when a character dies. No other game effect is active after death, except for certain
 
 Formal Magic Spells (this will be stated on the tag). The only thing that can save you now is a Life spell delivered within five minutes. Even if a Life spell is given to you, all your active spells, alchemical substances and other effects (except those listed above) are lost. If the five minutes pass without a Life spell then your body dissipates, all of your in game items drop to the ground, and you must immediately become a spirit and can only be brought back by a resurrection
 
@@ -640,7 +640,7 @@ Many resurrections are performed by a character who tells a story about the even
 
 At the end of the resurrection, the player must say “I reform one, I reform two, I reform three”. There is nothing that will successfully affect a resurrecting body during this three count. The last three seconds are considered part of the time in which the spirit “cannot interact with the world around it” and hence nothing will affect the character. You cannot begin any three count, including a killing blow, upon a resurrecting body until after the resurrection count is over. 
 
-A newly resurrected character has his or her maximum Body Points and will awake from resurrection without any game possessions at all but clothed. All remaining spells and elixirs that were present on the character will be gone, including Gypsy Curse and Enslavement.
+A newly resurrected character has his or her maximum Body Points and will awake from resurrection without any game possessions at all but clothed. All remaining spells and elixirs that were present on the character will be gone, including Hex and Enslavement.
 
 Anyone who resurrects at a full earth circle will have their skills renewed. This does not include craftsman skills or production skills, but does reset Formal Magic casting ability and Formal Cantrips. Most of the time, a Curse of Transformation or an Infection will disappear when a character is resurrected. Note that the lost memories from Forget poisons are not restored by resurrection.
 
@@ -1575,7 +1575,7 @@ Celestial:Yes           :: Scroll: No
  Duration: 10 Minutes
 ```
 
-This spell seals the victim into a rigid, form-fitting and unbreakable barrier, trapping them within. The victim cannot move, speak, touch-cast, Gypsy Curse, or perform any game skills requiring movement. The spell lasts for ten minutes, but may be dropped by the caster at any time if he or she touches the victim and states “Imprison down.” This statement is out of-game, and can be used even if the caster is Silenced or inside the Imprison. Any observers who hear the statement are aware that the Imprison was dropped, and they might know who dropped it. A Dispel Magic will bring down the Imprison, but will not dispel any other spell effects on the creature inside. Any creature sealed within an Imprison spell cannot be affected by any effect or damage, nor can they be moved. A victim of the Imprison is completely aware of his or her surroundings and unless unconscious or otherwise impaired will remember all that occurred while Imprisoned. This spell will prevent the victim from being searched and only the caster may deliver a Killing Blow to the recipient with the phrase “Imprison Down” after the three count. If the Killing Blow fails (for example, if the creature inside is immune to the caster’s attack), then the Imprison will drop as soon as the Killing Blow is completed and the creature may then defend itself.
+This spell seals the victim into a rigid, form-fitting and unbreakable barrier, trapping them within. The victim cannot move, speak, touch-cast, Hex, or perform any game skills requiring movement. The spell lasts for ten minutes, but may be dropped by the caster at any time if he or she touches the victim and states “Imprison down.” This statement is out of-game, and can be used even if the caster is Silenced or inside the Imprison. Any observers who hear the statement are aware that the Imprison was dropped, and they might know who dropped it. A Dispel Magic will bring down the Imprison, but will not dispel any other spell effects on the creature inside. Any creature sealed within an Imprison spell cannot be affected by any effect or damage, nor can they be moved. A victim of the Imprison is completely aware of his or her surroundings and unless unconscious or otherwise impaired will remember all that occurred while Imprisoned. This spell will prevent the victim from being searched and only the caster may deliver a Killing Blow to the recipient with the phrase “Imprison Down” after the three count. If the Killing Blow fails (for example, if the creature inside is immune to the caster’s attack), then the Imprison will drop as soon as the Killing Blow is completed and the creature may then defend itself.
 
 ### Improved Hearth
 
@@ -1835,7 +1835,7 @@ Celestial:No           :: Scroll: No
  Duration: Instant
 ```
 
-This spell will cancel a Curse spell but will not restore any Body Points lost. It will not rid anyone of a Gypsy Curse.
+This spell will cancel a Curse spell but will not restore any Body Points lost. It will not rid anyone of a Hex.
 
 ### Remove Drain
 
@@ -2485,7 +2485,7 @@ When you swing a weapon in NERO, you must call out a verbal that indicates the a
 
 <damage amount> <weapon type> <damage type> <effect>.
 
-When in combat with the same opponent, there is no need to continue calling your damage beyond the first or second swing. Weapon verbals are out of game and can thus be made while under the effects of a Silence or Gypsy Curse, however anyone who hears them will know what it is.
+When in combat with the same opponent, there is no need to continue calling your damage beyond the first or second swing. Weapon verbals are out of game and can thus be made while under the effects of a Silence or Hex, however anyone who hears them will know what it is.
 
 ### Damage Amount
 
@@ -4152,7 +4152,7 @@ You are not allowed to disguise your character using any sort of makeup to chang
 
 After all, if the world of Tyrra really existed and there really were Elves and Orcs and Hoblings, you would be able to easily distinguish between a real Dark Elf and someone disguised as a Dark Elf wearing fake ears and face paint.
 
-Certain distinguishing characteristics of a race can never be changed. If you are a Barbarian, you must dress in furs and leathers and talk in a barbaric fashion. If you are a Biata, you can’t shave off your eyebrows. If you are a Gypsy, you must speak with a Gypsy accent. 
+Certain distinguishing characteristics of a race can never be changed. If you are a Barbarian, you must dress in furs and leathers and talk in a barbaric fashion. If you are a Biata, you can’t shave off your eyebrows. If you are a Gadabari, you must speak with a Gadabari accent. 
 
 You are allowed to disguise yourself in limited ways — for example, an Elf can wear a hat to hide his ears or a Drae can wear a hood to cover her face. You can wear a mask over your face, provided it is a Zorro-type of mask and not a monster mask.
 
