@@ -308,6 +308,10 @@ Cost without Trait: 20
 
 ### 2 Handed Mastery
 
+```
+Races: Barbarian
+```
+
 Races with this feature have a natural skill with 2 handed weapons of all types. Once a character with this feature learns any weapon skill that character may then wield all weapons covered by the skill 2 handed weapon master as it appears in the 9th edition nero rulebook without the purchase of the necessary skill. In addition, characters with this skill may apply all weapon proficiencies and slays that they have to non-ranged 2 handed weapons they wield.
 
 ### Mentalist
