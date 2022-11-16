@@ -2301,11 +2301,12 @@ This is the single most important rule in this entire book. Read it and take it 
 
 Anyone can call a hold in a fight if they see an unsafe situation happening or about to happen. “Hold!” should be yelled so that everyone in battle can hear it—otherwise, it may be followed by another flurry of swings. When a Hold is called, 
 
-\1. Stay exactly where you are 
+1. Stay exactly where you are 
 
-\2. Drop to one knee (unless you can’t due to a medical reason)
+2. Drop to one knee (unless you can’t due to a medical reason)
 
-\3. Do Not Move.
+3. Do Not Move.
+
 
 Do not look around you or talk to people about anything not connected with the Hold. You can use this time to update your tags and remove any spells that you have cast. You can also pick up spell packets from the ground or from your pouch as long as you return to your original spot before the game is resumed.
 
@@ -2335,7 +2336,9 @@ A counted action such as breaking a binding effect (using “Rip From ...”), p
 
 In the case of simultaneous, identical length counts, who ever started the count first “wins” it does not matter how fast you say it. Spell defenses such as Shield Magic do not interrupt a counted action. 
 
-For example, Cerik the vampire is turning gaseous. During the three count, he is hit with a Cure Light Wounds spell. He takes the damage from the spell but it is not enough to destroy him, so he can continue his three count. Example two: Cerik gets hit with a Destroy Undead spell. This would destroy him, so he uses his Phase skill. The use of that skill has interrupted his three count, so the Gaseous Form skill has been used up, and unless he has that skill twice, he cannot attempt it again.
+*For example, Cerik the vampire is turning gaseous. During the three count, he is hit with a Cure Light Wounds spell. He takes the damage from the spell but it is not enough to destroy him, so he can continue his three count.* 
+
+*Example two: Cerik gets hit with a Destroy Undead spell. This would destroy him, so he uses his Phase skill. The use of that skill has interrupted his three count, so the Gaseous Form skill has been used up, and unless he has that skill twice, he cannot attempt it again.*
 
 Before performing a counted action, NPCs will often take their places while wearing a white headband. Players who see this can have their characters experience an “eerie feeling” that something is amiss. This is not an excuse to metagame as to exactly what will happen, but role-playing caution is acceptable.
 
@@ -3012,7 +3015,7 @@ If you steal an item that does not have a number on it, then you should immediat
 
 ## Armor
 
-### Armor points
+### Armor Points
 
 There are three ways a player may possess Armor Points: Physical Armor, Dexterity Armor, and Arcane Armor. The three types may be used together and add to your total of Armor Points. You can not use more armor points than your character can wear.
 
@@ -3116,7 +3119,7 @@ The guidelines in this section cover making a boffer weapon and choosing a latex
 
 There are a number of manufactured weapons that fall into the NERO guidelines for safety. If you purchase a pre-made weapon, it is your responsibility to determine the type of construction that was used. You must know what type of core the weapon has and what type of foam was used. Latex weapons are not required to have a thrusting tip, and may never be used for thrusting, stabbing or poking. Latex and boffer swords are available for sale and many can be used for NERO combat resolution. A current list of approved vendors and styles for latext weapons as well as latex weapon construction guidelines can be found online at www.nerolarp.com 
 
-## Make Your own
+## Make Your Own
 
 You may also choose to make your own boffer or latex foam weapons. Making a weapon can range from very simple to very hard depending on the materials you choose and the design of your weapon. The following sections walk through the construction of a very simple weapon, but also provide information about some advanced materials you can try later on. It is highly recommended that you build a simple weapon for you first attempt.
 
