@@ -61,4 +61,4 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 
 - **T Shirts:** We have shirts for you folks as a thank you please take one. If we don't have one in your size let us know and we will mail you one.
 - **Goblin Stamps**: You get 100 Goblin Stamps per day. 
-- **Magic Item Draw**: We will raffle off an item. 
+- **Magic Item Draw**: We will raffle off an item.

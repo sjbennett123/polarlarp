@@ -1,13 +1,9 @@
 ---
-title: "PC SPeech"
+title: "PC Speech"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1
 ---
-
-**NERO Polar Opening Ceremonies October 21, 2022**
-
-Hello, and Welcome to the 76th Annual Hunger Games… just kidding. Welcome to the first in what we hope are many POLAR LARP events in the Pittsburgh area. I am Stephen Dupree the “Event Director” for this first event, I want to thank the rest of the board: John Thompson, Kimberly Underwood, Donnie Leight, and Keira Phillips. 
 
 **4 Core Conduct Rules**
 

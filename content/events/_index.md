@@ -12,7 +12,7 @@ We want to provide the best LARPing experience possible, **as often as possible.
 **December 2 AT 9 PM – December 4 AT 2 AM**
 
 - **In Game Location**: Simoondale Mines
-- **Campsite**: Sequanota 
+- **Campsite**: [Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
 - **Event Director**: Donnie Leight
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
 -  the week before the event, registration will be closed on Friday
@@ -25,5 +25,4 @@ We want to provide the best LARPing experience possible, **as often as possible.
 - NPC's play for free
 
 Everybody that attends has food provided. Please let us know about any considerations we need to take into account. 
-
 
