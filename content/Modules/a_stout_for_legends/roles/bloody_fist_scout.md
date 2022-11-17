@@ -1,5 +1,5 @@
 ---
-title: "Bloody Fist Scout:"
+title: "Bloody Fist Scout"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 hidden: false
@@ -10,20 +10,18 @@ bookCollapseSection: true
 
 The NPCs will rest 2 times upon death and come from other parts of the Lumbermill to defend. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded.
 
-Bloody Fist Scouts (Newbie/Lower-Level Bloody Fist)
+**Body**: 40
 
- Body: 40
+ **Defensives**: Resist Poison x3, Cloak Flame x3, Rip from Binding x3, Will to Live (Racial), Resist Fear x3, Resist Sleep x3, Bane Death x3
 
- Defensives: Resist Poison x3, Cloak Flame x3, Rip from Binding x3, Will to Live (Racial), Resist Fear x3, Resist Sleep x3, Bane Death x3
+ **Magic**: None
 
- Magic: None
+ **Weapons**: Any
 
- Weapons: Any
+ **Damage**: 5 Normal, 7 Normal With 2H Weapon or Polearm
 
- Damage: 5 Normal, 7 Normal With 2H Weapon or Polearm
+ **Abilities**: Mighty Slay (Racial, no Parry), Healing Arts, First Aid, Read and Write, Read Magic, Can destroy non-reinforced or magically locked doors on a 5 Count (1 I Shatter This Door....)
 
- Abilities: Mighty Slay (Racial, no Parry), Healing Arts, First Aid, Read and Write, Read Magic, Can destroy non-reinforced or magically locked doors on a 5 Count (1 I Shatter This Door....)
+**Killing Blow Active**: No
 
- Killing Blow Active: No
-
- Motivations: You are the lowest rank of the Bloody Fist by you are VERY important since you gather intel for the Raid Leaders. If pressed you will try to flee if you have learned something. If you down PCs leave them to succumb to their wounds. Kidnap when you can if the person is of value. You are fueled by nothing more than vengeance, so BE RELENTLESS. Remain unseen, don’t be afraid to run, DONT DIE! Search the PCs for Gold Coins and Gems, Orcs gotta eat
+**Motivations**: You are the lowest rank of the Bloody Fist by you are VERY important since you gather intel for the Raid Leaders. If pressed you will try to flee if you have learned something. If you down PCs leave them to succumb to their wounds. Kidnap when you can if the person is of value. You are fueled by nothing more than vengeance, so BE RELENTLESS. Remain unseen, don’t be afraid to run, DONT DIE! Search the PCs for Gold Coins and Gems, Orcs gotta eat
