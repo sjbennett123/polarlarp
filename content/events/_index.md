@@ -10,6 +10,12 @@ We want to provide the best LARPing experience possible, **as often as possible.
 
 **Simoondale Mines**
 
+Campsite Sequanota 
+
+Event Director: Donnie Leight
+
+Event Survey https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
+
 Fees are as follows....
 
 - 60 for the weekend for 18 and older to PC
