@@ -15,11 +15,6 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 - Drink Water and Eat
 - Pace Yourself
 
-
-**T Shirts:** We have shirts for you folks as a thank you please take one. If we don't have one in your size let us know and we will mail you one.
-
-**Challenge** The battle for Stonewood is going to be hard fought and the players are not used to this. They will complain about this at first but we feel that this is an experience that will be remembered and is fair.
-
 **Tour of NPC Shack**: As we run the game everyone is going to need to know the organization of the NPC Shack and help keep it easy to find things and use. This organization is a work in progress and after the event we should discuss any improvement ideas you have. The stuff here was donated please be considerate and help make it last.
 
 **Secrecy**: You will learn things while running that are intended to be secret from the players. 
@@ -44,8 +39,14 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 - **Saturday Afternoon** players retake the town building by building. 
 - **Saturday Night** Orcs try to burn down the town
 
-**Introductions**: 
+**Introductions**: Go around in a circle and everyone introduces themselves and states the following. 
 
 - Names
-- what are you most excited about
-- What roles do you not want to do
+- What are you most excited about?
+- What roles do you not want to do? 
+
+**Rewards**:
+
+- **T Shirts:** We have shirts for you folks as a thank you please take one. If we don't have one in your size let us know and we will mail you one.
+- **Goblin Stamps**: You get 100 Goblin Stamps per day. 
+- **Magic Item Draw**: We will raffle off an item. 
