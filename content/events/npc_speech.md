@@ -34,8 +34,6 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 - Advice
 
 
-
-
 **Overview of Factions**: The story we are telling this weekend focuses around two main factions. 
 
 - **Bloody fist Orcs**-Brutal orcs that have magical backing that are now getting vengeance for a long-forgotten war.
@@ -51,9 +49,10 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 
 **Introductions**: 
 
-Names
+- Names
 
-what are you most excited about
+- what are you most excited about
 
-What roles do you not want to do
+- What roles do you not want to do
+
 
