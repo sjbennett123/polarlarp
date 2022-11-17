@@ -2,6 +2,7 @@
 title: "NPC Speech"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+weight: 1
 ---
 
 **NERO Polar NPC Speech October 2022**
@@ -10,10 +11,8 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 
 **Take Care of Yourselves:** The most important thing is your health.
 
--  Stretch
-
+- Stretch
 - Drink Water and Eat
-
 - Pace Yourself
 
 
@@ -23,14 +22,13 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 
 **Tour of NPC Shack**: As we run the game everyone is going to need to know the organization of the NPC Shack and help keep it easy to find things and use. This organization is a work in progress and after the event we should discuss any improvement ideas you have. The stuff here was donated please be considerate and help make it last.
 
+**Secrecy**: You will learn things while running that are intended to be secret from the players. 
+
  **Overview of writeups**: This event may be different than many of you are used to, we have a lot more structure and writing than you have probably seen in the past. This might seem stifling, but we hope that we can convince you that can make for great experience for both you and the players.
 
 - Overview
-
 - Monster cards
-
 - Lore
-
 - Advice
 
 
@@ -43,16 +41,11 @@ Thank you for coming out and trusting us with your time. We hope the that our pr
 
 - **Friday Night** town is occupied, and the players repulse the magical guardians “The Chosen Ones”.
 - **Saturday Morning** Orcs attack. 
-
 - **Saturday Afternoon** players retake the town building by building. 
 - **Saturday Night** Orcs try to burn down the town
 
 **Introductions**: 
 
 - Names
-
 - what are you most excited about
-
 - What roles do you not want to do
-
-

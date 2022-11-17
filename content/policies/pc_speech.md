@@ -2,6 +2,7 @@
 title: "PC SPeech"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+weight: 1
 ---
 
 **NERO Polar Opening Ceremonies October 21, 2022**
