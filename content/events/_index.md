@@ -5,27 +5,25 @@ draft: false
 weight: 1
 ---
 
-We want to provide the best LARPing experience possible, **as often as possible.** 
+We want to provide the best LARPing experience possible, **as often as possible.**  Please register now.... It's going to be a great event!!!!
 
-**DEC 2 AT 9 PM – DEC 4 AT 2 AM**
+------
 
-**Simoondale Mines**
+**December 2 AT 9 PM – December 4 AT 2 AM**
 
-Campsite Sequanota 
+- **In Game Location**: Simoondale Mines
+- **Campsite**: Sequanota 
+- **Event Director**: Donnie Leight
+- [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
+-  the week before the event, registration will be closed on Friday
 
-Event Director: Donnie Leight
+## **Fees**:
 
-Event Survey https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
+- $60.00 for the weekend for 18 and older to PC
+- $40.00 for the weekend for 14 to 17 year Olds to PC
+- New players play for free but must PC first event
+- NPC's play for free
 
-Fees are as follows....
+Everybody that attends has food provided. Please let us know about any considerations we need to take into account. 
 
-- 60 for the weekend for 18 and older to PC
-- 40 for the weekend for 14 to 17 year Olds to PC
-- New player.... free... must PC first event
-- Npc.... free
 
-Everybody that attends has food provided. Please let us know about any consideratoins we need to take into account. 
-
-The event is live on www.nerolarponline.com. Please go and pre-register for the event. As per normal, the week before the event, registration will be closed on Friday. We also have the option to pay for the event on www.polarlarp.org under the registration tab. 
-
-Please register now.... It's going to be a great event!!!!
