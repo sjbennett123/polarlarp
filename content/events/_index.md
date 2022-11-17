@@ -13,7 +13,7 @@ Event Registration closes the week before an event on Friday.
 
 ## Events:
 
-**December 2 AT 9 PM – December 4 AT 2 AM**
+### **December 2 AT 9 PM – December 4 AT 2 AM**
 
 - **In Game Location**: [Simoondale Mines](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
