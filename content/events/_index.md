@@ -19,7 +19,7 @@ Event Registration closes the week before an event on Friday.
 
 - **In Game Location**: [Stonewood](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
-- **Event Director**: Stephen Dupree and Chris Colland
+- **Event Directors**: Stephen Dupree and Chris Colland
 - **Registration Deadline**: October 14
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
 

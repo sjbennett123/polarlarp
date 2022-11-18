@@ -7,12 +7,15 @@ draft: false
 - **Address**: 368 Sequanota Rd, Jennerstown, PA 15547
 - **GPS**: 40.17949564028885, -79.10447822702073
 - [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- [sequanota.com/](https://sequanota.com/)
 
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the cabin area. Once you pass the swimming pool on the left, you will come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends in a parking area. A large dining hall will be on your left as you approach the parking area. This is the  tavern and module building. Check in also takes place in this building. Anything on the hill to the right will not be used at this event.
 
 **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow
 
-**Heat**: 
+**Heat**: The stone cabins are very well heated with the huge heat blower in them. 
+
+**Reserving Cabins:** at the last POLAR event, we have decided to keep the policy for the winter camp at Sequanota. There will be one change, however. In order to reserve a cabin, one of two things must be met. Either 8 paying customers ($480.00) must be in the cabin, or the option for the payment to make up the difference between the paying customers and the ($480.00) price tag. POLAR thinks this gives the option to still reserve the cabins and make the payment on the cabin. If anyone would like to reserve a cabin, please contact me directly and I will set it up.
 
 ## Nearby Supplies
 
