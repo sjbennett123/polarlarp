@@ -33,7 +33,7 @@ Event Registration closes the week before an event on Friday.
 - **Registration Deadline**: November 25
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
 
-## **Fees**:
+## Fees:
 
 - $60.00 for the weekend for players 18 and older to PC.
 - $40.00 for the weekend for players 14 to 17 years old to PC.

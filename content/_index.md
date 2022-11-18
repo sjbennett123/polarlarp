@@ -1,18 +1,24 @@
 ---
-title: "Rules"
+title: "Welcome to Polar"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+weight: 1
 ---
+# **✪ [Register for an Event]() ✪**
 
-Facebook Out of Game
+------
 
-Facebook In Game
+## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+{{%expand "Issue1" %}}Yes !.{{% /expand%}}
 
-Discord
+## [Facebook In Game](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+{{%expand "Issue1" %}}Yes !.{{% /expand%}}
 
-register for an event.	
+## [Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+{{%expand "Issue1" %}}Yes !.{{% /expand%}}
 
-New Players!
+## [New Player Information]()  
+{{%expand "Issue1" %}}Yes !.{{% /expand%}}
 
 ---
 
