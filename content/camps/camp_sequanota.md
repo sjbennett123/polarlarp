@@ -32,7 +32,15 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 Near the entrance to camp if you forgot anything or need a last minute pickup.  Great for snacks and bottled water
 
-Local convenience store: https://goo.gl/maps/fsHToMPtj3vYnvws7
+
+
+### Country Snack Shak
+
+Local convenience store:
+
+ https://goo.gl/maps/fsHToMPtj3vYnvws7
+
+​	1598 W Pitt St, Jennerstown, PA 15547
 
 ### Walmart
 
