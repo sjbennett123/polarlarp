@@ -19,7 +19,16 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 **Bathrooms**: Each cabin has it's own bathroom.
 
-**Reserving Cabins:** aIn order to reserve a cabin, one of two things must be met. Either 8 paying customers ($480.00) must be in the cabin, or the option for the payment to make up the difference between the paying customers and the ($480.00) price tag. POLAR thinks this gives the option to still reserve the cabins and make the payment on the cabin. If anyone would like to reserve a cabin, please contact me directly and I will set it up.
+PCs allowed on site at 5 pm
+
+**Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
+
+**Reserving Cabins:** To reserve a cabin, one of two things must be met. 
+
+- Either 8 paying customers ($480.00) must be in the cabin
+- payment to make up the difference between the paying customers and the ($480.00) price tag. 
+
+POLAR thinks this gives the option to still reserve the cabins and make the payment on the cabin. If anyone would like to reserve a cabin, please contact me directly and I will set it up.
 
 ## Nearby Supplies
 
@@ -31,8 +40,6 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 - [Dollar General : Google Maps](https://www.google.com/maps/place/Dollar+General/@40.1633058,-79.0812317,17z/data=!4m15!1m8!3m7!1s0x89cb211c03d0bb43:0x6b20a864422a46fd!2s1297+W+Pitt+St,+Boswell,+PA+15531!3b1!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F11bw3y5p29!3m5!1s0x89cb21005ff4d80d:0xc075b58a9fa04be8!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F1hc4_hlyq)
 
 Near the entrance to camp if you forgot anything or need a last minute pickup.  Great for snacks and bottled water
-
-
 
 ### Country Snack Shak
 
