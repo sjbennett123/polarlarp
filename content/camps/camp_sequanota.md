@@ -42,6 +42,12 @@ Local convenience store:
 
 ​	1598 W Pitt St, Jennerstown, PA 15547
 
+5 min (2.4 miles)
+
+| Saturday | 10AM–9PM   |      |
+| -------- | ---------- | ---- |
+| Sunday   | 9:57AM–4PM |      |
+
 ### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
@@ -70,6 +76,16 @@ Also, that's not the closest food, there's also https://goo.gl/maps/SqpXKopvHXfX
 ## Nearby Car Repair
 
 Car repair: Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
+
+### Walmart
+
+- **Address**: 2028 N Ctr Ave, Somerset, PA 15501
+- **Hours**: 6am - 11pm
+- **Distance from Camp**: 18 min (11.5 miles)
+
+NAPA Auto Parts in Ligonier
+
+
 
 ## Nearby Medical Care
 
