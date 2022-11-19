@@ -32,6 +32,8 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 Near the entrance to camp if you forgot anything or need a last minute pickup.  Great for snacks and bottled water
 
+Local convenience store: https://goo.gl/maps/fsHToMPtj3vYnvws7
+
 ### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
@@ -55,34 +57,20 @@ Near the entrance to camp if you forgot anything or need a last minute pickup.  
 - **Distance from Camp**: 11 min (4.9 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
+Also, that's not the closest food, there's also https://goo.gl/maps/SqpXKopvHXfXF3yf9 and https://goo.gl/maps/nieAiYzfQm5b1PEy5
+
+## Nearby Car Repair
+
+Car repair: Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
+
 ## Nearby Medical Care
 
-### Hospital - Excela Health Latrobe Hospita
+### Hospital - Excela Health Latrobe Hospital
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: 36 min (23.5 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-
-
-### Urgent Care
-
-- **Address**: 
-- **Hours**:
-- **Distance from Camp**: 
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-
-
-### Pharmacy
-
-- **Address**: 
-- **Hours**:
-- **Distance from Camp**: 
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-
 
 Hospitals: It's essentially equidistant from 3 hospitals. There's one south, one northwest, one northeast.
 
@@ -92,28 +80,40 @@ Northeast: Conemaugh Memorial (around 27-30 minute drive) (in Johnstown)
 
 Northwest: Excela Health Latrobe (35 minutes)
 
-Urgent Cares:
+### Urgent Care
 
-MedExpress (by UPMC Somerset): https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 21 minutes drive, open til 8pm
+MedExpress  (by UPMC Somerset)
+
+- **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
+- **Hours**: open til 8pm
+- **Distance from Camp**: 21 minutes drive, 
+- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+
+
 
 There are 3 in Johnstown (which is slightly further) within a mile of each other: https://goo.gl/maps/BQu3SgZnLDqFjaTZ9 is Medwell, there's also MedExpress and iCare, 24 minutes drive, Medwell and MedExpress are open until 8, iCare is open til 6.
 
-Pharmacies: Equidistant from 2
+### Pharmacy
 
-Walmart Pharmacy: 17 minutes south, https://goo.gl/maps/gNkzbxhBGwaDzzjU6
+Walmart Pharmacy
+
+- **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
+- **Hours**:
+- **Distance from Camp**: : 17 minutes south,
+- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+
+
 
 Giant Eagle Pharmacy: 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
 
-Jennerstown Borough Services:
+## Jennerstown Borough Services:
 
 http://www.jennerstownboro.com/services.html
 
-Non- emergency fire: 814-629-5371
+- **Non- emergency fire**: 814-629-5371
+- **Non- emergency police**: 814-703-8138
 
-Non- emergency police: 814-703-8138
 
-Also, that's not the closest food, there's also https://goo.gl/maps/SqpXKopvHXfXF3yf9 and https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
-Local convenience store: https://goo.gl/maps/fsHToMPtj3vYnvws7
 
-Car repair: Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
+
