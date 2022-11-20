@@ -21,6 +21,8 @@ These are more than staff positions; these positions grow and determine where PO
 
 ## General Manager
 
+They can help with just about anything, or direct you toward the person who can!
+
 400GS / Month
 
 - John Thompson 
@@ -124,6 +126,8 @@ Open - 2 Positions
 
 ##   Full Marshal 
 
+If you have a rules question, please talk to one of them! If a marshal makes a ruling on the field, that ruling is now law, even if you disagree with it, until the mod/situation is over and you can then argue your case.
+
 50 GS / Game Day 
 
 Open - Per Head Marshal  5 - Open Positions
@@ -145,6 +149,8 @@ Open - Per Head Marshal 4 Open Positions =
 ## Medical Marshal
 
 50 GS / Game Day
+
+If you have any kind of injury, illness, or allergic reaction, please talk to one of them! They are fully trained first responders and are there to keep us safe.
 
  Open - Per Staff Medic 1 Open Position 
 
