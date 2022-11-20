@@ -9,8 +9,6 @@ draft: false
 **Reviewed by:** Scott Bennett
 
 
-
-
  **Brief**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
 
 ------
