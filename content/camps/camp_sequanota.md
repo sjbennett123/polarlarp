@@ -25,8 +25,8 @@ PCs allowed on site at 5 pm
 
 **Reserving Cabins:** To reserve a cabin, one of two things must be met. 
 
-- Either 8 paying customers ($480.00) must be in the cabin
-- payment to make up the difference between the paying customers and the ($480.00) price tag. 
+- 8 paying customers ($480.00 in attendance fees) in the cabin
+- additional payment to make up the difference between the paying customers and the ($480.00) price tag. 
 
 POLAR thinks this gives the option to still reserve the cabins and make the payment on the cabin. If anyone would like to reserve a cabin, please contact me directly and I will set it up.
 
@@ -91,6 +91,8 @@ Car repair: Most places are closed on the weekends nearby here, your best bet fo
 - **Distance from Camp**: 18 min (11.5 miles)
 
 NAPA Auto Parts in Ligonier
+
+**[Address](https://www.google.com/search?rlz=1C1ONGR_enUS1014US1014&sxsrf=ALiCzsaWpMwGqHe8AuU9DiLZTpue7f-qgw:1668892843489&q=napa+auto+parts+-+fayette+parts+service+ligonier+address&ludocid=2976788055961257556&sa=X&ved=2ahUKEwiZqeqolrv7AhUaF2IAHS9pAOMQ6BN6BAhdEAI):** 324 E Main St, Ligonier, PA 15658
 
 
 

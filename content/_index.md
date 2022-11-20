@@ -15,7 +15,9 @@ weight: 1
 {{%expand "Issue1" %}}Yes !.{{% /expand%}}
 
 ## [Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
-{{%expand "Issue1" %}}Yes !.{{% /expand%}}
+{{%expand "Issue1" %}} please change your in server name(nickname) into your first name and last name so we can know who you are and address you properly. I can post how to do so if need be.
+
+Message #announcements{{% /expand%}}
 
 ## [New Player Information]()  
 {{%expand "Issue1" %}}Yes !.{{% /expand%}}
@@ -64,3 +66,5 @@ weight: 1
 **Offsite**: All players need to be offsite by 10:00 AM. Sunday Morning.
 
 **Leaving Early:** If leaving early make sure to do clean up and checkout. Also if you are considering it let plot know ahead of time so that we can plan. 
+
+**Event survey**:
