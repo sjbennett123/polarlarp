@@ -6,11 +6,11 @@ draft: false
 
 **Standard Modules** 
 
-**(F) Passings through the Mists:** Ran by Donnie: Navigating the Crystal Barrier and Kingdom Knight Encounter
+**(F) Passing through the Mists:** Ran by Donnie: Navigating the Crystal Barrier and Kingdom Knight Encounter
 
-**(F) The Changed Ones**: A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards from Hoyle!
+**(F) [The Changed Ones](https://snazzy-marshmallow-9e25ed.netlify.app/modules/the_changed_ones/)**: A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards from Hoyle!
 
-**(F) Willowisp Madness**: A bound willowisp lures adventurers into a trap.
+**(F) [Don't Talk to Strangers](https://snazzy-marshmallow-9e25ed.netlify.app/modules/dont_talk+to_strangers/)**: A bound willowisp lures adventurers into a trap.
 
 **(F) Where There is Fire**: A Shepard enlists the adventurers help in dealing with a threat to his flock. 
 
@@ -32,14 +32,11 @@ draft: false
 
 **Bonesaw’s Black Site**: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
 
-**
-**
-
 **Retaking Stonewood 10 Module Series**
 
 **1. To Ward off Famine (Granary)**: The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
 
-**2. Forged by Broken Hands (Forge):** The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
+**2. [Forged by Broken Hands](https://snazzy-marshmallow-9e25ed.netlify.app/modules/forged_by_broken_hands/) (Forge):** The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
 
 **3. The Lumber Job: (Lumbermill)**: The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood
 
@@ -51,7 +48,7 @@ draft: false
 
 **7. Rage for Order (Town Hall)**: The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
 
-**8. Strange Alchemy (Alchemist Lab):** The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
+**8. [Strange Alchemy](https://snazzy-marshmallow-9e25ed.netlify.app/modules/strange_alchemy/) (Alchemist Lab):** The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
 
 **9. Holy Thunderforce (Scholars Guild):** The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
 
