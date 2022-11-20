@@ -9,54 +9,55 @@ draft: false
 **Reviewed by:** Scott Bennett
 
 
- **Brief**: The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood
+
+
+ **Brief**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+
+------
 
 
  **Requirements:** 
 
-- Saturday Afternoon
+·    Final Module
 
-- Forged by Broken Hands module has been run
+·    Both attempts to burn the town have failed
+
+**Synopsis**: The Ritual of Fire is a Bloody Fist ritual to rip open the Fire plane. They have used this in the past to great effect. The Flame Drake elementals are very destructive and serve the purpose of the Bloody Fist. But during the ritual, the forces of Darkness has corrupted the ritual and used it as a gateway to attack! When they rift into existence, the Hoylean energy from the Chosen Ones module attracted their mortal enemies, the Murumbrians have arrived, and they seek the “chosen one” to take back to their time.
+
+**Outcomes**:
+
+(1) the players survive the onslaught, and the 1 Hour timer expires, the elementals are forcibly rifted back to their realm. There are many ways to “defeat” this module, but they cannot just simply escape the timer of it.
+
+(2) The Murumbrians capture the “Chosen One” or the chosen one comes willingly with them. The assault will stop. The chosen one is then and take them back to their time to make an offer to since he was chosen. Run the module A conversation in Darkness. 
+
+**Rumors:** “The Ley Lines of Stonewood have shifted dramatically as of recent. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but Sulfur and Pain. Sta Vigilant ance guard your components well”
+ Your Friend in the darkness ~Kane
 
 
-**Synopsis**: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again. The Bloody Fist are setting up the next big shipment of Stonewood Lumber to their masters. They are talking about a ballista they are going to make and test on Stonewood soon with this
 
-**Outcomes**: 
 
-(1) The Lumber Mill is cleared out, the carts of Stonewood are stopped and the Bloody Fist are unable to complete their Stonewood Ballista.
+ **Hook**: A terrified townsfolk comes running to the tavern screaming about the Bloody fist have setup a ritual and they are slaughtering people for their blood chanting about “The Flame Drakes must be given proper blood sacrifice to engorge their rage!”
 
-(2) The carts of Stonewood Lumber depart and arrive to their masters camps, construction on a Stonewood Ballista is started (Would be completed by next event in Stonewood)
+**Number of Cast Members**: All that are suitable for combat
 
-**Rumors**:
+**Roles**: 2 Corrupted Bloody Fist Shaman, 1 Corrupted Bloody Fist Raid Leader, 3 Corrupted Bloody Fist Grunts, 3 Murumbrian Wizards. 3 Murumbrian Centurions, Bloody Fist Grunts remainder of NPC’s
 
-I have heard talk of a new weapon they are trying to create to make this war even easier for them. Something about “Only Stonewood Lumber can build the strength of projectile we need” I haven’t seen any prototypes yet the weapon itself. But it does not sound good for any of us if they build it
-~ Black Leaf, The Anvil Remembers Stonewood
+**Props**: Portal Circle Rep, Altar of Power, Murumbrian Wizard and Centurion costumes, Bloody Fist costuming, Skulls for ritual, spellbook/scroll
 
- **Hook**: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
+**Tags and Treasure**: Gems, Evaluate Items, Coins, Magic Item: 
 
-**Page**: yes
+**Scene 1**: (OOG) Altar Site north of Tavern (IG) Makeshift Ritual Site of the Bloody Fist
 
-**Number of Cast Members**: 7
+**Flee Point**: This module is site/town wide
 
-**Roles**: Bloody Fist Scout x3, Bloody Fist Grunt x3, Balor Ironleaf
+**Non-Standard Effects**: 10ft Area of Effect Arcane Fear on Wizards
 
-**Props**: Anything to represent a a Lumber Mill or Woodworking, tools, axes, saws
-
-**Tags and Treasure**: Gems, Evaluate Items, Coins, New Stonewood Town Sign
-
-**Scene 1**: (OOG) Mod Shack setup like a Lumber Mill (IG) Lumbermill of Stonewood
-
-**Flee Point**: (OOG) Door of mod shack (IG) Back to the streets of Stonewood
-
-**Non-Standard Effects**: None
-
-**Rules Clarifications**: None
+**Rules Clarifications**: None 
 
 **Craftsman Information**: None
 
 **Transformations**: None
 
+**Running Notes**: The Ritual of Fire being corrupted was NOT something the Bloody Fist expected. The Bloody Fist intended to run when the Flame Drake Elementals were summoned but the nature of the Murumbrians tainted the ritual. This forced obedience upon the Bloody Fist. 
 
- **Running Notes**:  The Lumbermill of Stonewood is where the Stonewood trees are ritually harvested and turned into fine Lumber to build with or trade. The Bloody Fist will defend this place very fiercely. The NPCs will rest 2 times upon death and come from other parts of the Lumbermill to defend. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for lower to mid seasoned adventurers 
-
-~**1 Hour after this module has been completed, the Cutters guild will bring into town a new Stonewood sign to replace the destroyed one at the towns entrance as a symbol of hope to the people~**
+When the Murumbrians enter the field, the “Chosen One” will already have their Glowing Morumbrain Eyes active so the Murumbrians know who they are; and will hunt them for 1 hour. The entire site is active for play during this module. It is completely valid to hide and not fight them, but like a horror movie they will keep coming regardless. 
