@@ -14,7 +14,7 @@ draft: false
 
 **(F) Where There is Fire**: A Shepard enlists the adventurers help in dealing with a threat to his flock. 
 
-**(S)** **Horns of War**: The time has come for the challengers of Stonewood to meet the Bloody Fist! The Altar of the Changed Ones was destroyed last night upon arrival, so this is the response and investigation by the Bloody Fist. Answers or Blood will be had!
+**(S)** **[Horns of War](https://snazzy-marshmallow-9e25ed.netlify.app/modules/horns_of_war/)**: The time has come for the challengers of Stonewood to meet the Bloody Fist! The Altar of the Changed Ones was destroyed last night upon arrival, so this is the response and investigation by the Bloody Fist. Answers or Blood will be had!
 
 **(S)The Journey to El Dorado**: 5 Kingdom warriors pass through town on the way to a crypt that they heard about. While they are town, they tell tales of the surrounding countryside before venturing into the crypt.
 
@@ -26,7 +26,7 @@ draft: false
 
 **(S) Fatal Warning**: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading “Surrender or Burn”.
 
-**(S) Ritual of Fire**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+**(S) [Ritual of Fire](https://snazzy-marshmallow-9e25ed.netlify.app/modules/ritual_of_fire/)**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
 
 **Reaction Modules**
 
