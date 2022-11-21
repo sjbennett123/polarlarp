@@ -68,12 +68,6 @@ Event Registration closes the week before an event on Friday.
 
 ### Feast Events:
 
-
-
-## Food:
-
-Everybody that attends has food provided. Please let us know about any considerations we need to take into account. 
-
 ## Past Events
 
 ### **October 21 AT 9 PM - October 23 AT 2 AM**
@@ -82,8 +76,10 @@ Everybody that attends has food provided. Please let us know about any considera
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
 - **Event Directors**: Stephen Dupree and Chris Colland
 - **Registration Deadline**: October 14
-- **Tavern Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+- **Food**:   {{%expand "Tavern Menu" %}} 
   Tavern Content!
+
+Please let us know about any considerations we need to take into account.
 
 Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
 
@@ -94,7 +90,7 @@ Plates and utensils are disposable this event due to logistical reasons. If you 
 
   **Saturday:**
 
-  *Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.*
+*Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.*
 
  **Breakfast**- 11ish
 
