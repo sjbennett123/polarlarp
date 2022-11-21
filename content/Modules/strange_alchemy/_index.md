@@ -1,5 +1,5 @@
 ---
-title: "Forged By Broken Hands"
+title: "Strange Alchemy"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
@@ -7,39 +7,59 @@ draft: false
 **Written by:** Chris Colland
 
 **Reviewed by:** Scott Bennett
-**Brief**: The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
+
+
+
+
+ **Brief**: The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
+
+
+
+
  **Requirements:** 
 
-·    Saturday Afternoon
+·    Saturday Afternoon 
 
-·    To Ward off Famine Module has been run
+·    Broken Beaten Scarred module has been run
 
-**Synopsis**: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again. The Bloody Fist are researching Stonewood Dwarf craft and metallurgy. If left unchecked this will give Bloody Fist access to Dwarves craft. 
+ 
+
+**Synopsis**: The Bloody Fist have control of the Stonewood Alchemy lab and trouble is literally brewing. The Shamans have resurrected the 5 top Guild Alchemists as Undead Revenants. They died protecting the secrets so now they will serve in undeath more loyally.
+
+ 
 
 **Outcomes**: 
 
-(1) The Forge is cleared out and recovered. No Bloody Fist can take these Dwarven secrets back to their masters. The Forges are relit in Stonewood. 
+(1) The Bloody Fist are defeated and cleared from the Alchemy Lab, the Bloody Fist are not resupplied with new Alchemy potions and gases 
 
-(2) The Forges in Stonewood are sabotaged by the Bloody Fist and the secret of Stonewood metallurgy has fallen into the hands of the Oppressors.
+(2) The Bloody Fist take as much Alchemy and Gases as they can carry! The remainder of the weekend, random Blood Fist will be able to throw Gas Globes and drink potions to boost their stat cards. This is detailed in the section “Orcish Alchemy"
 
-**Rumors**:
+ 
 
-It seems to me that these creatures have taken an interest in Dwarven smiting. I can’t tell if they are looking for Ore or weaponry. But it appears the creatures want to find something in the forge that the Dwarves have been hiding.
+**Rumors**: 
+
+The Alchemists of Stonewood have been under duress with gathering and production for a month now. This has the people on edge as Winter rapidly approaches. They complain about their supplies going missing or being assaulted for their herbal pickings in the woods. I hope this is from brigands, but they seem to be something not human from the scars they return with.
 
 ~ Black Leaf, The Anvil Remembers Stonewood
 
 
+
+
+
+
  **Hook**: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
 
-**Number of Cast Members**: 6
+**Number of Cast Members**: 11
 
-**Roles**: Bloody Fist Scout x3, Bloody Fist Grunt x2, Balor Ironleaf
+**Roles**: Bloody Fist Grunt x3, Bloody Fist Shaman x2 (1 Cel 1 Earth), Undead Alchemist x5, Balor Ironleaf
 
-**Props**: Anything forge and crafting related, random weapon physical reps laying around, armor reps setup
+**Props**: Anything to represent an Alchemy Lab, bottles, potions, liquids, vials, herbs, flipped over tables for cover to throw from
 
-**Tags and Treasure**: Gems, Evaluate Items, Coins, Shatter Resistant Sword and Armor
+**Tags and Treasure**: Gems, Evaluate Items, Coins, Potions of Purify Blood, Components
 
-**Scene 1**: (OOG) Mod Shack setup like a Forge (IG) Forges of Stonewood
+**Magic Item**: Ring of Poison Shield 2/day x1
+
+**Scene 1**: (OOG) Mod Shack setup like a Alchemy Lab (IG) Alchemy Lab of Stonewood
 
 **Flee Point**: (OOG) Door of mod shack (IG) Back to the streets of Stonewood
 
@@ -51,6 +71,11 @@ It seems to me that these creatures have taken an interest in Dwarven smiting. I
 
 **Transformations**: None
 
+
+
+
  **Running Notes**: 
 
-The Forges of Stonewood are important to the lifeblood of the town. The Scouts will be looking through the Forge for secrets of Dwarven metallurgy while the 2 Bloody Fist Grunts are attempting to forge something to take back. Once all enemies are killed in the main room of the Forge, they will regroup outside and come back in as a group to investigate the “noises” as their 1 reset to simulate another wave. This module is designed for lower seasoned adventurers 
+ 
+
+The Alchemy Lab of Stonewood is a crucial part of its defense against the hordes of night creatures. This module is a LITERAL bullet hell! When they are engaged and the Revenants rise from the ground, Orange packets will fly in mass! The NPCS are waiting on them for this one in ambush style. Grunts and Undead Alchemist reset 3 times each. The Shamans will reset **ONCE.** Grunts should form a wall to take PC packets and protect the NPC casters. Shaman should focus on healing and disabling PCs with status effects. Celestial shaman should blow the players up with blasts. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for more seasoned adventurers or mid-range adventurers with veterans tagging along.
