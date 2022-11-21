@@ -2,6 +2,7 @@
 title: "The Lumber Job"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+weight:6
 ---
 
 **Written by:** Chris Colland
