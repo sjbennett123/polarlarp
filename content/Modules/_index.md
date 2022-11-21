@@ -46,11 +46,11 @@ draft: false
 
 **(S) Fears by Torchlight 2**: Torchlight Boogaloo: The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute.
 
-**(S) Fatal Warning**: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading “Surrender or Burn”.
+**(S) [Fatal Warning](https://snazzy-marshmallow-9e25ed.netlify.app/modules/fatal_warning/)**: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading “Surrender or Burn”.
 
 **(S) [Ritual of Fire](https://snazzy-marshmallow-9e25ed.netlify.app/modules/ritual_of_fire/)**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
 
 **Reaction Modules**
 
-**Bonesaw’s Black Site**: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
+**[Bonesaw’s Black Site](https://snazzy-marshmallow-9e25ed.netlify.app/modules/bonesaws_black_site/)**: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
 
