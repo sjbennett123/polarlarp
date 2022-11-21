@@ -13,66 +13,7 @@ Event Registration closes the week before an event on Friday.
 
 ## Events:
 
-{{%expand "Past Events" %}}
 
-### **October 21 AT 9 PM - October 23 AT 2 AM**
-
-- **In Game Location**: [Stonewood](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
-- **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
-- **Event Directors**: Stephen Dupree and Chris Colland
-- **Registration Deadline**: October 14
-- **Tavern Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
-Tavern Content!
-
-Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
-
-**Friday night:**
-
--   Meatball Sandwiches DIY
-
-
-  **Saturday:**
-
-  ***Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.
-
- **Breakfast**- 11ish
-
-- Sausage gravy & Biscuits
-
-- Maple Berry baked oatmeal
-
-- Scrambled eggs
-
-- Pancakes
-
-**Lunch**- 2/3ish
-
-- Chili
-
-- Homestyle Mac and Cheese
-
-- Rice with fixins/sausage
-
-- veggies in some way
-
-**Dinner**- 6/7ish
-
-- Roast chicken
-
-- pork or turkey (haven't decided yet)
-
-- roast veggies
-
-- loaded baked potato bar
-
-- some sort of lasagna meat free just in case 
-
-My most crucial clean up volunteers will be at the conclusion of dinner time, so that I can get everything loaded in my car and head back to pick up my son. I think based on space, I'll need 2/3 people that know how to properly clean and dry. I know it becomes a popular cleanup request and I will be taking volunteers on a first come basis, based on who is standing in front of me when I need the help. I can't go searching for anyone on a sign up sheet.
-
-  {{% /expand%}}
-- [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
-
-{{% /expand%}}
 
 ### **December 2 AT 9 PM - December 4 AT 2 AM**
 
@@ -118,20 +59,80 @@ My most crucial clean up volunteers will be at the conclusion of dinner time, so
 
 ## Fees:
 
-Weekend Event: 
+### Weekend Events: 
 
 - $60.00 for the weekend for players 18 and older to PC.
 - $40.00 for the weekend for players 14 to 17 years old to PC.
 - New players play for free but must PC their first event.
 - NPC's play for free!
 
-Feast
+### Feast Events:
+
+
 
 ## Food:
 
 Everybody that attends has food provided. Please let us know about any considerations we need to take into account. 
 
-**faqs**
+## Past Events
 
-Are we good to show up on Saturday to NPC with no pre-reg? If my day is open I'd like to come out and burn some calories.
+### **October 21 AT 9 PM - October 23 AT 2 AM**
+
+- **In Game Location**: [Stonewood](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
+- **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
+- **Event Directors**: Stephen Dupree and Chris Colland
+- **Registration Deadline**: October 14
+- **Tavern Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+  Tavern Content!
+
+Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
+
+**Friday night:**
+
+-   Meatball Sandwiches DIY
+
+
+  **Saturday:**
+
+  *Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.*
+
+ **Breakfast**- 11ish
+
+- Sausage gravy & Biscuits
+
+- Maple Berry baked oatmeal
+
+- Scrambled eggs
+
+- Pancakes
+
+**Lunch**- 2/3ish
+
+- Chili
+
+- Homestyle Mac and Cheese
+
+- Rice with fixins/sausage
+
+- veggies in some way
+
+**Dinner**- 6/7ish
+
+- Roast chicken
+
+- pork or turkey (haven't decided yet)
+
+- roast veggies
+
+- loaded baked potato bar
+
+- some sort of lasagna meat free just in case 
+
+My most crucial clean up volunteers will be at the conclusion of dinner time, so that I can get everything loaded in my car and head back to pick up my son. I think based on space, I'll need 2/3 people that know how to properly clean and dry. I know it becomes a popular cleanup request and I will be taking volunteers on a first come basis, based on who is standing in front of me when I need the help. I can't go searching for anyone on a sign up sheet.
+
+  {{% /expand%}}
+
+- [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
+
+
 
