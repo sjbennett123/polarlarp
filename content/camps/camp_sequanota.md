@@ -43,17 +43,14 @@ Near the entrance to camp if you forgot anything or need a last minute pickup.  
 
 ### Country Snack Shak
 
-Local convenience store:
 
- https://goo.gl/maps/fsHToMPtj3vYnvws7
+- **Address**: 1598 W Pitt St, Jennerstown, PA 15547
+- **Distance from Camp:** 4 min (1.6 miles)
+- Saturday 10AM–9PM , Sunday 9:57AM–4PM
+- https://goo.gl/maps/fsHToMPtj3vYnvws7
 
-​	1598 W Pitt St, Jennerstown, PA 15547
+ Local convenience store:
 
-5 min (2.4 miles)
-
-| Saturday | 10AM–9PM   |      |
-| -------- | ---------- | ---- |
-| Sunday   | 9:57AM–4PM |      |
 
 ### Walmart
 
