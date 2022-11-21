@@ -18,19 +18,7 @@ draft: false
 
 **(S)The Journey to El Dorado**: 5 Kingdom warriors pass through town on the way to a crypt that they heard about. While they are town, they tell tales of the surrounding countryside before venturing into the crypt.
 
-**(S) Retaking Stonewood**: 10 Module Series detailed on the right à
-
-**(S) Fears by Torchlight**: The Bloody Fist have had enough of these damn heroes, so they have decided to just set the town on fire to watch the suffering set in. Small squads of Bloody Fist will strike all over the town with Torches to try and burn down the Town of Stonewood in a very futile way.
-
-**(S) Fears by Torchlight 2**: Torchlight Boogaloo: The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute.
-
-**(S) Fatal Warning**: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading “Surrender or Burn”.
-
-**(S) [Ritual of Fire](https://snazzy-marshmallow-9e25ed.netlify.app/modules/ritual_of_fire/)**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
-
-**Reaction Modules**
-
-**Bonesaw’s Black Site**: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
+**(S) Retaking Stonewood**: 10 Module Series detailed below
 
 **Retaking Stonewood 10 Module Series**
 
@@ -53,3 +41,16 @@ draft: false
 **9. Holy Thunderforce (Scholars Guild):** The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
 
 **10. Unholy Warcry (Mausoleum):** The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+
+**(S) Fears by Torchlight**: The Bloody Fist have had enough of these damn heroes, so they have decided to just set the town on fire to watch the suffering set in. Small squads of Bloody Fist will strike all over the town with Torches to try and burn down the Town of Stonewood in a very futile way.
+
+**(S) Fears by Torchlight 2**: Torchlight Boogaloo: The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute.
+
+**(S) Fatal Warning**: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading “Surrender or Burn”.
+
+**(S) [Ritual of Fire](https://snazzy-marshmallow-9e25ed.netlify.app/modules/ritual_of_fire/)**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+
+**Reaction Modules**
+
+**Bonesaw’s Black Site**: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
+
