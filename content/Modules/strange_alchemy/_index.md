@@ -9,8 +9,6 @@ draft: false
 **Reviewed by:** Scott Bennett
 
 
-
-
  **Brief**: The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
 
 
