@@ -22,34 +22,52 @@ Event Registration closes the week before an event on Friday.
 - **Event Directors**: Stephen Dupree and Chris Colland
 - **Registration Deadline**: October 14
 - **Tavern Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+Tavern Content!
 
-  Tavern Content!
+Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
 
-  Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
+**Friday night:**
 
-  Friday night:
+-   Meatball Sandwiches DIY
 
-  Meatball Sandwiches DIY
 
-  Saturday:
+  **Saturday:**
 
   ***Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.
 
-  -Breakfast- 11ish
+ **Breakfast**- 11ish
 
-  Sausage gravy & Biscuits, Maple Berry baked oatmeal, Scrambled eggs, Pancakes
+- Sausage gravy & Biscuits
 
-  -Lunch- 2/3ish
+- Maple Berry baked oatmeal
 
-  Chili, Homestyle Mac and Cheese, Rice with fixins/sausage, veggies in some way.
+- Scrambled eggs
 
-  -Dinner- 6/7ish
+- Pancakes
 
-  Roast chicken, pork or turkey (haven't decided yet), roast veggies, loaded baked potato bar, some sort of lasagna meat free just in case 
+**Lunch**- 2/3ish
 
-  *My most crucial clean up volunteers will be at the conclusion of dinner time, so that I can get everything loaded in my car and head back to pick up my son. I think based on space, I'll need 2/3 people that know how to properly clean and dry. I know it becomes a popular cleanup request and I will be taking volunteers on a first come basis, based on who is standing in front of me when I need the help. I can't go searching for anyone on a sign up sheet.
+- Chili
 
-  
+- Homestyle Mac and Cheese
+
+- Rice with fixins/sausage
+
+- veggies in some way
+
+**Dinner**- 6/7ish
+
+- Roast chicken
+
+- pork or turkey (haven't decided yet)
+
+- roast veggies
+
+- loaded baked potato bar
+
+- some sort of lasagna meat free just in case 
+
+My most crucial clean up volunteers will be at the conclusion of dinner time, so that I can get everything loaded in my car and head back to pick up my son. I think based on space, I'll need 2/3 people that know how to properly clean and dry. I know it becomes a popular cleanup request and I will be taking volunteers on a first come basis, based on who is standing in front of me when I need the help. I can't go searching for anyone on a sign up sheet.
 
   {{% /expand%}}
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)

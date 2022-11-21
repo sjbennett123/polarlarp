@@ -103,20 +103,12 @@ NAPA Auto Parts in Ligonier
 
 ## Nearby Medical Care
 
-### Hospital - Excela Health Latrobe Hospital
+### Hospital - Nearest Hospital
 
-- **Address**: 1 Mellon Way, Latrobe, PA 15650
-- **Hours**: 24h
-- **Distance from Camp**: 36 min (23.5 miles)
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-Hospitals: It's essentially equidistant from 3 hospitals. There's one south, one northwest, one northeast.
-
-South: UPMC Somerset (closest, around 23 minute drive)
-
-Northeast: Conemaugh Memorial (around 27-30 minute drive) (in Johnstown)
-
-Northwest: Excela Health Latrobe (35 minutes)
+[Somerset Hospital](http://www.somersethospital.com/)
+225 South Center Avenue
+Somerset, PA 15501
+814-443-5000
 
 ### Urgent Care
 
