@@ -30,7 +30,7 @@ draft: false
 
 **4. Gilded Halls of Stonewood (Guild Hall)**: A disagreement over the Guild Halls treaty is stumbled in upon by the PCs, as they arrive, they hear the scream of a dwarf who has just been killed. The treaty has been broken and the Guild Hall will be ransacked.
 
-**5. A Stout for Legends (Brewery)**: The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
+**5. [A Stout for Legends](https://snazzy-marshmallow-9e25ed.netlify.app/modules/a_stout_for_legends/) (Brewery)**: The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
 
 **6. Broken, Beaten and Scarred (Barracks):** The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
 
