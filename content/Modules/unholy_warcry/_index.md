@@ -9,42 +9,58 @@ bookCollapseSection: true
 
 **Reviewed by:** Scott Bennett
 
-**Brief**: The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
+
+
+
+ **Brief**: The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+
+
 
 
  **Requirements:** 
 
-- Saturday Afternoon
+·    Saturday Afternoon
 
-- The Lumber Job module has been run
+·    Holy Thunderforce module has been run
 
+ 
 
-**Synopsis**: The Bloody Fist have come to the brewery and are drinking it dry! This band of Uruk’s are smashing everything and getting drunk, starting fights with each other. 
+**Synopsis**: The Bloody Fist have raised all forms of Undead Abominations for the PCs to deal. Balor Ironleaf comes stumbling into ground beat up and with Tainted Blood from trying to stop them himself. The Bloody Fist have completely abandoned the Mausoleum, Balor’s magic will only hold them in for a short while so the PCs must act quickly to hit them before they overflow to the city
+
+ 
 
 **Outcomes**: 
 
-1. The Brewery is cleared out and the ale is saved! These Bloody Fist have an extremely high alcohol tolerance and will get the whole camp drunk on Dwarven Ale if they are able. If the PCs save the Brewery, Balor Ironleaf will promise them a beer to be named after the act of heroism 
+(1) The Undead Abominations are defeated, and the corpses are returned to rest in their tombs. No citizens are harmed 
 
-2. The Brewery is drank dry! No more freely flowing spirit for the weekend in Stonewood! The people will drop in mood and morale if they hear the Brewery was emptied. This was their last way to feel hope in town. This is detailed in the section “No More Ale” 
-
+(2) The Undead Abominations overflow from the Mausoleum and start infecting the Townsfolk who remain. The Townsfolk will start changing into Undead at Sunset and attack the town till they are killed. This is detailed in the section “A Terrible Night to Have a Curse”
 
 **Rumors**:
 
-These scaled fools are drinking the Brewery down, even by Dwarven standards! I don’t know how they can walk after these indulgences, I am in envy personally. However, if something isn’t done soon, we will be into winter without spirits and that is a fate worse than death in a Dwarven city.
+The Mausoleum of Fallen Heroes in Stonewood has seen too many visitors for my liking as of late. They appear to be Dwarves but some larger cloaked figures are among them. I could just be paranoid but something in my years or service to Stonewood tells me something is afoot. Stones help us if it is what I think is happening comes true
+
+ 
 
 ~ Black Leaf, The Anvil Remembers Stonewood
 
-**Hook**: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures.
 
-**Number of Cast Members**: 7
 
-**Roles**: Bloody Fist Scout x2, Bloody Fist Grunt x4, Bloody Fist Raid Leader, Balor Ironleaf
 
-**Props**: Anything to represent a Brewery, mugs, barrels, crafting tools, hammers
+ **Hook**: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
 
-**Tags and Treasure**: Gems, Evaluate Items, Coins, Magic Item: Ring of Purify Blood x2 /day
+**Page**: yes
 
-**Scene 1**: (OOG) Mod Shack setup like a Brewery (IG) Brewery of Stonewood
+**Number of Cast Members**: 11
+
+**Roles**: Dwarven Vampire Lord, Dwarven Death Knight x4, Dwarven Undead Abominations x5, Balor Ironleaf
+
+**Props**: Anything to represent a Mausoleum, graves, bones, skeletons, Fog (if available), Low ambient lighting and Rope Lights
+
+**Tags and Treasure**: Gems, Evaluate Items, Coins, Potions of Cure Light Damage, Potions of Purify Blood, Components,
+
+**Magic Item**: Amulet of Destroy Undead 2/day x1
+
+**Scene 1**: (OOG) Mod Shack setup like a Mausoleum (IG) Mausoleum of Fallen Heroes in Stonewood
 
 **Flee Point**: (OOG) Door of mod shack (IG) Back to the streets of Stonewood
 
@@ -57,8 +73,8 @@ These scaled fools are drinking the Brewery down, even by Dwarven standards! I d
 **Transformations**: None
 
 
- **Running Notes**: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again.This is the midway point in the 10 module series where it starts to become challenging. 
 
-**Tactics**: The Raid Leader should stay back and command the Grunts and Scouts mainly but use gases if directly rushed. They are master of tactics and organization of thes brutes The NPCs will rest 2 times upon death and come from other parts of the Brewery to defend. **THE RAID LEADER DOES NOT RESET**. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for mid seasoned adventurers 
 
-~**The players will get the chance to name a beer in the game after their deeds. Balor Ironleaf will ask them to pick a name after the module if they succeed~**
+ **Running Notes**: 
+
+The Mausoleum is the final module in the Reclaiming Stonewood Arc. This module will be very challenging for the players. The Vampire Lord must be killed with a Stake of Woe or he will take his death count and respawn at Night. The status effects will be brutal on this module. The Death Knights will be Killing Blow Active should they have a chance to raise more Undead. The Vampire Lord will try to Arcane Vampire Charm PCs so kill their friends. The Abominations are shock troops, they will rush and try to kill who they can. The Death Knights Will rest 2 times and the Undead Abominations will reset 4 times. This module is designed for seasoned adventurers or the town to help. 
