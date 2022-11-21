@@ -7,20 +7,22 @@ draft: false
 **Written by:** Chris Colland
 
 **Reviewed by:** Scott Bennett
+
 **Brief**: The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
+
  **Requirements:** 
 
-·    Saturday Afternoon
+- Saturday Afternoon
 
-·    To Ward off Famine Module has been run
+- To Ward off Famine Module has been run
+
 
 **Synopsis**: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again. The Bloody Fist are researching Stonewood Dwarf craft and metallurgy. If left unchecked this will give Bloody Fist access to Dwarves craft. 
 
 **Outcomes**: 
 
-(1) The Forge is cleared out and recovered. No Bloody Fist can take these Dwarven secrets back to their masters. The Forges are relit in Stonewood. 
-
-(2) The Forges in Stonewood are sabotaged by the Bloody Fist and the secret of Stonewood metallurgy has fallen into the hands of the Oppressors.
+1. The Forge is cleared out and recovered. No Bloody Fist can take these Dwarven secrets back to their masters. The Forges are relit in Stonewood. 
+2. The Forges in Stonewood are sabotaged by the Bloody Fist and the secret of Stonewood metallurgy has fallen into the hands of the Oppressors.
 
 **Rumors**:
 
