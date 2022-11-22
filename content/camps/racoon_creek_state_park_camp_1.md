@@ -9,52 +9,22 @@ draft: false
 - [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - [State Park Website for Racoon Creek State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/RaccoonCreekStatePark/Pages/default.aspx)
 
-To look up directions, please use this address: Pennsylvania 18 & Raccoon Park Rd, Hanover, PA 15026
-
 # Event Locations & Directions 
 
 [![img](https://nebula.wsimg.com/99594a9c44cb74a764e3206f70091152?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)](https://nebula.wsimg.com/6bdac31b86eb040c60ef454ea7f794bc?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)
 
-PRO hosts 2-day and 3-day events at Raccoon Creek State Park, Camp 2 or 3. Additional event locations may be added for 1-day and Role Play day events. 
-
-Directions to Raccoon:
-
-From the Parkway West (I-376W)
-
-Take exit 60A to merge onto US-22 W/US-30 W toward Weirton (In the Robinson Township area)
-
-Continue to follow US-22 W
-
-Take the PA-18 exit toward Florence/Burgettstown
-
-Turn left onto PA-18 N
-
-You will be on PA-18 for a while before coming to the Park entrance. Rt. 18 will bear to the right, continue to follow Rt. 18. 
-
-You will eventually come to the park entrance. There is an entrance on the right and left. Take the entrance on the LEFT, and go past the Ranger Station (it will be on your right) and then follow signs for CAMP 2 or CAMP 3*. (You will follow both paved and unpaved roads to get to the camp site.)
-Once at the camp site, there is a parking area and check-in is located in the kitchen of the large building next to the parking lot.
-
-***Please check the Event Schedule for the correct Camp Location.**
 
 **Beds**: Just springs! Bring a mattress
 
-**Heat**: NOPE
+**Heat**: NOPE Note: Heaters are **not** permitted.
+
+Electrical: There will only be one electrical outlet and light in each cabin. (
 
 **Showers**: Skechy as hell
 
 **Bathrooms**: Communal bathrooms. BEWARE THE SPIDER!
 
-PCs allowed on site at 5 pm
 
-
-
-**Q: Where can I get food or other supplies off-site?**
-
-
-There is also a 24 hour Walmart for anyone needed last minute supplies.
-
-**Q: Where is the closest hospital if there is an emergency?**
-A: The Weirton Medical Center is located less than 20 minutes away. The award-winning University of Pittsburgh Medical Center (UPMC) is located about 1 hour from the camp site. 
 
 **Q: What are the camp site facilities like?**
 A. Cabins are assigned on a first come fist serve basis, except for buildings that are in a specific location In-Game. The cabins are two or four man cabins with beds that are wire springs or plywood boards with **no mattresses**, so please bring bedding. This is a summer camp site so there is no heat! There will only be one electrical outlet and light in each cabin. (Note: Heaters are **not** permitted.) It can get very cold at this site at night, especially during early spring or late fall events. We suggest bringing extra blankets, even if it looks like it will be warm enough. Also, the bathrooms and showers are in their own individual facilities. Please note that our camp site does not allow bird seed packets.
@@ -85,6 +55,7 @@ Local convenience store:
 | Sunday   | 9:57AM–4PM |      |
 
 ### Walmart
+There is also a 24 hour Walmart for anyone needed last minute supplies.
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
 - **Hours**: 6am - 11pm
@@ -145,6 +116,13 @@ NAPA Auto Parts in Ligonier
 
 
 ## Nearby Medical Care
+
+**Q: Where is the closest hospital if there is an emergency?**
+A: The Weirton Medical Center is located less than 20 minutes away. The award-winning University of Pittsburgh Medical Center (UPMC) is located about 1 hour from the camp site. 
+
+
+
+
 
 ### Hospital - Excela Health Latrobe Hospital
 
