@@ -15,7 +15,7 @@ Event Registration closes the week before an event on Friday.
 
 
 
-### **December 2 **2022
+### December 2, 2022
 
 - **Event Type**: Weekend Event
 
@@ -43,7 +43,7 @@ Event Registration closes the week before an event on Friday.
 
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
 
-### **January 14  AT 2PM  - 8PM**
+### January 14 2023
 
 - **Event Type**: Feast
 
@@ -84,7 +84,7 @@ Event Registration closes the week before an event on Friday.
 
 ## Past Events
 
-### **October 21 AT 9 PM - October 23 AT 2 AM**
+### October 21 2022
 
 - **In Game Location**: [Stonewood](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
 
