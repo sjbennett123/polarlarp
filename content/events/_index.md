@@ -13,26 +13,17 @@ Event Registration closes the week before an event on Friday.
 
 ## Events:
 
-
-
 ### December 2, 2022
 
 - **Event Type**: [Weekend Event](https://snazzy-marshmallow-9e25ed.netlify.app/events/#weekend-events)
-
 - **In Game Location**: [Simoondale Mines](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
-
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
-
 - **Event Director**: Donnie Leight
-
 - **Registration Deadline**: November 25
-
-- **PC Onsite**:  December 2 AT 5 PM 
-
-- **Game Start**: December 2 AT 9 PM 
-
-- **Game End** - December 4 AT 2 AM
-
+- **PC Onsite**:  December 2, 5 PM 
+- **Game Start**: December 2, 9 PM 
+- **Game End** - December 4, 2 AM
+- **PC Offsite**:  December 4, 11 AM
 - **Tavern Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
 
   
@@ -46,21 +37,14 @@ Event Registration closes the week before an event on Friday.
 ### January 14 2023
 
 - **Event Type**: Feast
-
 - **In Game Location**: [Simoondale Mines](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
-
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
-
 - **Event Director**: Donnie Leight
-
 - **Registration Deadline**: November 25
-
 - **PC Onsite**:  January 14 
-
 - **Game Start**: January 14
-
-- **Game End** - January 14
-
+- **Game End**: January 14
+- **PC Offsite**:  January 14
 - **Feast Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
 
   
@@ -93,15 +77,11 @@ Event Registration closes the week before an event on Friday.
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
 
 - **Event Directors**: Stephen Dupree and Chris Colland
-
 - **Registration Deadline**: October 14
-
-- **PC Onsite**:  October 21 AT 5 PM 
-
-- **Game Start**: October 21  AT 9 PM 
-
-- **Game End**: October 23 AT 2 AM
-
+- **PC Onsite**:  October 21, 5 PM 
+- **Game Start**: October 21, 9 PM 
+- **Game End**: October 23, 2 AM
+- **PC Offsite**: December 2, 5 PM 
 - **Food**:   {{%expand "Tavern Menu" %}} 
 
   Please let us know about any considerations we need to take into account.
