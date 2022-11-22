@@ -13,7 +13,8 @@ bookCollapseSection: true
 **Movement**: Unlike your Murumbrian enemies, you have feet but the flow of time in this transformed state has prevented you from quick movement. You walk at a steady pace and will not increase since Time is warped around you-Move very robotically.  Make your body turns and head movements very slow and robotic while you are patrolling. 
 
 **Speech**: When you are questioned reply with “Move along Citizen, there is Law to be upheld.” When you are engaged in combat reply with “Violators of the Accords shall be subjected to suffering!”
- **Body**: 350
+
+**Body**: 350
 
 **Defensives**: No Metabolism, Phase x10, Dodge x5, Immune to Pin/Web/Bind/Confine/Imprison, Immune to Charm/Command, Healed by Light and Time, Double Taken from Darkness
 
