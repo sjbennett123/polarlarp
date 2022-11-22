@@ -71,9 +71,10 @@ Near the entrance to camp if you forgot anything or need a last minute pickup.  
 - **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
 - **Hours**: 6AM–10:30PM
 - **Distance from Camp**: 11 min (4.9 miles)
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-Also, that's not the closest food, there's also https://goo.gl/maps/SqpXKopvHXfXF3yf9 and https://goo.gl/maps/nieAiYzfQm5b1PEy5
+### The Fat Squirrel Restaurant
+-  https://goo.gl/maps/SqpXKopvHXfXF3yf9 
+### and 
+-  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
 ## Nearby Car Repair
 
