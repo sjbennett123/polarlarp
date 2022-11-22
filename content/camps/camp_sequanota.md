@@ -139,16 +139,16 @@ the campsite is essentially equidistant from 3 hospitals.
 
 There are 3 in Johnstown (which is slightly further) within a mile of each other: 
 
-Medwell
+### Medwell
 24 minutes drive
  are open until 8, 
 https://goo.gl/maps/BQu3SgZnLDqFjaTZ9 is Medwell,
 
-MedExpress
+### MedExpress
 24 minutes drive
  are open until 8, 
 
-iCare
+### iCare
 24 minutes drive
 iCare is open til 6.
 there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
@@ -162,8 +162,6 @@ there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
 - **Distance from Camp**: : 17 minutes south,
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-
-
 ### Giant Eagle Pharmacy
 
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
@@ -176,8 +174,3 @@ http://www.jennerstownboro.com/services.html
 
 - **Non- emergency fire**: 814-629-5371
 - **Non- emergency police**: 814-703-8138
-
-
-
-
-
