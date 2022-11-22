@@ -11,6 +11,8 @@ These are more than staff positions; these positions grow and determine where PO
 
 250 GS / Month
 
+There are 5 voting members and 2 trustees. If there is a vote the members vote but if one of them cannot make it the trustees can vote in their stead. 
+
 - John Thompson - President
 - Stephen Dupree - Vice President
 - Treasurer - Dr. Kimberly Dupree 

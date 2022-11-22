@@ -17,6 +17,8 @@ Anything on the hill to the right will not be used at this event.
 
 **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
 
+**Electrical**: The stone cabins are very well heated with a huge heat blower in them. 
+
 **Showers**: Each cabin has 2 showers
 
 **Bathrooms**: Each cabin has it's own bathroom.
@@ -140,13 +142,14 @@ The campsite is essentially equidistant from 3 hospitals.
 There are 3 in Johnstown (which is slightly further) within a mile of each other: 
 
 ### Medwell
-24 minutes drive
- are open until 8, 
-https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
+- **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
+- **Hours**: open til 8pm
+- **Distance from Camp**: 24 minutes drive
+- https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 ### MedExpress
-24 minutes drive
- are open until 8, 
+- **Distance from Camp**: 24 minutes drive
+- **Hours**:  are open until 8, 
 
 ### iCare
 24 minutes drive
