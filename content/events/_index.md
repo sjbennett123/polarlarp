@@ -17,7 +17,7 @@ Event Registration closes the week before an event on Friday.
 
 ### December 2, 2022
 
-- **Event Type**: Weekend Event
+- **Event Type**: [Weekend Event](https://snazzy-marshmallow-9e25ed.netlify.app/events/#weekend-events)
 
 - **In Game Location**: [Simoondale Mines](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
 
@@ -86,6 +86,8 @@ Event Registration closes the week before an event on Friday.
 
 ### October 21 2022
 
+- **Event Type**: [Weekend Event](https://snazzy-marshmallow-9e25ed.netlify.app/events/#weekend-events)
+
 - **In Game Location**: [Stonewood](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
 
 - **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
@@ -98,7 +100,7 @@ Event Registration closes the week before an event on Friday.
 
 - **Game Start**: October 21  AT 9 PM 
 
-- **Game End** - - October 23 AT 2 AM
+- **Game End**: October 23 AT 2 AM
 
 - **Food**:   {{%expand "Tavern Menu" %}} 
 
@@ -152,6 +154,3 @@ My most crucial clean up volunteers will be at the conclusion of dinner time, so
   {{% /expand%}}
 
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
-
-
-
