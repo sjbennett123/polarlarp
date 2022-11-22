@@ -13,13 +13,11 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow
 
-**Heat**: The stone cabins are very well heated with the huge heat blower in them. 
+**Heat**: The stone cabins are very well heated with a huge heat blower in them. 
 
 **Showers**: Each cabin has 2 showers
 
 **Bathrooms**: Each cabin has it's own bathroom.
-
-PCs allowed on site at 5 pm
 
 **Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
 
@@ -49,7 +47,7 @@ Near the entrance to camp if you forgot anything or need a last minute pickup.  
 - Saturday 10AM–9PM , Sunday 9:57AM–4PM
 - https://goo.gl/maps/fsHToMPtj3vYnvws7
 
- Local convenience store:
+ Local convenience store
 
 
 ### Walmart
@@ -79,7 +77,7 @@ Also, that's not the closest food, there's also https://goo.gl/maps/SqpXKopvHXfX
 
 ## Nearby Car Repair
 
-Car repair: Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
+Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
 
 ### Walmart
 
@@ -87,28 +85,40 @@ Car repair: Most places are closed on the weekends nearby here, your best bet fo
 - **Hours**: 6am - 11pm
 - **Distance from Camp**: 18 min (11.5 miles)
 
-NAPA Auto Parts in Ligonier
+**NAPA Auto Parts in Ligonier**
 
-**[Address](https://www.google.com/search?rlz=1C1ONGR_enUS1014US1014&sxsrf=ALiCzsaWpMwGqHe8AuU9DiLZTpue7f-qgw:1668892843489&q=napa+auto+parts+-+fayette+parts+service+ligonier+address&ludocid=2976788055961257556&sa=X&ved=2ahUKEwiZqeqolrv7AhUaF2IAHS9pAOMQ6BN6BAhdEAI):** 324 E Main St, Ligonier, PA 15658
-
-
+- **Address**: 324 E Main St, Ligonier, PA 15658
+- **Hours**: 
+- **Distance from Camp**: 
 
 ## Nearby Medical Care
 
-### Hospital - Excela Health Latrobe Hospital
+### Hospital 
+
+Hospitals: It's essentially equidistant from 3 hospitals.
+
+- south(UPMC Somerset) 
+- northwest (Excela Health Latrobe Hospital) 
+- northeast (Conemaugh Memorial ) 
+
+### Excela Health Latrobe Hospital
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: 36 min (23.5 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-Hospitals: It's essentially equidistant from 3 hospitals. There's one south, one northwest, one northeast.
+UPMC Somerset 
 
-South: UPMC Somerset (closest, around 23 minute drive)
+- **Address**: 1 Mellon Way, Latrobe, PA 15650
+- **Hours**: 24h
+- **Distance from Camp**: (closest, around 23 minute drive)
 
-Northeast: Conemaugh Memorial (around 27-30 minute drive) (in Johnstown)
+Conemaugh Memorial 
 
-Northwest: Excela Health Latrobe (35 minutes)
+- **Address**: 1 Mellon Way, Latrobe, PA 15650
+- **Hours**: 24h
+- **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 
 ### Urgent Care
 
@@ -118,8 +128,6 @@ MedExpress  (by UPMC Somerset)
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-
 
 There are 3 in Johnstown (which is slightly further) within a mile of each other: https://goo.gl/maps/BQu3SgZnLDqFjaTZ9 is Medwell, there's also MedExpress and iCare, 24 minutes drive, Medwell and MedExpress are open until 8, iCare is open til 6.
 
@@ -134,7 +142,11 @@ Walmart Pharmacy
 
 
 
-Giant Eagle Pharmacy: 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
+Giant Eagle Pharmacy
+
+- **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
+- **Hours**:
+- **Distance from Camp**: : 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
 
 ## Jennerstown Borough Services:
 
