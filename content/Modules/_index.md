@@ -10,7 +10,7 @@ draft: false
 
 **(F) [The Changed Ones](https://snazzy-marshmallow-9e25ed.netlify.app/modules/the_changed_ones/)**: A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards from Hoyle!
 
-**(F) [Don't Talk to Strangers](https://snazzy-marshmallow-9e25ed.netlify.app/modules/dont_talk+to_strangers/)**: A bound willowisp lures adventurers into a trap.
+**(F) [Don't Talk to Strangers](https://snazzy-marshmallow-9e25ed.netlify.app/modules/dont_talk_to_strangers/)**: A bound willowisp lures adventurers into a trap.
 
 **(F) Where There is Fire**: A Shepard enlists the adventurers help in dealing with a threat to his flock. 
 
