@@ -1,13 +1,12 @@
 ---
-title: "Mayor Anak “Lil Bristle” Durag"
+title: "Durmac Leafdancer"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 hidden: false
 bookCollapseSection: true
 ---
 
-The Changed Ones: Durmac Leafdancer
- former Towns Guard of Stonewood, now Mayors Aide
+ Former Town Guard of Stonewood, now Mayors Aide
 
 *You used to be a proud Town Guard of Stonewood but the Bloody Fist stripped you of your job! You were a Dwarf of common birth, but your deeds earned you a place on the guard. You never were the best in a fight, but your skills with words earned you respect among your comrades. Mayor Anak felt awful your job was erased by the Bloody Fist via the Accords, so as compensation he made you his personal aide to the Town of Stonewood which you have conflicted views on but its better than being broke.*
 
