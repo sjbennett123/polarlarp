@@ -93,7 +93,7 @@ Most places are closed on the weekends nearby here, your best bet for weekend se
 - **Hours**: 6am - 11pm
 - **Distance from Camp**: 18 min (11.5 miles)
 
-### NAPA Auto Parts in Ligonier**
+### NAPA Auto Parts in Ligonier
 
 - **Address**: 324 E Main St, Ligonier, PA 15658
 - **Hours**: 
@@ -103,9 +103,9 @@ Most places are closed on the weekends nearby here, your best bet for weekend se
 
 ### Hospital 
 
-the campsite is essentially equidistant from 3 hospitals.
+The campsite is essentially equidistant from 3 hospitals.
 
-- south(UPMC Somerset) 
+- south (UPMC Somerset) 
 - northwest (Excela Health Latrobe Hospital) 
 - northeast (Conemaugh Memorial ) 
 
@@ -142,7 +142,7 @@ There are 3 in Johnstown (which is slightly further) within a mile of each other
 ### Medwell
 24 minutes drive
  are open until 8, 
-https://goo.gl/maps/BQu3SgZnLDqFjaTZ9 is Medwell,
+https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 ### MedExpress
 24 minutes drive

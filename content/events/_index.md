@@ -26,10 +26,6 @@ Event Registration closes the week before an event on Friday.
 - **PC Offsite**:  December 4, 11 AM
 - **Tavern Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
 
-  
-
-  
-
   {{% /expand%}}
 
 - [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
@@ -46,10 +42,6 @@ Event Registration closes the week before an event on Friday.
 - **Game End**: January 14
 - **PC Offsite**:  January 14
 - **Feast Menu**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
-
-  
-
-  
 
   {{% /expand%}}
 
