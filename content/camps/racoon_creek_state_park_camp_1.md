@@ -4,18 +4,14 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-- **Address**: 368 Sequanota Rd, Jennerstown, PA 15547
+- **Address**: 3000 State Route 18 Hookstown, PA 15050
 - **GPS**: 40.17949564028885, -79.10447822702073
 - [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - [sequanota.com](https://sequanota.com/)
 
-Pittsburgh Roleplaying Organization
 
-Raccoon Creek State Park
 
-3000 State Route 18
 
-Hookstown, PA 15050
 
 
 
@@ -49,8 +45,6 @@ You will eventually come to the park entrance. There is an entrance on the right
 Once at the camp site, there is a parking area and check-in is located in the kitchen of the large building next to the parking lot.
 
 ***Please check the Event Schedule for the correct Camp Location.**
-
-
 
 **Beds**: Just springs! Bring a mattress
 

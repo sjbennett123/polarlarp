@@ -32,7 +32,7 @@ draft: false
 
 **5. [A Stout for Legends](https://snazzy-marshmallow-9e25ed.netlify.app/modules/a_stout_for_legends/) (Brewery)**: The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
 
-**6. Broken, Beaten and Scarred (Barracks):** The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
+**6. [Broken, Beaten and Scarred](https://snazzy-marshmallow-9e25ed.netlify.app/modules/broken_beaten_and_scarred/) (Barracks):** The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
 
 **7. Rage for Order (Town Hall)**: The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
 
