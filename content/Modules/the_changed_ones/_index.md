@@ -31,7 +31,7 @@ weight: 1
 
 **Number of Cast Members**: 12 If you do not have 12 characters the townspeople are in order of precedence. 
 
-**Roles**: 3 Hoylean Wizards, 3 Hoylean Marauders, Magnus Kane, Mayor Anak Durag, Durmac Leafdancer, Thorum Fairoak, Ari-elle Startear, Haddix Strongbow
+**Roles**: 3 [Hoylean Sorcerer](https://snazzy-marshmallow-9e25ed.netlify.app/modules/the_changed_ones/roles/hoylean_sorcerer/), 3 [Hoylean Marauders](https://snazzy-marshmallow-9e25ed.netlify.app/modules/the_changed_ones/roles/hoylean_marauder/), Magnus Kane, Mayor Anak Durag, Durmac Leafdancer, Thorum Fairoak, Ari-elle Startear, Haddix Strongbow
 
 **Props**: Altar of Power, Hoylean costumes, Blue Glowing Eyes, Dwarf Townsfolk costuming, Hoylean Necklaces for Altar, Named NPC Costuming
 
