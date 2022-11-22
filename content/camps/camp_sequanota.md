@@ -71,8 +71,11 @@ Near the entrance to camp if you forgot anything or need a last minute pickup.  
 - **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
 - **Hours**: 6AM–10:30PM
 - **Distance from Camp**: 11 min (4.9 miles)
+
 ### The Fat Squirrel Restaurant
+- 1302 W Pitt St, Jennerstown, PA 15547
 -  https://goo.gl/maps/SqpXKopvHXfXF3yf9 
+
 ### and 
 -  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
@@ -96,7 +99,7 @@ Most places are closed on the weekends nearby here, your best bet for weekend se
 
 ### Hospital 
 
-Hospitals: It's essentially equidistant from 3 hospitals.
+the campsite is essentially equidistant from 3 hospitals.
 
 - south(UPMC Somerset) 
 - northwest (Excela Health Latrobe Hospital) 
@@ -109,13 +112,13 @@ Hospitals: It's essentially equidistant from 3 hospitals.
 - **Distance from Camp**: 36 min (23.5 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-UPMC Somerset 
+### UPMC Somerset 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: (closest, around 23 minute drive)
 
-Conemaugh Memorial 
+### Conemaugh Memorial 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
@@ -123,7 +126,7 @@ Conemaugh Memorial
 
 ### Urgent Care
 
-MedExpress  (by UPMC Somerset)
+### MedExpress  (by UPMC Somerset)
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
 - **Hours**: open til 8pm
