@@ -7,21 +7,11 @@ draft: false
 - **Address**: 3000 State Route 18 Hookstown, PA 15050
 - **GPS**: 40.17949564028885, -79.10447822702073
 - [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-- [sequanota.com](https://sequanota.com/)
-
-
-
-
-
-
+- [State Park Website for Racoon Creek State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/RaccoonCreekStatePark/Pages/default.aspx)
 
 To look up directions, please use this address: Pennsylvania 18 & Raccoon Park Rd, Hanover, PA 15026
 
-
-
 # Event Locations & Directions 
-
-
 
 [![img](https://nebula.wsimg.com/99594a9c44cb74a764e3206f70091152?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)](https://nebula.wsimg.com/6bdac31b86eb040c60ef454ea7f794bc?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)
 
@@ -56,11 +46,12 @@ Once at the camp site, there is a parking area and check-in is located in the ki
 
 PCs allowed on site at 5 pm
 
-**Q: Are there any hotels nearby?**
-A: There are several hotels located just beyond the Pennsylvania boarder in Weirton, WV, which is less than 20 minutes from the camp site. The hotels include Holiday Inn, Comfort Inn, and Fairfield Inn & Suites. 
+
 
 **Q: Where can I get food or other supplies off-site?**
-A: Also located in Weirton, WV are a variety of restaurants and stores, including McDonalds, Wendy's, Sheetz and Eat N' Park (local chain open 24/7). There is also a 24 hour Walmart for anyone needed last minute supplies.
+
+
+There is also a 24 hour Walmart for anyone needed last minute supplies.
 
 **Q: Where is the closest hospital if there is an emergency?**
 A: The Weirton Medical Center is located less than 20 minutes away. The award-winning University of Pittsburgh Medical Center (UPMC) is located about 1 hour from the camp site. 
@@ -101,15 +92,34 @@ Local convenience store:
 - [Walmart : Google Maps](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
 
 ## Nearby Food
+A: Also located in Weirton, WV are a variety of restaurants and stores, including
+McDonalds,
+Wendy's, 
+Sheetz and 
+Eat N' Park (local chain open 24/7). 
 
-### Coal Miner's Diner
+### McDonalds
 
 - **Address**: 1640 US-30, Jennerstown, PA 15547
 - **Hours**: 7:30AM - 8PM
 - **Distance from Camp**: 
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-### Burger King
+### Wendy's
+
+- **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
+- **Hours**: 6AM–10:30PM
+- **Distance from Camp**: 11 min (4.9 miles)
+- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+
+### Sheetz
+
+- **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
+- **Hours**: 6AM–10:30PM
+- **Distance from Camp**: 11 min (4.9 miles)
+- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+
+- ### Eat N' Park
 
 - **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
 - **Hours**: 6AM–10:30PM
@@ -173,9 +183,10 @@ Walmart Pharmacy
 - **Distance from Camp**: : 17 minutes south,
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-
-
 Giant Eagle Pharmacy: 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
+
+**Nearby hotels**
+A: There are several hotels located just beyond the Pennsylvania boarder in Weirton, WV, which is less than 20 minutes from the camp site. The hotels include Holiday Inn, Comfort Inn, and Fairfield Inn & Suites. 
 
 ## Jennerstown Borough Services:
 

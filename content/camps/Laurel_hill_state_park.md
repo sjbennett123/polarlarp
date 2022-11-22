@@ -8,10 +8,9 @@ draft: false
 - **GPS**: Lat. 40.01023 Long. -79.2244
 - [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - [PA State Park Website](https://www.dcnr.pa.gov/StateParks/FindAPark/LaurelHillStatePark/Pages/default.aspx)
-
-Phone: 814-445-7725 Manager: Michael Mumau [laurelhillsp@pa.gov](mailto:laurelhillsp@pa.gov) An equal opportunity employer
-
-
+- **Campsite Phone**: 814-445-7725 
+- **Campsite Manager**: Michael Mumau
+-  [laurelhillsp@pa.gov](mailto:laurelhillsp@pa.gov) 
 
 **Beds**: Just springs! Bring a mattress
 
@@ -20,8 +19,6 @@ Phone: 814-445-7725 Manager: Michael Mumau [laurelhillsp@pa.gov](mailto:laurelhi
 **Showers**: Skechy as hell
 
 **Bathrooms**: Communal bathrooms. BEWARE THE SPIDER!
-
-PCs allowed on site at 5 pm
 
 **Q: Are there any hotels nearby?**
 A: There are several hotels located just beyond the Pennsylvania boarder in Weirton, WV, which is less than 20 minutes from the camp site. The hotels include Holiday Inn, Comfort Inn, and Fairfield Inn & Suites. 
