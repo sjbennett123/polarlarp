@@ -17,8 +17,6 @@ Anything on the hill to the right will not be used at this event.
 
 **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
 
-**Electrical**: The stone cabins are very well heated with a huge heat blower in them. 
-
 **Showers**: Each cabin has 2 showers
 
 **Bathrooms**: Each cabin has it's own bathroom.
@@ -31,6 +29,8 @@ Anything on the hill to the right will not be used at this event.
 - additional payment to make up the difference between the paying customers and the ($480.00) price tag. 
 
 POLAR thinks this gives the option to still reserve the cabins and make the payment on the cabin. If anyone would like to reserve a cabin, please contact me directly and I will set it up.
+
+---
 
 ## Nearby Supplies
 
@@ -61,6 +61,8 @@ Great for snacks, bottled water or a last minute energy drink.
 - **Distance from Camp**: 18 min (11.5 miles)
 - [Walmart : Google Maps](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
 
+---
+
 
 ## Nearby Food
 
@@ -85,6 +87,8 @@ Great for snacks, bottled water or a last minute energy drink.
 
 -  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
+---
+
 ## Nearby Car Repair
 
 Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
@@ -100,6 +104,8 @@ Most places are closed on the weekends nearby here, your best bet for weekend se
 - **Address**: 324 E Main St, Ligonier, PA 15658
 - **Hours**: 
 - **Distance from Camp**: 
+
+---
 
 ## Nearby Medical Care
 
@@ -148,8 +154,9 @@ There are 3 in Johnstown (which is slightly further) within a mile of each other
 - https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 ### MedExpress
-- **Distance from Camp**: 24 minutes drive
-- **Hours**:  are open until 8, 
+
+24 minutes drive
+ are open until 8, 
 
 ### iCare
 24 minutes drive
@@ -170,6 +177,8 @@ there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
 - **Hours**:
 - **Distance from Camp**: : 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
+
+---
 
 ## Jennerstown Borough Services:
 
