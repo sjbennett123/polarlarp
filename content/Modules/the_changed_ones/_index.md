@@ -6,6 +6,12 @@ bookCollapseSection: true
 weight: 1
 ---
 
+**Written by:** Chris Colland
+
+**Reviewed by:** Scott Bennett
+
+---
+
 **Brief**: A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards from Hoyle!
 
 ------
