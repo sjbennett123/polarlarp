@@ -76,7 +76,8 @@ Near the entrance to camp if you forgot anything or need a last minute pickup.  
 - 1302 W Pitt St, Jennerstown, PA 15547
 -  https://goo.gl/maps/SqpXKopvHXfXF3yf9 
 
-### and 
+### Flyin Lion Pub & Eatery
+
 -  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
 ## Nearby Car Repair
