@@ -6,9 +6,9 @@ weight: 1
 ---
 
 - **Address**: 368 Sequanota Rd, Jennerstown, PA 15547
-- **GPS**: 40.17949564028885, -79.10447822702073
+- **GPS**: USE THIS FOR DIRECTIONS!  [40.17949564028885, -79.10447822702073](https://www.google.com/maps/place/40%C2%B010'46.2%22N+79%C2%B006'16.1%22W/@40.1794423,-79.1044272,18z/data=!4m5!3m4!1s0x0:0x70219bac23d895df!8m2!3d40.1794956!4d-79.1044782)
 - [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-- [sequanota.com](https://sequanota.com/)
+- **Website**: [sequanota.com](https://sequanota.com/)
 
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the Camp area. You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the  tavern and module building. Check in also takes place in this building. 
 
@@ -26,10 +26,8 @@ Anything on the hill to the right will not be used at this event.
 
 **Reserving Cabins:** To reserve a cabin, one of two things must be met. 
 
-- 8 paying customers ($480.00 in attendance fees) in the cabin
-- additional payment to make up the difference between the paying customers and the ($480.00) price tag. 
-
-POLAR thinks this gives the option to still reserve the cabins and make the payment on the cabin. If anyone would like to reserve a cabin, please contact me directly and I will set it up.
+- 8 paying customers ($480.00 in attendance fees) in the cabin for the 8 beds. 
+- Additional payment to make up the difference between the paying customers and the ($480.00) price tag for the cabin. 
 
 ---
 
@@ -85,6 +83,9 @@ Local convenience store
 
 ### Flyin Lion Pub & Eatery
 
+-  **Address**:
+-  **Hours**: 
+-  **Distance from Camp**: 
 -  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
 ---
@@ -109,13 +110,13 @@ Most places are closed on the weekends nearby here, your best bet for weekend se
 
 ## Nearby Medical Care
 
-### Hospital 
+### Hospitals
 
-The campsite is essentially equidistant from 3 hospitals. You might need to ask about insurance
+The campsite is essentially equidistant from 3 hospitals. You might need to ask about insurance. 
 
-- south (UPMC Somerset) 
-- northwest (Excela Health Latrobe Hospital) 
-- northeast (Conemaugh Memorial ) 
+- South (UPMC Somerset) 
+- Northwest (Excela Health Latrobe Hospital) 
+- Northeast (Conemaugh Memorial ) 
 
 ### Excela Health Latrobe Hospital
 
@@ -137,7 +138,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 
 ### Urgent Care
-The closest is the Medexpress by UPMC somerset but there are 3 in Johnstown (which is slightly further) within a mile of each other. 
+The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
 ### MedExpress  (by UPMC Somerset)
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
