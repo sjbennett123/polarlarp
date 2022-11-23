@@ -95,9 +95,11 @@ Local convenience store
 
 #### Flyin Lion Pub & Eatery
 
--  **Address**:
--  **Hours**: 
--  **Distance from Camp**: 
+-  **Address**: 1498 W Pitt St, Jennerstown, PA 15547
+-  **Hours**: 4–9PM
+-  Phone: +18147038177
+-  Website: http://www.flyinlionpubandeatery.com/
+-  **Distance from Camp**: 6 min (2.4 miles)
 -  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
 ---
@@ -106,7 +108,7 @@ Local convenience store
 
 Most places are closed on the weekends nearby , your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier.
 
-Walmart
+#### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
 - **Phone**:
@@ -114,7 +116,7 @@ Walmart
 - **Distance from Camp**: 18 min (11.5 miles)
 - 
 
-NAPA Auto Parts in Ligonier
+#### NAPA Auto Parts in Ligonier
 
 - **Address**: 324 E Main St, Ligonier, PA 15658
 - **Hours**: 
