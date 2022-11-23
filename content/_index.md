@@ -19,9 +19,9 @@ Yes.
 
  Also Yes.
 
-**What I don't use Facebook for reasonable Ethical and privacy related concerns?** 
+**What if I don't use Facebook for reasonable ethical and privacy related concerns?** 
 
-Maybe you should get bent.
+Get bent.
 
 {{% /expand%}}
 
@@ -50,7 +50,7 @@ please change your in server name(nickname) into your first name and last name s
 Message #announcements{{% /expand%}}
 
 ## [New Player Information]()  
-{{%expand "Issue1" %}}
+{{%expand "FAQ" %}}
 
 **Can I read a rulebook?** 
 
