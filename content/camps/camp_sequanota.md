@@ -53,7 +53,7 @@ Great for snacks, bottled water or a last minute energy drink.
 - **Address**: 1598 W Pitt St, Jennerstown, PA 15547
 - **Phone**:  (814) 629-5577
 - **Distance from Camp:** 4 min (1.6 miles)
-- Saturday 10AM–9PM , Sunday 9:57AM–4PM
+- **Hours**: Saturday 10AM–9PM , Sunday 9:57AM–4PM
 - [Country Snack Shak : Google Maps](https://goo.gl/maps/fsHToMPtj3vYnvws7)
 
 Local convenience store
@@ -184,15 +184,17 @@ The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type 
 #### Walmart Pharmacy
 
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
-- **Hours**:
-- **Distance from Camp**: : 17 minutes south,
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **Phone**: (814) 443-6963
+- **Hours**: Friday 9AM–8PM Saturday 9AM–7PM Sunday 10AM–6PM
+- **Distance from Camp**: 17 minutes south
+- [Walmart Pharmacy : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
 #### Giant Eagle Pharmacy
 
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
 - **Hours**:
-- **Distance from Camp**: : 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
+- **Distance from Camp**: : 17 minutes northwest
+- [Giant Eagle Pharmacy : Google Maps](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
 
 ---
 
