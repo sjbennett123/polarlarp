@@ -201,8 +201,9 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 #### Giant Eagle Pharmacy
 
-- **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
-- **Hours**:
+- **Address**:  117 S Walnut St, Ligonier, PA 15658
+- **Phone**: (724) 238-0342
+- **Hours**: - Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
 - **Distance from Camp**: : 17 minutes northwest
 - [Giant Eagle Pharmacy : Google Maps](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
 
