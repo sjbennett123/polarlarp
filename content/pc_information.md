@@ -8,7 +8,7 @@ weight: 1
 
 ------
 
-## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
 {{%expand "FAQ" %}}
 
 **Is Mark Zuckerbeg and asshole?**

@@ -349,7 +349,7 @@ The next section of this book lists the various races other than human. If playi
 
 | Race            | Advantages            | Disadvantages |
 | --------------- | --------------------- | ---- |
-| Barbarian       | +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
+| Barbarian       |  +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
 | Biata           | Break Charm: 2BP<br />Resist Charm: 3BP<br />Resist Sleep: 2BP<br /> | Cannot buy Read Magic |
 | Drae            | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -2 Body Points during the day<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
 | Dwarf           | +1 Body Point to Start<br />Resist Poison: 4BP<br />-1 Cost for Smithing<br /> | Double cost for Read Magic<br />Cannot use Polearm<br />Cannot use Staff<br />Cannot use Two Handed Blunt<br /> |

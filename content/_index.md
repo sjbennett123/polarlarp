@@ -7,18 +7,21 @@ weight: 1
 
 [PC INFORMATION CLICK HERE](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
 
-## Trello - Prop tracking
+## [Trello - Prop tracking](https://trello.com/b/A6eLvFdV/polar-props)
 
-Make sure your props are on the list!
+- Make sure your props are on the list!
+
 
 ## Dropbox - Module Writeups for feedback
 
-Don't delete other people's stuff. I'm looking at your Ken Courtney!
+- Don't delete other people's stuff. **I'm looking at your Ken Courtney!**
 
-## Google Hangouts - for weekly checkins
 
-Use a real webcam.
+## [Google Hangouts - for weekly checkins](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
+- Use a real webcam.
+
+- Tuesdays from 8 PM - 9 PM
 
 
 ---
@@ -29,17 +32,17 @@ Use a real webcam.
 - Drink Water and Eat
 - Pace Yourself
 
-**We are the face of the event. We need to hold ourselves to a higher standard.** 
+**We are the face of the event. We hold ourselves to a higher standard.** 
 
 - Be respectful
-- don't enable bad behavior
-- focus on the small stuff
-- be dramatic
+- Don't enable bad behavior.
+- Focus on the small stuff. 
+- Be dramatic when playing your roles
 
 **Tour of NPC Shack**: As we run the game everyone is going to need to know the organization of the NPC Shack and help keep it easy to find things and use. This organization is a work in progress and after the event we should discuss any improvement ideas you have. The stuff here was donated please be considerate and help make it last.
 
 - **Costumes**: when you are done make sure the costume is put away.
-- **Belts;** when you are using a tabard wear a belt.
+- **Belts**: when you are using a tabard wear a belt.
 - **Masks**: when you are done using a mask wipe it down so it does not get anyone sick.
 - **Packets**: after fights don't mix wet packets back in with the fresh packets. it will cause them to decompose. 
 
@@ -47,10 +50,10 @@ Use a real webcam.
 
 **Overview of writeups**: This event may be different than many of you are used to, we have a lot more structure and writing than you have probably seen in the past. This might seem stifling, but we hope that we can convince you that can make for great experience for both you and the players.
 
-- Overview
-- Monster cards
-- Lore
-- Advice
+- Overview:
+- Monster Cards:
+- Lore:
+- Advice:
 
 **Overview of Setting**: 
 
@@ -58,15 +61,15 @@ Use a real webcam.
 
 **Overview of Factions**: The story we are telling this weekend focuses around two main factions. 
 
-- **Bloody Fist Orcs**-Brutal orcs that have magical backing that are now getting vengeance for a long-forgotten war.
-- **Stonewood Dwarves** - Cowed dwarves that have been dominated by the bloody fist for the past year. The Stonewood Dwarves are detailed in the booklet “On the Stonewood Dwarves” which each player and NPC should be provided a copy of.
+- **Bloody Fist Orcs**: Brutal orcs that have magical backing that are now getting vengeance for a long-forgotten war.
+- **Stonewood Dwarves**: Cowed dwarves that have been dominated by the bloody fist for the past year. The Stonewood Dwarves are detailed in the booklet “On the Stonewood Dwarves” which each player and NPC should be provided a copy of.
 
 **Overview of Timeline:** 
 
-- **Friday Night** town is occupied, and the players repulse the magical guardians “The Chosen Ones”.
-- **Saturday Morning** Orcs attack. 
-- **Saturday Afternoon** players retake the town building by building. 
-- **Saturday Night** Orcs try to burn down the town
+- **Friday Night**: town is occupied, and the players repulse the magical guardians “The Chosen Ones”.
+- **Saturday Morning**: Orcs attack. 
+- **Saturday Afternoon**: players retake the town building by building. 
+- **Saturday Night**: Orcs try to burn down the town
 
 **Introductions**: Go around in a circle and everyone introduces themselves and states the following. 
 
