@@ -45,9 +45,9 @@ Yes.
 
 Not really!
 
-please change your in server name(nickname) into your first name and last name so we can know who you are and address you properly. I can post how to do so if need be.
+**Do you have any rules?**
 
-Message #announcements{{% /expand%}}
+Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly{{% /expand%}}
 
 ## [New Player Information]()  
 {{%expand "FAQ" %}}
@@ -81,7 +81,7 @@ Of course!
 
 **White Headband (Out of Game):** You are In Game unless you are wearing a white headband. NPC's can go Out of Game by placing a hand or weapon on top of their head to go out of game quickly but will be using white headbands if they are Out of Game for an extended period of time.
 
-**Orange Headband (Page Status):** Some players at the event cannot enter combat and are playing as a Page. A player playing as a Page should never be struck with a boffer weapon or a packet. In order to attack a Page, point a weapon or packet at the Page and state either “***I kill you, Page\*!**”**(**Death), or “***I down you, Page\***” (Bleeding Out). A player within 5 feet of the Page, may choose to defend the Page and block the attack. To do so, the player must state “***I defend you\***” and role-play accordingly. A person cannot defend a Page if they do not have a weapon, shield, or other ability to do so*. Encounters that are non-combat will have an orange sash on the module hook and any Adventure Cards that are non-combat will be clearly marked.*
+**Orange Headband (Page Status):** Some players at the event cannot enter combat and are playing as a Page. A player playing as a Page should never be struck with a boffer weapon or a packet. In order to attack a Page, point a weapon or packet at the Page and state either “**I kill you, Page!**”(Death), or “**I down you, Page**” (Bleeding Out). A player within 5 feet of the Page, may choose to defend the Page and block the attack. To do so, the player must state “**I defend you**” and role-play accordingly. A person cannot defend a Page if they do not have a weapon, shield, or other ability to do so. Encounters that are non-combat will have an orange sash on the module hook and any Adventure Cards that are non-combat will be clearly marked.
 
 **Wards**: All Wards must have Marshal Notes affixed to the door.
 
@@ -91,7 +91,7 @@ Of course!
 
 **Non-Standard Effects:** If there are Non-Standard Effects on a module or encounter the Running Staff will ask you if you are accept the Non-Standard Effects. If you do not accept the effects you will have the opportunity to leave the encounter or in some situations another effect may be substituted.
 
-**Rules Issues from the Last Event:** {{%expand "Issue1" %}}Yes !.{{% /expand%}}
+**Rules Issues from the Last Event:** No recorded rules issues. Seems fishy to me too but I guess that's how it is!
 
 **Cars**: Lock your car and, if possible, park it out of sight.
 
