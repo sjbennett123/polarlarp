@@ -5,13 +5,19 @@ draft: false
 weight: 1
 ---
 
-[PC INFORMATION](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
+[PC INFORMATION CLICK HERE](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
 
-Trello
+## Trello - Prop tracking
 
-Dropbox
+Make sure your props are on the list!
 
-Google Hangouts
+## Dropbox - Module Writeups for feedback
+
+Don't delete other people's stuff. I'm looking at your Ken Courtney!
+
+## Google Hangouts - for weekly checkins
+
+Use a real webcam.
 
 
 
@@ -46,10 +52,13 @@ Google Hangouts
 - Lore
 - Advice
 
+**Overview of Setting**: 
+
+- **Guilds**: 
 
 **Overview of Factions**: The story we are telling this weekend focuses around two main factions. 
 
-- **Bloody fist Orcs**-Brutal orcs that have magical backing that are now getting vengeance for a long-forgotten war.
+- **Bloody Fist Orcs**-Brutal orcs that have magical backing that are now getting vengeance for a long-forgotten war.
 - **Stonewood Dwarves** - Cowed dwarves that have been dominated by the bloody fist for the past year. The Stonewood Dwarves are detailed in the booklet “On the Stonewood Dwarves” which each player and NPC should be provided a copy of.
 
 **Overview of Timeline:** 

@@ -35,12 +35,6 @@ There is also a 24 hour Walmart for anyone needed last minute supplies.
 - [Walmart : Google Maps](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
 
 ## Nearby Food
-A: Also located in Weirton, WV are a variety of restaurants and stores, including
-McDonalds,
-Wendy's, 
-Sheetz and 
-Eat N' Park (local chain open 24/7). 
-
 ### McDonalds
 
 - **Address**: 1640 US-30, Jennerstown, PA 15547

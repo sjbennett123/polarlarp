@@ -29,6 +29,10 @@ Anything on the hill to the right will not be used at this event.
 - 8 paying customers ($480.00 in attendance fees) in the cabin for the 8 beds. 
 - Additional payment to make up the difference between the paying customers and the ($480.00) price tag for the cabin. 
 
+**Smoking**: 
+
+**Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in
+
 ---
 
 ## Nearby Supplies
@@ -48,7 +52,7 @@ Great for snacks, bottled water or a last minute energy drink.
 - **Address**: 1598 W Pitt St, Jennerstown, PA 15547
 - **Distance from Camp:** 4 min (1.6 miles)
 - Saturday 10AM–9PM , Sunday 9:57AM–4PM
-- https://goo.gl/maps/fsHToMPtj3vYnvws7
+- [Country Snack Shak : Google Maps](https://goo.gl/maps/fsHToMPtj3vYnvws7)
 
 Local convenience store
 
