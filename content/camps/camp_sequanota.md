@@ -37,19 +37,21 @@ Anything on the hill to the right will not be used at this event.
 
 ## Nearby Supplies
 
-### Dollar General 
+#### Dollar General 
 
 - **Address**: 1297 W Pitt St, Jennerstown, PA 15547
+- **Phone**: 
 - **Hours**: 8AM - 9PM
 - **Distance from Camp:** 4 min (1.6 miles)
 - [Dollar General : Google Maps](https://www.google.com/maps/place/Dollar+General/@40.1633058,-79.0812317,17z/data=!4m15!1m8!3m7!1s0x89cb211c03d0bb43:0x6b20a864422a46fd!2s1297+W+Pitt+St,+Boswell,+PA+15531!3b1!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F11bw3y5p29!3m5!1s0x89cb21005ff4d80d:0xc075b58a9fa04be8!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F1hc4_hlyq)
 
 Great for snacks, bottled water or a last minute energy drink.
 
-### Country Snack Shak
+#### Country Snack Shak
 
 
 - **Address**: 1598 W Pitt St, Jennerstown, PA 15547
+- **Phone**: 
 - **Distance from Camp:** 4 min (1.6 miles)
 - Saturday 10AM–9PM , Sunday 9:57AM–4PM
 - [Country Snack Shak : Google Maps](https://goo.gl/maps/fsHToMPtj3vYnvws7)
@@ -57,10 +59,11 @@ Great for snacks, bottled water or a last minute energy drink.
 Local convenience store
 
 
-### Walmart
+#### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
 - **Hours**: 6am - 11pm
+- **Phone**:
 - **Distance from Camp**: 18 min (11.5 miles)
 - [Walmart : Google Maps](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
 
@@ -68,15 +71,15 @@ Local convenience store
 
 ## Nearby Food
 
-### Coal Miner's Diner
+#### Coal Miner's Diner
 
 - **Address**: 1640 US-30, Jennerstown, PA 15547
-- **[Phone](https://www.google.com/search?rlz=1C1ONGR_enUS1014US1014&sxsrf=ALiCzsY2IY1S-nRSsD7CZgBm_PE_73IsKA:1669222782948&q=coal+miner's+diner+phone&ludocid=16180984064447717876&sa=X&ved=2ahUKEwi09py448T7AhUlKFkFHQo1CUAQ6BN6BAheEAI):** (814) 629-5518
+- **Phone:** (814) 629-5518
 - **Hours**: 7:30AM - 8PM
 - **Distance from Camp**: 
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
 
-### Burger King
+#### Burger King
 
 - **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
 - **Phone**: (814) 629-9944
@@ -84,11 +87,13 @@ Local convenience store
 - **Distance from Camp**: 9 min (4.2 miles)
 - [Burger King : Google Maps](https://www.google.com/maps/place/Burger+King/@40.1472209,-79.0432328,17z/data=!4m13!1m7!3m6!1s0x89cb2049cd968ee9:0x1db258aab24c9880!2s2237+Lincoln+Hwy,+Boswell,+PA+15531!3b1!8m2!3d40.1472209!4d-79.0432328!3m4!1s0x89cb21005960109f:0x37a284eeae79fcdd!8m2!3d40.1472209!4d-79.0432328)
 
-### The Fat Squirrel Restaurant
-- - **Address**: 1302 W Pitt St, Jennerstown, PA 15547
--  https://goo.gl/maps/SqpXKopvHXfXF3yf9 
+#### The Fat Squirrel Restaurant
+- **Address**: 1302 W Pitt St, Jennerstown, PA 15547
+- **Phone**: +18145215065
+- **Hours**: Saturday 12–9PM Sunday 11AM–8PM
+-  [The Fat Squirrel Restaurant : Google Maps](https://goo.gl/maps/SqpXKopvHXfXF3yf9)
 
-### Flyin Lion Pub & Eatery
+#### Flyin Lion Pub & Eatery
 
 -  **Address**:
 -  **Hours**: 
@@ -99,15 +104,17 @@ Local convenience store
 
 ## Nearby Car Repair
 
-Most places are closed on the weekends nearby here, your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier
+Most places are closed on the weekends nearby , your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier.
 
-### Walmart
+Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
+- **Phone**:
 - **Hours**: 6am - 11pm
 - **Distance from Camp**: 18 min (11.5 miles)
+- 
 
-### NAPA Auto Parts in Ligonier
+NAPA Auto Parts in Ligonier
 
 - **Address**: 324 E Main St, Ligonier, PA 15658
 - **Hours**: 
@@ -125,20 +132,20 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - Northwest (Excela Health Latrobe Hospital) 
 - Northeast (Conemaugh Memorial ) 
 
-### Excela Health Latrobe Hospital
+#### Excela Health Latrobe Hospital
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: 36 min (23.5 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-### UPMC Somerset 
+#### UPMC Somerset 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: (closest, around 23 minute drive)
 
-### Conemaugh Memorial 
+#### Conemaugh Memorial 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
@@ -146,7 +153,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 
 ### Urgent Care
 The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
-### MedExpress  (by UPMC Somerset)
+#### MedExpress  (by UPMC Somerset)
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
 - **Hours**: open til 8pm
@@ -154,18 +161,18 @@ The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type 
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
 
-### Medwell
+#### Medwell
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
 - **Hours**: open til 8pm
 - **Distance from Camp**: 24 minutes drive
 - https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
-### MedExpress
+#### MedExpress
 
 - 24 minutes drive
 -  are open until 8, 
 
-### iCare
+#### iCare
 - 24 minutes drive
 - iCare is open til 6.
 - there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
@@ -174,14 +181,14 @@ The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type 
 
 
 
-### Walmart Pharmacy
+#### Walmart Pharmacy
 
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
 - **Hours**:
 - **Distance from Camp**: : 17 minutes south,
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-### Giant Eagle Pharmacy
+#### Giant Eagle Pharmacy
 
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
 - **Hours**:
