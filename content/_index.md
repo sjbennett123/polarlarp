@@ -15,7 +15,7 @@ weight: 1
 ## [Dropbox - Module Writeups for feedback](https://www.dropbox.com/)
 
 - Install the app.
-- ask to be invited to the dropbox folder.
+- Ask to be invited to the dropbox folder.
 - Don't delete other people's stuff. **I'm looking at your Ken Courtney!**
 - Use the standard writeup format that we all are using.
 - People need to review your work. Before you send it over to them look at our tips page to get the best of your work.
@@ -23,10 +23,10 @@ weight: 1
 
 ## [Google Hangouts - Weekly Writer Checkin](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
-- Tuesdays from 8 PM - 9 PM - Starts on time ends on time. 
+- Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
 - Use a real webcam if possible.
-- Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Grindr.
-- First we go around and ask what you have been working on and if you need any help. Then we talk about modules in depth we might workshop how to improve something or how to solve a problem. This is not a place to write though this is to review so that we can write on our own. 
+- Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Grindr.... it can wait an hour I promise you.
+- First we go around and ask what you have been working on and if you need any help. Then we talk about modules in depth we might workshop how to improve something or how to solve a problem. This is not a place to write from scratch. Tthis is to review so that we can write on our own and be coordinated and not be blocked. 
 
 ---
 
