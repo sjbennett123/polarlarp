@@ -5,54 +5,28 @@ draft: false
 ---
 
 - **Address**: 3000 State Route 18 Hookstown, PA 15050
-- **GPS**: 40.17949564028885, -79.10447822702073
-- [Camp Sequanota : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **GPS**: USE THIS FOR DIRECTIONS 40.17949564028885, -79.10447822702073
+- [Racoon Creek State Park: Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - [State Park Website for Racoon Creek State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/RaccoonCreekStatePark/Pages/default.aspx)
 
 # Event Locations & Directions 
 
 [![img](https://nebula.wsimg.com/99594a9c44cb74a764e3206f70091152?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)](https://nebula.wsimg.com/6bdac31b86eb040c60ef454ea7f794bc?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)
 
+**Beds**: Just springs or plywood boards with **no mattresses**, so please bring bedding(at least a mattress). 
 
-**Beds**: Just springs! Bring a mattress
+**Heat**: NOPE Note: Heaters are **not** permitted. We suggest bringing extra blankets, even if it looks like it will be warm enough. It can get very cold at this site at night, especially during early spring or late fall events. 
 
-**Heat**: NOPE Note: Heaters are **not** permitted.
+**Electrical**: There will only be one electrical outlet and light in each cabin. 
 
-Electrical: There will only be one electrical outlet and light in each cabin. (
-
-**Showers**: Skechy as hell
+**Showers**: Sketchy as hell. the bathrooms and showers are in their own individual facilities.
 
 **Bathrooms**: Communal bathrooms. BEWARE THE SPIDER!
 
-
-
-**Q: What are the camp site facilities like?**
-A. Cabins are assigned on a first come fist serve basis, except for buildings that are in a specific location In-Game. The cabins are two or four man cabins with beds that are wire springs or plywood boards with **no mattresses**, so please bring bedding. This is a summer camp site so there is no heat! There will only be one electrical outlet and light in each cabin. (Note: Heaters are **not** permitted.) It can get very cold at this site at night, especially during early spring or late fall events. We suggest bringing extra blankets, even if it looks like it will be warm enough. Also, the bathrooms and showers are in their own individual facilities. Please note that our camp site does not allow bird seed packets.
+Bird Seed Packets: NOPE!  The camp site does not allow bird seed packets.
 
 ## Nearby Supplies
 
-### Dollar General 
-
-- **Address**: 1297 W Pitt St, Jennerstown, PA 15547
-- **Hours**: 8AM - 9PM
-- **Distance from Camp:** 4 min (1.6 miles)
-- [Dollar General : Google Maps](https://www.google.com/maps/place/Dollar+General/@40.1633058,-79.0812317,17z/data=!4m15!1m8!3m7!1s0x89cb211c03d0bb43:0x6b20a864422a46fd!2s1297+W+Pitt+St,+Boswell,+PA+15531!3b1!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F11bw3y5p29!3m5!1s0x89cb21005ff4d80d:0xc075b58a9fa04be8!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F1hc4_hlyq)
-
-Near the entrance to camp if you forgot anything or need a last minute pickup.  Great for snacks and bottled water
-
-### Country Snack Shak
-
-Local convenience store:
-
- https://goo.gl/maps/fsHToMPtj3vYnvws7
-
-​	1598 W Pitt St, Jennerstown, PA 15547
-
-5 min (2.4 miles)
-
-| Saturday | 10AM–9PM   |      |
-| -------- | ---------- | ---- |
-| Sunday   | 9:57AM–4PM |      |
 
 ### Walmart
 There is also a 24 hour Walmart for anyone needed last minute supplies.
@@ -90,14 +64,12 @@ Eat N' Park (local chain open 24/7).
 - **Distance from Camp**: 11 min (4.9 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-- ### Eat N' Park
+### Eat N' Park
 
 - **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
 - **Hours**: 6AM–10:30PM
 - **Distance from Camp**: 11 min (4.9 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
-
-Also, that's not the closest food, there's also https://goo.gl/maps/SqpXKopvHXfXF3yf9 and https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
 ## Nearby Car Repair
 
@@ -117,27 +89,18 @@ NAPA Auto Parts in Ligonier
 
 ## Nearby Medical Care
 
-**Q: Where is the closest hospital if there is an emergency?**
-A: The Weirton Medical Center is located less than 20 minutes away. The award-winning University of Pittsburgh Medical Center (UPMC) is located about 1 hour from the camp site. 
+## Hospitals
 
+The Weirton Medical Center  is 20 minutes away. The award-winning University of Pittsburgh Medical Center (UPMC) is located about 1 hour from the camp site. 
 
-
-
-
-### Hospital - Excela Health Latrobe Hospital
+### The Weirton Medical Center 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
-- **Distance from Camp**: 36 min (23.5 miles)
+- **Distance from Camp**:  is located less than 20 minutes away. 
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-Hospitals: It's essentially equidistant from 3 hospitals. There's one south, one northwest, one northeast.
-
-South: UPMC Somerset (closest, around 23 minute drive)
-
-Northeast: Conemaugh Memorial (around 27-30 minute drive) (in Johnstown)
-
-Northwest: Excela Health Latrobe (35 minutes)
+The award-winning University of Pittsburgh Medical Center (UPMC) is located about 1 hour from the camp site. 
 
 ### Urgent Care
 
