@@ -9,9 +9,7 @@ draft: false
 - [Racoon Creek State Park: Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - [State Park Website for Racoon Creek State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/RaccoonCreekStatePark/Pages/default.aspx)
 
-# Event Locations & Directions 
 
-[![img](https://nebula.wsimg.com/99594a9c44cb74a764e3206f70091152?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)](https://nebula.wsimg.com/6bdac31b86eb040c60ef454ea7f794bc?AccessKeyId=B5A15F8FC23F8AD0003A&disposition=0&alloworigin=1)
 
 **Beds**: Just springs or plywood boards with **no mattresses**, so please bring bedding(at least a mattress). 
 
@@ -23,7 +21,7 @@ draft: false
 
 **Bathrooms**: Communal bathrooms. BEWARE THE SPIDER!
 
-Bird Seed Packets: NOPE!  The camp site does not allow bird seed packets.
+**Bird Seed Packets**: NOPE!  The camp site does not allow bird seed packets.
 
 ## Nearby Supplies
 
