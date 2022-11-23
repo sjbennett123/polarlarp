@@ -71,18 +71,21 @@ Local convenience store
 ### Coal Miner's Diner
 
 - **Address**: 1640 US-30, Jennerstown, PA 15547
+- **[Phone](https://www.google.com/search?rlz=1C1ONGR_enUS1014US1014&sxsrf=ALiCzsY2IY1S-nRSsD7CZgBm_PE_73IsKA:1669222782948&q=coal+miner's+diner+phone&ludocid=16180984064447717876&sa=X&ved=2ahUKEwi09py448T7AhUlKFkFHQo1CUAQ6BN6BAheEAI):** (814) 629-5518
 - **Hours**: 7:30AM - 8PM
 - **Distance from Camp**: 
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
 
 ### Burger King
 
 - **Address**: 2237 Lincoln Hwy, Boswell, PA 15531
+- **Phone**: (814) 629-9944
 - **Hours**: 6AM–10:30PM
-- **Distance from Camp**: 11 min (4.9 miles)
+- **Distance from Camp**: 9 min (4.2 miles)
+- [Burger King : Google Maps](https://www.google.com/maps/place/Burger+King/@40.1472209,-79.0432328,17z/data=!4m13!1m7!3m6!1s0x89cb2049cd968ee9:0x1db258aab24c9880!2s2237+Lincoln+Hwy,+Boswell,+PA+15531!3b1!8m2!3d40.1472209!4d-79.0432328!3m4!1s0x89cb21005960109f:0x37a284eeae79fcdd!8m2!3d40.1472209!4d-79.0432328)
 
 ### The Fat Squirrel Restaurant
-- 1302 W Pitt St, Jennerstown, PA 15547
+- - **Address**: 1302 W Pitt St, Jennerstown, PA 15547
 -  https://goo.gl/maps/SqpXKopvHXfXF3yf9 
 
 ### Flyin Lion Pub & Eatery
