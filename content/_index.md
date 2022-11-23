@@ -5,6 +5,8 @@ draft: false
 weight: 1
 ---
 
+[PC INFORMATION](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
+
 Trello
 
 Dropbox
