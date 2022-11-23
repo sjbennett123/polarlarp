@@ -31,7 +31,9 @@ Anything on the hill to the right will not be used at this event.
 - 8 paying customers ($480.00 in attendance fees) in the cabin for the 8 beds. 
 - Additional payment to make up the difference between the paying customers and the ($480.00) price tag for the cabin. 
 
-**Smoking**:  put cigarette butts in trays cans.
+**Smoking**:  Put cigarette butts in trays or cans.
+
+**Bird Seed Packets**: The camp site does not allow bird seed packets.
 
 **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. 
 
@@ -58,7 +60,7 @@ Great for snacks, bottled water or a last minute energy drink.
 - **Hours**: Saturday 10AM–9PM , Sunday 9:57AM–4PM
 - [Country Snack Shak : Google Maps](https://goo.gl/maps/fsHToMPtj3vYnvws7)
 
-Local convenience store
+Local convenience store.
 
 
 #### Walmart
@@ -78,7 +80,7 @@ Local convenience store
 - **Address**: 1640 US-30, Jennerstown, PA 15547
 - **Phone:** (814) 629-5518
 - **Hours**: 7:30AM - 8PM
-- **Distance from Camp**: 
+- **Distance from Camp**: 6 min (2.7 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
 
 #### Burger King
@@ -91,16 +93,17 @@ Local convenience store
 
 #### The Fat Squirrel Restaurant
 - **Address**: 1302 W Pitt St, Jennerstown, PA 15547
-- **Phone**: +18145215065
+- **Phone**: (814) 521-5065
 - **Hours**: Saturday 12–9PM Sunday 11AM–8PM
+- **Distance from Camp**:
 -  [The Fat Squirrel Restaurant : Google Maps](https://goo.gl/maps/SqpXKopvHXfXF3yf9)
 
 #### Flyin Lion Pub & Eatery
 
 -  **Address**: 1498 W Pitt St, Jennerstown, PA 15547
 -  **Hours**: 4–9PM
--  Phone: +18147038177
--  Website: http://www.flyinlionpubandeatery.com/
+-  **Phone**: (814) 703-8177
+-  **Website**: http://www.flyinlionpubandeatery.com/
 -  **Distance from Camp**: 6 min (2.4 miles)
 -  https://goo.gl/maps/nieAiYzfQm5b1PEy5
 
@@ -113,15 +116,15 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 #### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
-- **Phone**:
+- **Phone**: (814) 445-7008
 - **Hours**: 6am - 11pm
 - **Distance from Camp**: 18 min (11.5 miles)
-- 
 
 #### NAPA Auto Parts in Ligonier
 
 - **Address**: 324 E Main St, Ligonier, PA 15658
-- **Hours**: 
+- **Phone**: (724) 238-9566
+- **Hours**: Fri:8:00 AM-6:00 PM, Sat:8:00 AM-5:00 PM, Sun:10:00 AM-2:00 PM
 - **Distance from Camp**: 
 
 ---
@@ -130,7 +133,7 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 
 ### Hospitals
 
-The campsite is essentially equidistant from 3 hospitals. You might need to ask about insurance. 
+The campsite is essentially equidistant from 3 hospitals. You might need to ask about insurance to make a decision about where to go. 
 
 - South (UPMC Somerset) 
 - Northwest (Excela Health Latrobe Hospital) 
@@ -143,23 +146,28 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Distance from Camp**: 36 min (23.5 miles)
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
-#### UPMC Somerset 
+#### UPMC Somerset Hospital
 
-- **Address**: 1 Mellon Way, Latrobe, PA 15650
+- **Address**: 225 S Center Ave, Somerset, PA 15501
+- **Phone**: (814) 443-5000
+- **Website**: somersethospital.com
 - **Hours**: 24h
 - **Distance from Camp**: (closest, around 23 minute drive)
 
-#### Conemaugh Memorial 
+
+#### Conemaugh Memorial Hospital 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 
 ### Urgent Care
-The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
+The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
 #### MedExpress  (by UPMC Somerset)
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
+- **Phone**: (814) 443-4740
+- **Website**: https://www.medexpress.com
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
 - [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
@@ -183,8 +191,6 @@ The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type 
 
 ### Pharmacy
 
-
-
 #### Walmart Pharmacy
 
 - **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
@@ -202,11 +208,24 @@ The closest is the MedExpress by UPMC somerset but there are 3 Urgent Care type 
 
 ---
 
+## Nearby Hotels
+
+#### Days Inn by Wyndham Somerset PA I-70 I-76
+- **Address**:  
+- **Hours**:
+- **Distance from Camp**: : 17 minutes northwest
+- [Days Inn by : Google Maps](https://goo.gl/maps/A7H29fWWsEkGRQXH8)
+
+---
+
 ## Jennerstown Borough Services
 
 You probably won't need these but it feels like good information to have. 
 
 http://www.jennerstownboro.com/services.html
 
-- **Non- emergency fire**: 814-629-5371
-- **Non- emergency police**: 814-703-8138
+- **Non- emergency fire**: (814) 629-5371
+- **Non- emergency police**: (814) 703-8138
+
+---
+This is a living document. Please let us know if anything can be added and improved. 
