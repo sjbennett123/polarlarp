@@ -9,18 +9,58 @@ weight: 1
 ------
 
 ## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
-{{%expand "Issue1" %}}Yes !.{{% /expand%}}
+{{%expand "FAQ" %}}
+
+**Is Mark Zuckerbeg and asshole?**
+
+Yes.
+
+**Is this the way that most communication about the game is done?**
+
+ Also Yes.
+
+**What I don't use Facebook for reasonable Ethical and privacy related concerns?** 
+
+Maybe you should get bent.
+
+{{% /expand%}}
 
 ## [Facebook In Game](https://www.facebook.com/groups/3408485185934076/)  
-{{%expand "Issue1" %}}Yes !.{{% /expand%}}
+{{%expand "FAQ" %}}
+
+**Are we a live action game.**
+
+Yes.
+
+**Do we use a Facebook page in the most cringe manner possible?**
+
+ Of course we do! Post as your character and be a keyboard warrior. It's great. 
+
+{{% /expand%}}
 
 ## [Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
-{{%expand "Issue1" %}} please change your in server name(nickname) into your first name and last name so we can know who you are and address you properly. I can post how to do so if need be.
+{{%expand "FAQ" %}} 
+
+**Does anyone actually use discord?** 
+
+Not really!
+
+please change your in server name(nickname) into your first name and last name so we can know who you are and address you properly. I can post how to do so if need be.
 
 Message #announcements{{% /expand%}}
 
 ## [New Player Information]()  
-{{%expand "Issue1" %}}Yes !.{{% /expand%}}
+{{%expand "Issue1" %}}
+
+**Can I read a rulebook?** 
+
+Nope!
+
+**Do you expect me to play this anyway?** 
+
+Of course!
+
+{{% /expand%}}
 
 ---
 
