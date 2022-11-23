@@ -345,7 +345,7 @@ The skills mentioned in the descriptions ahead are explained in greater detail i
 
 The next section of this book lists the various races other than human. If playing a human, you are free to devise any sort of personality you wish without any benefits or disadvantages 
 
-# table
+#### Racial Comparison Chart : Table 2.1
 
 | Race            | Advantages            | Disadvantages |
 | --------------- | --------------------- | ---- |
@@ -690,6 +690,15 @@ Any first-time NERO player will not have any of the deaths taken during his firs
 
 Experience Points (XP) are used in NERO for the advancement of a player’s character. Whenever you attend a regular 2 day weekend event in NERO you receive a “blanket” of Experience Points equal to your current total Build Points.
 
+#### Event Rewards Table 2-3
+
+| Event Days    | Blankets |
+| ------------- | -------- |
+| 1             | .5       |
+| 2             | 1        |
+| 3             | 1.5      |
+| Adventure Day | .25      |
+
 Some events are shorter or longer and therefore worth different amounts of XP.
 
 It is possible to, at maximum, double this experience through several means.
@@ -699,6 +708,57 @@ At the end of the event, you may pay to the game staff one silver per additional
 *Ex. Dave has 40 build points, he receives a Blanket of 40xp for attending a two day event and can pay 1-40 silver for an extra 1-40xp.*
 
 Some chapters will let you max out through helping NPC, or clean-up/setup duties and some will let you max out automatically. See your local chapter for their policies on max out.
+
+### Build Points
+
+Experience Points are automatically converted to Bild Points (BP), which you then use to buy skills for your character. The amount of Exerience Points needed to buy a Build Point is based on your level. Your level is determined by how many Build Points your character has. It takes 10 
+
+Levels
+
+Advancement Chart xp to Build: Table 2-4a
+
+Advancement Chart Body Points: Table 2-4b
+
+| Level | Total Build Points | XP/BP |
+| ----- | ------------------ | ----- |
+| 1     | 15-24              | 3     |
+| 2     | 25-34              | 7     |
+| 3     | 35                 | 12    |
+| 4     | 45                 | 18    |
+| 5     | 55                 | 25    |
+| 6     | 65                 | 33    |
+| 7     |                    | 42    |
+| 8     |                    | 52    |
+| 9     |                    | 63    |
+| 10    |                    | 75    |
+| 11    |                    | 88    |
+| 12    |                    | 102   |
+| 13    |                    | 117   |
+| 14    |                    |       |
+| 15    |                    |       |
+| 16    |                    |       |
+| 17    |                    |       |
+| 18    |                    |       |
+| 19    |                    |       |
+| 20    |                    |       |
+| 21    |                    |       |
+| 22    |                    |       |
+| 23    |                    |       |
+| 24    |                    |       |
+| 25    |                    |       |
+| 26    |                    |       |
+| 27    |                    |       |
+| 28    |                    |       |
+| 29    |                    |       |
+| 30    |                    |       |
+| 31    |                    |       |
+| 32    |                    |       |
+| 33    |                    |       |
+| 34    |                    |       |
+| 35    |                    |       |
+|       |                    |       |
+
+
 
 ### Meditation
 
@@ -734,9 +794,7 @@ Some chapters offer an additional reset of times-per-day skills at 6 AM. These a
 
 NERO is a fantasy game. By that, we mean that it is a compilation of rules and customs by which we allow people to simulate doing things that they cannot really do. The most obvious of these things is magic.
 
-You should not be fooled into thinking that your personal skill equates to the character skill it represents. For instance, we have weapon skills. You must have the
-
-One Handed Edged weapon skill before you are allowed to use a long sword. Many people have asked if they can at least pick up a sword and block blows with it—after all, anyone could make the attempt, could they not? The answer is no, in our game they cannot.
+You should not be fooled into thinking that your personal skill equates to the character skill it represents. For instance, we have weapon skills. You must have the One Handed Edged weapon skill before you are allowed to use a long sword. Many people have asked if they can at least pick up a sword and block blows with it—after all, anyone could make the attempt, could they not? The answer is no, in our game they cannot.
 
 The level of ability represented by the skill bought can be considerably different from that of your average player. It represents a skill that has required hours of practice a day for months to gain. When such an individual is faced with a person totally unskilled in weapon use, they would strike the person down with ease. The player’s skill may be somewhat less than that of the character, however, so the restrictions are used to simulate the skills.
 
@@ -746,11 +804,58 @@ This is, after all, a fantasy. A person should be able to acquire skills that al
 
 ## Spell Slots
 
+There are special rules for ssqpell quisition that are unline most other skilsl in the game. When yhou purchase a 1st level spell form the skil list, what ayou are actually buying is the ability to memorisze and cast one 1st level spell. This is known as a spell slot. 
+
+You may memorize any 1st level spell and store it in that slow. Only one 1st level spell may be stored there at any time. Once that spell as been cast, the slot will become empty and will remain that wya until the next liminted orstandard rst, or until it is rfilled by other means. 
+
+FI you have several spell slots of a givel level, you  can fill them with any combination of spells (of the apropriate levl ) taht you know. 
+
+You must buy spoell slots in a proportial pyramid fasion. If you wish to buy a spell slot of a partiiclar level, then you must have twow spell slows of the level below. 
+
+In other words, you must havea minimum of one spell slow difference bteween any adjoining levels and a maximmun of two spell slots difference. If you wish to buy your first 2nd level spell slot, you must have at least 1st level spell slots already, but yyuou many not have threse. 
+
+Once you have purhsased four spell slots of any particular level, then you need not buy any additional spell slots of that level to complete the pyramid. Imagine now the pyramid being an obelisk with broad suppord and a pointed top( like the washington monument)
+
+You may buy more than four spell slots fper level but there must alwayts be at least as many spell slots below that level in order to support hte new amount. FCuther the pyramid must constanly building, which means that the level above must have only one less than the amount you are buysing. In other words, to buy a fifthh 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
+
+### Example of Spell Pyramid Rules:
+
+Enchanto the mage has a 3rd level spell slot two 2nd level spell slots and three 1st level spell slots hist pryamid is fine (figure 3-1)
+
+He wants ot learn a 4th level slot eventually he must build the foundation of the pyramid so it can support a 4th level spell. First he buys another 1st levwe3l slot then and other 2nd level slot. He must next purchase another 3rd level slot (figure 3-2)
+
+Now his pyramid is ready for the new spell level imagine the pyramid as needing the proper support for the 4th level spell has been made by making sure that ereare two 3rd level spell slots below. (the foundation for the wto 34d elvel slots was made when he had three 2nd level otys and so on down the line) He can buy his first 4th level spell slot (figure 3-3)
+
+If Enchanto wants to buy a 5th level slow, he can do so without having ot buy any more 1st level slots because four is the maximum required. He must support the f5th level slot buy buying 
+
+--- FINISH THIS NIGHTMARE --- 
+
 ## Skill Costs
+
+Below and on the following pages are the charts listing the Build Point costs fo skills Each skill ahs four cost columns assocaited with it 
+
+- F - Fighter
+- R Rouge
+- S Scholar
+- T Templar
+
+All Classes may buy any skill, they just may need to pay more Build Points.
+
+### Prerequisites
+
+When buying skills you should be aware of prerequisites as well. For instance to buy weapon proficiency, you must first have a weapon skill to be proofiinit in and four critical attack skills. To learn how to cast Celestial spells, you must first know the skills to Read and Write and Read Magic. 
+
+A good way to design your character is to imagine them at a higher level and work backwards. Figure out which skills you would like to have and how many Build Points you will have to spend for the skills. Try it with different classes to see which costs the least. 
 
 ## Production Skills
 
+To create game items such as Weapsons, Armor, Potions, Scrolls, Traps, Achemical Elixers, Contact Poisons, and Gas Globes, you must first buy the approrp
+
 ## Skill Descriptions
+
+Skills listed with a * can be bought multiple times to improve or increase the skill. 
+
+--- Fix this just put it in the description 
 
 ### Alchemy 
 
