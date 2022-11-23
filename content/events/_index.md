@@ -58,7 +58,11 @@ Event Registration closes the week before an event on Friday.
 
 ### Feast Events:
 
+- PC Cost
+- NPC Cost
+
 ## Past Events
+
 
 ### October 21 2022
 
