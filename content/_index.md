@@ -9,14 +9,17 @@ weight: 1
 
 ## [Trello - Prop tracking](https://trello.com/b/A6eLvFdV/polar-props)
 
-- Make sure your props are on the list!
+- Make sure your props are on the list and in the order that you need them. 
 
 
-## Dropbox - Module Writeups for feedback
+## [Dropbox - Module Writeups for feedback](https://www.dropbox.com/)
 
+- Install the app.
+- ask to be invited to the dropbox folder.
 - Don't delete other people's stuff. **I'm looking at your Ken Courtney!**
-- Use a real writeup.
-- People need to review your work.
+- Use the standard writeup format that we all are using.
+- People need to review your work. Before you send it over to them look at our tips page to get the best of your work.
+- When reviewing someone's work make sure you follow our tips page while doing it. 
 
 ## [Google Hangouts - Weekly Writer Checkin](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
