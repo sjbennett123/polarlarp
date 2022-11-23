@@ -211,8 +211,10 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 ## Nearby Hotels
 
 #### Days Inn by Wyndham Somerset PA I-70 I-76
-- **Address**:  
-- **Hours**:
+- **Address**:  125 Lewis Dr, Somerset, PA 15501
+- **Phone**: (814) 445-8788
+- **Website**: https://www.wyndhamhotels.com/days-inn/somerset-pennsylvania/days-inn-somerset-pa-i-70%20i-76/overview?brand_id?CID=LC:DI::GGL:RIO:National:03770&iata=00093796
+- **Hours**:Check-in time: 3:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: : 17 minutes northwest
 - [Days Inn by : Google Maps](https://goo.gl/maps/A7H29fWWsEkGRQXH8)
 
