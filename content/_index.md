@@ -15,14 +15,15 @@ weight: 1
 ## Dropbox - Module Writeups for feedback
 
 - Don't delete other people's stuff. **I'm looking at your Ken Courtney!**
+- Use a real writeup.
+- People need to review your work.
 
+## [Google Hangouts - Weekly Writer Checkin](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
-## [Google Hangouts - for weekly checkins](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
-
-- Use a real webcam.
-
-- Tuesdays from 8 PM - 9 PM
-
+- Tuesdays from 8 PM - 9 PM - Starts on time ends on time. 
+- Use a real webcam if possible.
+- Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Grindr.
+- First we go around and ask what you have been working on and if you need any help. Then we talk about modules in depth we might workshop how to improve something or how to solve a problem. This is not a place to write though this is to review so that we can write on our own. 
 
 ---
 
