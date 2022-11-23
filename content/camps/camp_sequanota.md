@@ -105,7 +105,7 @@ Local convenience store.
 -  **Phone**: (814) 703-8177
 -  **Website**: http://www.flyinlionpubandeatery.com/
 -  **Distance from Camp**: 6 min (2.4 miles)
--  https://goo.gl/maps/nieAiYzfQm5b1PEy5
+-  [Flyin Lion Pub & Eatery](https://goo.gl/maps/nieAiYzfQm5b1PEy5) 
 
 ---
 
