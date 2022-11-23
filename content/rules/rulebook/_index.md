@@ -345,6 +345,26 @@ The skills mentioned in the descriptions ahead are explained in greater detail i
 
 The next section of this book lists the various races other than human. If playing a human, you are free to devise any sort of personality you wish without any benefits or disadvantages 
 
+# table
+
+| Race            | Advantages            | Disadvantages |
+| --------------- | --------------------- | ---- |
+| Barbarian       | +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
+| Biata           | Break Charm: 2BP<br />Resist Charm: 3BP<br />Resist Sleep: 2BP<br /> | Cannot buy Read Magic |
+| Drae            | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -2 Body Points during the day<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
+| Dwarf           | +1 Body Point to Start<br />Resist Poison: 4BP<br />-1 Cost for Smithing<br /> | Double cost for Read Magic<br />Cannot use Polearm<br />Cannot use Staff<br />Cannot use Two Handed Blunt<br /> |
+| Elf             | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -1 Body Point<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
+| Gadabari        | Gadabari Hex/Remove Gadabari Hex: 2BP | None |
+| Half Ogre       | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
+| Half Orc        | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
+| Hobling         | Resist Poison: 4BP<br />Half cost for Pick Locks<br />Half cost for Arm/Disarm Traps<br />Hobling Dodge: 12BP, once<br /> | -1 Body Point to Start<br />Cannot be a fighter<br />Cannot use two handed weapons<br /> |
+| Human           | None | None |
+| Mystic Wood Elf | Break Charm: 2BP<br />Resist Charm: 3BP<br />-1 Cost for Craftsman<br /> | Must buy skill form table3.5 at each level |
+| Sarr            | Resist Poison: 4BP<br />Scenting Ability<br /> | Cannot use any blunt or any ranged weapons |
+| Scavenger       | Resist Poison: 4BP<br />Scenting Ability<br /> | Double cost for Scholarly Skills |
+
+
+
 ### Barbarian
 
 Barbarians come from nomadic tribes and are unused to “civilized” society. They are a very superstitious lot and may often perform unusual small ceremonies to rid themselves of their “curse.” (“Oh-oh! Seven hoblings just crossed path! Bad luck! Now I must tie string around finger and walk backwards for an hour!”) This is not to imply that barbarians have to be stupid—merely uncultured and somewhat primitive. In order to be identifiable as barbarians, you should talk poorly, dress in furs and leathers, and otherwise look primitive. Barbarian tribes (usually named after animals) are often very competitive and not too friendly.
@@ -531,7 +551,7 @@ All monsters are the size of the NPC or physical representation playing the part
 
 ## Matters of Life and Death
 
-### States of Existence
+## States of Existence
 
 There are three Standard States that someone at a NERO event can be in.  These are:
 
@@ -544,7 +564,7 @@ There are three Standard States that someone at a NERO event can be in.  These a
 
 Alternate States (such as flying, burrowing, invisible, etc.) are not possible.
 
-## Out-of-Game
+### Out-of-Game
 
 When someone takes themselves out of the action for their own convenience, they are out-of-game. In order to go out-of-game, you must wear a white headband. This signifies to others that your character is not there. Please do not abuse this, and note that your game items must stay in-game.
 
@@ -554,7 +574,13 @@ As a courtesy you can sleep in a cabin out-of-game. However if someone has a rea
 
 You cannot go out-of-game in the middle of a combat unless you have a medical reason.
 
-## Hit Points
+
+
+## Life and Death
+
+Knowing the rules in this section can literally make the difference between life and death. Some of this will be confusing upon a first reading, as this section makes references to rules that have not yet been covered. If this is your first reading of the NERO© Rule Book©, get the general idea of this section and then come back after you’ve read more.
+
+### Hit Points
 
 Your character’s health and the quality of his or her armor are represented by the use of Hit Points.
 
@@ -567,10 +593,6 @@ Body Points do not regenerate from day to day but you will receive your full amo
 Please note that there is no mechanism to dismember bodies in NERO.
 
 You must update your Armor Points and Body Points at the end of a battle to reflect those lost during combat. This is done by adjusting your tags or updating your character skill sheet. Armor tags do not need to match the physical representation worn. If you are wearing a phys-rep for 6 points of armor you can use a 15 point tag, but you can only gain the benefit of 6 points of armor from that tag. In order to get full benefit from the 15 point armor tag, you must be wearing a phys-rep for armor that gives at least 15 points.
-
-## Life and Death
-
-Knowing the rules in this section can literally make the difference between life and death. Some of this will be confusing upon a first reading, as this section makes references to rules that have not yet been covered. If this is your first reading of the NERO© Rule Book©, get the general idea of this section and then come back after you’ve read more.
 
 ### Unconscious
 

@@ -155,6 +155,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Website**: somersethospital.com
 - **Hours**: 24h
 - **Distance from Camp**: (closest, around 23 minute drive)
+- google maps
 
 
 #### Conemaugh Memorial Hospital 
@@ -162,6 +163,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
+- google maps
 
 ### Urgent Care
 The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
