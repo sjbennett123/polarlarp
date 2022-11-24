@@ -7,6 +7,12 @@ weight: 1
 
 [PC INFORMATION CLICK HERE](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
 
+**Writing**
+
+- Use the standard writeup format that we all are using for your writeups. I know you have a special style. Do it like this please. 
+- People will review your work. Before you send it over to them, look at our tips page to make sure it's a good process for you and for them.
+- When reviewing someone's work make sure you follow our tips page while doing it. Remember they tried their best. 
+
 ## [Trello - Prop tracking](https://trello.com/b/A6eLvFdV/polar-props)
 
 - Make sure your props are on the list and in the order that you need them. 
@@ -17,9 +23,6 @@ weight: 1
 - Install the app.  Ask to be invited to the Dropbox folder. This will syncronize all of the Writeups and Resources to your computer. 
 - This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
 - Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
-- Use the standard writeup format that we all are using for your writeups. I know you have a special style. Do it like this please. 
-- People will review your work. Before you send it over to them, look at our tips page to make sure it's a good process for you and for them.
-- When reviewing someone's work make sure you follow our tips page while doing it. Remember they tried their best. 
 
 ## [Google Hangouts - Weekly Writer Checkin](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
@@ -52,6 +55,8 @@ weight: 1
 
 **Tour of NPC Shack**: Everyone is going to need to know the organization of the NPC Shack and help keep it organized. This organization is a work in progress and after the event we should discuss any improvement ideas you have. The stuff here was donated please be considerate and help make it last.
 
+- **Clock**: We have a large clock set up in the shack. If you can wear a watch I know it's 2022 but we need to be able to plan. 
+- **White Head Band**: Have one on your person. If you see a player struggling offer to give them one. 
 - **Costumes**: When you are done make sure the costume is put away.
 - **Belts**: When you are using a tabard wear a belt.
 - **Masks**: When you are done using a mask wipe it down so it does not get anyone sick.
@@ -89,6 +94,12 @@ weight: 1
 - Names
 - What about the event they are most excited about?
 - What roles do you not want to do? 
+
+**Overview of Campsite**: 
+
+- Review Map.
+- Where are we running modules.
+- Where is dangerous.
 
 **Rewards**: Thank you for doing this. Giving back like this to enable people to have a fun time is a very generous thing to do. We hope that some baubles and tokens will show our gratitude. 
 
