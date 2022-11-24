@@ -39,9 +39,9 @@ weight: 1
 
 **Take Care of Yourselves:** The most important thing is your health. 
 
-- Stretch: Yes it looks lame. Yes you should still do it. 
-- Drink Water and Eat: You are probably not used to this level of activity. 
-- Pace Yourself: A weekend is a long time.
+- **Stretch**: Yes it looks lame. Yes you should still do it. 
+- **Drink Water and Eat**: You are probably not used to this level of activity. 
+- **Pace Yourself**: A weekend is a long time.
 
 **We are the face of the event. We hold ourselves to a higher standard.** 
 
@@ -86,7 +86,7 @@ weight: 1
 
 **Introductions**: Go around in a circle and everyone introduces themselves and states the following. 
 
-- Names: 
+- Names
 - What about the event they are most excited about?
 - What roles do you not want to do? 
 
