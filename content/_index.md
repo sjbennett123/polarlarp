@@ -7,11 +7,12 @@ weight: 1
 
 [PC INFORMATION CLICK HERE](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
 
-**Writing**
+## **Writing**
 
-- Use the standard writeup format that we all are using for your writeups. I know you have a special style. Do it like this please. 
-- People will review your work. Before you send it over to them, look at our tips page to make sure it's a good process for you and for them.
-- When reviewing someone's work make sure you follow our tips page while doing it. Remember they tried their best. 
+- Use the standard writeup format that we all are using for your writeups.  Templastes are HERE.
+- People will review your work. Before you send it over to them, look at our TIPS page to make sure it's a good process for you and for them.
+- When reviewing someone's work make sure you follow our TIPS page while doing it. Remember they tried their best. 
+- Once you are confident with your work we will ingest it into the website get it printed up. 
 
 ## [Trello - Prop tracking](https://trello.com/b/A6eLvFdV/polar-props)
 
@@ -55,8 +56,8 @@ weight: 1
 
 **Tour of NPC Shack**: Everyone is going to need to know the organization of the NPC Shack and help keep it organized. This organization is a work in progress and after the event we should discuss any improvement ideas you have. The stuff here was donated please be considerate and help make it last.
 
-- **Clock**: We have a large clock set up in the shack. If you can wear a watch I know it's 2022 but we need to be able to plan. 
-- **White Head Band**: Have one on your person. If you see a player struggling offer to give them one. 
+- **Clock**: We have a large clock set up in the shack. If you can please wear a watch.
+- **White Head Band**: Have one on your person. If you see a player that does not have one offer to give them one and replace it when you get back to shack. 
 - **Costumes**: When you are done make sure the costume is put away.
 - **Belts**: When you are using a tabard wear a belt.
 - **Masks**: When you are done using a mask wipe it down so it does not get anyone sick.

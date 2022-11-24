@@ -4,8 +4,6 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-Bloody Fist Orc Plotline:
-
 ·    The Bloody Fist tribe waged a bloody war 20some years ago against Stonewood and the heroes of Elysia. The war was very long and blood, but in the end the Blood Fist was defeated. 
 
 ·    The heroes of Elysia killed their Warlord and put them to death on witch hunt level of extermination. The surviving Bloody Fist ran into the darkened Forests and hills of Eastern Stonewood. In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture.
