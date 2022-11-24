@@ -28,6 +28,11 @@ weight: 1
 - Use a real webcam if possible.
 - Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... it can wait an hour I promise you.
 - First we go around and ask what you have been working on and if you need any help. 
+  - Are you waiting on review for any of your work.
+  - What have you worked on in the past week
+  - What are you working on this week. 
+  - What props do you need.
+
 - Then we talk about modules in depth we might workshop how to improve something or how to solve a problem. 
 
 ---
