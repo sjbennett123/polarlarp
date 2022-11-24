@@ -47,7 +47,7 @@ Not really!
 
 **Do you have any rules?**
 
-Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly
+Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly.
 {{% /expand%}}
 
 ## [New Player Information]()  

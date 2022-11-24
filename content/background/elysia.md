@@ -18,7 +18,7 @@ Barony of Woodhaven
 
 ## Towns
 
-Hoyle (ask Donnie about the people of Hoyle) was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
+Hoyle: was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
 
 Bruhn
 
@@ -48,7 +48,7 @@ Vindale Keep
 
 Cromly
 
-Deaths End - a very Helms Deeps last stand defensive structure. Has a Well that the water that had Life elemental properties. A drink from the well will cast a life spell on the drinker of the water. Dukes and Nobles would and hide here to hold out against a siege. 
+Deaths End - A last stand defensive structure. Has a well that the water that had Life Elemental properties. A drink from the well will cast a life spell on the drinker of the water. Dukes and Nobles have hidden here to hold out against a siege. 
 
 Dargonheart Keep
 
@@ -68,7 +68,7 @@ New Castle
 
 Icemoor
 
-Stonewood: dwarves city with supernatural hardened trees as main form of industry 
+Stonewood: Dwarven city with supernatural hardened trees as main form of industry. Recently occupied by the brutal Bloody Fist Orcs. 
 
 ## Landmarks
 
