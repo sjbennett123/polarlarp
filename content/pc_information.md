@@ -11,7 +11,7 @@ weight: 1
 ## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
 {{%expand "FAQ" %}}
 
-**Is Mark Zuckerbeg and asshole?**
+**Is Mark Zuckerbeg an asshole?**
 
 Yes.
 
@@ -19,9 +19,9 @@ Yes.
 
  Also Yes.
 
-**What if I don't use Facebook for reasonable ethical and privacy related concerns?** 
+**What if I don't use Facebook due to  reasonable ethical and privacy related concerns?** 
 
-Get bent.
+You can get bent.
 
 {{% /expand%}}
 
@@ -32,7 +32,7 @@ Get bent.
 
 Yes.
 
-**Do we use a Facebook page in the most cringe manner possible?**
+**Do we use a Facebook page to try to mimic old posts on a message board even though it's not the same at all.**
 
  Of course we do! Post as your character and be a keyboard warrior. It's great. 
 
@@ -47,7 +47,8 @@ Not really!
 
 **Do you have any rules?**
 
-Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly{{% /expand%}}
+Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly
+{{% /expand%}}
 
 ## [New Player Information]()  
 {{%expand "FAQ" %}}
@@ -58,7 +59,11 @@ Nope!
 
 **Do you expect me to play this anyway?** 
 
-Of course!
+Of course! Just fake it till you make it. 
+
+**What playtests are being used**
+
+Well there is a list on the facebook page... see above for the details on that. . But you just are supposed to know.  Maybe try tuning into a numbers channel that might have the most up to date informaiton.
 
 {{% /expand%}}
 
