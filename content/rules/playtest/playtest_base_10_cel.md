@@ -1,5 +1,5 @@
 ---
-title: "Playtest - Base 10 Celestial"
+title: "Celestial Base 10 "
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---

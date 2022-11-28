@@ -24,10 +24,7 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 **Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
 
-**Reserving Cabins:** To reserve a cabin, one of two things must be met. 
-
-- 8 paying customers ($480.00 in attendance fees) in the cabin for the 8 beds. 
-- Additional payment to make up the difference between the paying customers and the ($480.00) price tag for the cabin. 
+**Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
 
 **Smoking**:  Put cigarette butts in trays or cans.
 

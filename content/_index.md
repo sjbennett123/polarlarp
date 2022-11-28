@@ -24,7 +24,7 @@ weight: 1
 - This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
 - Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
 
-## [Google Hangouts - Weekly Writer Checkin](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
+## [Google Hangouts - Weekly Writer Check In](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
@@ -37,6 +37,8 @@ weight: 1
   - What props do you need.
 
 - Then we talk about modules in depth we might workshop how to improve something or how to solve a problem. 
+
+- The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
 
 ---
 
