@@ -175,8 +175,9 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 
 #### Medwell
-- **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
+- **Address**: 1450 Scalp Ave #1000, Johnstown, PA 15904
 - **Hours**: open til 8pm
+- **Phone**: (814) 269-5200
 - **Distance from Camp**: 24 minutes drive
 - https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
