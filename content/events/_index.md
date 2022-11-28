@@ -37,40 +37,49 @@ Event Registration closes the week before an event on Friday.
 
 There might be other surprises added in, but these are the basics.
 
-**Friday night**
+**Friday Night**
 
-- potato soup and bread/rolls
+- Potato Soup and Bread/Rolls
 
-**Saturday breakfast** 
+**Saturday Breakfast** - 11ish
 
-- baked berry oatmeal
-- breakfast casserole (eggs, potatoes, ham, cheese)
+- Baked Berry Oatmeal
+- Breakfast Casserole (eggs, potatoes, ham, cheese)
 
-**Saturday  Lunch**
+**Saturday  Lunch** - 2/3ish
 
-- chili
-- deli meat hoagies
-- pb&j
+- Chili
+- Deli Meat hoagies
+- Peanut Butter and Jelly Sandwiches
 
-**Saturday Dinner**
+**Saturday Dinner** - 6/7ish
 
-- cheesy chicken rice bake with fresh garden salad and dressing options
+- Cheesy Chicken Rice Bake with fresh garden salad and dressing options
   {{% /expand%}}
 
 [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
 
 ### January 14 2023
 
-- **Event Type**: [Feast Event]({{< ref "#feast-events" >}})
-- **In Game Location**: [UNKOWN]()
-- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
-- **Event Director**: Donnie Leight
-- **Registration Deadline**: November 25
-- **PC Onsite**:  January 14 , 10 AM
-- **Game Start**: January 14, 12 PM 
-- **Game End**: January 14, 5 PM 
-- **PC Offsite**:  January 14, 7 PM 
-- **Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
+**Event Type**: [Feast Event]({{< ref "#feast-events" >}})
+
+**In Game Location**: [UNKOWN]()
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Donnie Leight
+
+**Registration Deadline**: November 25
+
+**PC Onsite**:  January 14 , 10 AM
+
+**Game Start**: January 14, 12 PM 
+
+**Game End**: January 14, 5 PM 
+
+**PC Offsite**:  January 14, 7 PM 
+
+**Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
 
   {{% /expand%}}
 
@@ -95,19 +104,25 @@ There might be other surprises added in, but these are the basics.
 
 ### October 21 2022
 
-- **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
-- **In Game Location**:  [Stonewood]({{< ref "/background/stonewood_dwarves" >}} "[stonewood")
-- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
-- **Event Directors**: Stephen Dupree and Chris Colland
-- **Registration Deadline**: October 14
-- **PC Onsite**:  October 21, 5 PM 
-- **Game Start**: October 21, 9 PM 
-- **Game End**: October 23, 2 AM
-- **PC Offsite**: December 2, 5 PM 
-- **Food**:   Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
 
-  
+**In Game Location**:  [Stonewood]({{< ref "/background/stonewood_dwarves" >}} "[stonewood")
 
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Directors**: Stephen Dupree and Chris Colland
+
+**Registration Deadline**: October 14
+
+**PC Onsite**:  October 21, 5 PM 
+
+**Game Start**: October 21, 9 PM 
+
+**Game End**: October 23, 2 AM
+
+**PC Offsite**: December 2, 5 PM 
+
+**Food**:   Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
 Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
 
 **Friday Night:**
