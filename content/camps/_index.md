@@ -6,12 +6,11 @@ weight: 2
 ---
 ## Summer Camps
 
-[Laural Hill State Park](https://snazzy-marshmallow-9e25ed.netlify.app/camps/laurel_hill_state_park/)
-[About]({{< ref "/camps/laurel_hill_state_park/" >}} "About Us")
-[Racoon Creek State Park](https://snazzy-marshmallow-9e25ed.netlify.app/camps/racoon_creek_state_park_camp_1/)
+[Laurel  Hill  State  Park]({{< ref "/camps/laurel_hill_state_park" >}} "Laurel  Hill  State  Park")
+
+[Racoon Creek State Park Camp 1]({{< ref "/camps/racoon_creek_state_park_camp_1" >}} "[Racoon Creek State Park Camp 1")
 
 ## Winter Camps
-
-[Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
+[Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 
 ## One Day Sites
