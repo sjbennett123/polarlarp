@@ -7,7 +7,7 @@ weight: 2
 ## Summer Camps
 
 [Laural Hill State Park](https://snazzy-marshmallow-9e25ed.netlify.app/camps/laurel_hill_state_park/)
-
+[About]({{< ref "/camps/laurel_hill_state_park/" >}} "About Us")
 [Racoon Creek State Park](https://snazzy-marshmallow-9e25ed.netlify.app/camps/racoon_creek_state_park_camp_1/)
 
 ## Winter Camps
