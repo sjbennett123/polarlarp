@@ -37,6 +37,8 @@ Anything on the hill to the right will not be used at this event.
 
 **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. 
 
+**Cell Phone Service**: Pretty good!
+
 ---
 
 ## Nearby Supplies
