@@ -15,20 +15,49 @@ Event Registration closes the week before an event on Friday.
 
 ### December 2, 2022
 
-- **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
-- **In Game Location**: - [Simoondale Mines]({{< ref "/background/simoondale_mines" >}} "[simoondale_mines")
-- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
-- **Event Director**: Donnie Leight
-- **Registration Deadline**: November 25
-- **PC Onsite**:  December 2, 5 PM 
-- **Game Start**: December 2, 9 PM 
-- **Game End** - December 4, 2 AM
-- **PC Offsite**:  December 4, 11 AM
-- **Food**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
 
+**In Game Location**: [Simoondale Mines]({{< ref "/background/simoondale_mines" >}} "[simoondale_mines")
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Donnie Leight
+
+**Registration Deadline**: November 25
+
+**PC Onsite**:  December 2, 5 PM 
+
+**Game Start**: December 2, 9 PM 
+
+**Game End** - December 4, 2 AM
+
+**PC Offsite**:  December 4, 11 AM
+
+**Food**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+
+There might be other surprises added in, but these are the basics.
+
+**Friday night**
+
+- potato soup and bread/rolls
+
+**saturday breakfast** 
+
+- baked berry oatmeal
+- breakfast casserole (eggs, potatoes, ham, cheese)
+
+**lunch**
+
+- chili
+- deli meat hoagies
+- pb&j
+
+**dinner**
+
+- cheesy chicken rice bake with fresh garden salad and dressing options
   {{% /expand%}}
 
-- [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
+[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
 
 ### January 14 2023
 
@@ -81,7 +110,7 @@ Event Registration closes the week before an event on Friday.
 
 Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
 
-**Friday night:**
+**Friday Night:**
 
 -   Meatball Sandwiches DIY
 
