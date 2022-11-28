@@ -57,13 +57,13 @@ There might be other surprises added in, but these are the basics.
 - Cheesy Chicken Rice Bake with fresh garden salad and dressing options
   {{% /expand%}}
 
-[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
+**Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
 
 ### January 14, 2023
 
 **Event Type**: [Feast Event]({{< ref "#feast-events" >}})
 
-**In Game Location**: [UNKOWN]()
+**In Game Location**: [To Be Determined]()
 
 **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 
@@ -79,22 +79,22 @@ There might be other surprises added in, but these are the basics.
 
 **PC Offsite**:  January 14, 7 PM 
 
-**Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
+**Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu To Be Determined" %}} 
 
   {{% /expand%}}
 
-[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
+**Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
 
 ## Fees:
 
-### Weekend Events: 
+### Weekend Events
 
 - $60.00 for the weekend for players 18 and older to PC.
 - $40.00 for the weekend for players 14 to 17 years old to PC.
 - New players play for free but must PC their first event.
 - NPC's play for free!
 
-### Feast Events:
+### Feast Events
 
 - PC Cost
 - NPC Cost
@@ -157,4 +157,4 @@ My most crucial clean up volunteers will be at the conclusion of dinner time, so
 
   {{% /expand%}}
 
-[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
+**Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
