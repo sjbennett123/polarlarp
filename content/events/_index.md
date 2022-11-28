@@ -29,7 +29,7 @@ Event Registration closes the week before an event on Friday.
 
 **Game Start**: December 2, 9 PM 
 
-**Game End** - December 4, 2 AM
+**Game End**: December 4, 2 AM
 
 **PC Offsite**:  December 4, 11 AM
 
