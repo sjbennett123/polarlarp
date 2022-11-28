@@ -4,11 +4,11 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1
 ---
-# Nero postmortem 
+## Nero postmortem 
 How do we feel we did overall if we had to rate this what would you give it.
 
 
-# Best moments from the event
+## Best moments from the event
 
 Battles
 Roleplay
@@ -24,7 +24,6 @@ Holds
 Organization 
 Did the tables stay clear
 
-
 ## Props and merch
 
 Worked well and highlights
@@ -32,7 +31,6 @@ No used at all
 Not fit for purpose
 Broken
 Needed more or missing
-
 
 ## Writeups
 
@@ -44,22 +42,22 @@ Spelling or Grammar mistakes
 What did you need to print onsite
 
 
-# Challenge
+## Challenge
 
 Did any players die
 Did any players complain
 
 
-# Safety
+## Safety
 
 Did anyone get hurt
 did anything feel unsafe
 
-# Planning 
+## Planning 
 
 Did any meetings not work
 
-# Burnout 
+## Burnout 
 
 Did anyone feel like they put in too much time 
 Time crunch
@@ -71,5 +69,4 @@ Stress
 
 Do we have any leads for new writers
 New npcs 
-
 
