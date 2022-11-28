@@ -5,8 +5,7 @@ draft: false
 weight: 1
 ---
 
-[PC INFORMATION CLICK HERE](https://snazzy-marshmallow-9e25ed.netlify.app/pc_information/)
-
+[PC INFORMATION CLICK HERE]({{< ref "/pc_information" >}})
 ## **Writing**
 
 - Use the standard writeup format that we all are using for your writeups.  Templastes are HERE.
