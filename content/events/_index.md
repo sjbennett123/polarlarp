@@ -41,18 +41,18 @@ There might be other surprises added in, but these are the basics.
 
 - potato soup and bread/rolls
 
-**saturday breakfast** 
+**Saturday breakfast** 
 
 - baked berry oatmeal
 - breakfast casserole (eggs, potatoes, ham, cheese)
 
-**lunch**
+**Saturday  Lunch**
 
 - chili
 - deli meat hoagies
 - pb&j
 
-**dinner**
+**Saturday Dinner**
 
 - cheesy chicken rice bake with fresh garden salad and dressing options
   {{% /expand%}}
@@ -114,12 +114,9 @@ Plates and utensils are disposable this event due to logistical reasons. If you 
 
 -   Meatball Sandwiches DIY
 
-
-  **Saturday:**
+ **Saturday Breakfast**- 11ish
 
 *Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.*
-
- **Breakfast**- 11ish
 
 - Sausage gravy & Biscuits
 
@@ -129,7 +126,7 @@ Plates and utensils are disposable this event due to logistical reasons. If you 
 
 - Pancakes
 
-**Lunch**- 2/3ish
+**Saturday Lunch**- 2/3ish
 
 - Chili
 
@@ -139,7 +136,7 @@ Plates and utensils are disposable this event due to logistical reasons. If you 
 
 - veggies in some way
 
-**Dinner**- 6/7ish
+**Saturday Dinner**- 6/7ish
 
 - Roast chicken
 
