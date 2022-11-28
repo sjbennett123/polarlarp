@@ -104,9 +104,9 @@ There might be other surprises added in, but these are the basics.
 - **Game Start**: October 21, 9 PM 
 - **Game End**: October 23, 2 AM
 - **PC Offsite**: December 2, 5 PM 
-- **Food**:   {{%expand "Tavern Menu" %}} 
+- **Food**:   Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
 
-  Please let us know about any considerations we need to take into account.
+  
 
 Plates and utensils are disposable this event due to logistical reasons. If you want to bring your own cool plates and utensils and WASH THEM IN YOUR CABINS AFTER so the kitchen sink doesn't get inundated, please feel free to do so.
 
