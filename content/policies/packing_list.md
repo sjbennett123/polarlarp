@@ -6,19 +6,26 @@ draft: false
 
 a non-comprehensive list of things to help you make sure that you're bringing everything that you need for game this weekend.
 
-Base Clothes & Weather Clothes - It's getting down to 43-47 degrees at night, so make sure to pack long sleeve / long legged black pants and shirts, as well as getting up to 70 during the day, so an alternative short sleeve shirt to wear under your costuming.  Bring a hat of some sort for the cold nights.
+- **Base Clothes & Weather Clothes** - It's getting down to 43-47 degrees at night, so make sure to pack long sleeve / long legged black pants and shirts, as well as getting up to 70 during the day, so an alternative short sleeve shirt to wear under your costuming.  Bring a hat of some sort for the cold nights.
+- **Footwear** - Try to wear boots or non-descript sneakers, but Somerset is notoriously muddy so safety over function.  Bring a few extra pair of socks.
+-  **costuming**, including pouches, belts, weapons, shields, packets, cantrip tomes, and a personal light spell.
 
-Footwear - Try to wear boots or non-descript sneakers, but Somerset is notoriously muddy so safety over function.  Bring a few extra pair of socks.
 
-Bring all your costuming, including pouches, belts, weapons, shields, packets, cantrip tomes, and a personal light spell.
+## Camping/ Sleeping Gear
 
-Camping / Sleeping Gear
-A set of sleeping clothing, and your toiletries, baby wipes, bug spray, sleeping bag / blankets and a pillow.  Strongly recommend Toothbrush, Toothpaste, Hair Brush, Deodorant, Body Wash, Towel, Soap & Toilet Paper. I also recommend earplugs, especially in larger cabins.
+A set of sleeping clothing, and your toiletries, baby wipes, bug spray, sleeping bag / blankets and a pillow.  Strongly recommend 
 
-Bring your own bottled water.   Somerset ground water is notoriously filthy without additional filtration.
+- Toothbrush, Toothpaste,
+-  Hair Brush, 
+- Deodorant, 
+- Body Wash
+- Towel, Soap & Toilet Paper. 
+-  earplugs
 
-Snacks. 
+**bottled water**.   Somerset ground water is notoriously filthy without additional filtration.
 
-Sunscreen if you're sensitive to UV.
+**Snacks**. 
 
-Cash (this is a Cash-only event)
+**Sunscreen** if you're sensitive to UV.
+
+**Cash** (this is a Cash-only event)
