@@ -11,17 +11,15 @@ draft: false
 
 
 
-**Beds**: Just springs or plywood boards with **no mattresses**, so bring bedding(at least a mattress). 
+**Beds**: Just springs or plywood boards with **no mattresses**, so bring bedding (at least a mattress). 
 
-**Heat**: No heat. We bring extra blankets, even if it looks like it will be warm enough. It will get very cold at this site at night, especially during early spring or late fall events. Heaters are **not** permitted at the site. 
+**Heat**: No heat! Bring extra blankets, even if it looks like it will be warm enough. It gets very cold at this site at night, especially during early spring or late fall events. Heaters are **not** permitted at the site. 
 
-**Electrical**: There will only be one electrical outlet and light in each cabin. 
+**Electrical**: There is only be one electrical outlet and light in each cabin. 
 
 **Showers**: Sketchy as hell. The bathrooms and showers are in their own individual facilities.
 
 **Bathrooms**: Communal bathrooms. BEWARE THE SPIDER!
-
-
 
 **Bird Seed Packets**: NOPE!  The camp site does not allow bird seed packets.
 
@@ -33,7 +31,7 @@ draft: false
 ### Walmart
 
 - **Address**: 400 Three Springs Dr, Weirton, WV 26062
-- **Phone**: (304 723-3445
+- **Phone**: (304) 723-3445
 - **Hours**: 6AM–11PM
 - **Distance from Camp**: 
 - [Walmart : Google Maps](https://goo.gl/maps/7RFALpeCACC9bJbG6)
@@ -123,8 +121,9 @@ Walmart Pharmacy
 
 Giant Eagle Pharmacy: 17 minutes northwest, https://goo.gl/maps/xmuq29vtU9LYaTTL7
 
-**Nearby hotels**
-A: There are several hotels located just beyond the Pennsylvania boarder in Weirton, WV, which is less than 20 minutes from the camp site. The hotels include Holiday Inn, Comfort Inn, and Fairfield Inn & Suites. 
+## **Nearby hotels**
+
+There are several hotels located just beyond the Pennsylvania boarder in Weirton, WV, which is less than 20 minutes from the camp site. The hotels include Holiday Inn, Comfort Inn, and Fairfield Inn & Suites. 
 
 ## Jennerstown Borough Services:
 
