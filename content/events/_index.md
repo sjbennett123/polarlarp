@@ -59,7 +59,7 @@ There might be other surprises added in, but these are the basics.
 
 [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
 
-### January 14 2023
+### January 14, 2023
 
 **Event Type**: [Feast Event]({{< ref "#feast-events" >}})
 
@@ -102,7 +102,7 @@ There might be other surprises added in, but these are the basics.
 ## Past Events
 
 
-### October 21 2022
+### October 21, 2022
 
 **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
 
@@ -134,33 +134,23 @@ Plates and utensils are disposable this event due to logistical reasons. If you 
 *Breakfast will not be until after 10am. Due to childcare plans, I'm driving in from an hour away in the morning. I plan to be on site by 10 at the latest. If you're an early riser and need anything, there will be fruit to get you going.*
 
 - Sausage gravy & Biscuits
-
 - Maple Berry baked oatmeal
-
 - Scrambled eggs
-
 - Pancakes
 
 **Saturday Lunch**- 2/3ish
 
 - Chili
-
 - Homestyle Mac and Cheese
-
 - Rice with fixins/sausage
-
 - veggies in some way
 
 **Saturday Dinner**- 6/7ish
 
 - Roast chicken
-
 - pork or turkey (haven't decided yet)
-
 - roast veggies
-
 - loaded baked potato bar
-
 - some sort of lasagna meat free just in case 
 
 My most crucial clean up volunteers will be at the conclusion of dinner time, so that I can get everything loaded in my car and head back to pick up my son. I think based on space, I'll need 2/3 people that know how to properly clean and dry. I know it becomes a popular cleanup request and I will be taking volunteers on a first come basis, based on who is standing in front of me when I need the help. I can't go searching for anyone on a sign up sheet.
