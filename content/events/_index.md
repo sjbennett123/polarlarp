@@ -15,16 +15,16 @@ Event Registration closes the week before an event on Friday.
 
 ### December 2, 2022
 
-- **Event Type**: [Weekend Event](https://snazzy-marshmallow-9e25ed.netlify.app/events/#weekend-events)
-- **In Game Location**: [Simoondale Mines](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
-- **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
+- **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+- **In Game Location**: - [Simoondale Mines]({{< ref "/background/simoondale_mines" >}} "[simoondale_mines")
+- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 - **Event Director**: Donnie Leight
 - **Registration Deadline**: November 25
 - **PC Onsite**:  December 2, 5 PM 
 - **Game Start**: December 2, 9 PM 
 - **Game End** - December 4, 2 AM
 - **PC Offsite**:  December 4, 11 AM
-- **FOOD**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
+- **Food**:  Please let us know about any considerations we need to take into account. {{%expand "Tavern Menu" %}} 
 
   {{% /expand%}}
 
@@ -32,16 +32,16 @@ Event Registration closes the week before an event on Friday.
 
 ### January 14 2023
 
-- **Event Type**: [Feast](https://snazzy-marshmallow-9e25ed.netlify.app/events/#feast-events)
+- **Event Type**: [Feast Event]({{< ref "#feast-events" >}})
 - **In Game Location**: [UNKOWN]()
-- **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
+- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 - **Event Director**: Donnie Leight
 - **Registration Deadline**: November 25
 - **PC Onsite**:  January 14 , 10 AM
 - **Game Start**: January 14, 12 PM 
 - **Game End**: January 14, 5 PM 
 - **PC Offsite**:  January 14, 7 PM 
-- **FOOD**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
+- **Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu" %}} 
 
   {{% /expand%}}
 
@@ -66,12 +66,9 @@ Event Registration closes the week before an event on Friday.
 
 ### October 21 2022
 
-- **Event Type**: [Weekend Event](https://snazzy-marshmallow-9e25ed.netlify.app/events/#weekend-events)
-
-- **In Game Location**: [Stonewood](https://snazzy-marshmallow-9e25ed.netlify.app/background/simoondale_mines/)
-
-- **Campsite**: [Camp Sequanota](https://snazzy-marshmallow-9e25ed.netlify.app/camps/camp_sequanota/)
-
+- **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+- **In Game Location**:  [Stonewood]({{< ref "/background/stonewood_dwarves" >}} "[stonewood")
+- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 - **Event Directors**: Stephen Dupree and Chris Colland
 - **Registration Deadline**: October 14
 - **PC Onsite**:  October 21, 5 PM 
