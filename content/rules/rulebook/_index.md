@@ -232,7 +232,7 @@ This history also explains how he got the skills with which he will be entering 
 
 If your character is older, you may have to think of a reason why your character is only second level. For example, perhaps you have been a farmer or a trapper for many years and now you have been kicked out of the family / evicted from your farm / mistreated by an evil bad guy / stirred into action by some injustice and now after all those years have decided to become an adventurer.
 
-So go to it! Write an interesting character history and see how much more fun NERO will become.
+So go to it! Write an interesting character history and see how much more fun NERO becomes.
 
 ### Character Profile Questions
 
@@ -287,10 +287,6 @@ Use these questions as a way to help “flesh out” your character history.
 - How do you feel about nobility? 
 - What are your future plans?
 
-
-
- 
-
 # Chapter 2 : The Basics
 
 ## Classes
@@ -305,17 +301,29 @@ You must pick one of these classes:
 
 Fighters take naturally to the physical combat arts and rely mainly on strength and stamina to accomplish their goals. They can wear more armor than any other class.
 
+**Body**: Gain 2 per level
+**Armor Max**: 20
+
 ### Rogue
 
 Rogues have a natural bent towards dexterity based skills, and the practice of alchemy. Rogues are limited in how much armor they can wear. Their lower Body Points, lighter armor and relatively high costs for combat skills does not make them well suited for front line combat roles.
+
+**Body**: Gain XX per level
+**Armor Max**: 15
 
 ### Scholar
 
 Scholars are adept at many mental skills and readily learn the magical arts. Scholars are even more limited in how many Armor Points they can use than Rogues. 
 
+**Body**: Gain XX per level
+**Armor Max**: 10
+
 ### Templar
 
-Templars are spell casters who are somewhat more adept than scholars at physical combat skills. They are not religious in any way; NERO specifically prohibits religion in the game. Their combat training leaves them better able to fight but takes away from their studies. They cannot use as many Armor Points as Fighters, but can use more than Scholars.
+Templars are spell casters who are somewhat more adept than scholars at physical combat. They are not religious in any way because NERO specifically prohibits religion in the game. Their combat training leaves them better able to fight but takes away from their studies. They wear as many Armor Points of armor as Fighters, but can wear more than Scholars.
+
+**Body**: Gain XX per level
+**Armor Max**: 15
 
 ## Races
 
@@ -349,19 +357,19 @@ The next section of this book lists the various races other than human. If playi
 
 | Race            | Advantages            | Disadvantages |
 | --------------- | --------------------- | ---- |
-| Barbarian       |  +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
-| Biata           | Break Charm: 2BP<br />Resist Charm: 3BP<br />Resist Sleep: 2BP<br /> | Cannot buy Read Magic |
-| Drae            | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -2 Body Points during the day<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
-| Dwarf           | +1 Body Point to Start<br />Resist Poison: 4BP<br />-1 Cost for Smithing<br /> | Double cost for Read Magic<br />Cannot use Polearm<br />Cannot use Staff<br />Cannot use Two Handed Blunt<br /> |
-| Elf             | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -1 Body Point<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
-| Gadabari        | Gadabari Hex/Remove Gadabari Hex: 2BP | None |
-| Half Ogre       | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
-| Half Orc        | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
-| Hobling         | Resist Poison: 4BP<br />Half cost for Pick Locks<br />Half cost for Arm/Disarm Traps<br />Hobling Dodge: 12BP, once<br /> | -1 Body Point to Start<br />Cannot be a fighter<br />Cannot use two handed weapons<br /> |
-| Human           | None | None |
-| Mystic Wood Elf | Break Charm: 2BP<br />Resist Charm: 3BP<br />-1 Cost for Craftsman<br /> | Must buy skill form table3.5 at each level |
-| Sarr            | Resist Poison: 4BP<br />Scenting Ability<br /> | Cannot use any blunt or any ranged weapons |
-| Scavenger       | Resist Poison: 4BP<br />Scenting Ability<br /> | Double cost for Scholarly Skills |
+| **Barbarian**   |  +2 Body Points to Start<br />Barbarian Slay:  10BP, once<br />Detect Celestial Magic: 2BP <br /> | Double cost for Scholarly Skills |
+| **Biata**       | Break Charm: 2BP<br />Resist Charm: 3BP<br />Resist Sleep: 2BP<br /> | Cannot buy Read Magic |
+| **Drae**        | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -2 Body Points during the day<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
+| **Dwarf**       | +1 Body Point to Start<br />Resist Poison: 4BP<br />-1 Cost for Smithing<br /> | Double cost for Read Magic<br />Cannot use Polearm<br />Cannot use Staff<br />Cannot use Two Handed Blunt<br /> |
+| **Elf**         | Resist Charm: 3BP<br />Resist Sleep: 2BP<br />Half Cost for Archery<br /> | -1 Body Point<br />Cannot use Two Handed Sword<br />Cannot use Two Handed Blunt<br /> |
+| **Gadabari**    | Gadabari Hex/Remove Gadabari Hex: 2BP | None |
+| **Half Ogre**   | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
+| **Half Orc**    | +2 Body Points to Start<br />Strong Arm: 10 BP, once<br /> | Double cost for Scholarly Skills |
+| **Hobling**     | Resist Poison: 4BP<br />Half cost for Pick Locks<br />Half cost for Arm/Disarm Traps<br />Hobling Dodge: 12BP, once<br /> | -1 Body Point to Start<br />Cannot be a fighter<br />Cannot use two handed weapons<br /> |
+| **Human**       | None | None |
+| **Mystic Wood Elf** | Break Charm: 2BP<br />Resist Charm: 3BP<br />-1 Cost for Craftsman<br /> | Must buy skill form table3.5 at each level |
+| **Sarr**        | Resist Poison: 4BP<br />Scenting Ability<br /> | Cannot use any blunt or any ranged weapons |
+| **Scavenger**   | Resist Poison: 4BP<br />Scenting Ability<br /> | Double cost for Scholarly Skills |
 
 
 
@@ -453,9 +461,9 @@ Unlike other races that are distinguished by physical features, Gadabari are def
 
 Many Gadabari tribes may coexist in the same area, each being ruled by its own Bandoleer or “Prince/Princess.” There is a Gadabari King but quite often this figure is far removed from normal Gadabari life and has no great influence over the local tribes. Usually a Gadabari tribe will have its own distinctive predominate color or marking, used to differentiate itself from other tribes in the area.
 
-Gadabari can bestow or remove a Hex, the use of which is limited by the Gadabari Code of Honor. The Gadabari Code of Honor requires that a Gadabari be always honest and trustworthy among members of his or her own tribe. The Gadabari will support the other tribe members and will do whatever it takes to help (including lying to, stealing from, and cursing or killing non-tribe members).
+Gadabari can bestow or remove a Gadabari  Hex, the use of which is limited by the Gadabari Code of Honor. The Gadabari Code of Honor requires that a Gadabari be always honest and trustworthy among members of his or her own tribe. The Gadabari will support the other tribe members and will do whatever it takes to help (including lying to, stealing from, and cursing or killing non-tribe members).
 
-The Gadabari Code of Honor means respecting the actions of fellow Gadabari as well. If a Gadabari places a Hex on someone, it had better be for a good reason (sometimes, the recipient might take action against the entire tribe). If there was a good reason, then the entire tribe will support that Gadabari.
+The Gadabari Code of Honor means respecting the actions of fellow Gadabari as well. If a Gadabari places a Gadabari Hex on someone, it had better be for a good reason (sometimes, the recipient might take action against the entire tribe). If there was a good reason, then the entire tribe will support that Gadabari.
 
 ### Half Ogre
 
@@ -616,7 +624,7 @@ Once First Aid has begun; with the call “First Aid“, the one minute death co
 
 ### Dead
 
-If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All of your active spells, alchemical substances, and other effects will immediately disappear. The only things that will remain are Hex, Forget-it-Well, Forget-me-Not, and Enslavement. Sometimes, a Curse of Transform ation or an Infection might disappear when a character dies. No other game effect is active after death, except for certain
+If you are still at -1 Body Points after completing your Death Countdown, then you are dead. Death may also come from Killing Blows (see below) and certain effects. All of your active spells, alchemical substances, and other effects will immediately disappear. The only things that will remain are Gadabari Hex, Forget-it-Well, Forget-me-Not, and Enslavement. Sometimes, a Curse of Transform ation or an Infection might disappear when a character dies. No other game effect is active after death, except for certain
 
 Formal Magic Spells (this will be stated on the tag). The only thing that can save you now is a Life spell delivered within five minutes. Even if a Life spell is given to you, all your active spells, alchemical substances and other effects (except those listed above) are lost. If the five minutes pass without a Life spell then your body dissipates, all of your in game items drop to the ground, and you must immediately become a spirit and can only be brought back by a resurrection
 
@@ -662,7 +670,7 @@ Many resurrections are performed by a character who tells a story about the even
 
 At the end of the resurrection, the player must say “I reform one, I reform two, I reform three”. There is nothing that will successfully affect a resurrecting body during this three count. The last three seconds are considered part of the time in which the spirit “cannot interact with the world around it” and hence nothing will affect the character. You cannot begin any three count, including a killing blow, upon a resurrecting body until after the resurrection count is over. 
 
-A newly resurrected character has his or her maximum Body Points and will awake from resurrection without any game possessions at all but clothed. All remaining spells and elixirs that were present on the character will be gone, including Hex and Enslavement.
+A newly resurrected character has his or her maximum Body Points and will awake from resurrection without any game possessions at all but clothed. All remaining spells and elixirs that were present on the character will be gone, including Gadabari Hex and Enslavement.
 
 Anyone who resurrects at a full earth circle will have their skills renewed. This does not include craftsman skills or production skills, but does reset Formal Magic casting ability and Formal Cantrips. Most of the time, a Curse of Transformation or an Infection will disappear when a character is resurrected. Note that the lost memories from Forget poisons are not restored by resurrection.
 
@@ -711,23 +719,25 @@ Some chapters will let you max out through helping NPC, or clean-up/setup duties
 
 ### Build Points
 
-Experience Points are automatically converted to Bild Points (BP), which you then use to buy skills for your character. The amount of Exerience Points needed to buy a Build Point is based on your level. Your level is determined by how many Build Points your character has. It takes 10 
+Experience Points are automatically converted to Build Points (BP), which you then use to buy skills for your character. The amount of Experience Points needed to buy a Build Point is based on your level. Your level is determined by how many Build Points your character has. It takes 10 Build Points to gain a level. All characters start with 65 XP which equals 30 Build Points therefore all characters start at second level. These 30 Build Points are used to buy the character’s initial skills.
 
-Levels
+*Xp/bp 3 for level 1. Increase by 4 (7) for level 2. Increase by 5 (12) for level 3. Next levels... Increase by 6, 7, 8 for higher levels*
 
-Advancement Chart xp to Build: Table 2-4a
+### Levels
 
-Advancement Chart Body Points: Table 2-4b
+Your level determines how many Body Points you get and how many Experience Points you need to get a Build Point. Table 2-4 shows the character’s level based on the total Build Points. It also shows the number of XP needed for the next BP, and the Body Point value per class (fighter, rogue, scholar, and templar) for the level attained.
+
+#### Advancement Chart Experience Points to Build Points by level: Table 2-4a
 
 | Level | Total Build Points | XP/BP |
 | ----- | ------------------ | ----- |
 | 1     | 15-24              | 3     |
 | 2     | 25-34              | 7     |
-| 3     | 35                 | 12    |
-| 4     | 45                 | 18    |
-| 5     | 55                 | 25    |
+| 3     | 35-45              | 12    |
+| 4     | 45-54              | 18    |
+| 5     | 55-64              | 25    |
 | 6     | 65                 | 33    |
-| 7     |                    | 42    |
+| 7     | 75                 | 42    |
 | 8     |                    | 52    |
 | 9     |                    | 63    |
 | 10    |                    | 75    |
@@ -760,21 +770,7 @@ Advancement Chart Body Points: Table 2-4b
 
 
 
-### Meditation
-
-Any character may Meditate to regain use of “times per day” or “expendable” skills that were blocked by the Return <type> monster ability. To Meditate, the player must role-play deep concentration for 60 seconds, during which time they may perform no other actions including speaking, moving, or the use of any in-game skills, items or abilities. At the end of the meditation the character regains any skills or abilities lost to the effect “Return <type>.” Only character skills and abilities may be regained by Meditating. (not Magic Items, Scrolls, Alchemy, etc.)
-
-A spell-casting character may also Meditate to regain spells that missed a legal target. At the end of the meditation, the character regains the use of any thrown spells that failed to hit a valid target, as well as all spells, skills and abilities lost to the Return <type> effect.
-
-Spell casters should not use the Meditate ability to intentionally miss their targets in an attempt to cause confusion for the NPCs. “Decoy” spells that are intentionally thrown away from the target should not be regained by Meditate. In effect, you can only get your spells back from Meditate if you were actually attempting to hit your target and missed. Spells negated by defenses (ex. Dodge, Phase, and Resist) cannot be meditated back.
-
-### Build Points
-
-Experience Points are automatically converted to Build Points (BP), which you then use to buy skills for your character. The amount of Experience Points needed to buy a Build Point is based on your level. Your level is determined by how many Build Points your character has. It takes 10 Build Points to gain a level. All characters start with 65 XP which equals 30 Build Points therefore all characters start at second level. These 30 Build Points are used to buy the character’s initial skills.
-
-### Levels
-
-Your level determines how many Body Points you get and how many Experience Points you need to get a Build Point. Table 2-4 shows the character’s level based on the total Build Points. It also shows the number of XP needed for the next BP, and the Body Point value per class (fighter, rogue, scholar, and templar) for the level attained.
+#### Advancement Chart Body Points per class per level: Table 2-4b
 
 # Chapter 3 :  The Skill System
 
@@ -789,6 +785,10 @@ In any case where a skill can be used only a certain number of times per day (su
 ### Limited Reset
 
 Some chapters offer an additional reset of times-per-day skills at 6 AM. These are called “limited resets” and do not refresh craft/production skills, formal magic skills, Cantrips, or magic items. Information on whether or not your local NERO Chapter is using the Limited Reset rule will be available on their web site, at the event, and often announced at the Opening Ceremonies of the event.
+
+### Meditation
+
+Any character may Meditate to regain use of “times per day” or “expendable” skills that were blocked by the Return <type> monster ability. To Meditate, the player must role-play deep concentration for 60 seconds, during which time they may perform no other actions including speaking, moving, or the use of any in-game skills, items or abilities. At the end of the meditation the character regains any skills or abilities lost to the effect “Return <type>.” Only character skills and abilities may be regained by Meditating. (not Magic Items, Scrolls, Alchemy, etc.) A spell-casting character may also Meditate to regain spells that missed a legal target. At the end of the meditation, the character regains the use of any thrown spells that failed to hit a valid target, as well as all spells, skills and abilities lost to the Return <type> effect. Spell casters should not use the Meditate ability to intentionally miss their targets in an attempt to cause confusion for the NPCs. “Decoy” spells that are intentionally thrown away from the target should not be regained by Meditate. In effect, you can only get your spells back from Meditate if you were actually attempting to hit your target and missed. Spells negated by defenses (ex. Dodge, Phase, and Resist) cannot be meditated back.
 
 ## The Skill System
 
@@ -808,17 +808,17 @@ There are special rules for ssqpell quisition that are unline most other skilsl 
 
 You may memorize any 1st level spell and store it in that slow. Only one 1st level spell may be stored there at any time. Once that spell as been cast, the slot will become empty and will remain that wya until the next liminted orstandard rst, or until it is rfilled by other means. 
 
-FI you have several spell slots of a givel level, you  can fill them with any combination of spells (of the apropriate levl ) taht you know. 
+If you have several spell slots of a given level, you  can fill them with any combination of spells (of the appropriate level ) that you know. 
 
-You must buy spoell slots in a proportial pyramid fasion. If you wish to buy a spell slot of a partiiclar level, then you must have twow spell slows of the level below. 
+You must buy spell slots in a proportial pyramid fashion. If you wish to buy a spell slot of a particular level, then you must have two spell slows of the level below. 
 
 In other words, you must havea minimum of one spell slow difference bteween any adjoining levels and a maximmun of two spell slots difference. If you wish to buy your first 2nd level spell slot, you must have at least 1st level spell slots already, but yyuou many not have threse. 
 
 Once you have purhsased four spell slots of any particular level, then you need not buy any additional spell slots of that level to complete the pyramid. Imagine now the pyramid being an obelisk with broad suppord and a pointed top( like the washington monument)
 
-You may buy more than four spell slots fper level but there must alwayts be at least as many spell slots below that level in order to support hte new amount. FCuther the pyramid must constanly building, which means that the level above must have only one less than the amount you are buysing. In other words, to buy a fifthh 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
+You may buy more than four spell slots fper level but there must always be at least as many spell slots below that level in order to support the new amount. FCuther the pyramid must constantly building, which means that the level above must have only one less than the amount you are buysing. In other words, to buy a fifth 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
 
-### Example of Spell Pyramid Rules:
+### Example of Spell Pyramid Rules
 
 Enchanto the mage has a 3rd level spell slot two 2nd level spell slots and three 1st level spell slots hist pryamid is fine (figure 3-1)
 
@@ -834,10 +834,10 @@ If Enchanto wants to buy a 5th level slow, he can do so without having ot buy an
 
 Below and on the following pages are the charts listing the Build Point costs fo skills Each skill ahs four cost columns assocaited with it 
 
-- F - Fighter
-- R Rouge
-- S Scholar
-- T Templar
+- **F** Fighter
+- **R** Rouge
+- **S** Scholar
+- **T** Templar
 
 All Classes may buy any skill, they just may need to pay more Build Points.
 
@@ -849,7 +849,7 @@ A good way to design your character is to imagine them at a higher level and wor
 
 ## Production Skills
 
-To create game items such as Weapsons, Armor, Potions, Scrolls, Traps, Achemical Elixers, Contact Poisons, and Gas Globes, you must first buy the approrp
+To create game items such as Weapons, Armor, Potions, Scrolls, Traps, Alchemical Elixirs, Contact Poisons, and Gas Globes, you must first buy the approrp
 
 ## Skill Descriptions
 
@@ -885,15 +885,17 @@ You should not carry in your hand more spell packets than you can actually cast 
 
 To cast a spell, the caster must have a spell packet in hand. The hand and arm with the spell packet in it must be “free” (Hands that are holding something else, or are tied or bound either physically or with a binding spell are not “free”). The caster must then correctly recite the verbal for the spell in a voice loud enough to be heard by a person standing next to you even if there is no one standing next to you. Within three seconds after finishing the verbal, the caster must then throw the packet at the target. The short phrase or “incantation” of the spell is spoken in plain English so the victim will know what spell has been cast. In game, these words are understood by anyone, but have a “magical effect” associated with them that makes them different from normal speech. Even though you can speak the language, you cannot “fake” a spell incantation or otherwise bluff the casting of a spell. You also cannot bluff the start of a spell incantation. If you start the incantation, the spell is used. Spellcasters expend the power to cast a spell as soon as the incantation has begun. You cannot start the incantation for a spell, change your mind, and then still have that spell. You must wait until the next reset to restudy and to cast the spell again.
 
+### Spell Grounding
+
+Any item you throw, toss, or let go of is still considered to be in your possession until it lands and comes to a complete rest. Any attack that hit such an item before it lands and comes to rest will affect its possessor.
+
+If the attack targets the thrown/dropped item directly, such as Shatter or Destroy, the item is still affected.
+
 ## Touch-Casting
 
 Touch-casting is performed by holding a packet and placing it against the target you wish to affect. The obvious advantage to this is that there is no chance of missing and wasting the effect. In such a case, the effect recipient may choose to “accept” the effect, thus letting it past their Spell Defenses such as Shield Magic or Elemental Shield. The recipient must be conscious to “accept” an effect without triggering the Spell Defences. You may never “accept” a thrown effect. The decision to accept an effect through touch-casting is made immediately after the effect is cast. This is to prevent a caster from tricking an unsuspecting victim. 
 
 The recipient of a touch-cast effect can always refuse the effect by saying “refused.” This will use up the effect, but have no effect whatsoever on the recipient. Whenever attempting to touch-cast, you must abide by all NERO safe conduct rules.
-
-## Meditation
-
-Any character may Meditate to regain use of “times per day” or “expendable” skills that were blocked by the Return <type> monster ability. To Meditate, the player must role-play deep concentration for 60 seconds, during which time they may perform no other actions including speaking, moving, or the use of any in-game skills, items or abilities. At the end of the meditation the character regains any skills or abilities lost to the effect “Return <type>.” Only character skills and abilities may be regained by Meditating. (not Magic Items, Scrolls, Alchemy, etc.) A spell-casting character may also Meditate to regain spells that missed a legal target. At the end of the meditation, the character regains the use of any thrown spells that failed to hit a valid target, as well as all spells, skills and abilities lost to the Return <type> effect. Spell casters should not use the Meditate ability to intentionally miss their targets in an attempt to cause confusion for the NPCs. “Decoy” spells that are intentionally thrown away from the target should not be regained by Meditate. In effect, you can only get your spells back from Meditate if you were actually attempting to hit your target and missed. Spells negated by defenses (ex. Dodge, Phase, and Resist) cannot be meditated back.
 
 ## Schools of Magic
 
@@ -1020,8 +1022,10 @@ If the caster breaks Line of Sight by imposing a very large object such as a bui
 *I command you to awaken.*
 
 ```
-Celestial: Yes   ,Scroll: Yes
-Earth: Yes       ,Potion: Yes
+Celestial: Yes
+Scroll: Yes
+Earth: Yes
+Potion: Yes
 Manifold: Yes    
 Duration: Instant
 ```
@@ -1033,8 +1037,10 @@ This spell awakens the recipient from a Waylay, any sleep effect, and the charm 
 *With eldrich force I banish you.*
 
 ```
-Celestial: Yes   ,Scroll: No
-Earth: Yes       ,Potion: No
+Celestial: Yes
+Scroll: No
+Earth: Yes
+Potion: No
 Manifold: No
 Duration: Instant
 ```
@@ -1702,7 +1708,7 @@ Celestial:Yes           :: Scroll: No
  Duration: 10 Minutes
 ```
 
-This spell seals the victim into a rigid, form-fitting and unbreakable barrier, trapping them within. The victim cannot move, speak, touch-cast, Hex, or perform any game skills requiring movement. The spell lasts for ten minutes, but may be dropped by the caster at any time if he or she touches the victim and states “Imprison down.” This statement is out of-game, and can be used even if the caster is Silenced or inside the Imprison. Any observers who hear the statement are aware that the Imprison was dropped, and they might know who dropped it. A Dispel Magic will bring down the Imprison, but will not dispel any other spell effects on the creature inside. Any creature sealed within an Imprison spell cannot be affected by any effect or damage, nor can they be moved. A victim of the Imprison is completely aware of his or her surroundings and unless unconscious or otherwise impaired will remember all that occurred while Imprisoned. This spell will prevent the victim from being searched and only the caster may deliver a Killing Blow to the recipient with the phrase “Imprison Down” after the three count. If the Killing Blow fails (for example, if the creature inside is immune to the caster’s attack), then the Imprison will drop as soon as the Killing Blow is completed and the creature may then defend itself.
+This spell seals the victim into a rigid, form-fitting and unbreakable barrier, trapping them within. The victim cannot move, speak, touch-cast, Gadabari Hex, or perform any game skills requiring movement. The spell lasts for ten minutes, but may be dropped by the caster at any time if he or she touches the victim and states “Imprison down.” This statement is out of-game, and can be used even if the caster is Silenced or inside the Imprison. Any observers who hear the statement are aware that the Imprison was dropped, and they might know who dropped it. A Dispel Magic will bring down the Imprison, but will not dispel any other spell effects on the creature inside. Any creature sealed within an Imprison spell cannot be affected by any effect or damage, nor can they be moved. A victim of the Imprison is completely aware of his or her surroundings and unless unconscious or otherwise impaired will remember all that occurred while Imprisoned. This spell will prevent the victim from being searched and only the caster may deliver a Killing Blow to the recipient with the phrase “Imprison Down” after the three count. If the Killing Blow fails (for example, if the creature inside is immune to the caster’s attack), then the Imprison will drop as soon as the Killing Blow is completed and the creature may then defend itself.
 
 ### Improved Hearth
 
@@ -1962,7 +1968,7 @@ Celestial:No           :: Scroll: No
  Duration: Instant
 ```
 
-This spell will cancel a Curse spell but will not restore any Body Points lost. It will not rid anyone of a Hex.
+This spell will cancel a Curse spell but will not restore any Body Points lost. It will not rid anyone of a Gadabari Hex.
 
 ### Remove Drain
 
@@ -2537,17 +2543,13 @@ Shields cannot be used as offensive weapons. Shields are strictly for defense.
 
 Shields do not protect the owner from any kind of trap other than a weapon trap, which uses a weapon blade or missile weapon to deliver its damage.
 
-## Shield Bashing
+### Shield Bashing
 
 Shield Bashing is the intentional use of a shield to gain physical out-of-game advantage over an opponent. Shield Bashing is a serious a violation of NERO safety rules—it is similar to Charging. The potential for injury is great. Excessive use of Shield Bashing will result in warnings and possible loss of the Shield skill. 
 
 Shields cannot be used with two handed weapons. You may not wield a weapon with the hand or arm holding the shield. Also your shield arm may not have any other items or weapons attached to it. Tucking a dagger behind your shield arm would negate your ability to use the shield.
 
-### Spell Grounding
 
-Any item you throw, toss, or let go of is still considered to be in your possession until it lands and comes to a complete rest. Any attack that hit such an item before it lands and comes to rest will affect its possessor.
-
-If the attack targets the thrown/dropped item directly, such as Shatter or Destroy, the item is still affected.
 
 ### Bucklers
 
@@ -2615,7 +2617,7 @@ When you swing a weapon in NERO, you must call out a verbal that indicates the a
 
 <damage amount> <weapon type> <damage type> <effect>.
 
-When in combat with the same opponent, there is no need to continue calling your damage beyond the first or second swing. Weapon verbals are out of game and can thus be made while under the effects of a Silence or Hex, however anyone who hears them will know what it is.
+When in combat with the same opponent, there is no need to continue calling your damage beyond the first or second swing. Weapon verbals are out of game and can thus be made while under the effects of a Silence or Gadabari Hex, however anyone who hears them will know what it is.
 
 ### Damage Amount
 
@@ -2885,29 +2887,29 @@ Any special security precautions you take must be entered on the marshal’s not
 
 Anyone who does not reside in a particular cabin caught reading the marshal’s notes will be subject to disciplinary action. These notes are for marshals only, and only when marshaling a thief into the cabin.
 
-Traps & Locks
+## Traps & Locks
 
 In order to make a trap, you must have the skill Create Traps. This skill works on the Production system as described in the chapter “Physical Representations” on page 105. All trap designs must be checked and approved by a Rules Marshal from the chapter where the trap will be used. The trap must be approved at every event, regardlessof whether it has been approved in the past. All traps must make a noise or flash a light or otherwise be constructed so that it is obvious when the trap has been set off. A trigger must be physically attached or cenected to a trap.
 
 Traps are never considered ”NERO-safe” weapons and cannot be thrown or used in battle as a weapon. Doors may only be secured through in-game means such as in-game locks or a Ward spell. The use of out-of-game locks, barricading a door closed with other objects or attempting to hold it closed against an intruder is not permitted.
 
-## Trap Types
+### Trap Types
 
 There are 7 different types of traps each with different building parameters.
 
-### Weapon Traps
+#### Weapon Traps
 
 A weapon trap is a trap which contains a weapon on a spring mounted mechanism. These traps cost 1 Production Level per 2 points of damage with a minimum damage of 2 and a maximum damage of 40. Weapon traps may be reset by anyone with the Disarm /Arm Tr aps skill without paying the cost to rebuild them. These traps must be mounted to a door, wall or inside a large chest to be effective. If not mounted to a heavy, stable object of this sort, they cannot be set with enough force to be effective. You cannot attach these traps to a body.
 
 The mounted weapon must be any standard NERO-safe boffer weapon. This is the only trap that can be blocked, Parried, Dodged or stopped by the Magic Arm or spell.
 
-### Massive Mechanical Traps
+#### Massive Mechanical Traps
 
 Massive mechanical traps represent collapsing ceilings, rockfalls, giant scythes, and other such contraptions. They are completely immovable. They have a minimum size of 3” by 3” by 3”. Anyone struck by any part of the trap when it goes off takes the full damage of the trap. Massive mechanical traps must be rebuilt after they are set off; they cannot be reset. 
 
 These cost 1 Production Level per 4 points of damage with a minimum damage of 16 and a maximum damage of 80. Massive mechanical traps are usually represented with pillows, plastic trash bags filled with newspapers, and other soft items. Whoever is touched by the phys-rep will take the complete damage from the trap.
 
-### Fire / Acid Traps
+#### Fire / Acid Traps
 
 A fire or acid trap represents a trap which sprays a burning or caustic liquid in a 5 foot radius measured from the center of the trap phys-rep. Anyone inside this radius when it detonates takes the full damage of the trap plus the additional effects listed below. 
 
@@ -2917,7 +2919,7 @@ The damage from fire traps can be negated by Cloak vs Fire or Guardian of the Fo
 
 These cost 1 Production Level per 3 points of damage with a minimum damage of 12 and a maximum damage of 60. This trap is destroyed when it detonates.
 
-### Explosive Traps
+#### Explosive Traps
 
 Explosive traps are very similar to Fire/Acid Traps except that the container represents the explosive. These traps have a 5’ radius. All destructible items in the area of effect are destroyed. Armor will provide its numerical protection against the damage caused by the blast and then be destroyed. Sealed containers will not protect items from explosions. All in-game items except un-shatterable items will be destroyed by an explosive trap. Items within an indestructible sealed container will not be affected if they are in the radius of an explosive trap, unless the trap is inside that container or the container is open. Defenses such as Cloak or Bane versus Shatter or Destroy have no effect against an explosive trap.
 
@@ -2925,7 +2927,7 @@ Explosive traps, like Fire/Acid traps and Gas traps, must have a “container.�
 
 To make these traps costs 1 Production Level per 2 points of damage with a minimum damage of 30, and a maximum damage of 60. This trap is destroyed when it detonates.
 
-### Gas Traps
+#### Gas Traps
 
 The Production Level cost for creating a gas trap is equal to the highest Production Level gas the trap is designed to hold. The trap builder must also include a dose of the gas poison in the trap itself.
 
@@ -2939,33 +2941,33 @@ These traps have a 5’ radius. Anyone inside this area when the trap goes off w
 
 Gas traps, like Fire/Acid traps and Explosive traps, must have a “container.” This container is always 216 cubic inches, regardless of the trap’s effects. Gas trap mechanisms that go off are reusable though the gas inside will have to be replaced.
 
-### Alarms and Noise Makers
+#### Alarms and Noise Makers
 
 These are traps that do no damage but set off loud alarms and other noises. They cost 1 Production Level each to make. Alarms and Noise Makers do not have a minimum container size. They are as large, or as small, as they must be to make a noise. When this type of trap is tripped, it must make its own noise. Although it takes a person with Disarm Tr aps to disarm an Alarm or Noise Maker trap, once it has been set off anyone can attempt to muffle the trap’s sound by throwing blankets over the trap, or by using some other method.
 
-## Trap Mechanics
+### Trap Mechanics
 
-### Setting Traps
+#### Setting Traps
 
 Setting a trap takes the real setting time of the trigger followed by 60 seconds of counting while both hands remain on the trapped item. Both weapon traps and massive mechanical traps must be mounted on large or heavy objects to be properly set.
 
-### Backfire
+#### Backfire
 
 If either hand is removed from the trap, or the person setting the trap is struck by a physical blow or packet attack, then the trap backfires on the setter. The backfire will hit only the person setting the trap; there is no radius effect.
 
-### Setting off a Trap
+#### Setting off a Trap
 
 Traps can be set off in 3 ways: by being moved, being destroyed, or their trigger being sprung. The trap must be armed to be set off.
 
-### Being Moved
+#### Being Moved
 
 After a trap has been set, it cannot be moved more than five feet without automatically setting it off, even if the person moving it has a Disarm Tr aps skill. In the case of weapon traps, they will automatically hit the person carrying the trap.
 
-### Destroyed
+#### Destroyed
 
 An armed trap will be set off (then destroyed) if affected by a Shatter or Destroy effect. This includes traps and other game effects that duplicate Shatter and Destroy. Traps that are not armed will not be set off in this manner (although they will still be destroyed).
 
-### Trap Triggers
+#### Trap Triggers
 
 All traps must have a real, physical trigger. Setting off the trap must produce a noise or light that is detectable by an impartial observer. It must always be possible to see how to disarm a trap, although it may require light and a small mirror. To be used, a trap must be approved by a Marshal.
 
@@ -2977,11 +2979,11 @@ Punch a small hole in the piece of cardboard and tie one end of the piece of thr
 
 The other end of the string can be tied across a doorway or path so that when someone hits it with their leg it will pull out the cardboard and make a connection. This trigger can then be used to set off a buzzer or other device to indicate the trap has gone off. You can also deliberately set off a trap like a claymore mine if you use a pull cord.
 
-### Dealing Damage
+#### Dealing Damage
 
 Traps that have an area effect have their effect area measured from the center of the trap phys-rep. If there is a large, trapped box with a 10 foot tripwire attached and a player sets the trap off at the end of that tripwire they are not affected by the trap since the phys-rep (the center of the trap radius) would be 10 feet away. It is not measured from the tripwire/snapper/etc, but from the rep for the trap itself. This will allow you to have a 50ft pull cord on a trap box in the field and use it like a claymore mine since the effect goes off from the box/rep/trigger and not from the cord.
 
-### Disarming Traps
+#### Disarming Traps
 
 Traps may be disarmed by any method that does not permanently destroy the trap. For example, popping a battery clip off would represent disarming a spring. 
 
@@ -2989,11 +2991,11 @@ Permanent damage is defined as any damage that cannot be fixed by the marshal wi
 
 If the trap was successfully disarmed, the gas trap may of course be reset, but in no case can the gas be taken from the trap.
 
-### Containers
+#### Containers
 
 Fire / Acid, Explosive and Gas traps must have a container representing their explosive or liquid contents. This container must be at least 216 cubic inches in size.
 
-### Picking Locks
+## Picking Locks
 
 Anyone wishing to put a lock on a box, chest, or door must use one of the NERO approved locks (for sale by various characters). These locks are simple and can be fairly easily picked using thieves’ tools. Generally speaking, if you wish to place a lock on your door and you can pick the lock yourself in the presence of a Marshal, then you will be allowed to use that lock. Combination locks are not allowed to be used by players (although they may be found in modules).
 
@@ -3027,11 +3029,13 @@ Only by working together and trusting each other enough to give the benefit of t
 
 ## Build Cheating
 
-Any player that knowingly reports a false amount of build or levels, or abuses the award system will be suspended from all NERO ® Chapters for a minimum of six months. In addition, their character Example – Joseph is 10th level with 106 build. He goes to an event in another chapter, tells the check in staff he doesn’t have his card, but is 12th level with 123 build. After he is caught, he will be suspended for a minimum of 6 months, and his new amount of build will be 53.
+Any player that knowingly reports a false amount of build or levels, or abuses the award system will be suspended from all NERO ® Chapters for a minimum of six months. In addition, their character will be reduced to one half of it's current level.
+
+Example – Joseph is 10th level with 106 build. He goes to an event in another chapter, tells the check in staff he doesn’t have his card, but is 12th level with 123 build. After he is caught, he will be suspended for a minimum of 6 months, and his new amount of build will be 53.
 
 ## NERO Sportsmanship Policy
 
-**All NERO Participants**
+### **All NERO Participants**
 
 - Follow the spirit of the rules, as well as the letter of the rules.
 
@@ -3045,8 +3049,7 @@ Any player that knowingly reports a false amount of build or levels, or abuses t
 
 - Don’t play in a style that detracts from the fun of the event, or anyone’s chance to have fun at an event.
 
-
-**Staff, Marshals, etc...**
+### **Staff, Marshals, etc...**
 
 - Abide by the expectations that apply to all NERO participants.
 
@@ -3056,8 +3059,7 @@ Any player that knowingly reports a false amount of build or levels, or abuses t
 
 - Run events in a professional manner. Remember that you represent NERO to anyone present at an event, whether participating or observing.
 
-
-**Administration (National, Local, etc...)**
+### **Administration (National, Local, etc...)**
 
 - Abide by the expectations that apply to all NERO participants, Staff, Marshals, etc....
 
@@ -3336,21 +3338,22 @@ Thrown weapons may not be used in melee combat, they must be thrown. Since there
 
 Please see the NERO International Website www.nerolarp.com for the most updated information regarding weapon safety rules. There are several basic rules regarding weapon construction in NERO and they are as follows:
 
-·     All weapons must all within the minimum and maximum length, grip and blade requirements for their weapon type.
+- All weapons must all within the minimum and maximum length, grip and blade requirements for their weapon type.
 
-·     All weapons must be approved by a NERO safety marshal before they can be used in play.
+- All weapons must be approved by a NERO safety marshal before they can be used in play.
 
-·     All home made weapons must have a thrusting tip.
+- All home made weapons must have a thrusting tip.
 
-·     All weapons must be padded from the tip of the blade to the hand grip. All weapons must be padded with at least 5/8 inch wall thickness closed cell foam regardless of blade size.
+- All weapons must be padded from the tip of the blade to the hand grip. All weapons must be padded with at least 5/8 inch wall thickness closed cell foam regardless of blade size.
 
-·     A weapon must have at least 0.5 inch but no more than 1.5 inches of closed cell foam extending beyond the end of the core before the thrusting tip is added.
+- A weapon must have at least 0.5 inch but no more than 1.5 inches of closed cell foam extending beyond the end of the core before the thrusting tip is added.
 
-·     All tips must be rendered safe with tape/cloth and padding. In a melee, it is possible to accidentally hit someone with the pommel or cross guard, so these parts must be protected as well.
+- All tips must be rendered safe with tape/cloth and padding. In a melee, it is possible to accidentally hit someone with the pommel or cross guard, so these parts must be protected as well.
 
-·     All blade areas or areas of the weapon that may come in contact with another player must be protected with at least 5/8 inch weapons such as axes, hammers, maces, etc.
+- All blade areas or areas of the weapon that may come in contact with another player must be protected with at least 5/8 inch weapons such as axes, hammers, maces, etc.
 
-·     All weapons must be fairly rigid so as not to act as a whip when swung quickly. Under most circumstances, a weapon tip should not bend more than 6 inches from true when moderate force is applied to the tip and the grip is held level. Conversely, all weapons must also have some give to them when contact is made.
+- All weapons must be fairly rigid so as not to act as a whip when swung quickly. Under most circumstances, a weapon tip should not bend more than 6 inches from true when moderate force is applied to the tip and the grip is held level. Conversely, all weapons must also have some give to them when contact is made.
+
 
 ## Construction Materials
 
@@ -3366,21 +3369,21 @@ Below is an overview of suggested cores and the types of weapons that can be cre
 
 The standard core for weapons is PVC of which there are 2 types: white PVC used in plumbing and grey PVC or CPVC used for electrical work. The following list uses the inner diameter of the tubing. Please note that schedule 20 CPVC has a thin wall and is more flexible than schedule 40 CPVC. If you use schedule 20, use one size higher based on the weapon you are making.
 
-1/2 inch: This core can be used to make small and short and long weapons. This type of core has more give and should not be used in weapons longer than 46 inches.
-
-3/4 inch: This core can be used to make two handed weapons.
+- 1/2 inch: This core can be used to make small and short and long weapons. This type of core has more give and should not be used in weapons longer than 46 inches.
+- 3/4 inch: This core can be used to make two handed weapons.
 
 **Ultralight**
 
 Ultralight cores include carbon fiber, kitespar tube, fiberglass tube, and wrapped graphite tube. Aluminum core may only be used for polearms and staves. These material can be used to make most weapons, however the diameter of the kite pole determines which type of weapon it is best suited for. The following list uses the outer dimension of the tubing.
 
-0.414 inch: This core can be used to make small, short and long weapons. This type of core has more give and should not be used in weapons longer than 46 inches. Please note that depending on the style of weapon construction, this core may have too much give at the maximum length for long weapons.
+- 0.414 inch: This core can be used to make small, short and long weapons. This type of core has more give and should not be used in weapons longer than 46 inches. Please note that depending on the style of weapon construction, this core may have too much give at the maximum length for long weapons.
 
-0.505 inch: This core can be used to make short and long weapons and spears. This type of core has more give and should not be used in weapons longer than 54 inches.
+- 0.505 inch: This core can be used to make short and long weapons and spears. This type of core has more give and should not be used in weapons longer than 54 inches.
 
-0.610 inch: This core can be used to make staves, two handed weapons and spears. This type of core has more give and should not be used in weapons longer than 64 inches.
+- 0.610 inch: This core can be used to make staves, two handed weapons and spears. This type of core has more give and should not be used in weapons longer than 64 inches.
 
-0.745 inch: This core can be used for all two handed weapons. This type of core should not be used in weapons shorter than 54 inches.
+- 0.745 inch: This core can be used for all two handed weapons. This type of core should not be used in weapons shorter than 54 inches.
+
 
 ### Closed Cell Foam
 
@@ -3394,11 +3397,12 @@ Merchantswares.com – LARP Gear supply house.
 
 McMaster-Carr (a commercial tool company) and here is a list of part numbers:
 
-• Part #4530K161 is usable for .414” kite spar, .505” kite spar and 1/2” PVC.
+- Part #4530K161 is usable for .414” kite spar, .505” kite spar and 1/2” PVC.
 
-• Part #4530K162 is usable for .610” kite spar and 1/2” PVC.
+- Part #4530K162 is usable for .610” kite spar and 1/2” PVC.
 
-• Part #4530K163 is usable for .745” kite spar, 3/4” PVC.
+- Part #4530K163 is usable for .745” kite spar, 3/4” PVC.
+
 
 Pool noodle: Pool noodle is thicker than pipe insulation, and not all pool noodles fit PVC. You should bring measuring tape or a piece of pipe with you when you buy it.
 
@@ -3669,27 +3673,26 @@ Below is a list of tools and a list of materials you’ll need to make most weap
 
 **Materials**
 
-\1. Core
+1. Core
 
-\2. Closed cel foam
+2. Closed cel foam
 
-\3. Duct tape
+3. Duct tape
 
-\4. 2” x 2” x weapon diameter Open Cell foam tip(s)
+4. 2” x 2” x weapon diameter Open Cell foam tip(s)
 
 **Tools**
 
-\1. Marker
+1. Marker
 
-\2. Measuring tool
+2. Measuring tool
 
-\3. Stapping/Duct tape
+3. Saw
 
-\4. Saw
+4. Scissors/Xacto
 
-\5. Scissors/Xacto/
+5. Carving knife
 
-\6. Carving knife
 
 ### 1. The core of the weapon
 
@@ -4224,10 +4227,6 @@ Level Contact : 5
 
 Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating
 
-
-
- 
-
 # Chapter 8: Atmosphere
 
 ## Role-Playing
@@ -4248,7 +4247,7 @@ This concept also applies to such things as character insanity (temporary or oth
 
 The atmosphere of our game depends on the players staying in character. This means talking and thinking only as your character would. Avoid discussions of modern day events and topics. If your character cannot read, then do not read anything. If your character has never seen the local nobility, then you shouldn’t recognize them. Do what your character would do. With everyone doing their best to support the atmosphere, you will be surprised at how easy it becomes to stay in your character persona with just a bit of initial effort.
 
-## Darkvision & Low-Light vision
+### Darkvision & Low-Light vision
 
 There is no such thing as Darkvision or Low-Light vision in the NERO world. Elves, Dwarves, Hoblings and the like do not get any special visual ability.
 
