@@ -76,7 +76,7 @@ Well there is a list on the facebook page... see above for the details on that. 
 3. **Body Contact:** Nothing you wouldn’t want your grandmother to see. No sharing of beds or ‘Physical Role-Play’.
 4. **No Drugs and Alcohol:** No illegal drugs or alcohol are allowed on site. If you are under 21 smoking is also against the rules. If you are taking prescription drugs, make sure to inform both the Marshals and the Medics.
 
-**Medic:** When someone is hurt, first call a Hold, then call for a Medic. If you have any medical issues, be sure to inform the Medics for the event are **John Thompson and Kat Burns.**
+**Medic:** When someone is hurt, first call a Hold, then call for a Medic. If you have any medical issues, be sure to inform the Medics for the event are John Thompson and Kat Burns.
 
 **Marshals:** If there any rules issues please contact a Marshal. Marshals for the event are Ken Courtney, Donnie Leight, Mike Mack ,and Erin Albert Jamison.
 
@@ -112,4 +112,6 @@ Well there is a list on the facebook page... see above for the details on that. 
 
 **Leaving Early:** If leaving early make sure to do clean up and checkout. Also if you are considering it let plot know ahead of time so that we can plan. 
 
-**Event survey**:
+**NPC Shifts:** . If you do an npc shift you get the npc speech. God just NPC for the weekend. 
+
+**Event survey**: Please complete the survey. We can't get better if we don't gather feedback. 

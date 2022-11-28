@@ -14,8 +14,6 @@ weight: 1
 
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the main camp area. You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the tavern and module building. Check in also takes place in this building. 
 
-Anything on the hill to the right will not be used at this event.
-
 **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
 
 **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
@@ -35,7 +33,7 @@ Anything on the hill to the right will not be used at this event.
 
 **Bird Seed Packets**: The camp site does not allow bird seed packets.
 
-**Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. 
+**Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
 
 **Cell Phone Service**: Pretty good!
 
