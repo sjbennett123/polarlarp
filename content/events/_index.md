@@ -57,7 +57,7 @@ There might be other surprises added in, but these are the basics.
 - Cheesy Chicken Rice Bake with fresh garden salad and dressing options
   {{% /expand%}}
 
-[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
+[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
 
 ### January 14 2023
 
@@ -83,7 +83,7 @@ There might be other surprises added in, but these are the basics.
 
   {{% /expand%}}
 
-- [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform)
+[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
 
 ## Fees:
 
@@ -167,4 +167,4 @@ My most crucial clean up volunteers will be at the conclusion of dinner time, so
 
   {{% /expand%}}
 
-- [Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
+[Event Survey](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) Take the event survey after the event!
