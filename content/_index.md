@@ -8,7 +8,7 @@ weight: 1
 [PC INFORMATION CLICK HERE]({{< ref "/pc_information" >}})
 ## **Writing**
 
-- Use the standard writeup format that we all are using for your writeups.  Templastes are HERE.
+- Use the standard writeup format that we all are using for your writeups.  Templates are HERE.
 - People will review your work. Before you send it over to them, look at our TIPS page to make sure it's a good process for you and for them.
 - When reviewing someone's work make sure you follow our TIPS page while doing it. Remember they tried their best. 
 - Once you are confident with your work we will ingest it into the website get it printed up. 
@@ -94,8 +94,8 @@ weight: 1
 
 **Introductions**: Go around in a circle and everyone introduces themselves and states the following. 
 
-- Names
-- What about the event they are most excited about?
+- What is your name?
+- What about the event they are you excited about?
 - What roles do you not want to do? 
 
 **Overview of Campsite**: 
