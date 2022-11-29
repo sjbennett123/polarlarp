@@ -80,3 +80,100 @@ The Bloody Fist defend the Banner fiercely and not be drawn away easily unless p
 ---
 
 They are not above capturing PCs and taking prisoners. Some Bloody Fist NPCs will be given specific targets to capture certain PCs or NPCs in town they players can defend. Most captured NPCs are killed brutally unless it is a plot hook. PCs will be “held in a prison” until they are able to be rescued or the player choose to persue the Bloody Fist and raid a camp with a follow up module but these are NOT easy to assault a Bloody Fist encampment. The camps normally have casters and soldiers on standby awaiting a returning Raiding party. The Earth Casters of the Bloody Fist love to raise the dead of the PCs and important NPCs as Undead and send them into town to attack for the sheer horror, a cruel payback tactic of the humiliation they face in the last war
+
+
+
+---
+
+Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. that shortness of temper and lack of patience. That is what being an orc is like.
+You just can't think and it makes you furious that others can. Always have a chip on your sholder.
+
+ \- Scowl
+ \- cut people off when they are talking
+ \- Revel in making people uncomfortable
+
+Speaking as an orc - Gruff
+
+Because of that fury and lack of restraint the resentment that others have is often well founded but it is still resentment.  
+
+\---
+
+Before every meal the orcs will give an offering to thier fallen brothers by pouring one out at the banner of the fist.
+The banner of the fist is consecrated with the blood of the orcs that bear it into battle
+
+\--
+orc stories around the campfire
+orc songs - like rugby songs
+the orcs that we see have been conscripted they have family back home they will talk about them.
+
+Gossip about the generals. Opinions and hte like
+Gossip about other missions.
+furstration with poor leadership that quickly gets squashed. (maybe have an incompetent general)
+stories of success and plunder.
+orc traitors
+
+
+
+---
+
+# bloody fist
+
+# Background
+
+##   The great Orc War and Defeat
+
+##   A dark Bargain with the black shadow
+
+##   The Taking of stonewood
+
+# Lore
+
+##   Casters always travel in pairs
+
+##   The banner of the fist
+
+# Special Rules
+
+##   The banner of the Bloody fist
+
+##   The ritual of the Fire Drakes
+
+##   The fear of the black shadow
+
+# NPCing Advice
+
+##   Orc name List
+
+##   Ferocity
+
+​    Remember to roar
+
+##   Scouting tips
+
+##   Makeup
+
+![img](https://paper-attachments.dropboxusercontent.com/s_10813EDF64FB8E51504B5C34530F9142581D57AB5771E32032D7FF7832C95D4D_1668047622868_file.jpeg)
+
+##   Using War Drums
+
+##   Using a war horn
+
+# Common Roles and Named Characters
+
+##   Ahon the Hope-Flayer Bloody Fist Warlord
+
+##   Gimfang  Skyrender Bloody Fist General
+
+##   Bonesaw
+
+##   Honor Guard
+
+##   High Shaman
+
+##   Raid Leader
+
+##   Bloody Fist Grunt
+
+# Optional Encouters
+
+##   Bonesaw's Black Site
