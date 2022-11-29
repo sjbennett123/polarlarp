@@ -7,23 +7,8 @@ draft: false
 Each NERO chapter abides by the rules listed in this book. Additionally, these rules can be modified and new rules added by official NERO play tests. The NERO International Office makes available an official list of rules that are being play tested on their website www.nerolarp.com. Each chapter must make available a list of the play tests that they are using, so that players attending events at a chapter can find out ahead of time which play tests will be in use.
 
 ## In use at polar 
-
 - Properties (estates)
 - Workshops
 - Foam Weapon
 - PvE Celestial
 - Unified refitting
-
-
-|name|date released|In use at Polar |
-|---|---|---|
-|Arcane Delivery |April 17, 2018|   |
-|Arrow Bolt Alteration|||
-|Celestial Base 10 |||
-|Foam Weapon Bonus|||
-|Weapon Maneuver |||
-|Racial Traits|||
-|Slash Five|||
-|Celestial PvE Base 20|||
-|Unified Refitting|||
-|Racial Traits|||
