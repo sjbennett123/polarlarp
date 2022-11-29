@@ -35,12 +35,19 @@ weight: 2
 **Props**: Vampire Costuming, Traveler/Commoner Costuming, Will-O-Wisp Bottle Prop/Glowsticks, Clothing and Reps to make a fallen devoured adventurer dead on the ground, Marker for being bitten (Marshall or NPC Hessol can mark after encounter is over)
 
 **Tags and Treasure**: Gems, Evaluate Items, Coins
+
 **Scene 1**: (OOG) Whole Camp (IG) Town of Stonewood
+
 **Scene 2**: (OOG) Unused Cabin Area (IG) Small Shack on the Outskirts of Town
+
 **Flee Point**: This module is site/town wide
+
 **Non-Standard Effects**: None
+
 **Rules Clarifications**: None
+
 **Craftsman Information**: None
+
 **Transformations**: None
 
 **Running Notes**: The Will-O-Wisps wander around the outskirts and into town trying to gather as many people as possible to lure to Hessol Korag’s blood feast! The self-proclaimed Vampire Prince Hessol has been working on replenishing his feeding stock and with a huge disruption in town with fresh blood he plans to do just that! 
