@@ -6,13 +6,15 @@ draft: false
 
 ## The History of the Bloody Fist
 
-The Bloody Fist tribe waged a bloody war 20some years ago against Stonewood and the heroes of Elysia. The war was very long and blood, but in the end the Blood Fist was defeated. 
+The Bloody Fist tribe waged a bloody war 20 some years ago against Stonewood and the heroes of Elysia. The war was very long and bloody, but in the end the Blood Fist was defeated. 
 
-The heroes of Elysia killed their Warlord and put them to death on witch hunt level of extermination. The surviving Bloody Fist ran into the darkened Forests and hills of Eastern Stonewood. In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture.
+The heroes of Elysia killed their Warlord and put the remainder of the bloody fist to death on a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened Forests and hills of Eastern Stonewood. In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture.
 
-Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe sanity and will to live. A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn Hope-Flayer. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.
+Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe sanity and will to live. 
 
 
+
+A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn Hope-Flayer. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.
 
 - Bloody Fist never really used Celestial Magic as they considered it dirty sky magic.
 - With the infusion of Rygalius’s Dragonflame magic, the Bloody Fist become a Draconic Uruk-Hai like orc over the default Orc in NERO. NO ONE KNOWS the source of their power or the name Rygaulis except for Ahroun the Butcher but speaking his name would automatically kill him. Ahourn makes sacrifices to Rygalius in secret to show his allegiance
@@ -21,10 +23,9 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 
 - Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Earth Caster in each squadron that is assigned casters.
 
+## Current Structure
 
 The Ranks of the Bloody Fist are as follows: Warlord > Generals > Honor Guard > High Shamans > Raid Leaders > Bloody Fist Grunt
-
-## Current Structure:
 
 #### Warlord
 
@@ -55,12 +56,12 @@ The Ranks of the Bloody Fist are as follows: Warlord > Generals > Honor Guard > 
 
 #### Bloody Fist Grunts
 
-1. Standard Orc names but more draconic and evil sounding. Most don’t care what they are called since they are bred for war and only know war much like Urak-Hai
+- Standard Orc names but more draconic and evil sounding. Most don’t care what they are called since they are bred for war and only know war much like Urak-Hai
 
 
 ---
 
-The driving goal for the Bloody Fist is Vengence for the extinction they almost faced 20some years ago.
+The driving goal for the Bloody Fist is Vengeance for the extinction they almost faced 20 some years ago.
 
 Surrender is NOT an option for the Bloody Fist. If they are to die it will be in battle glory. They will implore whatever savage tactics to win they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
 
