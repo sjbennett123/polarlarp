@@ -159,7 +159,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 
 #### Conemaugh Memorial Hospital 
 
-- **Address**: 1 Mellon Way, Latrobe, PA 15650
+- **Address**: 1086 Franklin St, Johnstown, PA 15905
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 - google maps

@@ -65,7 +65,9 @@ weight: 1
 - **Masks**: When you are done using a mask wipe it down so it does not get anyone sick.
 - **Packets**: After fights don't mix wet packets back in with the fresh packets. it will cause them to decompose. 
 
-**Secrecy**: You will learn things while running that are intended to be secret from the players. It will also need to be firewalled in your brain from the knowledge you have when you PC. Sometimes you will need to "Play Dumb" when you PC. . 
+**Secrecy**: You will learn things while running that are intended to be secret from the players. It will also need to be firewalled in your brain from the knowledge you have when you PC. Sometimes you will need to "Play Dumb" when you PC. 
+
+- Some of what you learn will be common knowledge and will be fine to know as your character. If you have any questions speak to an event director and they can help you sort this out. 
 
 **Overview of writeups**: This event may be different than many of you are used to, we have a lot more structure and writing than you have probably seen in the past. This might seem stifling, but we hope that we can convince you that can make for great experience for both you and the players.
 
