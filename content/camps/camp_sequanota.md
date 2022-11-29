@@ -34,6 +34,8 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 **Cell Phone Service**: Pretty good!
 
+**Max Capacity**: 
+
 ---
 
 ## Nearby Supplies
