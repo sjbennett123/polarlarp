@@ -9,7 +9,7 @@ weight: 1
 - **GPS**: USE THIS FOR DIRECTIONS!  [40.17949564028885, -79.10447822702073](https://www.google.com/maps/place/40%C2%B010'46.2%22N+79%C2%B006'16.1%22W/@40.1794423,-79.1044272,18z/data=!4m5!3m4!1s0x0:0x70219bac23d895df!8m2!3d40.1794956!4d-79.1044782)
 - **Google Maps**: [Camp Sequanota](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - **Website**: [sequanota.com](https://sequanota.com/)
-- **Office Phone**: (814) 629-6627
+- **Office Phone**: [(814) 629-6627](tel:123-456-7890)
 - **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
 
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the main camp area. You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the tavern and module building. Check in also takes place in this building. 
@@ -177,7 +177,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Website**: https://www.medexpress.com
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
-- **Google Maps**: [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **Google Maps**: [Coal Miners Diner](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
 
 #### Medwell
@@ -185,7 +185,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Hours**: open til 8pm
 - **Phone**: (814) 269-5200
 - **Distance from Camp**: 24 minutes drive
-- **Google Maps:**https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
+- **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 #### MedExpress
 
