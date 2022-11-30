@@ -69,7 +69,7 @@ Local convenience store.
 - **Hours**: 6am - 11pm
 - **Phone**: (814) 443-6962
 - **Distance from Camp**: 18 min (11.5 miles)
-- **Website**: https://www.walmart.com/store/1765-somerset-pa
+- **Website**: [walmart.com](https://www.walmart.com/store/1765-somerset-pa)
 - **Google Maps:** [Walmart](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
 
 ---
@@ -146,7 +146,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
 - **Phone**: (724) 537-1000
-- **Website**: https://www.excelahealth.org/locations/latrobe-hospital/
+- **Website**: [excelahealth.org](https://www.excelahealth.org/locations/latrobe-hospital/)
 - **Hours**: 24h
 - **Distance from Camp**: 36 min (23.5 miles)
 - **Google Maps**: [Excela Health Latrobe Hospital](https://goo.gl/maps/tS9fp86HiChZp3wz7)
@@ -174,7 +174,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
 - **Phone**: (814) 443-4740
-- **Website**: https://www.medexpress.com
+- **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
 - **Google Maps**: [Coal Miners Diner](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
@@ -231,11 +231,9 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 ---
 
-## Jennerstown Borough Services
+## [Jennerstown Borough Services](http://www.jennerstownboro.com/services.html)
 
 You probably won't need these but it feels like good information to have. 
-
-http://www.jennerstownboro.com/services.html
 
 - **Non- emergency fire**: (814) 629-5371
 - **Non- emergency police**: (814) 703-8138
