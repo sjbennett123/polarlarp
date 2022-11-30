@@ -69,8 +69,8 @@ Local convenience store.
 - **Hours**: 6am - 11pm
 - **Phone**: (814) 443-6962
 - **Distance from Camp**: 18 min (11.5 miles)
-- website: https://www.walmart.com/store/1765-somerset-pa
-- [Walmart : Google Maps](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
+- **Website**: https://www.walmart.com/store/1765-somerset-pa
+- **Google Maps:** [Walmart](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
 
 ---
 
@@ -82,7 +82,7 @@ Local convenience store.
 - **Phone:** (814) 629-5518
 - **Hours**: 7:30AM - 8PM
 - **Distance from Camp**: 6 min (2.7 miles)
-- [Coal Miners Diner : Google Maps](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
+- **Google Maps:**[Coal Miners Diner](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
 
 #### Burger King
 
@@ -90,7 +90,7 @@ Local convenience store.
 - **Phone**: (814) 629-9944
 - **Hours**: 6AM–10:30PM
 - **Distance from Camp**: 9 min (4.2 miles)
-- Google Maps: [Burger King](https://www.google.com/maps/place/Burger+King/@40.1472209,-79.0432328,17z/data=!4m13!1m7!3m6!1s0x89cb2049cd968ee9:0x1db258aab24c9880!2s2237+Lincoln+Hwy,+Boswell,+PA+15531!3b1!8m2!3d40.1472209!4d-79.0432328!3m4!1s0x89cb21005960109f:0x37a284eeae79fcdd!8m2!3d40.1472209!4d-79.0432328)
+- **Google Maps**: [Burger King](https://www.google.com/maps/place/Burger+King/@40.1472209,-79.0432328,17z/data=!4m13!1m7!3m6!1s0x89cb2049cd968ee9:0x1db258aab24c9880!2s2237+Lincoln+Hwy,+Boswell,+PA+15531!3b1!8m2!3d40.1472209!4d-79.0432328!3m4!1s0x89cb21005960109f:0x37a284eeae79fcdd!8m2!3d40.1472209!4d-79.0432328)
 
 #### The Fat Squirrel Restaurant
 - **Address**: 1302 W Pitt St, Jennerstown, PA 15547
@@ -126,7 +126,9 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 - **Address**: 324 E Main St, Ligonier, PA 15658
 - **Phone**: (724) 238-9566
 - **Hours**: Fri:8:00 AM-6:00 PM, Sat:8:00 AM-5:00 PM, Sun:10:00 AM-2:00 PM
+- **Website**: [napaonline.com](https://www.napaonline.com/en/pa/ligonier/store/24211)
 - **Distance from Camp**: 
+- **Google Maps:**
 
 ---
 
@@ -183,17 +185,19 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Hours**: open til 8pm
 - **Phone**: (814) 269-5200
 - **Distance from Camp**: 24 minutes drive
-- https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
+- **Google Maps:**https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 #### MedExpress
 
 - 24 minutes drive
 -  are open until 8, 
+-  **Google Maps:**
 
 #### iCare
 - 24 minutes drive
 - iCare is open til 6.
 - there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
+- **Google Maps:**
 
 ### Pharmacy
 
@@ -203,7 +207,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Phone**: (814) 443-6963
 - **Hours**: Friday 9AM–8PM Saturday 9AM–7PM Sunday 10AM–6PM
 - **Distance from Camp**: 17 minutes south
-- [Walmart Pharmacy : Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **Google Maps:** [Walmart Pharmacy](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
 #### Giant Eagle Pharmacy
 
@@ -211,7 +215,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Phone**: (724) 238-0342
 - **Hours**: - Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
 - **Distance from Camp**: : 17 minutes northwest
-- [Giant Eagle Pharmacy : Google Maps](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
+- **Google Maps:**[Giant Eagle Pharmacy](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
 
 ---
 
@@ -223,7 +227,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Website**: [wyndhamhotels.com](https://www.wyndhamhotels.com/days-inn/somerset-pennsylvania/days-inn-somerset-pa-i-70%20i-76/overview?brand_id?CID=LC:DI::GGL:RIO:National:03770&iata=00093796) 
 - **Hours**: Check-in time: 3:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: : 17 minutes northwest
-- [Days Inn by : Google Maps](https://goo.gl/maps/A7H29fWWsEkGRQXH8)
+- **Google Maps:** [Days Inn](https://goo.gl/maps/A7H29fWWsEkGRQXH8)
 
 ---
 
