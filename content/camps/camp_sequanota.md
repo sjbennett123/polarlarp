@@ -82,7 +82,7 @@ Local convenience store.
 - **Phone:** (814) 629-5518
 - **Hours**: 7:30AM - 8PM
 - **Distance from Camp**: 6 min (2.7 miles)
-- **Google Maps:**[Coal Miners Diner](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
+- **Google Maps:** [Coal Miners Diner](https://www.google.com/maps/place/Coal+Miner's+Diner/@40.1598778,-79.0677345,17z/data=!3m1!4b1!4m5!3m4!1s0x89cb211b8b2a6005:0xe08e6746ada9a1f4!8m2!3d40.1598154!4d-79.0655813)
 
 #### Burger King
 
