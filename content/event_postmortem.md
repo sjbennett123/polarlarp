@@ -4,27 +4,39 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1
 ---
-## Nero postmortem 
-How do we feel we did overall if we had to rate this what would you give it.
+## Rate the Event
+
+*(go around and ask everyone)*
+
+How do we feel we did overall if we had to rate the event on a scale of to 10, with a 1 being terrible and a 10 being perfect, what would you give it.
+
+## Review Player Feedback 
+
+https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
 
 
 ## Best moments from the event
+
+*(go around and ask everyone)*
 
 - Battles
 - Roleplay
 
 ## Logistics 
 
-- Did we get any questions during PC speech or npc speech
+- Did we get any questions during PC speech or NCP speech
 - Rules issues could we have addressed this with a clarification on the module. Add to opening for next event 
-- Holds 
+- Why were Holds called? How many were called? 
 
 ## NPC shack
 
-- Organization 
-- Did the tables stay clear
+*(go around and ask everyone)*
+
+- Do you feel that the NPC Shack was Organized?
 
 ## Props and merch
+
+*(go around and ask everyone)*
 
 - Worked well and highlights
 - No used at all
@@ -34,40 +46,43 @@ How do we feel we did overall if we had to rate this what would you give it.
 
 ## Writeups
 
+*(go around and ask everyone)*
+
 - Worked well and highlights
 - Missing reaction module
 - Not detailed enough
 - Missing roles of cards
 - Spelling or Grammar mistakes
-- What did you need to print onsite
+- What did you need to print onsite?
 
 
 ## Challenge
 
-- Did any players die
-- Did any players complain
+- Did any characters die?
 
+## Attitude
+
+- Did any players complain? What about? 
 
 ## Safety
 
-- Did anyone get hurt
-- did anything feel unsafe
+- Did anyone get hurt?
+- Did anything feel unsafe?
 
 ## Planning 
 
-- Did any meetings not work
+*(go around and ask everyone)*
 
+- Did any meetings not work?
 
 ## Burnout 
+*(go around and ask everyone)*
 
-- Did anyone feel like they put in too much time 
-- Time crunch
-- Out of comfort zone
-- Not my job
-- Stress
+- Do you feel like you put in too much time?
+- Did you feel a time crunch?
+- Were there any tasks you did that were out of comfort zone 
+- Did this cause you any stress with your friends or family? 
 
 ## Recruiting 
 
-- Do we have any leads for new writers
-- New npcs 
-
+- Do we have any leads for new writers or NPC's? 
