@@ -43,7 +43,7 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 #### Dollar General 
 
 - **Address**: 1297 W Pitt St, Jennerstown, PA 15547
-- **Phone**:  (724) 302-4910    [(814) 629-6627](tel:814-629-6627)
+- **Phone**:  (724) 302-4910    [(724) 302-4910](tel:724-302-4910)
 - **Hours**: 8AM - 9PM
 - **Website**: [dollargeneral.com](https://www.dollargeneral.com/store-directory/pa/jennerstown/6081.html)
 - **Distance from Camp:** 4 min (1.6 miles)
@@ -55,7 +55,7 @@ Great for snacks, bottled water or a last minute energy drink.
 
 
 - **Address**: 1598 W Pitt St, Jennerstown, PA 15547
-- **Phone**:  (814) 629-5577   [(814) 629-6627](tel:814-629-6627)
+- **Phone**: [(814) 629-5577](tel: 814-629-5577)
 - **Distance from Camp:** 4 min (1.6 miles)
 - **Hours**: Saturday 10AM–9PM , Sunday 9:57AM–4PM
 - **Google Maps:** [Country Snack Shak](https://goo.gl/maps/fsHToMPtj3vYnvws7)
@@ -67,7 +67,7 @@ Local convenience store.
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
 - **Hours**: 6am - 11pm
-- **Phone**: (814) 443-6962   [(814) 629-6627](tel:814-629-6627)
+- **Phone**:    [(814) 443-6962](tel:814-443-6962)
 - **Distance from Camp**: 18 min (11.5 miles)
 - **Website**: [walmart.com](https://www.walmart.com/store/1765-somerset-pa)
 - **Google Maps:** [Walmart](https://www.google.com/maps/place/Walmart+Supercenter/@40.0522112,-79.0705079,17z/data=!3m1!5s0x89cade8c0faccd4d:0xdc3e8c60bcf32a92!4m15!1m8!3m7!1s0x89cade8c0fa5256f:0xaf42094fe171d24f!2s2028+N+Ctr+Ave,+Somerset,+PA+15501!3b1!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F11b8v6zsp3!3m5!1s0x89cade8c16f0d067:0xd1018fc5ddb7fa81!8m2!3d40.0522112!4d-79.0705079!16s%2Fg%2F1tfm7mmz)
@@ -94,7 +94,7 @@ Local convenience store.
 
 #### The Fat Squirrel Restaurant
 - **Address**: 1302 W Pitt St, Jennerstown, PA 15547
-- **Phone**: [(814) 521-5065 ](tel:814-521-5065 )
+- **Phone**: [(814) 521-5065 ](tel:814-521-5065)
 - **Hours**: Saturday 12–9PM Sunday 11AM–8PM
 - **Distance from Camp**:
 - **Google Maps**: [The Fat Squirrel Restaurant ](https://goo.gl/maps/SqpXKopvHXfXF3yf9)
@@ -103,7 +103,7 @@ Local convenience store.
 
 -  **Address**: 1498 W Pitt St, Jennerstown, PA 15547
 -  **Hours**: 4–9PM
--  **Phone**: [(814) 703-8177](tel:814-703-8177 )
+-  **Phone**: [(814) 703-8177](tel:814-703-8177)
 -  **Website**: [flyinlionpubandeatery.com](http://www.flyinlionpubandeatery.com)
 -  **Distance from Camp**: 6 min (2.4 miles)
 -  **Google Maps**: [Flyin Lion Pub & Eatery](https://goo.gl/maps/nieAiYzfQm5b1PEy5) 
@@ -124,7 +124,7 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 #### NAPA Auto Parts in Ligonier
 
 - **Address**: 324 E Main St, Ligonier, PA 15658
-- **Phone**: (724) 238-9566
+- **Phone**: [(724) 238-9566](tel:724-238-9566)
 - **Hours**: Fri:8:00 AM-6:00 PM, Sat:8:00 AM-5:00 PM, Sun:10:00 AM-2:00 PM
 - **Website**: [napaonline.com](https://www.napaonline.com/en/pa/ligonier/store/24211)
 - **Distance from Camp**: 
@@ -145,7 +145,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 #### Excela Health Latrobe Hospital
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
-- **Phone**: (724) 537-1000
+- **Phone**:  [(724) 537-1000](tel:724-537-1000)
 - **Website**: [excelahealth.org](https://www.excelahealth.org/locations/latrobe-hospital/)
 - **Hours**: 24h
 - **Distance from Camp**: 36 min (23.5 miles)
@@ -154,7 +154,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 #### UPMC Somerset Hospital
 
 - **Address**: 225 S Center Ave, Somerset, PA 15501
-- **Phone**: (814) 443-5000
+- **Phone**:  [(814) 443-5000](tel:814-443-5000)
 - **Website**: somersethospital.com
 - **Hours**: 24h
 - **Distance from Camp**: (closest, around 23 minute drive)
@@ -164,6 +164,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 #### Conemaugh Memorial Hospital 
 
 - **Address**: 1086 Franklin St, Johnstown, PA 15905
+- **Phone**:
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 - **Google Maps**: 
@@ -173,7 +174,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 #### MedExpress  (by UPMC Somerset)
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
-- **Phone**: (814) 443-4740
+- **Phone**: [(814) 443-4740 ](tel:814-443-4740)
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
@@ -181,19 +182,24 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 
 #### Medwell
+
 - **Address**: 1450 Scalp Ave #1000, Johnstown, PA 15904
 - **Hours**: open til 8pm
-- **Phone**: (814) 269-5200
+- **Phone**:  [(814) 269-5200](tel:814-269-5200)
 - **Distance from Camp**: 24 minutes drive
 - **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 #### MedExpress
 
+- **Address**: 
+- **Distance from Camp**: 
 - 24 minutes drive
 -  are open until 8, 
 -  **Google Maps:**
 
 #### iCare
+- **Address**: 
+- **Distance from Camp**: 
 - 24 minutes drive
 - iCare is open til 6.
 - there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
@@ -213,8 +219,8 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 - **Address**:  117 S Walnut St, Ligonier, PA 15658
 - **Phone**: (724) 238-0342
-- **Hours**: - Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
-- **Distance from Camp**: : 17 minutes northwest
+- **Hours**: Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
+- **Distance from Camp**: 17 minutes northwest
 - **Google Maps:**[Giant Eagle Pharmacy](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
 
 ---
@@ -226,7 +232,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Phone**: (814) 445-8788
 - **Website**: [wyndhamhotels.com](https://www.wyndhamhotels.com/days-inn/somerset-pennsylvania/days-inn-somerset-pa-i-70%20i-76/overview?brand_id?CID=LC:DI::GGL:RIO:National:03770&iata=00093796) 
 - **Hours**: Check-in time: 3:00 PM Check-out time: 11:00 AM
-- **Distance from Camp**: : 17 minutes northwest
+- **Distance from Camp**: 17 minutes northwest
 - **Google Maps:** [Days Inn](https://goo.gl/maps/A7H29fWWsEkGRQXH8)
 
 ---

@@ -24,8 +24,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWd
 
 ## Logistics 
 
-- Did we get any questions during PC speech or NCP speech
-- Rules issues could we have addressed this with a clarification on the module. Add to opening for next event 
+- Did we get any questions during PC speech or NPC speech?
+- Were there any rules issues could we have addressed this with a clarification on the module?
 - Why were Holds called? How many were called? 
 
 ## NPC shack
@@ -38,11 +38,10 @@ https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWd
 
 *(go around and ask everyone)*
 
-- Worked well and highlights
-- No used at all
-- Not fit for purpose
-- Broken
-- Needed more or missing
+- What props worked well what do you feel the highlights were?
+- Were any props not used at all?
+- Were any props not fit for purpose or broken?
+- Were there any props that were missing or that we needed more of?
 
 ## Writeups
 
