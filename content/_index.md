@@ -43,11 +43,11 @@ weight: 1
 
 ---
 
-**Take Care of Yourselves:** The most important thing is your health. 
+**Take Care of Yourselves:** The most important thing is your health. You are probably not used to this level of activity. 
 
 - **Stretch**: Yes it looks lame. Yes you should still do it. 
-- **Drink Water and Eat**: You are probably not used to this level of activity. 
-- **Pace Yourself**: A weekend is a long time.
+- **Drink Water and Eat**: Try to drink a glass of water before you go on a module. 
+- **Pace Yourself**: A weekend is a long time. There is no shame in taking a break. 
 
 **We are the face of the event. We hold ourselves to a higher standard.** 
 

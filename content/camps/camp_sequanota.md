@@ -43,7 +43,7 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 #### Dollar General 
 
 - **Address**: 1297 W Pitt St, Jennerstown, PA 15547
-- **Phone**:  (724) 302-4910    [(724) 302-4910](tel:724-302-4910)
+- **Phone**: [(724) 302-4910](tel:724-302-4910)
 - **Hours**: 8AM - 9PM
 - **Website**: [dollargeneral.com](https://www.dollargeneral.com/store-directory/pa/jennerstown/6081.html)
 - **Distance from Camp:** 4 min (1.6 miles)
