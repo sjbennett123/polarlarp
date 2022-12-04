@@ -152,6 +152,14 @@ orc traitors
 
 ##   Makeup
 
+https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
+
+https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0
+
+# Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
+
+https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
+
 ![img](https://paper-attachments.dropboxusercontent.com/s_10813EDF64FB8E51504B5C34530F9142581D57AB5771E32032D7FF7832C95D4D_1668047622868_file.jpeg)
 
 ##   Using War Drums
