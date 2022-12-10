@@ -10,6 +10,14 @@ weight: 2
 
 [Racoon Creek State Park Camp 1]({{< ref "/camps/racoon_creek_state_park_camp_1" >}} "[Racoon Creek State Park Camp 1")
 
+Tomlinson Run State Park
+
+- **Phone:** [304-564-3651](tel:304-564-3651)
+- **Email:** [tomlinsonrunsp@wv.gov](mailto:tomlinsonrunsp@wv.gov)
+- **Address:** [84 Osage Road, New Manchester, WV 26056](https://maps.google.com/?q=84 Osage Road,New Manchester,WV 26056)
+
+
+
 ## Winter Camps
 [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 

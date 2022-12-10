@@ -11,7 +11,133 @@ Event Registration closes the week before an event on Friday.
 
 ------
 
-## Events:
+## Upcoming Events:
+
+### January 14, 2023
+
+**Event Type**: [Feast Event]({{< ref "#feast-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Donnie Leight
+
+**Registration Deadline**: November 25
+
+**PC Onsite**:  January 14 , 10 AM
+
+**Game Start**: January 14, 12 PM 
+
+**Game End**: January 14, 5 PM 
+
+**PC Offsite**:  January 14, 7 PM 
+
+**Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu To Be Determined" %}} 
+
+  {{% /expand%}}
+
+**Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
+
+### Februry 10
+
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+ **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Devin Pusateri 
+
+### March 10
+
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Clinton Russell Snyder 
+
+### April 7
+
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Stephen Dupree 
+
+### May 12
+
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+**Campsite**: Tomlinson 
+
+**Event Director**: Erin Albert Jamison & Donnie Leight
+
+### June 2
+
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+**Campsite**: Tomlinson  
+
+**Event Director**: Devin Pusateri 
+
+### Aug 25
+
+**Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
+
+**In Game Location**: [To Be Determined]()
+
+**Campsite**: Tomlinson 
+
+**Event Director**: Devin Pusateri 
+
+### Sept 22
+
+**Campsite**: Tomlinson
+
+**Event Director**: Danielle Regula 
+
+### Nov 10
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Event Director**: Ian Pergl 
+
+### Dec 8
+
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+
+**Registration Deadline**: November 25
+
+**Event Director**: Chris Colland 
+
+**PC Onsite**: 
+
+
+
+## Fees:
+
+### Weekend Events
+
+- $60.00 for the weekend for players 18 and older to PC.
+- $40.00 for the weekend for players 14 to 17 years old to PC.
+- New players play for free but must PC their first event.
+- NPC's play for free!
+
+### Feast Events
+
+- PC Cost
+- NPC Cost
+
+## Past Events
 
 ### December 2, 2022
 
@@ -59,47 +185,7 @@ There might be other surprises added in, but these are the basics.
 
 **Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
 
-### January 14, 2023
 
-**Event Type**: [Feast Event]({{< ref "#feast-events" >}})
-
-**In Game Location**: [To Be Determined]()
-
-**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
-
-**Event Director**: Donnie Leight
-
-**Registration Deadline**: November 25
-
-**PC Onsite**:  January 14 , 10 AM
-
-**Game Start**: January 14, 12 PM 
-
-**Game End**: January 14, 5 PM 
-
-**PC Offsite**:  January 14, 7 PM 
-
-**Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu To Be Determined" %}} 
-
-  {{% /expand%}}
-
-**Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
-
-## Fees:
-
-### Weekend Events
-
-- $60.00 for the weekend for players 18 and older to PC.
-- $40.00 for the weekend for players 14 to 17 years old to PC.
-- New players play for free but must PC their first event.
-- NPC's play for free!
-
-### Feast Events
-
-- PC Cost
-- NPC Cost
-
-## Past Events
 
 
 ### October 21, 2022

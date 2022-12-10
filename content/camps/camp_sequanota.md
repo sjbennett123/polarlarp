@@ -102,7 +102,7 @@ Local convenience store.
 #### Flyin Lion Pub & Eatery
 
 -  **Address**: 1498 W Pitt St, Jennerstown, PA 15547
--  **Hours**: 4–9PM
+-  **Hours**: 4–9 PM
 -  **Phone**: [(814) 703-8177](tel:814-703-8177)
 -  **Website**: [flyinlionpubandeatery.com](http://www.flyinlionpubandeatery.com)
 -  **Distance from Camp**: 6 min (2.4 miles)
@@ -112,14 +112,16 @@ Local convenience store.
 
 ## Nearby Car Repair
 
-Most places are closed on the weekends nearby , your best bet for weekend service is the Walmart, but there is also a NAPA Auto Parts in Ligonier.
+Most places are closed on the weekends nearby , your best bet for weekend service is the Walmart in Somerset, but there is also a NAPA Auto Parts in Ligonier.
 
 #### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
 - **Phone**: (814) 445-7008
 - **Hours**: 6am - 11pm
+- **Website**: [walmart.com](https://www.walmart.com/store/1765-somerset-pa)
 - **Distance from Camp**: 18 min (11.5 miles)
+- **Google Maps**: [Walmart Somerset](https://goo.gl/maps/H5AXqSb5A7z1jfok8) 
 
 #### NAPA Auto Parts in Ligonier
 
@@ -127,8 +129,8 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 - **Phone**: [(724) 238-9566](tel:724-238-9566)
 - **Hours**: Fri:8:00 AM-6:00 PM, Sat:8:00 AM-5:00 PM, Sun:10:00 AM-2:00 PM
 - **Website**: [napaonline.com](https://www.napaonline.com/en/pa/ligonier/store/24211)
-- **Distance from Camp**: 
-- **Google Maps:**
+- **Distance from Camp**: 17 min (11.1 miles)
+- **Google Maps:** [NAPA Auto Parts in Ligonier](https://www.google.com/maps/place/324+E+Main+St,+Ligonier,+PA+15658/@40.2033188,-79.1961033,13z/data=!4m5!3m4!1s0x89cb2f1084c62325:0x4870a827757bc674!8m2!3d40.2406505!4d-79.2333743)
 
 ---
 
@@ -155,16 +157,16 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 
 - **Address**: 225 S Center Ave, Somerset, PA 15501
 - **Phone**:  [(814) 443-5000](tel:814-443-5000)
-- **Website**: somersethospital.com
+- **Website**: [somersethospital.com](https://somersethospital.com)
 - **Hours**: 24h
-- **Distance from Camp**: (closest, around 23 minute drive)
+- **Distance from Camp**: closest, around 23 minute drive
 - **Google Maps**: 
 
 
 #### Conemaugh Memorial Hospital 
 
 - **Address**: 1086 Franklin St, Johnstown, PA 15905
-- **Phone**:
+- **Phone**: (814) 534-9000
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 - **Google Maps**: 
@@ -178,7 +180,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
-- **Google Maps**: [Coal Miners Diner](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **Google Maps**: [MedExpress  (by UPMC Somerset)](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 
 
 #### Medwell
@@ -186,34 +188,32 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Address**: 1450 Scalp Ave #1000, Johnstown, PA 15904
 - **Hours**: open til 8pm
 - **Phone**:  [(814) 269-5200](tel:814-269-5200)
-- **Distance from Camp**: 24 minutes drive
+-  24 minutes drive
 - **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 #### MedExpress
 
 - **Address**: 
 - **Distance from Camp**: 
-- 24 minutes drive
--  are open until 8, 
--  **Google Maps:**
+- **Distance from Camp**: 24 minutes drive
+- **Hours**: are open until 8, 
+- **Google Maps:**
 
 #### iCare
 - **Address**: 
-- **Distance from Camp**: 
-- 24 minutes drive
-- iCare is open til 6.
-- there's also MedExpress and iCare, 24 minutes drive,  and MedExpress
+- **Distance from Camp**:  24 minutes drive
+- **Hours**: iCare is open til 6.
 - **Google Maps:**
 
 ### Pharmacy
 
 #### Walmart Pharmacy
 
-- **Address**:  https://goo.gl/maps/gNkzbxhBGwaDzzjU6
+- **Address**:  2028 N Ctr Ave, Somerset, PA 15501
 - **Phone**: (814) 443-6963
 - **Hours**: Friday 9AM–8PM Saturday 9AM–7PM Sunday 10AM–6PM
 - **Distance from Camp**: 17 minutes south
-- **Google Maps:** [Walmart Pharmacy](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **Google Maps:** [Walmart Pharmacy](https://goo.gl/maps/gNkzbxhBGwaDzzjU6)
 
 #### Giant Eagle Pharmacy
 
@@ -221,6 +221,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Phone**: (724) 238-0342
 - **Hours**: Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
 - **Distance from Camp**: 17 minutes northwest
+- **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
 - **Google Maps:**[Giant Eagle Pharmacy](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
 
 ---
