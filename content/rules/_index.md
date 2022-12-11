@@ -6,7 +6,7 @@ weight: 2
 ---
 [PDF Single Pages](https://gloryforthefist.netlify.app/nero_rulebook.pdf)
 
-[PDF Spreads](https://gloryforthefist.netlify.app/nero_rulebook.pdf)
+[PDF Spreads](https://gloryforthefist.netlify.app/nero_rulebook_spreads.pdf)
 
 # Chapter 1 : Getting Started
 
