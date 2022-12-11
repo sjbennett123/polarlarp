@@ -4,8 +4,6 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
 ---
-
-
 # Chapter 1 : Getting Started
 
 ## Introduction
@@ -90,7 +88,7 @@ A standard long sword does 2 points of damage. When you get hit, you will subtra
 
 Spells may be cast during battles and they can affect the battle in many ways. You need to know the spells in order to get the most out of your NERO experience. Spells are represented by foam golf or tennis balls purchasable at most sporting good stores, or small cloth packets filled with birdseed that you can make yourself. You must say the specific words (incantation) associated with the spell (such as “With mystic force I web you!”) and hit your target with the spell aura for the spell to work.
 
- You may have tags or a character skill sheet which you use to keep track of your current Body Points, Armor Points, skills and spells. After each battle, you and your opponents must adjust the tags to keep track of your new status. 
+You may have tags or a character skill sheet which you use to keep track of your current Body Points, Armor Points, skills and spells. After each battle, you and your opponents must adjust the tags to keep track of your new status. 
 
 Now let’s look at a typical NERO weekend and see how some of these rules are applied.
 
@@ -706,10 +704,10 @@ Experience Points (XP) are used in NERO for the advancement of a player’s char
 
 | Event Days    | Blankets |
 | ------------- | -------- |
+| Adventure Day | .25      |
 | 1             | .5       |
 | 2             | 1        |
 | 3             | 1.5      |
-| Adventure Day | .25      |
 
 Some events are shorter or longer and therefore worth different amounts of XP.
 
@@ -903,7 +901,7 @@ If you have several spell slots of a given level, you  can fill them with any co
 
 You must buy spell slots in a proportial pyramid fashion. If you wish to buy a spell slot of a particular level, then you must have two spell slows of the level below. 
 
-In other words, you must havea minimum of one spell slow difference bteween any adjoining levels and a maximmun of two spell slots difference. If you wish to buy your first 2nd level spell slot, you must have at least 1st level spell slots already, but yyuou many not have threse. 
+In other words, you must have a minimum of one spell slow difference between any adjoining levels and a maximum of two spell slots difference. If you wish to buy your first 2nd level spell slot, you must have at least 1st level spell slots already, but you many not have these. 
 
 Once you have purhsased four spell slots of any particular level, then you need not buy any additional spell slots of that level to complete the pyramid. Imagine now the pyramid being an obelisk with broad suppord and a pointed top( like the washington monument)
 
@@ -4709,4 +4707,6 @@ Becoming a knight requires work. Put a lot of effort into your costume. Constant
 ### Bloodlines
 
 Many societies and cultures in the NERO world care a great deal about bloodlines and lineage. In particular, many of the races of the world are concerned about interbreeding. However, with a millennia of interaction among the races, no PC member of a race can absolutely verify, through magical means or otherwise, the complete “purity” of their bloodline.
+
+Index
 
