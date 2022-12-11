@@ -393,7 +393,7 @@ Biata tend to be very orderly in their philosophy of life—they always act with
 
 They are also very secretive about the origins of their race and will treat all other races as “outsiders” rarely worthy of complete trust. It is said that biata were formed through magical mating of a gryphon and a human (or perhaps a barbarian). The Gryphon barbarian tribe was made up entirely of biata and until the last Great Celestial Change in 590, all biata looked like humans. Having celestial protective spells cast upon biata causes great discomfort. Most will refuse to sleep behind Wards and will not use celestial magic items. All players are encouraged to role-play their characters in any way that they consider fun. 
 
-Mentalist: Biata, like stone elves, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a biata can remove role-playing insanity based on memories or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember events forgotten due to a Forget elixir or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured. In order to use this role-playing skill, you must touch the other person and concentrate completely by either staring into each other’s eyes or by both of you having your eyes closed. You cannot perform any other in game skill while role-playing this. Any biata who simply touches someone and says “There, you no longer have a fear of heights (or whatever)” is not playing the race properly. For more information about these skills, see “Mind Abilities” in the chapter on Special Abilities. 
+**Mentalist**: Biata, like stone elves, have spent years honing mental skills and as such can perform certain mental abilities. These abilities are all completely role-playing in nature. Generally speaking, a biata can remove role-playing insanity based on memories or otherwise “cure” mental damage on any willing subject. You cannot use this ability to tell if another player is telling the truth or to have that player remember events forgotten due to a Forget elixir or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to “break off” contact or be cured. In order to use this role-playing skill, you must touch the other person and concentrate completely by either staring into each other’s eyes or by both of you having your eyes closed. You cannot perform any other in game skill while role-playing this. Any biata who simply touches someone and says “There, you no longer have a fear of heights (or whatever)” is not playing the race properly. For more information about these skills, see “Mind Abilities” in the chapter on Special Abilities. 
 
 Biata can buy the skills Break Charm , Resist Charm , and Resist Sleep. Biata cannot learn Read Magic.
 
@@ -413,11 +413,11 @@ Drae can buy Resist Sleep and Resist Charm . They can also buy the Archery skill
 
 Elves are long-lived people with pointed ears. That may be the only thing all the elven races have in common!
 
-All elves can buy the skills Resist Sleep and Resist Charm . They have one less Body Point than a human character of the same class and level. They can buy the Ar chery skill at half cost (round up), but they cannot use Tw o Handed Blunt weapons or Two Handed Swords. 
+All elves can buy the skills Resist Sleep and Resist Charm . They have one less Body Point than a human character of the same class and level. They can buy the Ar chery skill at half cost (round up), but they cannot use Two Handed Blunt weapons or Two Handed Swords. 
 
 There are many varieties of elves. The most common are:
 
-#### **Amani Elf**
+#### Amani Elf
 
 Amani elves are descendants of Quentari elves. Many years ago, a political rift developed in Quentari and many of the elves movedto the Ash Forest (or the “Amani” forest in their language) in the Duchy of Ashbury in Evendarr to start anew. Since then, they have spread all over the continent. 
 
@@ -4710,3 +4710,6 @@ Many societies and cultures in the NERO world care a great deal about bloodlines
 
 Index
 
+X
+
+xp
