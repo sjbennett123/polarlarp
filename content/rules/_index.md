@@ -301,28 +301,32 @@ You must pick one of these classes:
 
 Fighters take naturally to the physical combat arts and rely mainly on strength and stamina to accomplish their goals. They can wear more armor than any other class.
 
-**Body**: Gain 2 per level
+**Body**: Start with 6 Body. Gain 2 Body per level.
+
 **Armor Max**: 20
 
 ### Rogue
 
 Rogues have a natural bent towards dexterity based skills, and the practice of alchemy. Rogues are limited in how much armor they can wear. Their lower Body Points, lighter armor and relatively high costs for combat skills does not make them well suited for front line combat roles.
 
-**Body**: Gain XX per level
+**Body**: Start with 4 Body. Gain 1 Body per level
+
 **Armor Max**: 15
 
 ### Scholar
 
 Scholars are adept at many mental skills and readily learn the magical arts. Scholars are even more limited in how many Armor Points they can use than Rogues. 
 
-**Body**: Gain XX per level
+**Body**: Start with 3 Body. Gain 1 Body every other level
+
 **Armor Max**: 10
 
 ### Templar
 
 Templars are spell casters who are somewhat more adept than scholars at physical combat. They are not religious in any way because NERO specifically prohibits religion in the game. Their combat training leaves them better able to fight but takes away from their studies. They wear as many Armor Points of armor as Fighters, but can wear more than Scholars.
 
-**Body**: Gain XX per level
+**Body**: Start with 4 Body. Gain 1 Body per level
+
 **Armor Max**: 15
 
 ## Races
@@ -736,65 +740,128 @@ Your level determines how many Body Points you get and how many Experience Point
 | 3     | 35-45              | 12    |
 | 4     | 45-54              | 18    |
 | 5     | 55-64              | 25    |
-| 6     | 65                 | 33    |
-| 7     | 75                 | 42    |
-| 8     | 85                 | 52    |
-| 9     | 95                 | 63    |
-| 10    | 105                | 75    |
-| 11    | 115                | 88    |
-| 12    | 125                | 102   |
-| 13    | 135                | 117   |
-| 14    | 145                | 133   |
-| 15    | 155                | 150   |
-| 16    | 165                | 168   |
-| 17    | 175                | 187   |
-| 18    | 185                | 207   |
-| 19    | 195                | 228   |
-| 20    | 205                | 250   |
-| 21    | 215                | 273   |
-| 22    | 225                | 297   |
-| 23    | 235                | 322   |
-| 24    | 245                | 348   |
-| 25    | 255                | 375   |
-| 26    | 265                | 403   |
-| 27    | 275                | 432   |
-| 28    | 285                | 462   |
-| 29    | 295                | 493   |
-| 30    | 305                | 525   |
-| 31    | 315                | 558   |
-| 32    | 325                | 592   |
-| 33    | 335                | 627   |
-| 34    | 345                | 663   |
-| 35    | 355                | 700   |
-| 36    | 365                | 738   |
-| 37    | 375                | 777   |
-| 38    | 385                | 817   |
-| 39    | 395                | 858   |
-| 40    | 405                | 900   |
-| 41    | 415                | 943   |
-| 42    | 425                | 987   |
-| 43    | 435                | 1032  |
-| 44    | 445                | 1078  |
-| 45    | 455                | 1125  |
-| 46    | 465                | 1173  |
-| 47    | 475                | 1222  |
-| 48    | 485                | 1272  |
-| 49    | 495                | 1323  |
-| 50    | 505                | 1375  |
-| 51    | 515                | 1428  |
-| 52    | 525                | 1482  |
-| 53    | 535                | 1537  |
-| 54    | 545                | 1593  |
-| 55    | 555                | 1650  |
-| 56    | 565                | 1708  |
-| 57    | 575                | 1767  |
-| 58    | 585                | 1827  |
-| 59    | 595                | 1888  |
-| 60    | 605                | 1950  |
+| 6     | 65-74              | 33    |
+| 7     | 75-84              | 42    |
+| 8     | 85-94              | 52    |
+| 9     | 95-104             | 63    |
+| 10    | 105-114            | 75    |
+| 11    | 115-124            | 88    |
+| 12    | 125-134            | 102   |
+| 13    | 135-144            | 117   |
+| 14    | 145-154            | 133   |
+| 15    | 155-164            | 150   |
+| 16    | 165-174            | 168   |
+| 17    | 175-184            | 187   |
+| 18    | 185-194            | 207   |
+| 19    | 195-204            | 228   |
+| 20    | 205-214            | 250   |
+| 21    | 215-224            | 273   |
+| 22    | 225-234            | 297   |
+| 23    | 235-344            | 322   |
+| 24    | 245-254            | 348   |
+| 25    | 255-264            | 375   |
+| 26    | 265-274            | 403   |
+| 27    | 275-284            | 432   |
+| 28    | 285-294            | 462   |
+| 29    | 295-304            | 493   |
+| 30    | 305-314            | 525   |
+| 31    | 315-324            | 558   |
+| 32    | 325-334            | 592   |
+| 33    | 335-344            | 627   |
+| 34    | 345-354            | 663   |
+| 35    | 355-364            | 700   |
+| 36    | 365-374            | 738   |
+| 37    | 375-384            | 777   |
+| 38    | 385-394            | 817   |
+| 39    | 395-404            | 858   |
+| 40    | 405-414            | 900   |
+| 41    | 415-424            | 943   |
+| 42    | 425-434            | 987   |
+| 43    | 435-444            | 1032  |
+| 44    | 445-454            | 1078  |
+| 45    | 455-464            | 1125  |
+| 46    | 465-474            | 1173  |
+| 47    | 475-484            | 1222  |
+| 48    | 485-494            | 1272  |
+| 49    | 495-504            | 1323  |
+| 50    | 505-515            | 1375  |
+| 51    | 515-524            | 1428  |
+| 52    | 525-534            | 1482  |
+| 53    | 535-544            | 1537  |
+| 54    | 545-554            | 1593  |
+| 55    | 555-564            | 1650  |
+| 56    | 565-574            | 1708  |
+| 57    | 575-584            | 1767  |
+| 58    | 585-594            | 1827  |
+| 59    | 595-604            | 1888  |
+| 60    | 605-614            | 1950  |
 
+Advancement Chart Body Points per class per level: Table 2-4b
 
+| Level | Fighter | Rogue | Templar | Scholar |
+| ----- | ------- | ----- | ------- | ------- |
+| 1     | 6       | 4     |         |         |
+| 2     | 8       | 5     |         |         |
+| 3     | 10      | 6     |         |         |
+| 4     | 12      | 7     |         |         |
+| 5     | 14      | 8     |         |         |
+| 6     | 16      | 9     |         |         |
+| 7     | 18      | 10    |         |         |
+| 8     | 20      | 11    |         |         |
+| 9     | 22      | 12    |         |         |
+| 10    | 24      | 13    |         |         |
+| 11    | 26      | 14    |         |         |
+| 12    | 28      | 15    |         |         |
+| 13    | 30      | 16    |         |         |
+| 14    | 32      | 17    |         |         |
+| 15    | 34      | 18    |         |         |
+| 16    | 36      | 19    |         |         |
+| 17    | 38      | 20    |         |         |
+| 18    | 40      | 21    |         |         |
+| 19    | 42      | 22    |         |         |
+| 20    | 44      | 23    |         |         |
+| 21    | 46      | 24    |         |         |
+| 22    | 48      | 25    |         |         |
+| 23    | 50      | 26    |         |         |
+| 24    | 52      | 27    |         |         |
+| 25    | 54      | 28    |         |         |
+| 26    | 56      | 29    |         |         |
+| 27    | 58      | 30    |         |         |
+| 28    | 60      | 31    |         |         |
+| 29    | 62      | 32    |         |         |
+| 30    | 64      | 33    |         |         |
+| 31    | 66      | 34    |         |         |
+| 32    | 68      | 35    |         |         |
+| 33    | 70      | 36    |         |         |
+| 34    | 72      | 37    |         |         |
+| 35    | 74      | 38    |         |         |
+| 36    | 76      | 39    |         |         |
+| 37    | 78      | 40    |         |         |
+| 38    | 80      | 41    |         |         |
+| 39    | 82      | 42    |         |         |
+| 40    | 84      | 43    |         |         |
+| 41    | 86      | 44    |         |         |
+| 42    | 88      | 45    |         |         |
+| 43    | 90      | 46    |         |         |
+| 44    | 92      | 47    |         |         |
+| 45    | 94      | 48    |         |         |
+| 46    | 96      | 49    |         |         |
+| 47    | 98      | 50    |         |         |
+| 48    | 100     | 51    |         |         |
+| 49    | 102     | 52    |         |         |
+| 50    | 104     | 53    |         |         |
+| 51    | 106     | 54    |         |         |
+| 52    | 108     | 55    |         |         |
+| 53    | 110     | 56    |         |         |
+| 54    | 112     | 57    |         |         |
+| 55    | 114     | 58    |         |         |
+| 56    | 116     | 59    |         |         |
+| 57    | 118     | 60    |         |         |
+| 58    | 120     | 61    |         |         |
+| 59    | 122     | 62    |         |         |
+| 60    | 124     | 63    |         |         |
 
-#### Advancement Chart Body Points per class per level: Table 2-4b
+#### 
 
 # Chapter 3 :  The Skill System
 
@@ -842,7 +909,7 @@ Once you have purhsased four spell slots of any particular level, then you need 
 
 You may buy more than four spell slots fper level but there must always be at least as many spell slots below that level in order to support the new amount. FCuther the pyramid must constantly building, which means that the level above must have only one less than the amount you are buysing. In other words, to buy a fifth 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
 
-### Example of Spell Pyramid Rules
+### Example of  Spell Pyramid Rules
 
 Enchanto the mage has a 3rd level spell slot two 2nd level spell slots and three 1st level spell slots hist pryamid is fine (figure 3-1)
 
@@ -961,13 +1028,11 @@ A spellcaster is not immune to his or her own spells, nor can they automatically
 
 ### Visible Effects
 
-Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as they take the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
+Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as the viewer takes the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
 
 ### Eldritch Power
 
-Many of the spells call upon an energy called eldritch power. This is a type of energy that only affects beings that are alive or animated. If you cast a Flame Bolt spell
-
-at someone and miss and hit a tree, the tree will not catch on fire. Nor can you use an Ice Bolt spell to keep your ice cream cold. These spells can only affect creatures that are alive or animated.
+Many of the spells call upon an energy called eldritch power. This is a type of energy that only affects beings that are alive or animated. If you cast a Flame Bolt spell at someone and miss and hit a tree, the tree will not catch on fire. Nor can you use an Ice Bolt spell to keep your ice cream cold. These spells can only affect creatures that are alive or animated.
 
 ### Reversible Spells
 
@@ -985,9 +1050,24 @@ Is necromancy evil? Not every person on Tyrra thinks so—in fact, it is accepte
 
 There are twelve main elemental planes which exist across powerful dimensional boundaries. The world of Tyrra is made up of the combination of these elements and their intersections. Please see the Tyrran Cosmology document at NeroLarp.com for more information, but it is important to note here that each of the twelve elemental planes has an associated damage type: a power it uses to harm opponents. These planes and their associated damage types are as follows:
 
-Planes – Life, Death, Order, Chaos, Dream, Reason, Light, Darkness, Earth, Air, Fire, and Water. 
 
-Damage Types, in order – Essence, Destruction, Order, Chaos, Dream, Reason, Light, Darkness, Stone, Lightning, Fire, and Ice.
+
+| Plane    | Damage Type |
+| -------- | ----------- |
+| Life     | Essence     |
+| Death    | Destruction |
+| Order    | Order       |
+| Chaos    | Chaos       |
+| Dream    | Dream       |
+| Reason   | Reason      |
+| Light    | Light       |
+| Darkness | Darkness    |
+| Earth    | Stone       |
+| Air      | Lightning   |
+| Fire     | Fire        |
+| Water    | Ice         |
+
+
 
 ## Illegal Skills and Powers
 
@@ -2573,8 +2653,6 @@ Shield Bashing is the intentional use of a shield to gain physical out-of-game a
 
 Shields cannot be used with two handed weapons. You may not wield a weapon with the hand or arm holding the shield. Also your shield arm may not have any other items or weapons attached to it. Tucking a dagger behind your shield arm would negate your ability to use the shield.
 
-
-
 ### Bucklers
 
 A “buckler” shield (a small shield that is strapped onto the arm) must still follow all shield rules. In other words, you cannot have a buckler on your left arm and still hold anything in your left hand.
@@ -2658,8 +2736,6 @@ Some creatures may take an increased or decreased amount of damage from certain 
 granted by effects within these rules so long as the call does not duplicate a game effect. 
 
 The most common damage types are the thirteen core elements (fire, water, order, chaos, etc.) and the Effect Types listed above. The only Effect Types which may not be used as a Damage Type are "Magic" or "Spell". To Specify a Carrier Attack as a magical effect you must use the "Arcane" Effect Type.
-
- 
 
 ### Calling Hits
 
@@ -3798,11 +3874,11 @@ Alchemy is a production skill and is governed by the Production system as descri
 
 ### Damage from Alchemy
 
-Characters can be affected by alchemical substances in many ways. The effects are instantaneous. “Cause” poisons do body damage only, since they bypass armor. This damage can not be reversed by an antidote, but can be healed as normal damage. Berserk, Feeblemind, Hallucinoid, Nausea, Paralyze, Sleep, and Vertigo are all visible to any viewer while they are in effect, so long as they take the time to observe them and ask the affected player “Visible Effects?” and the affected player will respond “Visibly <effect>ed”. Many substances can be reversed by a specific antidote if taken after exposure to the substance. The spell defensive Poison Shield will not stop ingested substances from taking effect, but will stop all other attacks with the word “poison” in the verbal. The spell Purify Bl ood will cleanse the body of all active poison effects present except for Ensl avement. Al chemical Solv ents, Vorpal Coatings, Liquid Lights, Pastes of Stickiness , and Oils of Slipperiness are not affected by Purify Bl ood and will not set off a Poison Shield or a Resist Poison.
+Characters can be affected by alchemical substances in many ways. The effects are instantaneous. “Cause” poisons do body damage only, since they bypass armor. This damage can not be reversed by an antidote, but can be healed as normal damage. Berserk, Feeblemind, Hallucinoid, Nausea, Paralyze, Sleep, and Vertigo are all visible to any viewer while they are in effect, so long as they take the time to observe them and ask the affected player “Visible Effects?” and the affected player will respond “Visibly <effect>ed”. Many substances can be reversed by a specific antidote if taken after exposure to the substance. The spell defensive Poison Shield will not stop ingested substances from taking effect, but will stop all other attacks with the word “poison” in the verbal. The spell Purify Blood will cleanse the body of all active poison effects present except for Enslavement. Alchemical Solvents, Vorpal Coatings, Liquid Lights, Pastes of Stickiness , and Oils of Slipperiness are not affected by Purify Blood and will not set off a Poison Shield or a Resist Poison.
 
 ### Mind Effect Restrictions
 
-A chapter may, at their option, restrict the use of the following effects: Ensl avement, Forget-It-Well , and Forget-Me-Not. The chapter may restrict these effects in one of two ways. They can choose these effects to be void and unusable in their chapter, or they may opt to allow their usage only against NPCs.
+A chapter may, at their option, restrict the use of the following effects: Enslavement, Forget-It-Well , and Forget-Me-Not. The chapter may restrict these effects in one of two ways. They can choose these effects to be void and unusable in their chapter, or they may opt to allow their usage only against NPCs.
 
 Information on whether your local chapter uses the Mind Effect Restrictions rule, and which Game Effects this rule applies to will be available on the chapter’s Web site, and will also be announced at the Opening Ceremonies of all of their events. 
 
@@ -3824,7 +3900,7 @@ Gases can also be put into gas traps. See “Gas Traps” on page 97.
 
 Contact poisons must be represented by a gel-like substance that can be smeared on the object to be trapped. (Petroleum jelly works fine). If the person applying the substance comes in contact with it, he or she will be affected as well (if applicable). poison shield and resist poison will protect the victim from being affected by contact poisons. Multiple contact poisons which would normally affect a victim simultaneously are protected by a single poison Shield or resist poison.
 
-Vorpal Coatings
+### Vorpal Coatings
 
 Vorpal Coatings add 5 points to the base damage of the weapon, for a set number of hits per application. They take effect immediately, doing damage to Armor Points and then Body Points after all Armor Points have been removed.
 
