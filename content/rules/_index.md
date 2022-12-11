@@ -4,6 +4,10 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
 ---
+[PDF Single Pages](https://gloryforthefist.netlify.app/nero_rulebook.pdf)
+
+[PDF Spreads](https://gloryforthefist.netlify.app/nero_rulebook.pdf)
+
 # Chapter 1 : Getting Started
 
 ## Introduction
@@ -513,7 +517,7 @@ Sarr will form attachments with adventuring groups, but they will also strike ou
 
 Sarr must wear makeup to appear as one of the large hunting cats. The bottom of the nose should be dark. Whiskers, stripes or spots may be added if appropriate. If you play a black panther Sarr, you must wear a prosthetic cat nose, cat ears, or other additions to make it clear to all that you are not a drae. 
 
-Scenting: Sarr have superior scenting abilities, and as such may detect an alchemical substance or disease on an item if they spend three seconds inspecting it. This racial skill does not allow them to tell what kind of alchemical substance or disease is present. 
+**Scenting**: Sarr have superior scenting abilities, and as such may detect an alchemical substance or disease on an item if they spend three seconds inspecting it. This racial skill does not allow them to tell what kind of alchemical substance or disease is present. 
 
 Sarr may buy the skill Resist Poison. Sarr cannot use Bows, Crossbows, One Handed Blunt weapons, Staves, Thrown Weapons, or Two Handed Blunt weapons. The only Small Weapon allowable is a dagger or hatchet. All weapons must be edged.
 
@@ -527,7 +531,7 @@ While some scavengers are closer to their animal half and do not understand the 
 
 There are a few traits that these animalistic humanoids share just from being animal-like.
 
-Scenting: All scavengers have superior senses of smell, and can use Scenting Abilities that allow them to detect an alchemical substance or disease on an item if they spend three seconds inspecting the item. (This racial skill does not allow them to tell what kind of alchemical substance or disease is present.) Scavengers can buy the skill Resist Poison. In addition the animal part of them makes it harder for them to learn to read than it is for other humanoids and thus they must pay double cost for all Scholarly Skills see Table 3-2 on page 30. Note that this does not necessarily make them less intelligent than any other race, just less able to read.
+**Scenting**: All scavengers have superior senses of smell, and can use Scenting Abilities that allow them to detect an alchemical substance or disease on an item if they spend three seconds inspecting the item. (This racial skill does not allow them to tell what kind of alchemical substance or disease is present.) Scavengers can buy the skill Resist Poison. In addition the animal part of them makes it harder for them to learn to read than it is for other humanoids and thus they must pay double cost for all Scholarly Skills see Table 3-2 on page 30. Note that this does not necessarily make them less intelligent than any other race, just less able to read.
 
 ## Cultures
 
@@ -796,68 +800,68 @@ Your level determines how many Body Points you get and how many Experience Point
 
 Advancement Chart Body Points per class per level: Table 2-4b
 
-| Level | Fighter | Rogue | Templar | Scholar |
-| ----- | ------- | ----- | ------- | ------- |
-| 1     | 6       | 4     |         |         |
-| 2     | 8       | 5     |         |         |
-| 3     | 10      | 6     |         |         |
-| 4     | 12      | 7     |         |         |
-| 5     | 14      | 8     |         |         |
-| 6     | 16      | 9     |         |         |
-| 7     | 18      | 10    |         |         |
-| 8     | 20      | 11    |         |         |
-| 9     | 22      | 12    |         |         |
-| 10    | 24      | 13    |         |         |
-| 11    | 26      | 14    |         |         |
-| 12    | 28      | 15    |         |         |
-| 13    | 30      | 16    |         |         |
-| 14    | 32      | 17    |         |         |
-| 15    | 34      | 18    |         |         |
-| 16    | 36      | 19    |         |         |
-| 17    | 38      | 20    |         |         |
-| 18    | 40      | 21    |         |         |
-| 19    | 42      | 22    |         |         |
-| 20    | 44      | 23    |         |         |
-| 21    | 46      | 24    |         |         |
-| 22    | 48      | 25    |         |         |
-| 23    | 50      | 26    |         |         |
-| 24    | 52      | 27    |         |         |
-| 25    | 54      | 28    |         |         |
-| 26    | 56      | 29    |         |         |
-| 27    | 58      | 30    |         |         |
-| 28    | 60      | 31    |         |         |
-| 29    | 62      | 32    |         |         |
-| 30    | 64      | 33    |         |         |
-| 31    | 66      | 34    |         |         |
-| 32    | 68      | 35    |         |         |
-| 33    | 70      | 36    |         |         |
-| 34    | 72      | 37    |         |         |
-| 35    | 74      | 38    |         |         |
-| 36    | 76      | 39    |         |         |
-| 37    | 78      | 40    |         |         |
-| 38    | 80      | 41    |         |         |
-| 39    | 82      | 42    |         |         |
-| 40    | 84      | 43    |         |         |
-| 41    | 86      | 44    |         |         |
-| 42    | 88      | 45    |         |         |
-| 43    | 90      | 46    |         |         |
-| 44    | 92      | 47    |         |         |
-| 45    | 94      | 48    |         |         |
-| 46    | 96      | 49    |         |         |
-| 47    | 98      | 50    |         |         |
-| 48    | 100     | 51    |         |         |
-| 49    | 102     | 52    |         |         |
-| 50    | 104     | 53    |         |         |
-| 51    | 106     | 54    |         |         |
-| 52    | 108     | 55    |         |         |
-| 53    | 110     | 56    |         |         |
-| 54    | 112     | 57    |         |         |
-| 55    | 114     | 58    |         |         |
-| 56    | 116     | 59    |         |         |
-| 57    | 118     | 60    |         |         |
-| 58    | 120     | 61    |         |         |
-| 59    | 122     | 62    |         |         |
-| 60    | 124     | 63    |         |         |
+| Level | Fighter | Rogue | Rogue | Scholar |
+| ----- | ------- | ----- | ----- | ------- |
+| 1     | 6       | 4     | 4     | 3       |
+| 2     | 8       | 5     | 5     | 4       |
+| 3     | 10      | 6     | 6     | 4       |
+| 4     | 12      | 7     | 7     | 5       |
+| 5     | 14      | 8     | 8     | 6       |
+| 6     | 16      | 9     | 9     | 6       |
+| 7     | 18      | 10    | 10    | 7       |
+| 8     | 20      | 11    | 11    | 8       |
+| 9     | 22      | 12    | 12    | 8       |
+| 10    | 24      | 13    | 13    | 9       |
+| 11    | 26      | 14    | 14    | 10      |
+| 12    | 28      | 15    | 15    | 10      |
+| 13    | 30      | 16    | 16    | 11      |
+| 14    | 32      | 17    | 17    | 12      |
+| 15    | 34      | 18    | 18    | 12      |
+| 16    | 36      | 19    | 19    | 13      |
+| 17    | 38      | 20    | 20    | 14      |
+| 18    | 40      | 21    | 21    | 14      |
+| 19    | 42      | 22    | 22    | 15      |
+| 20    | 44      | 23    | 23    | 16      |
+| 21    | 46      | 24    | 24    | 16      |
+| 22    | 48      | 25    | 25    | 17      |
+| 23    | 50      | 26    | 26    | 18      |
+| 24    | 52      | 27    | 27    | 18      |
+| 25    | 54      | 28    | 28    | 19      |
+| 26    | 56      | 29    | 29    | 20      |
+| 27    | 58      | 30    | 30    | 20      |
+| 28    | 60      | 31    | 31    | 21      |
+| 29    | 62      | 32    | 32    | 22      |
+| 30    | 64      | 33    | 33    | 22      |
+| 31    | 66      | 34    | 34    | 23      |
+| 32    | 68      | 35    | 35    | 24      |
+| 33    | 70      | 36    | 36    | 24      |
+| 34    | 72      | 37    | 37    | 25      |
+| 35    | 74      | 38    | 38    | 26      |
+| 36    | 76      | 39    | 39    | 26      |
+| 37    | 78      | 40    | 40    | 27      |
+| 38    | 80      | 41    | 41    | 28      |
+| 39    | 82      | 42    | 42    | 28      |
+| 40    | 84      | 43    | 43    | 29      |
+| 41    | 86      | 44    | 44    | 30      |
+| 42    | 88      | 45    | 45    | 30      |
+| 43    | 90      | 46    | 46    | 31      |
+| 44    | 92      | 47    | 47    | 32      |
+| 45    | 94      | 48    | 48    | 32      |
+| 46    | 96      | 49    | 49    | 33      |
+| 47    | 98      | 50    | 50    | 34      |
+| 48    | 100     | 51    | 51    | 34      |
+| 49    | 102     | 52    | 52    | 35      |
+| 50    | 104     | 53    | 53    | 36      |
+| 51    | 106     | 54    | 54    | 36      |
+| 52    | 108     | 55    | 55    | 37      |
+| 53    | 110     | 56    | 56    | 38      |
+| 54    | 112     | 57    | 57    | 38      |
+| 55    | 114     | 58    | 58    | 39      |
+| 56    | 116     | 59    | 59    | 40      |
+| 57    | 118     | 60    | 60    | 41      |
+| 58    | 120     | 61    | 61    | 41      |
+| 59    | 122     | 62    | 62    | 42      |
+| 60    | 124     | 63    | 63    | 43      |
 
 #### 
 
@@ -893,9 +897,9 @@ This is, after all, a fantasy. A person should be able to acquire skills that al
 
 ## Spell Slots
 
-There are special rules for ssqpell quisition that are unline most other skilsl in the game. When yhou purchase a 1st level spell form the skil list, what ayou are actually buying is the ability to memorisze and cast one 1st level spell. This is known as a spell slot. 
+There are special rules for spell aquisition that are unlike most other skills in the game. When you purchase a 1st level spell form the skill list, what you are actually buying is the ability to memorize and cast one 1st level spell. This is known as a spell slot. 
 
-You may memorize any 1st level spell and store it in that slow. Only one 1st level spell may be stored there at any time. Once that spell as been cast, the slot will become empty and will remain that wya until the next liminted orstandard rst, or until it is rfilled by other means. 
+You may memorize any 1st level spell and store it in that slow. Only one 1st level spell may be stored there at any time. Once that spell as been cast, the slot will become empty and will remain that way until the next limited or standard rest, or until it is refilled by other means. 
 
 If you have several spell slots of a given level, you  can fill them with any combination of spells (of the appropriate level ) that you know. 
 
@@ -905,7 +909,7 @@ In other words, you must have a minimum of one spell slow difference between any
 
 Once you have purhsased four spell slots of any particular level, then you need not buy any additional spell slots of that level to complete the pyramid. Imagine now the pyramid being an obelisk with broad suppord and a pointed top( like the washington monument)
 
-You may buy more than four spell slots fper level but there must always be at least as many spell slots below that level in order to support the new amount. FCuther the pyramid must constantly building, which means that the level above must have only one less than the amount you are buysing. In other words, to buy a fifth 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
+You may buy more than four spell slots for a level but there must always be at least as many spell slots below that level in order to support the new amount. Futter the pyramid must constantly building, which means that the level above must have only one less than the amount you are buying. In other words, to buy a fifth 2nd level spell slot, you must have a fifth 1st level spell slot and fourth 3rd level spell slot. 
 
 ### Example of  Spell Pyramid Rules
 
