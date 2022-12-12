@@ -177,7 +177,10 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 
 ### Urgent Care
 The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
-#### MedExpress  (by UPMC Somerset)
+
+**I NEED TO CORRECT THESE. I DON'T HAVE GOOD ADDRESSES**
+
+#### MedExpress near UPMC Somerset
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
 - **Phone**: [(814) 443-4740 ](tel:814-443-4740)
@@ -195,7 +198,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 -  **Distance from Camp**: 24 minutes drive
 - **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
-#### MedExpress
+#### MedExpress Johnstown
 
 - **Address**: 
 - **Distance from Camp**: 24 minutes drive
