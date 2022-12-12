@@ -1020,7 +1020,7 @@ However, if the second effect is of lower value on the chart (1 being the lowest
 
 Some effects like Wither Limb or Shatter have a sub-target as part of the call. This is required for spells and optional for other delivery methods such as carrier attacks or potions. If the sub-target is not specified then it is the target’s choice as to which sub-target that is un-withered(Wither Limb ) or unrendered (Shatter, Destroy) will be affected. If no target matching the description exists, the call is “Got it”. Calling “No effect” in this situation is incorrect.
 
-## Spell defenses
+## Spell Defenses
 
 Spell defenses carry over from adventure to adventure. A fighter who still has a Shield spell on him at the end of a NERO adventure weekend will still have that spell at the beginning of the next weekend or module. This rule applies only to spells that are “indefinite” in duration. There can be no Wards when the game starts.
 
@@ -4605,19 +4605,19 @@ These are people who live within a town, anyone from a tradesman to a clerk. The
 
 ### Special Cases
 
-### Adventurer
+#### Adventurer
 
 While not quite the same status as common townsfolk, adventurers are nonetheless also not of rank equal to nobility. They are rarely land owners. They owe respect to anyone with the rank of guard or higher.
 
-### Mage
+#### Mage
 
 The mage is generally considered the same as a merchant (although his or her apprentice may not be), but unless they are appointed to or inherit a title, they are not nobility. If not in anyone’s service, yet a member of a recognized guild, they should be accorded the same respect as a merchant. If acting on their own, they should be treated properly as any other commoner would be for the situation. For example, if this is reputed to be a powerful independent mage, “Begone wretch” may not be entirely appropriate.
 
-### Healer
+#### Healer
 
 Healers are treated like mages with appropriate respect due a member of the healing profession (in case you ever expect to be injured).
 
-### Thieves
+#### Thieves
 
 Thieves are commoners unless someone has granted them a title of some sort. (We’re sure the thieves out there will find plenty of ways to exact revenge for this obviously gross injustice. . .)
 
