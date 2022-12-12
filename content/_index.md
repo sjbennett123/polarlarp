@@ -37,7 +37,10 @@ weight: 1
   - What are you working on this week. 
   - What props do you need.
 
-- Then we talk about modules in depth we might workshop how to improve something or how to solve a problem. 
+- Then we talk about modules in depth.
+  - Workshop how to improve something
+
+  - How to solve a problem. 
 
 - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
 
