@@ -31,7 +31,7 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 **Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
 
-**Smoking**:  Put cigarette butts in trays or cans.
+**Smoking**:  Put cigarette butts in trays or cans. Do not smoke in the cabins. 
 
 **Bird Seed Packets**: The camp site does not allow bird seed packets.
 
