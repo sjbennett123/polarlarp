@@ -11,6 +11,7 @@ weight: 1
 - **Website**: [sequanota.com](https://sequanota.com/)
 - **Office Phone**: [(814) 629-6627](tel:814-629-6627)
 - **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
+- **Campsite Map**: [Trail Map](https://gloryforthefist.netlify.app/camp_sequanota_trailmap.jpg)
 
 ## Arriving at the Campsite
 
@@ -37,8 +38,6 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
 
 **Cell Phone Service**: Pretty good!
-
-**Max Capacity**: 
 
 ---
 
