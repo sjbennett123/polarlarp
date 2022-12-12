@@ -11,7 +11,7 @@ weight: 1
 - **Website**: [sequanota.com](https://sequanota.com/)
 - **Office Phone**: [(814) 629-6627](tel:814-629-6627)
 - **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
-- **Campsite Map**: [Trail Map](https://gloryforthefist.netlify.app/camp_sequanota_trailmap.jpg)
+- **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
 
 ## Arriving at the Campsite
 

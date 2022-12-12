@@ -115,4 +115,4 @@ Well there is a list on the facebook page... see above for the details on that. 
 
 **NPC Shifts:** . If you do an npc shift you get the npc speech. God just NPC for the weekend. 
 
-**Event survey**: Please complete the survey. We can't get better if we don't gather feedback. https://gloryforthefist.netlify.app/event_survey
+**Event survey**: Please complete the [Event Survey](/event_survey). We can't get better if we don't gather feedback. 

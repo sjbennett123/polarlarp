@@ -85,33 +85,33 @@ Event Registration closes the week before an event on Friday.
 
 **In Game Location**: [To Be Determined]()
 
-**Campsite**: Tomlinson  
+**Campsite**: Tomlinson Run State Park
 
 **Event Director**: Devin Pusateri 
 
-### Aug 25
+### Augugst 25
 
 **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
 
 **In Game Location**: [To Be Determined]()
 
-**Campsite**: Tomlinson 
+**Campsite**: Tomlinson Run State Park
 
 **Event Director**: Devin Pusateri 
 
-### Sept 22
+### September 22
 
-**Campsite**: Tomlinson
+**Campsite**: Tomlinson Run State Park
 
 **Event Director**: Danielle Regula 
 
-### Nov 10
+### November 10
 
 **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 
 **Event Director**: Ian Pergl 
 
-### Dec 8
+### December 8
 
 **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 

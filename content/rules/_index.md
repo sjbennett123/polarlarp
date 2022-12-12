@@ -4,9 +4,9 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
 ---
-[PDF Single Pages](https://gloryforthefist.netlify.app/nero_rulebook.pdf)
+[PDF Single Pages](/nero_rulebook.pdf)
 
-[PDF Spreads](https://gloryforthefist.netlify.app/nero_rulebook_spreads.pdf)
+[PDF Spreads](/nero_rulebook_spreads.pdf)
 
 # Chapter 1 : Getting Started
 
