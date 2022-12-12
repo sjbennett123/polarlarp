@@ -12,7 +12,11 @@ weight: 1
 - **Office Phone**: [(814) 629-6627](tel:814-629-6627)
 - **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
 
+## Arriving at the Campsite
+
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the main camp area. You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the tavern and module building. Check in also takes place in this building. 
+
+## Camp Details
 
 **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
 
