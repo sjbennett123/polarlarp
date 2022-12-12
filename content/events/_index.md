@@ -17,13 +17,13 @@ Event Registration closes the week before an event on Friday.
 
 **Event Type**: [Feast Event]({{< ref "#feast-events" >}})
 
-**In Game Location**: [the estates of Grand Vizier Thermo, just outside of Glavorn, the capital city of Elysia]()
+**In Game Location**: [The estates of Grand Vizier Thermo,  outside of Glavorn, the capital city of Elysia]()
 
 **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 
 **Event Director**: Donnie Leight
 
-**Registration Deadline**: November 25
+**Registration Deadline**: January 1 Every person must prepay there is no option to pay on site.
 
 **PC Onsite**:  January 14 , 10 AM
 
@@ -45,7 +45,7 @@ Event Registration closes the week before an event on Friday.
 
 **In Game Location**: [To Be Determined]()
 
- **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
+**Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 
 **Event Director**: Devin Pusateri 
 
@@ -122,7 +122,6 @@ Event Registration closes the week before an event on Friday.
 **PC Onsite**: 
 
 
-
 ## Fees:
 
 ### Weekend Events
@@ -134,15 +133,10 @@ Event Registration closes the week before an event on Friday.
 
 ### Feast Events
 
-- The price is $45.00 per person. Every person must prepay. The option to prepay through the NERO site has been activated. Pre-registration will close on January 1 to allow the chef to prepare for the event.
-
-  There is no NPC discount.
-
-  This counts as an event but there is no new player discount. A new player will be awarded a free event at a later time if they choose to attend.
-
-  Pre-registration opens December 14.
-- NPC Cost
-- Hey there POLAR friends! Do you want to earn some extra goblin stamps and help out people in need? Well, you can do just that at the feast event. We will be collecting cans for the Greater Pittsburgh Community Food Bank. Each can is worth 10 goblin stamps and is greatly appreciated.
+- $45.00 for the day. 
+- There is no new player discount. A new player will be awarded a free event at a later time.
+- NPC Cost There is no NPC discount.
+- *We will be collecting cans for the Greater Pittsburgh Community Food Bank. Each can is worth 10 goblin stamps and is greatly appreciated.*
 
 ## Past Events
 

@@ -12,6 +12,7 @@ weight: 1
 - **Office Phone**: [(814) 629-6627](tel:814-629-6627)
 - **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
 - **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
+- **Video**: [Summer Camp Video](https://www.youtube.com/watch?v=bcycnxE5T2k)
 
 ## Arriving at the Campsite
 
