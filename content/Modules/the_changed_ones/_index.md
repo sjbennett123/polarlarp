@@ -36,6 +36,7 @@ weight: 1
 **Hook**: The players enter the town of Stonewood and discover the Module is already live
 
 **Number of Cast Members**: 12 If you do not have 12 characters the townspeople are in order of precedence. 
+
 **Roles**: 3 [Hoylean Sorcerer]({{< ref "/modules/the_changed_ones/roles/hoylean_sorcerer" >}}), 3 [Hoylean Marauders]({{< ref "/modules/the_changed_ones/roles/hoylean_sorcerer" >}}), [Magnus Kane]({{< ref "/modules/the_changed_ones/roles/magnus_kane" >}}),  [Mayor Anak Durag]({{< ref "/modules/the_changed_ones/roles/anak" >}}) , [Durmac Leafdancer]({{< ref "/modules/the_changed_ones/roles/hoylean_sorcerer" >}}), [Thorum Fairoak]({{< ref "/modules/the_changed_ones/roles/hoylean_sorcerer" >}}),[Ari-elle Startear]({{< ref "/modules/the_changed_ones/roles/hoylean_sorcerer" >}})  ,[Haddix Strongbow]({{< ref "/modules/the_changed_ones/roles/hoylean_sorcerer" >}}) 
 
 **Props**: Altar of Power, Hoylean costumes, Blue Glowing Eyes, Dwarf Townsfolk costuming, Hoylean Necklaces for Altar, Named NPC Costuming

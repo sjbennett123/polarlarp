@@ -13,11 +13,11 @@ Event Registration closes the week before an event on Friday.
 
 ## Upcoming Events:
 
-### January 14, 2023
+### January 14
 
 **Event Type**: [Feast Event]({{< ref "#feast-events" >}})
 
-**In Game Location**: [To Be Determined]()
+**In Game Location**: [the estates of Grand Vizier Thermo, just outside of Glavorn, the capital city of Elysia]()
 
 **Campsite**: [Camp Sequanota]({{< ref "/camps/camp_sequanota" >}} "[camp_sequanota")
 

@@ -24,15 +24,12 @@ Unless I submit to an officer of the organization a written and signed request s
 
 In consideration of my application and permission to participate in events, I hereby take action for myself, my executors, administrators, heirs, next of kin, successors, and assigns as follows: (A) Waive, Release, and Discharge from any and all liability for accidents, personal injury, disability, death, property damage, property theft, or actions of any kind that may hereafter occur to me at events or during my traveling to and from events, the following entities or persons:
 
- 
+- The Pennsylvania Organization of Live Action Roleplaying INC
 
-The Pennsylvania Organization of Live Action Roleplaying INC
+-   The Commonwealth of Pennsylvania
 
-  The Commonwealth of Pennsylvania
+-  The NERO LARP Organization and its affiliates
 
- The NERO LARP Organization and its affiliates
-
- 
 
 Their directors, officers, agents, staff, employees, volunteers, representatives, and organizers of the events; (B) Indemnify and hold harmless the entities or persons mentioned from any and all liabilities or claims made as a result of participation in these events, whether caused by the negligence of releases or otherwise.
 
@@ -46,35 +43,35 @@ Does the participant have any medical conditions that the Pennsylvania Organizat
 
 [  ] No    [  ] Yes (Please Explain)
 
- 
-
-![img](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_317/AC/Temp/msohtmlclip1/01/clip_image002.png)
-
 The Pennsylvania Organization of Live Action Roleplaying INC requires those who have medical conditions that require special medication (e.g., EpiPen, inhalers) to carry their special medication on his/her person at all times.
 
 SECTION III – PARTICIPANT INFORMATION
 
- 
+| Participant’s Personal Information                           |      |
+| ------------------------------------------------------------ | ---- |
+| Name:                                                        |      |
+| Address:                                                     |      |
+| Phone Number:                                                |      |
+| Date of Birth:                                               |      |
+| Email Address:                                               |      |
+| I would like to receive newsletters and other updated  from POLAR Legends |      |
+| Home Chapter:                                                |      |
 
-| Participant’s Personal Information                           | Participant’s Emergency Contact  Information |
-| ------------------------------------------------------------ | -------------------------------------------- |
-| Name:                                                        | Name:                                        |
-| Address:                                                     | Address:                                     |
-| Phone Number:                                                | Phone Number:                                |
-| Date of Birth:                                               | Relationship:                                |
-| Email Address:                                               |                                              |
-| I would like to receive newsletters and other updated  from POLAR Legends |                                              |
-| Home Chapter:                                                |                                              |
+| Participant’s Emergency Contact  Information |      |
+| -------------------------------------------- | ---- |
+| Name:                                        |      |
+| Address:                                     |      |
+| Phone Number:                                |      |
+| Relationship:                                |      |
+
 
 By my signature, I confirm that I have read this release, understand its terms, and agree to its provisions from the time of this signature until the last day of the 2019 calendar year. I understand that this form affects my legal rights.
 
 Signature of Participant____________________________________________________________________________ Date_____________________________________________________
 
+---
+
 My child is participating in the event with the following individual(s):                My child has permission to leave site with the below participant(s): please circle     YES      NO
-
- 
-
- 
 
 ​                                                               _______________________________________________________________________                                                                            Name / Relationship                                                     Name / Relationship
 
@@ -102,7 +99,7 @@ I understand that there are times during the course of the event where my minor 
 
 I, as the legal parent and/or guardian, do hereby confirm that I have read this release, understand its terms, and agree to its provisions, thereby indemnifying the aforementioned persons on behalf of the minor.
 
-Signature of Parent/Guardian: ______________________________________________________________________ Date:____________________________________________________                              
+Signature of Parent/Guardian: ______________________________________________________________________ Date:_____________                            
 
 Printed Name of Parent/Guardian: ______________________________________________________________                                                                                      
 
