@@ -50,7 +50,8 @@ Not really!
 Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly.
 {{% /expand%}}
 
-## [New Player Information]()  
+## [New Player Information]({{< ref "/new_players" >}})  
+
 {{%expand "FAQ" %}}
 
 **Can I read a rulebook?** 
