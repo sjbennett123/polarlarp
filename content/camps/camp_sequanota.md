@@ -192,22 +192,23 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Address**: 1450 Scalp Ave #1000, Johnstown, PA 15904
 - **Hours**: open til 8pm
 - **Phone**:  [(814) 269-5200](tel:814-269-5200)
--  24 minutes drive
+-  **Distance from Camp**: 24 minutes drive
 - **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
 #### MedExpress
 
 - **Address**: 
-- **Distance from Camp**: 
 - **Distance from Camp**: 24 minutes drive
 - **Hours**: are open until 8, 
 - **Google Maps:**
 
 #### iCare
-- **Address**: 
+- **Address**: 100 Susan Dr, Johnstown, PA 15905
+- **Phone**: (814) 255-1963
 - **Distance from Camp**:  24 minutes drive
-- **Hours**: iCare is open til 6.
-- **Google Maps:**
+- **Hours**:  8am-6pm
+- **Website**: [icaremedical.com](http://www.icaremedical.com/)
+- **Google Maps:** [iCare Johnstown](https://goo.gl/maps/uxVvbUQxifVsiWRG6) 
 
 ### Pharmacy
 
@@ -226,7 +227,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 - **Hours**: Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
 - **Distance from Camp**: 17 minutes northwest
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
-- **Google Maps:**[Giant Eagle Pharmacy](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
+- **Google Maps:** [Giant Eagle Pharmacy](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
 
 ---
 
