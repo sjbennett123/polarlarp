@@ -6,5 +6,4 @@ weight: 1
 ---
 [Character Sheet](/nero_polar_character_sheet_v11.pdf)
 
-[Legal Release]({{< ref "/legal_release" >}}) PDF
-
+[Legal Release]({{< ref "/legal_release" >}}) [PDF](/nero_polar_legal_release.pdf)
