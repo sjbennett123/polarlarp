@@ -21,7 +21,8 @@ weight: 1
 
 ## [Dropbox - Module Writeups for feedback](https://www.dropbox.com/)
 
-- Install the app.  Ask to be invited to the Dropbox folder. This will syncronize all of the Writeups and Resources to your computer. 
+- Install the app https://www.dropbox.com/install.  
+- Ask to be invited to the Dropbox folder. This will syncronize all of the Writeups and Resources to your computer. 
 - This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
 - Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
 
