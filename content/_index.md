@@ -14,7 +14,7 @@ weight: 1
 - Follow the writers guidelines availible at https://gloryforthefist.netlify.app/writing
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
-- Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... it can wait an hour I promise you.
+- Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... <u>it can wait an hour I promise you.</u>
 - First we go around and ask what you have been working on and if you need any help. 
   - Are you waiting on review for any of your work.
   - What have you worked on in the past week
