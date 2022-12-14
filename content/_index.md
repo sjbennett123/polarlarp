@@ -27,7 +27,7 @@ weight: 1
 
 ## [Google Hangouts - Weekly Writer Check In](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
-- ↑ Up there is a link you can click on it!
+- ↑ Up there is a link you can click on it! You can also go to https://gloryforthefist.netlify.app/writersroom
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
