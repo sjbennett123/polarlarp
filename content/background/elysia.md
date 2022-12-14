@@ -18,7 +18,7 @@ Barony of Woodhaven
 
 ## Towns
 
-Hoyle: was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
+Hoyle - was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
 
 Bruhn
 
@@ -28,7 +28,7 @@ Portance
 
 Locson
 
-Galvorn - A center of commerce and culture In the duchy.
+Galvorn - Capitol city of Elysia, a center of commerce and culture In the duchy. 
 
 Zanor
 
