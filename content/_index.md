@@ -27,7 +27,8 @@ weight: 1
 
 ## [Google Hangouts - Weekly Writer Check In](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
-- Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. The link up there 🠕 is a link you can click on it. 
+- 🠕 Up there is a link you can click on it!
+- Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
 - Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... it can wait an hour I promise you.
