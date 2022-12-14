@@ -5,4 +5,6 @@ draft: false
 weight: 1
 ---
 [Character Sheet](/nero_polar_character_sheet_v11.pdf)
-Release
+
+[Legal Release]({{< ref "/legal_release" >}}) PDF
+
