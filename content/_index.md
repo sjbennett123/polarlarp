@@ -43,7 +43,7 @@ weight: 1
   - How to solve a problem. 
 - Sometimes we do a special meeting. 
   - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
-  - The second game after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
+  - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
 
 ---
 
