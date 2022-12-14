@@ -47,6 +47,7 @@ weight: 1
   - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
 
 ---
+# NPC Speech
 
 **Take Care of Yourselves:** The most important thing is your health. You are probably not used to this level of activity. 
 
