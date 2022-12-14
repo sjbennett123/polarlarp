@@ -41,8 +41,9 @@ weight: 1
 - Then we talk about modules in depth.
   - Workshop how to improve something
   - How to solve a problem. 
-- The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
-- The second game after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
+- Sometimes we do a special meeting. 
+  - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
+  - The second game after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
 
 ---
 
