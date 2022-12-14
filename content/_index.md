@@ -11,7 +11,7 @@ weight: 1
 
 - ↑ Up there is a link you can click on it! You can also go to https://gloryforthefist.netlify.app/writersroom
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
-- Follow the writers guidelines availible at https://gloryforthefist.netlify.app/writers
+- Follow the writers guidelines availible at https://gloryforthefist.netlify.app/writing
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
 - Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... it can wait an hour I promise you.
