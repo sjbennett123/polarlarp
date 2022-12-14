@@ -10,3 +10,10 @@ weight: 1
 - People will review your work. Before you send it over to them, look at our TIPS page to make sure it's a good process for you and for them.
 - When reviewing someone's work make sure you follow our TIPS page while doing it. Remember they tried their best. 
 - Once you are confident with your work we will ingest it into the website get it printed up. 
+
+
+
+- Overview:
+- Monster Cards:
+- Lore:
+- Advice:

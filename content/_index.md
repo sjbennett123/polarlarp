@@ -71,11 +71,6 @@ weight: 1
 
 **Overview of writeups**: This event may be different than many of you are used to, we have a lot more structure and writing than you have probably seen in the past. This might seem stifling, but we hope that we can convince you that can make for great experience for both you and the players.
 
-- Overview:
-- Monster Cards:
-- Lore:
-- Advice:
-
 **Overview of Setting**: 
 
 - **Guilds**: 
@@ -100,11 +95,8 @@ weight: 1
 - What about the event they are you excited about?
 - What roles do you not want to do? 
 
-**Overview of Campsite**: 
 
-- Review Map.
-- Where are we running modules.
-- Where is dangerous.
+**Overview of [Campsite]({{< ref "/camps" >}})**: Map, Module Sites, Dangers
 
 **Rewards**: Thank you for doing this. Giving back like this to enable people to have a fun time is a very generous thing to do. We hope that some baubles and tokens will show our gratitude. 
 
