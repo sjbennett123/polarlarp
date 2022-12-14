@@ -3,17 +3,18 @@ title: "The Tyrran Cosmology"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
-*It has taken many years to produce the work you are about to read. Many have dedicated their time and even given their lives to produce it. We have performed many experiments, used all evidence available, and even used the formal magic Sands of Time powered by what was possibly the largest gathering of Arch-Wizards ever assembled in order to glance back further than any have before, to the events of the First Elemental War.*
-
-*The following is an accurate portrayal of how the world around us functions. It looks at existence as a clockmaker would look at gearing mechanisms. This document has been produced by researchers from the top gatherings of mages across Tyrra, including the Evendarrian Royal Academy of Arcane Arts and Sciences on Janitria, the Black Tower of Helevorn in Quentari, and The Royal University of Neridia and their Guild of Arcane and Alchemical Studies. Over fifty Arch-Wizards combined their efforts in this work and the results are disturbing yet conclusive. They will change the belief structure of many and I predict startling changes for the immediate future.*
-
-Janos Rigley
-
- Arch-Wizard of Fire and Vision
-
- Senior Guildsman, Guild of Arcane and Alchemical Studies
-
- Neridia's Gate, Kingdom of Neridia 
+> *It has taken many years to produce the work you are about to read. Many have dedicated their time and even given their lives to produce it. We have performed many experiments, used all evidence available, and even used the formal magic Sands of Time powered by what was possibly the largest gathering of Arch-Wizards ever assembled in order to glance back further than any have before, to the events of the First Elemental War.*
+>
+> *The following is an accurate portrayal of how the world around us functions. It looks at existence as a clockmaker would look at gearing mechanisms. This document has been produced by researchers from the top gatherings of mages across Tyrra, including the Evendarrian Royal Academy of Arcane Arts and Sciences on Janitria, the Black Tower of Helevorn in Quentari, and The Royal University of Neridia and their Guild of Arcane and Alchemical Studies. Over fifty Arch-Wizards combined their efforts in this work and the results are disturbing yet conclusive. They will change the belief structure of many and I predict startling changes for the immediate future.*
+>
+> Janos Rigley
+>
+> Arch-Wizard of Fire and Vision
+>
+> Senior Guildsman, Guild of Arcane and Alchemical Studies
+>
+> Neridia's Gate, Kingdom of Neridia 
+>
 
 ---
 
@@ -373,7 +374,7 @@ When traveling from plane to plane it must be known that the nature of the plane
 
 Enhancement is generally reflected by any attack using a damage type that corresponds to the appropriate element being increased in strength, however the exact amount of increase may be variable based on conditions at the particular point in the planes. Below is a list of the elemental types and the effects that are generally not possible on the corresponding elemental plane. These are the effects currently altered under the current state with the contamination of the Void of Corruption. It is expected when the Great Upheaval occurs much of this may change and other effects may come into existence or be rediscovered which may be influenced on the various elemental planes.
 
-## Inhibited Effects on the Elemental Planes: 
+### Inhibited Effects on the Elemental Planes
 
 **Air** – Any attack that uses Stone as a damage type, Solidify, as well as Web and Entangle unless the person is on a solid surface.
 
