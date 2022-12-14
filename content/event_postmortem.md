@@ -33,6 +33,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWd
 *(go around and ask everyone)*
 
 - Do you feel that the NPC Shack was Organized?
+- Was there anything that we needed that we didn't have?
 
 ## Props and merch
 
