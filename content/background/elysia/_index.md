@@ -12,23 +12,11 @@ draft: false
 
 ## Barony of Simoondale
 
-#### The Mines of Simoondale
-
 ## Barony of Medddlar
 
-## Barony of Woodhaven
-
-### Towns
-
-#### Hoyle
-
-Was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
-
-#### Stonewood
-
-Dwarven city with supernatural hardened trees as main form of industry. Recently occupied by the brutal Bloody Fist Orcs. 
-
 ---
+
+# HELP US FILL THIS SHIT IN 
 
 Bruhn
 
