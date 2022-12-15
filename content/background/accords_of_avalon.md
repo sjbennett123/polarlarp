@@ -10,7 +10,7 @@ It is upon the following precepts of etiquette and culture that the Accords of A
 
 The goal of the Concordance and of these Accords, is the fair and equitable treatment of all civilized races in and a crossed the continent of Avalon. These Accords and the Concordance the ruling body composed of representatives of the Monarchs of all member nations shall endeavor to ensure that the principles and spirit of these Accords are maintained, and that the wording and law of them be enforced diligently and with a hand of justice.
 
-## **Foundations of Culture:**
+## Foundations of Culture
 
 **Sovereign Monarchy.** The principal, upon which our societies are founded, is that hierarchical order will allow honor, goodness and justice to prevail. Responsibility for decisions on behalf of the people at large must ultimately rest somewhere, and where it rests is upon the sovereign monarch of that land. It is ultimately to the will of the monarch that all legal matters shall be deferred.
 
@@ -26,7 +26,7 @@ With the power of rank, comes so its responsibilities. Commoners are citizens an
 
 The commoners' responsibility is to be willing to pay fair taxes, join the militia in time of need, help their nobility administer justice by reporting crimes and providing testimony, defend their nobilities names and address and treat nobles with the respect and the title that they are due. Such respect to the nobility is expected of all people who traverse through the nations of the Concordance of Avalon, be they citizens of this nation or visitors.
 
-## **Social Customs:**
+## Social Customs
 
 In all civilized lands, there are four basic conventions of good conduct that the people observe. These conventions may even be regarded as law in some nations. One or more of these concepts and social conventions may be held to be of a higher importance in different lands. These are not concepts that are enforced by the Concordance of Avalon. They are however concepts common to all civilized nations, and of import in establishing a fraternity of culture across Avalon.
 
@@ -38,7 +38,7 @@ In all civilized lands, there are four basic conventions of good conduct that th
 
 **Personal Honor.** Even among civilized people, many have a very strong sense of personal honor, at least in the sense of defending it against statements and acts of others. In some nations, slights to honor are settled through the ancient practice of Dueling, while other nations prefer to settle disputes through public debate. The regard for life and safety on Avalon is much stronger than it ever has been, with many reluctant to shed blood for the sake of honor alone. The rules of honor and honor combat are not in the jurisdiction of these Accords and may be defined and declared by the local culture and monarch of any Member Nation, so long as the laws, precepts and spirit of these Accords are not violated.
 
-### **Culture of the Concordance:**
+### Culture of the Concordance
 
 **Titles, Nobility and Etiquette.** As noble titles and etiquette have evolved quite differently in the many nations of the Concordance of Avalon, these Accords proscribe a manner of address and etiquette that shall be considered ‘common and polite courtesy’ when dealing with nobles of other nations. Each individual nation may maintain their own manner of address and etiquette within their own courts. However the etiquette of the Concordance shall be considered due and proper respect to all nobles in all member nations of the Concordance. Repeated failure to abide by one noble or one nations nobles will be noted as a measure of disrespect but is not in and of itself grounds for any form of political sanction, war or other hostile action or inaction.
 
@@ -90,49 +90,35 @@ His Majesty the King may use whatever form of address he chooses with any noble 
 
 # The Accords of Avalon Section I
 
-## **Dispensation of Equitable Justice for Commoners**
+## Dispensation of Equitable Justice for Commoners
 
 A)  **Preamble:** All member Nations of the Concordance of Avalon, do hereby agree to abide by these Accords of Avalon, and in doing so do agree that we shall enforce the following laws upon all common citizens and travelers to any of the lands of Avalon and that a process of extradition and punishment shall be enforced regardless of the kingdom or realm that these crimes are perpetrated, such that justice shall be dispensed unilaterally and equitably. The guidelines for punishment shall be abided by, in that the punishment shall never be less than that which is proscribed. By signing these Accords a nation or kingdom does not waive their right to additional laws, or more rigid punishment. However, the punishment shall be exacted in accordance with local laws in the lands the criminal is apprehended, with the punishment being no less than the least punishment for the crime as agreed herein. Nor is a kingdom required to enforce any laws other than these upon their citizens at the bequest of another undersigned kingdom.
 
 A Tribunal of Justice shall be established by these Accords that shall oversee all trials, disputes and disagreements regarding the trial and dispensation of justice of commoner from any member Nation, when being tried for crimes committed in, or upon the citizens, nobles or land of any other member Nation. This Tribunal does not hold, nor should it hold jurisdiction over a Nation’s right to dispense justice to their own commoners for crimes committed within their own lands, upon their own holdings, nobles or citizens.
 
-\1.   **Kidnapping:** Taking or constraining any citizen with unlawful force. Punishment for this will be no lesser than fining.
-
-\2.   **Murder:** Taking of another citizen’s life, even if they do not resurrect. Punishment will be no less than execution.
-
-\3.   **Necromancy:** The use of any effect that creates, controls or aids undead and their kind. The punishment for this will be no less than execution.
-
-\4.   **Pretending to a Noble Title**: The attempt of any individual commoner to represent themselves with title they do not possess be they from any kingdom real or fictitious. This shall also include any attempt to forge writ or document as if one were any noble title, or to falsely bear word or witness of one of noble title of any land. The punishment for this will be no less than a severe fine.
-
-\5.   **Slavery**: The forced servitude of any sentient and living being, be it through use of force, threat of force or influence of alchemical, magical or mental or any other means known and unknown. The punishment for this will be no less than execution.
-
-\6.   **Treason:** Attempting to overthrow the lawful government of the land by means of force, trickery or any other means both currently known and unknown. The punishment for this will be no less than execution and loss of legal protection.
-
-\7.   **Flight from Prosecution**: The attempt to evade prosecution by the rightful force of law in any land for any crimes against the concordance of Avalon. The punishment for this will be no less than the most grievous punishment allowed for the crime being fled, plus additional execution and loss of legal protection.
-
-\8.   **Theft**: The conscious removal of another’s property without the consent of the owner.
-
-The punishment for this will be no less than recompense for the stolen good.
-
-\9.   **Mockery of a Noble Title:** The mockery of the rank, office or ability to perform the duties of such rank or office, of any noble of any kingdom in the concordance of Avalon. The mockery of an individual for actions not performed as a noble, or outside of their role as a noble is not within the realm of this law. The punishment for this will be no lesser than fining.
+1. **Kidnapping:** Taking or constraining any citizen with unlawful force. Punishment for this will be no lesser than fining.
+2. **Murder:** Taking of another citizen’s life, even if they do not resurrect. Punishment will be no less than execution.
+3. **Necromancy:** The use of any effect that creates, controls or aids undead and their kind. The punishment for this will be no less than execution.
+4. **Pretending to a Noble Title**: The attempt of any individual commoner to represent themselves with title they do not possess be they from any kingdom real or fictitious. This shall also include any attempt to forge writ or document as if one were any noble title, or to falsely bear word or witness of one of noble title of any land. The punishment for this will be no less than a severe fine.
+5. **Slavery**: The forced servitude of any sentient and living being, be it through use of force, threat of force or influence of alchemical, magical or mental or any other means known and unknown. The punishment for this will be no less than execution.
+6. **Treason:** Attempting to overthrow the lawful government of the land by means of force, trickery or any other means both currently known and unknown. The punishment for this will be no less than execution and loss of legal protection.
+7. **Flight from Prosecution**: The attempt to evade prosecution by the rightful force of law in any land for any crimes against the concordance of Avalon. The punishment for this will be no less than the most grievous punishment allowed for the crime being fled, plus additional execution and loss of legal protection.
+8. **Theft**: The conscious removal of another’s property without the consent of the owner. The punishment for this will be no less than recompense for the stolen good.
+9. **Mockery of a Noble Title:** The mockery of the rank, office or ability to perform the duties of such rank or office, of any noble of any kingdom in the concordance of Avalon. The mockery of an individual for actions not performed as a noble, or outside of their role as a noble is not within the realm of this law. The punishment for this will be no lesser than fining.
 
 B)  **Definitions of Punishment:** The following definitions shall be applied to those punishments listed above in regards to punishment for crimes within a kingdom.
 
-\1.   **Fining:** The payment of coin or commodities, this shall be the equivalent of one Avalon Noble as defined in Section IV of these Accords.
-
-\2.   **Severe Fining:** The payment of coin or commodities, this shall be the equivalent of twenty Avalon Noble as defined in Section IV of these Accords.
-
-\3.   **Execution:** That one is executed such that their body dissipates and their spirit travels to an earth circle or other point of resurrection regardless of if the spirit resurrects successfully
-
-\4.   **Loss of Legal Protection:** The individual is no longer afforded the rights of citizenship, and are not protected by the laws against Kidnapping, Murder, Theft or other laws within any of the Nations of the Concordance for a time of no less than 1 year. An individual no longer protected by the laws may not be appointed title for the duration of the punishment.
-
-\5.   **Recompense:** The offending party shall compensate in full the victim of their illicit activity in full for all losses and damages that are a result of the criminal activity of the offending party, including what the local officer of justice feels is fair compensation for time and duress caused by the offense.
+1. **Fining:** The payment of coin or commodities, this shall be the equivalent of one Avalon Noble as defined in Section IV of these Accords.
+2. **Severe Fining:** The payment of coin or commodities, this shall be the equivalent of twenty Avalon Noble as defined in Section IV of these Accords.
+3. **Execution:** That one is executed such that their body dissipates and their spirit travels to an earth circle or other point of resurrection regardless of if the spirit resurrects successfully
+4. **Loss of Legal Protection:** The individual is no longer afforded the rights of citizenship, and are not protected by the laws against Kidnapping, Murder, Theft or other laws within any of the Nations of the Concordance for a time of no less than 1 year. An individual no longer protected by the laws may not be appointed title for the duration of the punishment.
+5. **Recompense:** The offending party shall compensate in full the victim of their illicit activity in full for all losses and damages that are a result of the criminal activity of the offending party, including what the local officer of justice feels is fair compensation for time and duress caused by the offense.
 
 C)  **Investigation of Criminal Activities:** All Nations agree to investigate accusations of criminal activity within their territories. A trial may be had in accordance with local law or custom. All accused criminals shall be given the opportunity to respond to the allegations be it in Trial or Investigation. Those individuals accused shall be permitted representation at such a trial. All crimes and punishments will be recorded in a Journal, and forwarded to a representative appointed by the Tribunal of Justice each month for reporting to the Avalon Gazette and the other Nations.
 
 # The Accords of Avalon Section II
 
-## **Dispensation of Equitable Justice for Nobles**
+## Dispensation of Equitable Justice for Nobles
 
 A)  **Preamble:** All Nobles, or entitled citizens of all member Nations of the Concordance of Avalon shall be beheld to the following codes and laws within all lands they travel. It is by the actions of our entitled that our nations are judged, and so in order to establish a fair and just way to judge, these Accords proscribe these codes.
 
@@ -140,69 +126,45 @@ A Tribunal of Justice shall be established by these Accords that shall oversee a
 
 B)  **Code of Chivalry:** All Nobles of all member nations or kingdoms of the Concordance of Avalon, shall abide by the following code of conduct and be subjected to the following laws. The intent or spirit of the code shall be considered to be more important than the actual wording of this code. While additional concepts or tenants may be added, and the wording might be changed to fit the purposes of local culture, the intent of this simple code shall remain the same.
 
-**1.**   **Thou Shalt Respect The Weak, And Thou Shalt Constitute Thyself The Defender Of Them.**
-
-**2.**   **Thou Shalt Scrupulously Perform Thy Noble Duties Be They Not Contrary To The Laws Of The Land Upon Which Thou Stands.**
-
-**3.**   **Thou Shalt Love The Country In Which Thou Hast Sworn Fealty and Follow the Dictates of Thy Liege and Thy Monarch.**
-
-**4.**   **Thou Shalt Follow the Dictates of the Rightful Rule of the Land Upon Which Thou Stands.**
-
-**5.**   **Thou Shalt Put Thy Personal Welfare Last Behind the Welfare of the Sovereign Government and of its People.**
-
-**6.**   **Thou Shalt Remain Faithful to Thy Given Word.**
-
-**7.**   **Thou Shalt be Generous and Give Freely to all.**
-
-**8.**   **Thou Shalt Not Recoil Before Thine Enemy.**
-
-**9.**   **Thou Shalt be a Champion of the Good and the Right Against Evil and Injustice, in All Places and For All Times.**
-
-**10.** **Thou Shalt Make War Against Evil, and Endeavor to Thwart and Oppose the Wicked at Every Turn With the Conviction of All Your Spirit.**
+1. Thou Shalt Respect The Weak, And Thou Shalt Constitute Thyself The Defender Of Them.
+2. Thou Shalt Scrupulously Perform Thy Noble Duties Be They Not Contrary To The Laws Of The Land Upon Which Thou Stands.
+3. Thou Shalt Love The Country In Which Thou Hast Sworn Fealty and Follow the Dictates of Thy Liege and Thy Monarch.
+4. Thou Shalt Follow the Dictates of the Rightful Rule of the Land Upon Which Thou Stands.
+5. Thou Shalt Put Thy Personal Welfare Last Behind the Welfare of the Sovereign Government and of its People.
+6. Thou Shalt Remain Faithful to Thy Given Word.
+7. Thou Shalt be Generous and Give Freely to all.
+8. Thou Shalt Not Recoil Before Thine Enemy.
+9. Thou Shalt be a Champion of the Good and the Right Against Evil and Injustice, in All Places and For All Times.
+10. Thou Shalt Make War Against Evil, and Endeavor to Thwart and Oppose the Wicked at Every Turn With the Conviction of All Your Spirit.**
 
 C)  **Laws of the Noble:** While title shall only grant rights above those of a commoner in the lands that the title was granted, all who bear title shall be held accountable to a more rigid code of conduct of a level fitting for their title regardless of in what land they travel. As such all nobles of all nations signed to the Accords of Avalon shall be subjected to the following laws regardless of what land they are in. Local kingdoms and nations may have further articles of law to which nobles are subjected, and may have punishment more strict than the proscribed punishment, but these will be the bare minimum laws and punishments to which all kingdoms and nations of the Accords of Avalon shall proscribe. In cases of severe criminal abuse, these crimes shall be combined and their punishments executed in order from most severe to least. If any punishments are evaded, an additional charge of Flight from Prosecution shall be added and enforced in the land they are captured in.
 
-\1.   **Kidnapping:** Taking or constraining any citizen with unlawful force. Punishment for this will be no lesser than execution and loss of title.
-
-\2.   **Murder:** Taking of another citizen’s life, even if they do not resurrect. Punishment will be no less than obliteration and loss of title.
-
-\3.   **Necromancy:** The use of any effect that creates, controls or aids undead and their kind. The punishment for this will be no less than obliteration and loss of title.
-
-\4.   **Pretending to a Noble Title:** The attempt of any individual noble to represent themselves with title they do not possess be they from any kingdom real or fictitious. This shall also include any attempt to forge writ or document as if one were any noble title, or to falsely bear word or witness of one of noble title of any land. The punishment for this will be no less than execution and loss of title.
-
-\5.   **Slavery:** The forced servitude of any sentient and living being, be it through use of force, threat of force or influence of alchemical, magical or mental or any other means known and unknown. The punishment for this will be no less than obliteration and loss of title.
-
-\6.   **Treason:** Attempting to overthrow the lawful government of the land by means of force, trickery or any other means both currently known and unknown. The punishment for this will be no less than obliteration, loss of legal protection, and loss of title.
-
-\7.   **Flight from Prosecution:** The attempt to evade prosecution by the rightful force of law in any land for any crimes against the concordance of Avalon. The punishment for this will be no less than the most grievous punishment allowed for the crime being fled, plus additional execution and loss of legal protection.
-
-\8.   **Theft:** The conscious removal of another’s property without the consent of the owner. The punishment for this will be no less than recompense of stolen property, execution and loss of title.
-
-\9.   **Mockery of a Noble Title:** The mockery of the rank, office or ability to perform the duties of such rank or office, of any noble of any kingdom in the concordance of Avalon. The mockery of an individual for actions not performed as a noble, or outside of their role as a noble is not within the realm of this law. The punishment for this will be no lesser than fining and loss of title.
-
-\10. **Mockery of the Code of Chivalry:** Any attempt to twist, misinterpret, abuse, coerce or otherwise disregard the Code of Chivalry or the Laws of the lands in an attempt for personal gain, evasion of justice, wrongful prosecution, personal glory or any other unrighteous pursuit. The punishment for this shall be execution, removal of noble title and loss of legal protection.
+1. **Kidnapping:** Taking or constraining any citizen with unlawful force. Punishment for this will be no lesser than execution and loss of title.
+2. **Murder:** Taking of another citizen’s life, even if they do not resurrect. Punishment will be no less than obliteration and loss of title.
+3. **Necromancy:** The use of any effect that creates, controls or aids undead and their kind. The punishment for this will be no less than obliteration and loss of title.
+4. **Pretending to a Noble Title:** The attempt of any individual noble to represent themselves with title they do not possess be they from any kingdom real or fictitious. This shall also include any attempt to forge writ or document as if one were any noble title, or to falsely bear word or witness of one of noble title of any land. The punishment for this will be no less than execution and loss of title.
+5. **Slavery:** The forced servitude of any sentient and living being, be it through use of force, threat of force or influence of alchemical, magical or mental or any other means known and unknown. The punishment for this will be no less than obliteration and loss of title.
+6. **Treason:** Attempting to overthrow the lawful government of the land by means of force, trickery or any other means both currently known and unknown. The punishment for this will be no less than obliteration, loss of legal protection, and loss of title.
+7. **Flight from Prosecution:** The attempt to evade prosecution by the rightful force of law in any land for any crimes against the concordance of Avalon. The punishment for this will be no less than the most grievous punishment allowed for the crime being fled, plus additional execution and loss of legal protection.
+8. **Theft:** The conscious removal of another’s property without the consent of the owner. The punishment for this will be no less than recompense of stolen property, execution and loss of title.
+9. **Mockery of a Noble Title:** The mockery of the rank, office or ability to perform the duties of such rank or office, of any noble of any kingdom in the concordance of Avalon. The mockery of an individual for actions not performed as a noble, or outside of their role as a noble is not within the realm of this law. The punishment for this will be no lesser than fining and loss of title.
+10. **Mockery of the Code of Chivalry:** Any attempt to twist, misinterpret, abuse, coerce or otherwise disregard the Code of Chivalry or the Laws of the lands in an attempt for personal gain, evasion of justice, wrongful prosecution, personal glory or any other unrighteous pursuit. The punishment for this shall be execution, removal of noble title and loss of legal protection.
 
 D)  **Definitions of Punishment:** The following definitions shall be applied to those punishments listed above in regards to punishment for crimes within a kingdom.
 
-**1.**   **Fining:** The payment of coin or commodities, this shall be equivalent to one Avalon Noble as defined in Section IV of these Accords.
-
-**2.**   **Severe Fining:** The payment of coin or commodities, this shall be equivalent to twenty Avalon Noble as defined in Section IV of these Accords.
-
-**3.**   **Execution:** That one is executed such that their body dissipates and their spirit travels to an earth circle or other point of resurrection regardless of if the spirit resurrects successfully
-
-**4.**   **Loss of Legal Protection:** The individual is no longer afforded the rights of citizenship, and are not protected by the laws against Kidnapping, Murder, Theft or other laws within any of the Nations of the Concordance for a time of no less than 1 year. An individual no longer protected by the laws may not be appointed title for the duration of the punishment.
-
-**5.**   **Recompense:** The offending party shall compensate in full the victim of their illicit activity in full for all losses and damages that are a result of the criminal activity of the offending party, including what the local officer of justice feels is fair compensation for time and duress caused by the offense.
-
-**6.**   **Obliteration:** The offending party shall suffer 3 consecutive Executions or be the subject of one successful Obliteration Formal Magic that results in their body dissipating and their spirit being weakened 3 times.
-
-**7.**   **Loss of Noble Title:** The offending party shall be stripped of noble title and any rights of benefits they might have due to noble title in any and all lands that they bear title within the Accords of Avalon. Hereafter they shall be considered a commoner, unless banishment is added on as a punishment in which case they will no longer be protected by any laws of any lands.
+1. **Fining:** The payment of coin or commodities, this shall be equivalent to one Avalon Noble as defined in Section IV of these Accords.
+2. **Severe Fining:** The payment of coin or commodities, this shall be equivalent to twenty Avalon Noble as defined in Section IV of these Accords.
+3. **Execution:** That one is executed such that their body dissipates and their spirit travels to an earth circle or other point of resurrection regardless of if the spirit resurrects successfully
+4. **Loss of Legal Protection:** The individual is no longer afforded the rights of citizenship, and are not protected by the laws against Kidnapping, Murder, Theft or other laws within any of the Nations of the Concordance for a time of no less than 1 year. An individual no longer protected by the laws may not be appointed title for the duration of the punishment.
+5. **Recompense:** The offending party shall compensate in full the victim of their illicit activity in full for all losses and damages that are a result of the criminal activity of the offending party, including what the local officer of justice feels is fair compensation for time and duress caused by the offense.
+6. **Obliteration:** The offending party shall suffer 3 consecutive Executions or be the subject of one successful Obliteration Formal Magic that results in their body dissipating and their spirit being weakened 3 times.
+7. **Loss of Noble Title:** The offending party shall be stripped of noble title and any rights of benefits they might have due to noble title in any and all lands that they bear title within the Accords of Avalon. Hereafter they shall be considered a commoner, unless banishment is added on as a punishment in which case they will no longer be protected by any laws of any lands.
 
 **D)**  **Investigation of Criminal Activities:** All Nations agree to investigate accusations of criminal activity within their territories. A trial may be had in accordance with local law or custom. All accused noble criminals shall be given the opportunity to respond to the allegations be it in Trial or Investigation. Those individuals accused shall be permitted representation at such a trial. If available another representative of the accused Liege shall bear witness to the trial. A representative of the suspect’s kingdom must witness the trial of a noble in a foreign land. All crimes and punishments will be recorded in a Journal, and forwarded to a representative appointed by the Tribunal of Justice and the liege of the convicted noble each month for reporting to the Avalon Gazette and the other Nations.
 
 # The Accords of Avalon Section III
 
-### **Treaties and Accords for** War and Times of War
+## Treaties and Accords for War and Times of War
 
 All member Nations shall in times of peace and times of war, agree to abide by these Accords. The precepts and laws of these Accords shall be followed by all parties, regardless of current martial status. Fair and equitable Justice shall be had between kingdoms. While the terms of war between Member Nations are described herein diplomatic and economic resolution to grievance is always preferred by all Nations signed to these Accords.
 
@@ -222,9 +184,7 @@ All Military Action by one Nation signed under these Accords upon another Nation
 
 **1.**   A Declaration of War shall be made, this shall include the grievance that has instigated the war, and what reparations the declaring party seeks. Likewise this shall include a writ of alliance from all nations, be they signed to these Accords or not, that intend to ally on the part of the Declaring Nation in this war.
 
-**2.**   The Nation upon whom War is being declared shall write an Acceptance of Declaration, which will include an acknowledgement or denial of said grievances. It shall also contain a writ of alliances from all nations, be they signed to these Accords or not, that intend to ally on the part of the Declaring Nation in this war.
-
-Such Acceptance must be submitted within 30 days or else the Nation shall invite the severe reprimand of the member Nations of the Accords.
+**2.**   The Nation upon whom War is being declared shall write an Acceptance of Declaration, which will include an acknowledgement or denial of said grievances. It shall also contain a writ of alliances from all nations, be they signed to these Accords or not, that intend to ally on the part of the Declaring Nation in this war. Such Acceptance must be submitted within 30 days or else the Nation shall invite the severe reprimand of the member Nations of the Accords.
 
 **3.**   Negotiation shall be had between the two Nations with arbitrators assigned by the Tribunal of War. During this, the two parties shall seek to accommodate all grievances without military action.
 
@@ -262,9 +222,9 @@ All nations making use of another nations trade routes, shall reasonable tax or 
 
 Any grievance of unfair trade, commerce, taxation or other violation of the Treaties and Accords for Trade and Commerce shall be brought before a tribunal established by the member Nations.
 
-### The Accords of Avalon Section V
+# The Accords of Avalon Section V
 
-#### Governance of the Accords:
+## Governance of the Accords
 
 #### The Council of the Accords
 
@@ -313,6 +273,6 @@ Any and all Nations of Avalon are invited to join the Accords. Any Nation that c
 
 As of January 1, 606 in the Evendarr Reckoning, Nations who wish to join the Concordance of Avalon must petition the Council of the Concordance for admittance. Such a petition will be considered by the Council and either rejected or accepted by a three-fourths majority. Once accepted, a petitioner is free to sign the Accords and become a full Member Nation of the Concordance of Avalon.
 
-### Amending the Accords:
+### Amending the Accords
 
 The Accords of Avalon can only be amended in the following manner. A proposal to amend is brought forth in Council and then discussed. A minimum time of three months must pass before a vote is taken. When the vote is finally taken, the amendment passes only by a positive vote of all Member Nations. A single dissent or abstention or absence will nullify any amendment to the Accords.
