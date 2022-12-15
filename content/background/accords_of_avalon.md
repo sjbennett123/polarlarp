@@ -4,6 +4,8 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
+[PDF Single Pages](/accords_of_avalon.pdf)
+
 # Precepts of a Civilized and Cultured Society
 
 It is upon the following precepts of etiquette and culture that the Accords of Avalon have been written and proposed. It is by these precepts and etiquettes that all citizens of Avalon shall abide, to demonstrate universal civility and courtesy. These Accords will be the foundation of the society, culture, laws and proscription of how to ensure faire commerce and war, for all nations who agree to membership of the Concordance of Avalon.

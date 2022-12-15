@@ -6,10 +6,6 @@ draft: false
 
 ## The History of the Bloody Fist
 
-
-
-
-
 - Bloody Fist never really used Celestial Magic as they considered it dirty sky magic.
 - With the infusion of Rygalius’s Dragonflame magic, the Bloody Fist become a Draconic Uruk-Hai like orc over the default Orc in NERO. NO ONE KNOWS the source of their power or the name Rygaulis except for Ahroun the Butcher but speaking his name would automatically kill him. Ahourn makes sacrifices to Rygalius in secret to show his allegiance
 
@@ -73,11 +69,7 @@ furstration with poor leadership that quickly gets squashed. (maybe have an inco
 stories of success and plunder.
 orc traitors
 
-
-
 ---
-
-# bloody fist
 
 # Background
 
@@ -95,6 +87,8 @@ A few moons ago, a Shadowy Elf in Black Robes descended from the night sky befor
 
 ##   The Taking of Stonewood
 
+
+
 # Lore
 
 ##   Casters always travel in pairs
@@ -107,11 +101,17 @@ A few moons ago, a Shadowy Elf in Black Robes descended from the night sky befor
 
 ##   The ritual of the Fire Drakes
 
+A 
+
 ##   The fear of the black shadow
 
 # NPCing Advice
 
 ##   Orc name List
+
+orc_name_list.pdf
+
+
 
 ##   Ferocity
 
@@ -121,15 +121,17 @@ A few moons ago, a Shadowy Elf in Black Robes descended from the night sky befor
 
 ##   Makeup
 
+![img](/bloody_fist_makeup.jpeg)
+
 https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
 
 https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0
 
-# Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
+Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
 
 https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
 
-![img](https://paper-attachments.dropboxusercontent.com/s_10813EDF64FB8E51504B5C34530F9142581D57AB5771E32032D7FF7832C95D4D_1668047622868_file.jpeg)
+
 
 ##   Using War Drums
 
