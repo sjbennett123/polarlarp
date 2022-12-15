@@ -1,6 +1,6 @@
 ---
-title: "Undead"
-date: 2022-11-10T10:33:21-05:00
+title: "Treaties on Undead"
+date: 2022-11-10T10:33:21-05F00
 draft: false
 ---
 
@@ -28,11 +28,11 @@ Liches are among the most powerful of the greater undead. They can raise and con
 
 Beware the Mummy's Curse. If this cloth-wrapped zombie-like undead strikes you down and administers a killing strike, you will be beyond the reach of Angelica's Death Bane. They may bring disease or paralysis to their victims with their claw-like hands, but they move very slowly. They possess the strength to rip out of Pin and Bind spells. A Dragon's Breath will nearly kill a mummy, and one Destroy Undead will certainly do it.
 
-## Revenant:
+## Revenant
 
 Revenants resemble zombies, but are much more powerful. For example, they may rip out of Peranore's Minor Binding and Lasset's Mystic Binding spells. Spells are much more useful against revenants than swords, for their undead bodies seem to deflect half the damage a weapon strike does. I believe it takes at least a Dragon's Breath and a Lightning Bolt to destroy a revenant, but Destroy Undead works wonders. There are natural revenants, called "Spirits of Vengeance," created when a person suffers his final death from a vampire's bite or, sometimes, when death comes unjustly. These cannot be destroyed but will go away with the sun, or once they have avenged their death.
 
-## **Skeleton:**
+## Skeleton
 
 These undead have lost all their flesh and are walking bones held together by magical forces. Their lack of skin makes it difficult to harm them with weapons, it seems that weapon strikes harm them only half as much as they would a living being. A Lightning Bolt will finish most skeletons; two are needed for the bigger ones. A Harm Undead will destroy the smaller ones and almost finish the biggest skeletons.
 
@@ -44,7 +44,7 @@ Spectres are ghostly humanoid figures. They usually retain their intelligence be
 
 Vampires are a curious form of undead. They are not created by spell or ritual, yet they have the taint of chaos upon them and are harmed by earth magicks. The elders of their kind possess incredible powers and are near immortal, but they are cursed with a craving for the blood of the living. Each vampire is different, and there is little that is common among them save those things that are common to all undead. Most vampires have the ability to turn their bodies into a mist, which makes it difficult to capture them. They can also bind a person in a powerful enslavement merely by staring into his eyes. Most vampires are unharmed by normal weapons. Only the very oldest and most powerful of their kind can walk in sunlight. There is a great deal of superstition concerning vampires. Rumors persist that they cannot enter residential dwellings unbidden, cross lines of poppy or mustard seeds, or cross running water. It is said that if the vampire believes in them, it will be affected by such constraints.
 
-## Wraith: 
+## Wraith
 
 These undead are very similar to spectres, but they like to scream a lot. Some say wraiths retain their intelligence initially, but they are usually insane. They are unaffected by normal weapons, but rarely have the ability to resist magical attacks. Much like spectres, wraiths have the ability to drain life essence with their very touch.
 
