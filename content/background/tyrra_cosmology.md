@@ -13,7 +13,7 @@ draft: false
 >
 > Senior Guildsman, Guild of Arcane and Alchemical Studies
 >
-> Neridia's Gate, Kingdom of Neridia 
+> Neridia's Gate, Kingdom of Neridia
 >
 
 ---

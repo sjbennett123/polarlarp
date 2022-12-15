@@ -800,68 +800,68 @@ Your level determines how many Body Points you get and how many Experience Point
 
 Advancement Chart Body Points per class per level: Table 2-4b
 
-| Level | Fighter | Rogue | Rogue | Scholar |
-| ----- | ------- | ----- | ----- | ------- |
-| 1     | 6       | 4     | 4     | 3       |
-| 2     | 8       | 5     | 5     | 4       |
-| 3     | 10      | 6     | 6     | 4       |
-| 4     | 12      | 7     | 7     | 5       |
-| 5     | 14      | 8     | 8     | 6       |
-| 6     | 16      | 9     | 9     | 6       |
-| 7     | 18      | 10    | 10    | 7       |
-| 8     | 20      | 11    | 11    | 8       |
-| 9     | 22      | 12    | 12    | 8       |
-| 10    | 24      | 13    | 13    | 9       |
-| 11    | 26      | 14    | 14    | 10      |
-| 12    | 28      | 15    | 15    | 10      |
-| 13    | 30      | 16    | 16    | 11      |
-| 14    | 32      | 17    | 17    | 12      |
-| 15    | 34      | 18    | 18    | 12      |
-| 16    | 36      | 19    | 19    | 13      |
-| 17    | 38      | 20    | 20    | 14      |
-| 18    | 40      | 21    | 21    | 14      |
-| 19    | 42      | 22    | 22    | 15      |
-| 20    | 44      | 23    | 23    | 16      |
-| 21    | 46      | 24    | 24    | 16      |
-| 22    | 48      | 25    | 25    | 17      |
-| 23    | 50      | 26    | 26    | 18      |
-| 24    | 52      | 27    | 27    | 18      |
-| 25    | 54      | 28    | 28    | 19      |
-| 26    | 56      | 29    | 29    | 20      |
-| 27    | 58      | 30    | 30    | 20      |
-| 28    | 60      | 31    | 31    | 21      |
-| 29    | 62      | 32    | 32    | 22      |
-| 30    | 64      | 33    | 33    | 22      |
-| 31    | 66      | 34    | 34    | 23      |
-| 32    | 68      | 35    | 35    | 24      |
-| 33    | 70      | 36    | 36    | 24      |
-| 34    | 72      | 37    | 37    | 25      |
-| 35    | 74      | 38    | 38    | 26      |
-| 36    | 76      | 39    | 39    | 26      |
-| 37    | 78      | 40    | 40    | 27      |
-| 38    | 80      | 41    | 41    | 28      |
-| 39    | 82      | 42    | 42    | 28      |
-| 40    | 84      | 43    | 43    | 29      |
-| 41    | 86      | 44    | 44    | 30      |
-| 42    | 88      | 45    | 45    | 30      |
-| 43    | 90      | 46    | 46    | 31      |
-| 44    | 92      | 47    | 47    | 32      |
-| 45    | 94      | 48    | 48    | 32      |
-| 46    | 96      | 49    | 49    | 33      |
-| 47    | 98      | 50    | 50    | 34      |
-| 48    | 100     | 51    | 51    | 34      |
-| 49    | 102     | 52    | 52    | 35      |
-| 50    | 104     | 53    | 53    | 36      |
-| 51    | 106     | 54    | 54    | 36      |
-| 52    | 108     | 55    | 55    | 37      |
-| 53    | 110     | 56    | 56    | 38      |
-| 54    | 112     | 57    | 57    | 38      |
-| 55    | 114     | 58    | 58    | 39      |
-| 56    | 116     | 59    | 59    | 40      |
-| 57    | 118     | 60    | 60    | 41      |
-| 58    | 120     | 61    | 61    | 41      |
-| 59    | 122     | 62    | 62    | 42      |
-| 60    | 124     | 63    | 63    | 43      |
+| Level | Fighter | Rogue/Templar | Scholar |
+| ----- | ------- | ------------- | ------- |
+| 1     | 6       | 4             | 3       |
+| 2     | 8       | 5             | 4       |
+| 3     | 10      | 6             | 4       |
+| 4     | 12      | 7             | 5       |
+| 5     | 14      | 8             | 6       |
+| 6     | 16      | 9             | 6       |
+| 7     | 18      | 10            | 7       |
+| 8     | 20      | 11            | 8       |
+| 9     | 22      | 12            | 8       |
+| 10    | 24      | 13            | 9       |
+| 11    | 26      | 14            | 10      |
+| 12    | 28      | 15            | 10      |
+| 13    | 30      | 16            | 11      |
+| 14    | 32      | 17            | 12      |
+| 15    | 34      | 18            | 12      |
+| 16    | 36      | 19            | 13      |
+| 17    | 38      | 20            | 14      |
+| 18    | 40      | 21            | 14      |
+| 19    | 42      | 22            | 15      |
+| 20    | 44      | 23            | 16      |
+| 21    | 46      | 24            | 16      |
+| 22    | 48      | 25            | 17      |
+| 23    | 50      | 26            | 18      |
+| 24    | 52      | 27            | 18      |
+| 25    | 54      | 28            | 19      |
+| 26    | 56      | 29            | 20      |
+| 27    | 58      | 30            | 20      |
+| 28    | 60      | 31            | 21      |
+| 29    | 62      | 32            | 22      |
+| 30    | 64      | 33            | 22      |
+| 31    | 66      | 34            | 23      |
+| 32    | 68      | 35            | 24      |
+| 33    | 70      | 36            | 24      |
+| 34    | 72      | 37            | 25      |
+| 35    | 74      | 38            | 26      |
+| 36    | 76      | 39            | 26      |
+| 37    | 78      | 40            | 27      |
+| 38    | 80      | 41            | 28      |
+| 39    | 82      | 42            | 28      |
+| 40    | 84      | 43            | 29      |
+| 41    | 86      | 44            | 30      |
+| 42    | 88      | 45            | 30      |
+| 43    | 90      | 46            | 31      |
+| 44    | 92      | 47            | 32      |
+| 45    | 94      | 48            | 32      |
+| 46    | 96      | 49            | 33      |
+| 47    | 98      | 50            | 34      |
+| 48    | 100     | 51            | 34      |
+| 49    | 102     | 52            | 35      |
+| 50    | 104     | 53            | 36      |
+| 51    | 106     | 54            | 36      |
+| 52    | 108     | 55            | 37      |
+| 53    | 110     | 56            | 38      |
+| 54    | 112     | 57            | 38      |
+| 55    | 114     | 58            | 39      |
+| 56    | 116     | 59            | 40      |
+| 57    | 118     | 60            | 41      |
+| 58    | 120     | 61            | 41      |
+| 59    | 122     | 62            | 42      |
+| 60    | 124     | 63            | 43      |
 
 #### 
 
@@ -3137,7 +3137,7 @@ Example – Joseph is 10th level with 106 build. He goes to an event in another 
 
 ## NERO Sportsmanship Policy
 
-### **All NERO Participants**
+### All NERO Participants
 
 - Follow the spirit of the rules, as well as the letter of the rules.
 
@@ -3151,7 +3151,7 @@ Example – Joseph is 10th level with 106 build. He goes to an event in another 
 
 - Don’t play in a style that detracts from the fun of the event, or anyone’s chance to have fun at an event.
 
-### **Staff, Marshals, etc...**
+### Staff, Marshals, etc...
 
 - Abide by the expectations that apply to all NERO participants.
 
@@ -3161,7 +3161,7 @@ Example – Joseph is 10th level with 106 build. He goes to an event in another 
 
 - Run events in a professional manner. Remember that you represent NERO to anyone present at an event, whether participating or observing.
 
-### **Administration (National, Local, etc...)**
+### Administration (National, Local, etc...)
 
 - Abide by the expectations that apply to all NERO participants, Staff, Marshals, etc....
 
@@ -3913,8 +3913,6 @@ A hit is used up only if the strike lands or it is negated by a defense, but can
 Applying a vorpal coating takes time to apply. It cannot be done with a quick touch in the middle of battle. The tag must be taped onto the weapon. The taping of the tag onto the weapon represents the time it takes, which may never be less than three seconds. If you do not have the tag taped to your weapon then the vorpal coating is not effective. A new tag must be put on the weapon each time a new vorpal coating is applied. Only one vorpal coating can be on a weapon at a time.
 
 ## Alchemical Substances
-
-
 
 **Alchemical Solvent**
 
