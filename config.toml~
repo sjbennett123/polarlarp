@@ -1,6 +1,0 @@
-baseURL = 'https://gloryforthefist.netlify.com'
-languageCode = 'en-us'
-title = 'Polar Larp'
-theme = 'hugo-theme-learn'
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
