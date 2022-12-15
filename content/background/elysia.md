@@ -4,21 +4,31 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-## Baronies
+![/elysia_map.jpg](/elysia_map.jpg)
 
-Barony of Adron
+## Barony of Adron
 
-Barony of Ebonmarr
+## Barony of Ebonmarr
 
-Barony of Simoondale
+## Barony of Simoondale
 
-Barony of Medddlar
+#### The Mines of Simoondale
 
-Barony of Woodhaven
+## Barony of Medddlar
 
-## Towns
+## Barony of Woodhaven
 
-Hoyle - was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
+### Towns
+
+#### Hoyle
+
+Was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city 
+
+#### Stonewood
+
+Dwarven city with supernatural hardened trees as main form of industry. Recently occupied by the brutal Bloody Fist Orcs. 
+
+---
 
 Bruhn
 
@@ -68,7 +78,7 @@ New Castle
 
 Icemoor
 
-Stonewood: Dwarven city with supernatural hardened trees as main form of industry. Recently occupied by the brutal Bloody Fist Orcs. 
+
 
 ## Landmarks
 
