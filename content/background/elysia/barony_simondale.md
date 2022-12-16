@@ -6,6 +6,6 @@ draft: false
 
 
 
-mines
+## mines
 
 This is the first time a player has gone to them because they are normally held by the kingdom. That has kept them safe from any history to be written. I can msg with info later about what I know about the area and what's been happening recently
