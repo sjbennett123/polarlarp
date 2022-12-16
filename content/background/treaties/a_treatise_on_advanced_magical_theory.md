@@ -5,17 +5,18 @@ draft: false
 ---
 >  The following treatise has been carefully preserved at the Elven Institute of Learning & Magick at Helevorn in Quentari, and translated from ancient Elven.  
 >  It has been dated from early in the Fourth Cycle of Ages, some 3000 years ago, and is considered the earliest and most reliable elemental study because of its ability to ring true through the Cycles of Ages. The author is unknown.
-> Amaliel Golindreth
 >
-> Master Archivist 
+>  Amaliel Golindreth
 >
-> Arch-Wizard of Records & Lore
+>  Master Archivist 
 >
-> The Elven Institute of Learning & Magick
+>  Arch-Wizard of Records & Lore
 >
-> Helevorn
+>  The Elven Institute of Learning & Magick
 >
-> Kingdom of Quentari of the Nations of Avalon
+>  Helevorn
+>
+>  Kingdom of Quentari of the Nations of Avalon
 
 ##  The Elemental Planes
 
