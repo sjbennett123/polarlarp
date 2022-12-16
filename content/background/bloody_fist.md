@@ -6,6 +6,10 @@ draft: false
 
 ## The History of the Bloody Fist
 
+![/bloodyfist.svg](/bloodyfist.svg)
+
+
+
 - Bloody Fist never really used Celestial Magic as they considered it dirty sky magic.
 - With the infusion of Rygalius’s Dragonflame magic, the Bloody Fist become a Draconic Uruk-Hai like orc over the default Orc in NERO. NO ONE KNOWS the source of their power or the name Rygaulis except for Ahroun the Butcher but speaking his name would automatically kill him. Ahourn makes sacrifices to Rygalius in secret to show his allegiance
 
@@ -26,6 +30,8 @@ They CAN be settled with on terms but they would be very one sided and demand 20
 
 ### The Banner of the Bloody Fist
 
+![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
+
 When they enter the battlefield, they carry a banner of the Blood Fist and plant it before rushing into battle. If they fight within 10 ft of the Banner they receive the Blessing of the Bloody Fist. The Blessing is as follows:
 
 **Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 ft of the Standard swing an additional 5 damage on weapons, they can regenerate 20 Body on a 5 Count of “I drink your blood... X” and finally they may rip from binding as per Rip From Binding Strong trait an unlimited number of times within 10 ft of the Banner.
@@ -37,8 +43,6 @@ The Bloody Fist defend the Banner fiercely and not be drawn away easily unless p
 ---
 
 They are not above capturing PCs and taking prisoners. Some Bloody Fist NPCs will be given specific targets to capture certain PCs or NPCs in town they players can defend. Most captured NPCs are killed brutally unless it is a plot hook. PCs will be “held in a prison” until they are able to be rescued or the player choose to persue the Bloody Fist and raid a camp with a follow up module but these are NOT easy to assault a Bloody Fist encampment. The camps normally have casters and soldiers on standby awaiting a returning Raiding party. The Earth Casters of the Bloody Fist love to raise the dead of the PCs and important NPCs as Undead and send them into town to attack for the sheer horror, a cruel payback tactic of the humiliation they face in the last war
-
-
 
 ---
 
@@ -86,6 +90,12 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn Hope-Flayer. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.
 
 ##   The Taking of Stonewood
+
+The Accords of the Fist
+
+![accords_of_the_fist.jpg](/accords_of_the_fist.jpg)
+
+The appointing of a Puppet Mayor
 
 
 
