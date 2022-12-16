@@ -16,45 +16,61 @@ Richard Endarr is named King of Evendarr. King Richard is angered by slavery in 
 
  King Richard opens the lands ,West of Volta and North of Niman for exploration. 
 
-## 390
+## 590
 
 Gold is discovered in the plains of Hardran.
 
+590
+The Duchies of Niman and Volta compete for access to the gold fields.
+
+## 591 
+
+### 5/591 
+
+King Richard declares the new lands bordered by Niman and Volta to be the Duchy of Elysia. The Dukes of Niman and Volta formally protest and submit requests to annex the Duchy of Elysia as part of their own holdings. King Richard refuses.
+
+### 9/591 
+
+An outpost is erected by the King's men to serve as a waystation for workers and goods passing to and from the gold fields. This outpost consists of a barracks and tavern,
+
+### 10/591 
+
+Jabby the Innkeeper arrives to run the tavern.
+
+### 1/592 
+
+- Kerna, a local witch, meets with Jabby to warn of goblin unrest. 1/31/592 Kerna's hut is destroyed by goblins.
+- Duke Azeroth Dragonheart arrives at the frontier outpost in the company of a group of adventurers charged to tame the surrounding area and make fast the Duchy of Elysia.
+
+### 2/592
+
+- Goblins of the Tribe of the Tree attack the outpost in retaliation for the cutting of their sacred tree for the barracks walls.
+
+- First appearance of notorious mage Zipper who, in the company of a fighter named Dirk, charm the Duke and attempt to overrun the town. Dirk is killed and Zipper escapes. It is rumored that both were agents of Niman. 
+
+- First recorded encounter with a creature called a Melf. Prized for its pelt which can be shorn without harm, these creatures have a paranola spell to protect them from close approach.
+
+### 2/02/592
 
 
----
 
+### 2/02/592
 
+Duke Azeroth strikes a treaty with the Tribe of the Tree Goblin King, pledging to replace the tree and to maintain pedceful relations,
+The local name for the area. Death's End, is selected as the name of the outpost. 2/10/592 Spring floods overrun Death's End and the inhabitants are forced to seek higher ground.
+2/19/592 Duke Azeroth declares the new capital of Elysia to be located in the deserted town of
+Glavorn
 
-## 591
+### 2/22/592
 
-390 ghe  )uchies o 'Iman and ,Oolla cams to or access to the cf 
+- Citizens of Death's End begin making their way to Glavorn. Kerna the witch declines to accompany them to Glavorn thus leaving the townspeople very short on healing craft. 2/28/592 A number of adventurers in the company of Duke Azeroth Dragonheart visit the Duchy of Ashbury. Duke Azeroth Dragonheart and the Duke of Ashbury. Aleric Dragonhart (a distant cousin to Azeroth Dragonheart) sign a treaty of mutual protection and trade. The mage Thermo is named Lord Chancelor to Duke Azeroth Dragonheart. The Ashbury Gulldes present complete sets of Celestial and Earth spell books to Lord Thermo and His Grace the Duke Azeroth Dragonheart,
 
-3/591 ,icing ,Ichard declares e new lands bordered by ,Niman UrldI to to be • e o ghe Dukes of Airtuan and 'Doha formally protest and submit reg.sts to annex the uch o If is as rt o their 0w11 hofdin (Kin•Shard re An outpost is erected by the 'King's men to serve as a •aystation for workers and goods ssin to and nom the d olds. ghis out st consists o a barracks and tavern. 
+### 3/6/592
 
-### 10
-
- Tabby the innkeeper arrives to run the tavern. 
-
-## 592
-
-1/30/592 ,Kenna. a fool witch. meets with ga to warn o • in unrest. 
-
-1/31/592 (Kirtotut destroyed it bfins. 2/01/592 Duke Aeeroth ,Dragonheurt arrives at the frontier outpost in the company of a group of adventurers charged to tame the surrounding area and make fast the •))achy of Efysia Goblins of the bribe of the :Tree attack the outpost in retaliation for the cutting of their sacred tree for the barracks walk.  girst appearance of notorious ma, 3ipper who. in the company of a fighter named Div*. charm the ,fluke and attempt to overrun the town. Dirk is killed and 3. ipper escapes. -It is rumored that both were agents of \imam. 
-
-2/02/59'2 71, recorded encounter with u creature called a ;Neff. ,prized for its pelt which can be Awn without harm. these creatures haw a paranoia spell to rotes them from close approach. 
-rids. 
-9/591 
-2/02/592 Duke Au,th strikes o treaty with the ;Tribe of the gree ,King, pledging to re ace the tree and to mainw.ln peaceful relations. 7he focal name for the area, Dustfes Ind. is selected as the name of the outpost. 
-
-22//1,09//55,922 :SDukri: ALord:thovedercriuunre,!toetfin'srveInctittshirabliatatnotsbetarieoc=t: deserted own s hi n ground. Gfavorn.
-
- 2/22/592 Citietns of ,Death, ,End begin ntakin)3 their way to (,,favorn. 'Kerma the witch ,ieetine, to accompany them to (4favorn thus Saving the townspeople very short on heatin, croft. 
-
-2/28/592 A, number of adventurers in the company of -Duke Aceroth Dragonheart visit the Duchy o Ashbur 
-3/01/592 e Auroth )rago tart an• the uke o A bury. Aerie go are to slant cousin to Aeeroth Dragonhearti sign a treaty of mutual protection and trade. Tie ma, -ghermo Is named (-11,d Chancefor to ,Duke Auroth Dra,nheart. 31tt Athiwary Gullies resent complete sets of Celestial and Tarth spell books to iorst ghernto and 'His Grace the ,j)uke ,wroth ,f)ragonheart. 
-
-3/6/592 ,Duke Aurodi Dragonheart appoints ft,. t \win to help rebuild the town of Glavorn: s-Boron IHerbanion Sarossa Is granted the title of q,sind ,Baron of the liar., of Woo Hawn and Is placed In charge of the town of ,41avorn. ∎Baron Au! occlo Is appointed to head the gighters.Guilde, ,flaron Colduron ,P4inycrafts Is appointed to head the Crafts tunic. �ord (Rydinmar CryptInth is appointed to head the Otaise, (lard gaffed( 'Hambrom Is appointed to head ',Templars' Ouilde. 
+- Duke Azeroth Dragonheart appoints five Nobles to help rebuild the town of Glavorn Baron Herbanion Sarossa is granted the title of Ignd Baron of the Barony of Wood
+- Haven and is placed in charge of the town of Glavorn. Baron Maloccio is appointed to head the Fighters' Guilde,
+- Baron Colduron Manycrafts is appointed to head the Crafts Guilde.
+- Tord Rydinmar Cryptinth is appointed to head the Mages Guilde. Lord Jalerak Hambrom is appointed to head the Templars' Guilde.
 
 ![/EarlyElysia1.jpg](/EarlyElysia1.jpg)
 
@@ -66,5 +82,4 @@ rids.
 
 ![/EarlyElysia5.jpg](/EarlyElysia5.jpg)
 
-https://www.onlineocr.net/
-
+https://chromeready.com/9049/use-ocr-text-tool-google-lens-desktop/
