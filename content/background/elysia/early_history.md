@@ -37,6 +37,8 @@ An outpost is erected by the King's men to serve as a waystation for workers and
 
 Jabby the Innkeeper arrives to run the tavern.
 
+## 592 
+
 ### 1/592 
 
 - Kerna, a local witch, meets with Jabby to warn of goblin unrest. 1/31/592 Kerna's hut is destroyed by goblins.
@@ -74,11 +76,73 @@ Glavorn
 
 ![/EarlyElysia1.jpg](/EarlyElysia1.jpg)
 
+### 3/12/592 
+
+Walter Dragonheart, brother of Duke Azeroth Dragonheart, arrives in Glavorn and opens an alchemy shop. 
+
+### 3/15/592
+
+Kerna's cousin, gdy Willis Entemoor, arrives in Glavorn and offers her services as a Master Healer.
+
+### 3/20/592 
+
+Duke Azeroth Dragonheart appoints gdy Willis Entermoor to head the 'Healers'
+Guilde.
+
+### 3/21/592 
+
+Walter Dragonheart founds the Legion of the Dragonflame. Tord Jalerak Hambrom steps down from his position as head of the Templars Guilde to devote his time to the founding of an order of Knights. Tord Jalerak Hambrom appoints six squires:
+
+### 3/22/592
+
+Kale Stormblade
+Xavier Igbragio
+Kysol Aseeel
+Ditimus Swift Spider Bannor Dan Deathdealer
+Mordrik Halforcan
+
+### 3/23/592 
+
+gdy Willis, Baron Colduron and Squire Kyle Stormiade are asked to journey to a nearby logging camp to assist distressed adventurers in route to Glavorn. Baron Colduron organlees forces at the logging camp to defeat a local Necromancer
+
+### 3/28/392
+
+who is terrorizing the camp with combles.
+First recorded instance of encounters with a creature called a lem which can throw a love spell to protect itself from harm. Baron Maloccio steps down from his position as head of the Fighters Guilde and the
+
+### 4/05/592
+
+Duke appoints Jord Theopolis Mourteouphlos in his place. Baron Colduron Manycrafts appoints Jalorin Coreel to the position of assistant
+
+### 4/10/592
+
+Gulldmaster of the Crafts Guilde. Baron Herbanion Sarossa offers a reward to those helping to eliminate wolf packs in the area of the town of Glavorn.
+By command of His Majesty King Richard Endarr, the Healing Guilde of Evendarr delivers a staff of resurrection to gdy Willis Entemoor for the Healing Guilde of Glavorn
+A shipment of gold is pilfered in route through Glavorn. Baron Herbanion Sarossa Imprisons the couriers to stand trial for the loss of two bags of gold.
+
+### 4/11/592
+
+Faithful townspeople locate and return one of the bags. The other is never recovered. A local chemist loses control of his orc servants while using them in experiments with strength potions. Defenders of Glavorn are victorious in a battle with the empowered ores.
+A band of men enhanced with magical spells attack the Healing Guilde shouting Greetings from Jipper. The Lord Baron Herbanion and Tady Willis Entemoor are struck down. Walter Dragonheart saves the life of gdy Willis and the Baron is saved by a life potion.
+First recorded Incidence of an attack by the Daefonbeaste, an enormous, foul, winged creature that envelops its victims to deliver a paralysis sting and appears impervious to magical or physical weapons. Lord Ryldinmar Cryptinth is twice resurrected at the Healing Guilde.
+Lord Baron Herbanion Sarossa is dain by wolves and resurrected at the Healing Guilde The Goblin Treaty is broken when several goblins are sain out of hand at the Olde
+
+### 4/12/592
+
+Griff Anne. The perpetrators Insist the goblins were rabid. Baron Herbanion Sarossa reinstates the bounty on goblin cars.
+Goblins form a new treaty with local ogres and attack Glavorn in broad daylight. This attack is successfully turned by the towns' defenders.
+
 ![/EarlyElysia2.jpg](/EarlyElysia2.jpg)
+
+
 
 ![/EarlyElysia3.jpg](/EarlyElysia3.jpg)
 
+
+
 ![/EarlyElysia4.jpg](/EarlyElysia4.jpg)
+
+
 
 ![/EarlyElysia5.jpg](/EarlyElysia5.jpg)
 
