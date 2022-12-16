@@ -230,33 +230,33 @@ The Sidhe are often referred to as High Elves, they are a Fae subtype which clos
 
 Faerie different from all other realms. They say that they are linked stronger than any other race to this force and it gives them their power. So strong is their link with the magic forces that they cannot even wield a weapon. The longer that a Sidhe remains within the Ambiance that they study, the more powerful they grow. They see all magic as one and cast earth and celestial magic interchangeably. They can alter the path of magics which hit them either reflecting it back at the caster or sending it at another target altogether. The Sidhe's ability to alter magic also follows in their afflictions. They can lay the affliction of magic's wrath upon another which causes a type of magic to effect the recipient of the curse at double intensity. Once the Firbolg were part of this race, but a King's Curse forever split these two races. The Sidhe are highly represented in the Seelie Court not believing in all things having the rights to do as they please if it does not violate their own rights. The incident with the Firbolg was seen as some of their group trying to impose limits on the group as a whole which is why such harsh consequences occurred.
 
-### **The UNSEELIE**
+### The Unseelie
 
-#### **Gremlins:**
+#### Gremlins
 
 Gremlins are small, mischievous, devious, and evil. They are attracted to shiny objects such as coins and jewelry. They will try to disable those who have such objects and take them, most often using innate binding magics. Of course they will leave the bodies where anyone or anything can come along and do anything they wish with them. If annoyed, a Gremlin may afflict an individual so that his food and drink will spoil in his hands. Gremlins are low powered but numerous on Faerie. They are not particularly feared or respected, but tend to attach themselves to the slightly more powerful Dark Goblins.
 
-#### **Boggles:**
+#### Boggles
 
 Boggles, like Gremlins, are small weak and evil Fae who attach themselves to the hordes of the Dark Goblins. Boggles will attack anything that moves provided there is a large group of them. They do not coordinate their attacks and are easily fought against. Boggles often try to imitate the chants and cadences of the Redcaps thinking that such actions will make them seem more powerful as well. Unfortunately their lack of intelligence prevents them from even doing that well.
 
-#### **Firbolg:**
+#### Firbolg
 
 The Firbolg resemble the Tyrran Drae with several minor differences. Their large height obviously makes them noticeably different than Drae, and they have dark patches of fur all over their body. They were once members of the race of Sidhe but long ago decided that the magic of the stars was superior to the magics of the earth and began to study only how celestial magic impacted upon Faerie and the Ambience. This greatly angered Oberon who ordered an immediate halt to the solitary studies as a counter to the goals of the Sidhe. When they refused to do so, he pronounced a Kings curse upon them. His curse was "Since you choose to be apart from us so shall you be, if the earth is not yours never more shall it be!" All of the group who studied only the stars shook as their skin appeared black as night . All ability to cast earth magic’s disappeared from them and the oneness of magic was no longer theirs. Once his curse was pronounced he cast out the group calling them Firbolg, which translates to men of filth in the Sidhe tongue. When the Firbolg were forced to leave the Wood, they completely gave up their study of the Ambience and migrated away swearing vengeance upon the Sidhe.
 
 Eventually they found their way to the Haunted Wood which was the stronghold of the Dark Fae, here they swore to the Lord of the Haunted Wood and he did what he could to modify their curse. He could not rid them of their curse for no one can remove a curse of Kings, but he could further curse them. He added his own curse of Kings to them "To defy the curse unjustly wrought, to the earth I bind you and to the Haunted Wood, so that you may defend me I allow you to heal." This had the following effects. It allowed them to once again cast earth magic though not as innate magic, they still no longer held earth and celestial as one magic and the ability to re-channel magic changed to the ability to resist it. In addition the part of the affliction "to defy the curse unjustly wrought" had the effect of changing the affliction they could lay upon others. Instead of altering the way they were effected by magic, as with the affliction of magic's wrath, they could now lower a persons ability to cast magic in a limited way somewhat like what was done to them. Since the Firbolg no longer spent all their time embracing the study of the Ambience, they learned other skills and professions, they learned to use weapons and they compensated for their loss of magic. The affliction of the Lord of the Haunted Wood also bound them to the Haunted Wood and the Desolate Pool, which is the source of all corruption in Faerie. This further warped them, turning a grudge and anger into hatred and genocidal impulses. They are now among the most outspoken of the Unseelie, wishing only personal satisfaction and the destruction of the Sidhe.
 
-#### **Changelings:**
+#### Changelings
 
 The Changelings are not a natural race of Fae but have become regular denizens of the plane due to the nature of being bread by the Dark Goblin Lord and have since bound their race to the Unseelie Court making them full blooded Fae. The Changelings are creatures of powerful magics able to race change at will to take on the appearance of mortals. Thus Changelings are placed in mortal families homes when the Dark Goblins steal their children. Changelings usually grow as mortal children hiding their powers and avoiding detection, they are usually very mischievous but are careful not to let adults suspect that they are anything but basically well behaved normal children. It is when a Changeling reaches adulthood that they start to influence things around them for the benefit of themselves and the Unseelie Court. They tend to work behind the scenes and influence others to do what they want. The Changelings can hide their immunities while disguised as a mortal, however the sound of bells make them uncomfortable and those who know what to look for may find a Changeling this way. In addition, a dispel magic spell will cause them to race change back briefly revealing them for what they truly are, a mockery of mortal life looking more like a gray skinned humanoid than anything else.
 
-#### **Selkies:**
+#### Selkies
 
 Much like Changelings Selkies change their physical form. However it is not to another humanoid form, they change between what appears to be a human and that of a large seal like creatures. Selkies are creatures much like Naiads that live beneath the Great Ocean as well as in the backwards running rivers and lakes of Faerie. The magic of the Selkies though is limited to healing magics and never chaos magics due to their link with water again much like the Naiads. It is said that they desire the love of humans but fear that most humans would not mate with Fae because of the mistrust that exists between the two races. Because of this they spend their days as the seal creatures and change their form by shedding that skin at night to find a mate.
 
-### **The Dark**
+### The Dark
 
-#### **Dark Pooka:**
+#### Dark Pooka
 
 Dark Pooka are nearly the exact opposite of the Pooka. They will tie themselves to an individual mortal or location and try and disrupt or destroy all life rather than aid it. They achieve a perverse sort of pleasure from causing others to fail. They will often bind themselves to a powerful Unseelie and serve as his bodyguard.
 
@@ -276,107 +276,107 @@ The Dead Trees are the Haunted Woods equivalent of Treants. They are the guardia
 
 Twig Blights are tree like creatures of pure evil disposition that have an unending thirst for blood. They are born from seeds found at the center of the Haunted Wood and corrupt everything they touch so as to prevent their victims from escaping until such time as they have had their fill of blood, which coincidentally never occurs.
 
-## **Monsters of Faerie**
+## Monsters of Faerie
 
 Faerie, like Tyrra, has creatures that are considered dangerous monsters by the inhabitants of the plane. Many of these are very rare and seemingly spun out of pure nightmares. The collective name for these creatures is Monstrosities. All monstrosities are greatly feared by the Fae, they are all immune to sleep, charm, and curse effects as well as Fae afflictions, with the exception of the Kings curse, which are the principle weapons of the Fae. Though the following Monsters and Cursed creatures are denizens of Arcadia, granting them many Fae like abilities and qualities, they themselves are not of Fae blood but instead are Extra-planar creatures or Native Outsiders.
 
-### **The Aillen:**
+### The Aillen
 
 The Aillen is a fierce fiery humanoid creature that causes all that face him in battle to fall into a deep slumber. It exists to destroy the works of civilization putting its defenders to sleep and then burning all it finds. It is thought that these creatures were from another plane originally and were banished to Faerie where their ability to induce slumber would not allow them to cause nearly as much strife and destruction.
 
-### **The Airitech:**
+### The Airitech
 
 The Airitech are Faerie equivalents to werewolves. They have two forms, a wolf-like beast form and a humanoid form with lupine traits. They seem to be driven by their hunger for just killed or even still living meat. Like Lycanthropes of Tyrra they require silver weapons to harm, something not commonly found in the Realms of Faerie.
 
-### **The Badba:**
+### The Badba
 
 The Badba walk the battlefields of Faerie where the Courts make war upon each other. On Hy Falga when the sun sets the Badba come out and consume the bodies of those who fell in battle, like some sort of ghoul or scavenger they know nothing but their hunger. The smell of the Badba or the touch of their skin is enough to make any sick to the stomach and cease all activity to retch from the stench.
 
-### **The Couranach:**
+### The Couranach
 
 The Couranach means heart eater, it is a creature similar to the Dullahan but more primal in its actions. Unlike the Dullahan fear is not its weapon. It is strong beyond imagining and it strikes down all that come near it to devour their hearts as they still beat in their chest.
 
-### **The Ceinn Iothair:**
+### The Ceinn Iothair
 
 Ceinn Iothair means Hound of Rage. These wild dogs are completely feral and could never be domesticated. They simply wish to attack and rend all living things they find. They are not even concerned with consuming the meat of their kills, they simply kill and move on. Even worse their spittle causes others who fight them to join them in mindless killing. These hounds are not the most dangerous creatures alone, however they attack in large packs and incite others to follow their rage as well.
 
-### **The Dullahan:**
+### The Dullahan
 
 The Dullahan is of all monsters the most feared in Faerie. The very sight of its headless body inspires fear in all. Those it strikes find themselves unable to move until it cuts off their heads taking their power for itself.
 
-## **Those Races Which Came from Faerie**
+## Those Races Which Came from Faerie
 
 It is said that a Fae who leaves Faerie and remains on Tyrra without a binding as the Dryads or Niads have will become mortal. As is the reverse, those who leave Tyrra and live out their mortally intended lives on Arcadia become Fae. It is also said that the children of Fae and mortals will be mortals but be marked as children of the Fae. There are many races which legend claims are degenerate Fae or mortal children of the Fae.
 
-### **The Elves:**
+### The Elves
 
 Many say that the elves were born of a group of Sidhe who left Faerie and their study of the Ambience to settle in the woods of Tyrra in shame for the affliction laid upon their former kinsmen, the Firbolg. In the realm of Tyrra the Sidhe lost their immortality but kept an extremely long life. Their time here caused their immunities to charm and sleep to be weakened into the simple ability to resist them. They lost the abilities granted to them by the Ambience of Faerie but learned to use weapons, still not able to use the great weapons that other mortal races used so freely.
 
-### **The Drae:**
+### The Drae
 
 Legend holds that when some of the Sidhe left Faerie in shame for their cousins the Firbolg, many among the Firbolg saw this as running from their vengeance and followed. When they came to battle them, the time distortions had caused a great deal of time to pass and they were already the mighty elven nation. So instead of trying to attack them directly, the Firbolg hid underground in Draelonde where cold iron deposits kept the other Fae away from them. These cold iron deposits also cut them off from Faerie even faster, the fur on their skin was shed leaving them looking like black skinned elves. In time even the hatred of the Sidhe and the elves faded from memory, remaining only as a distrust of the surface dwelling elves.
 
-### **Cyclops:**
+### Cyclops
 
 The Cyclops did not begin with two eyes like the rest of the mortals, but with three as they are descended from the Fomoire. When the Fomoire sailed across the Veil of Tyrra and discovered this world, they left behind a colony when they returned to Faerie to get others. When they returned they found that the members of the colony had lost their immortality and they shunned them as they were no longer Fae. As the years gone by the "Triclops" met and tried to deal with other mortal races, however they were always shunned for their three eyes feared as different and recognized as Fae even though they were now mortal. They met their former people the Formoire and begged them to use their power to aid them, though they were mortal they were still their brethren. The Fomoire saw this and was amused by the mortals plight so they laid an affliction upon them to forever distinguish them from the Fomoire. They came before them and said "You who have the sight of three and wish the sight of two shall forever more be distinguished from Faerie to mortal," and so said the lower two eyes of the Triclops burned as if on fire and forevermore did those eyes close. "Go now said the Fomoire, the mortals cannot fear you for your similarity to us now, go and bother us no more." So the Cyclops moved on and was still shunned as different by the mortals. They now live lonely solitary existences away from both Fae and man.
 
-### **Hags:**
+### Hags
 
 Hags are a humanoid race born of human parents. Though born of normal parents these children who are always women are born deformed and appear wise beyond there years even as babes. These children are often abandoned and generally are scorned by normal people. Hags show many similarities to several of the Fae races. These similarities include an innate ability to work magic. The ability to throw afflictions that are not stopped by spell shields, in this case the affliction are only of weakness and destruction, but the similarities are still there. Many legends claim that Hags are truly the children of the Fae and are switched at birth similar to the goblin children found in cribs. Others claim that these are actually the spawn of an evil Fae with a human mother. Some go so far as to claim that these are the offspring of the Lord of the Haunted Wood himself.
 
-### **Sirens:**
+### Sirens
 
 Not all of the Naiads who made their home in the waters of Tyrra linked themselves to the seas to maintain their immortality. Some chose to let it fade and taste of life the way mortals do. These are the Sirens. Like their mothers before them, the Sirens need the waters for survival, unlike the Naiads however, they are not confined to it, and they can leave the waters for short times, as long as they do not go too far away. Many of the traits of the Naiads are found in their children the Sirens. They both have natural charm magics and are resistant to sleep and charm. The Sirens also breed true always having daughters who are also Sirens. They too seduce sailors into fathering their children, but unlike the Naiads who often keep the sailors around or release them unharmed back to their world, the Sirens most often leave them to drown once they are pregnant.
 
-### **Goblins:**
+### Goblins
 
 Many noted scholars have remarked on the similarities between the goblins of Tyrra and the Dark Goblins of Faerie. The reason for these similarities is relatively easy to fathom. The two are basically of the same race, the only difference being their lack of innate magics. The Dark Goblins often switch mortal babies at birth and these warped children when discovered by the parents are often abandoned to the wilderness. Goblins often survive this abandonment since they can go for extended periods of time on little to no food and they mature to adulthood in a week. By one day they are similar to a human child of eight and know enough to stay away from predators including humans. These abandoned goblins tend to gather together and then they begin reproducing at a fantastic rate. If one male and one female goblin are loosed in an area they can have a tribe in a month. Similar to their Fae cousins, the goblins are not very smart and work better in numbers than they do individually. The loss of immortality also came with a loss of skill. Most mortal goblins cannot progress very far in their learning. Some are larger and slightly smarter holding more of their ancestry, these are called hobgoblins. The goblins of course know nothing of their origins and can never achieve the sort of power held by a Dark Goblin Lord. Goblins on Tyrra no longer seek to steal children, being more concerned with surviving. It is rare that goblins would resurrect as they are incapable of casting formal magics to create their own circles and are so disliked that few would resurrect them at their circles. Some evil beings have been known to offer resurrection to the goblins to aid the spread of misery.
 
-### **Minotaur:**
+### Minotaur
 
 A long time ago on Faerie there was a land now lost called Magh Aei, which means plain of grazing. Here dwelt an intelligent race of bulls called the Tarb, which were among the races of Fae. These bulls lived and grazed and ignored the Fae around them other when they would line up to stampede through those Fae who would come in and try to take their lands. The Tarb lived in peaceful harmony until the day a gremlin crept into and whispered words of coercion in the ears of one of the Tarb leaders. "You and your followers are white in hue," he said, "this clearly marks you as superior to the plain Tarb whose common brown coloring makes them resemble nothing more than the dirt for you to tread upon." Night after night the Gremlin would whisper these words into the ears of the white Tarb until they came to believe them in their hearts and began to treat their brown brothers with derision and scorn. They began to feel that they should be the natural leaders of their people and started to seize power for themselves. This led to the great Tain, their word for war that roughly translates to cattle raid. The white and brown Tarb fought each other back and forth with the war culminating on Druim Tarb, the ridge of the bull. The brown Tarb were victorious, but their herd was cut seriously in number and could no longer defend their lands when the Unseelie came marching in. The Gremlins plan at last revealed, if the Unseelie could not defeat the Tarb they would divide them and let them defeat themselves. So, unable to fight, the Tarb fled from their beloved home of Magh Aei and traveled across Faerie until they found their way through a gate to Tyrra. Here they found open fields to graze in and a new home away from the Unseelie. They grew mortal on Tyrra as all Fae do in time, and changed, they began to walk erect on their hind legs which changed to become more muscular though they kept their hooves. Their forelegs became arms and here they developed hands as most mortal races have. They still maintained the bull's head and the bullheaded aspects of their personalities. The herd grew and prospered and divided into new herds. One of the first such herds called themselves the Tain, as a reminder of the war that cost them their home. Though they are pacifistic due to the trauma of the war, they will never again allow their home to be taken. This attitude goes through the more violent and militant herds as well.
 
-### **Unicorns:**
+### Unicorns
 
 Unicorns are creatures native to the Wood on Faerie. Thought they are not a Fae by birth and thus are not affected by living on Tyrra. Though considered magical animals they far surpass the intelligence and magical nature of all other magical creatures from Tyrra. They are long lived but only measure their lives in hundreds of years. They are protectors of the forest and will attack anything defiling it. They are creatures of purity and innocence and because of this their horns are said to have the power to cure anything and make the darkest of hearts see love and light. The Lord of the Haunted Wood has corrupted some of the unicorns and bred them so they are naturally corrupt and opposite the unicorns. The black unicorns take to chaos as they are now born to it.
 
-### **Hounds of the Hunt:**
+### Hounds of the Hunt
 
 The Hounds of the Hunt were once normal dogs until they were brought to the Wood. While there they ate of only the food of Faerie and drank only of its waters. This changed them to have several Fae like traits such as resistance to sleep, charm, and fear effects. They also have the ability to cause others to be paralyzed with fear or fall into a deep slumber.  These hounds are sent out in the Wood and on Tyrra in packs to hunt down those who defile the wood. They are led by the Masters of the Hunt who are captured evil mortals transformed by the Lady of the Forest to hunt their own, a punishment for their misgivings.
 
-## **Those Mortal Races Which Now Reside on Faerie**
+## Those Mortal Races Which Now Reside on Faerie
 
 Just as there were Faerie races that crossed the Veil to Tyrra and now make their home here, so there are mortal races that crossed the Veil to Faerie and now reside there. Most of these races are warriors and live upon Hy Falga where they constantly do battle against each other testing themselves in contests of martial prowess and feats of strength. Though they are much fewer because of the long term effect on the mortal mind there are those who reside on Arcadia for the simple pleasure and love of the beauty of the realm as well. Like several other Tyrran races those who now reside on Faerie have learned the secrets of resisting and breaking charms. Living exposed to the Fae, nearly all of whom can charm with a glance was inspiration for this learning. These races have adapted to living within the magic of Faerie and have become immortal in the same fashion that the Fae are. This long life is actually confusing since mortals do not experience time on Faerie in a strict linear progression as they do on Tyrra, it is actually possible to meet members of these races after they have met you. The members of these races rarely leave Hy Falga other than on heroic quests which are part of their passages to manhood. Oftentimes groups of these races will stumble through a portal and find themselves once more back on Tyrra which causes all sorts of interesting situations. Especially considering the random nature of the portals which may place them anywhere or anywhere on Tyrra.
 
-### **The Fianna:**
+### The Fianna
 
 The Fianna are a group of highland barbarians that crossed over into Faerie without even realizing it. They still do not know that they are not on Tyrra any longer. They are organized in tribes called battalions and governed in military lines. The Fianna are very superstitious, only trusting their own magics and fearing the strange warping of the lands around them. The one benefit the Fianna have is that not long after they came across the Veil, they saved a group of trader folke from a Dullahan. In gratitude seeing how they would need special help to survive on Faerie, the Trader Folke gave the wise man of each of the twenty five battalions of Fianna a magic sack. Each morning every member of each battalion can reach into the sack and will pull out an enchanted item. The item will last for the day and then disappear before the next dawn. With this gift each of the Fianna always has at least one item to aid them in their survival on a strange and inhospitable plane. The sack only works in the hands of the Fianna wise men and if taken will return to their hands by the next dawn. The Fianna hold these sacks as sacred relics and trust the powers of any item which comes from the bag.
 
-### **The Craobh Ruadh:**
+### The Craobh Ruadh
 
 The Craobh Ruadh are an order of knights who dwelt on Tyrra long ago. They were founded soon after one of the minor skirmishes between the Elementals on Tyrra that nearly became a new elemental war but fell short. After seeing the devastation caused by the forces of chaos they founded the Craobh Ruadh which means Red Branch. They are a strict knightly order with a code that makes the code of chivalry look like rules for a four year old. The entire order is made up of families for no member will dilute his purity by marrying outside the order. When they go to battle the warriors lead the way and the families serve as the support troops, healers, and supply captains. Many Generations ago the Craobh Ruadh were in pursuit of the army of great necromancer lords who called themselves the Togail or destroyers. In an attempt to escape the Togail entered a forest thought to be a domain of the Fae and both groups ended up in Faerie on Hy Falga. Here the two groups met in battle and the night after the first engagement a Badba came out to devour the dead. The Craobh Ruadh now knew why they had come to this strange land, it was to battle these evil creatures of death and chaos. The fact that the Badba were scavengers and not undead mattered little to them, they were so disgusted by what they saw they dedicated themselves to wipe the Badba out of existance. The Craobh Ruadh have for some reason seen less time pass than the other mortal races on Faerie and many of the first generation are still alive.
 
-### **The Togail:**
+### The Togail
 
 Togail means 'destroyers' and they are descended from the army of the necromancer lords who the Craobh Ruadh chased to Faerie ages ago. They still follow the teachings of the necromancers. Each member of the Togail no matter what their skills learn to cast necromantic magic to one degree or another. The Togail follow a King they simply call The Necromancer and he or she is the most powerful earth mage of their generation. None of the Togail ever became undead for something about their area of Faerie prevents Formal Magics from working. Any time they have tried, the Formal Magic backlashes and the caster is warped into a monstrosity loosing their head and becoming a Dullahan. The Togail are still at war with the Craobh Ruadh and wish to rule all of Hy Falga before attacking and seizing the mainland of Faerie.
 
-## **THE AFFLICTED**
+## The Afflicted
 
 Many of the afflicted spirits that haunt Tyrra and parts of Arcadia are now or once were creations of greater Fae Afflictions or even in some cases the curse of Kings. The word Banshee for example is a corruption of the name Bane Shide, meaning evil Faerie. Unlike some of the races such as Mystic Wood Elf or Cyclops which were also the result of a curse of Kings, these afflicted are dread spirits which do nothing but carry out the will of the one who afflicted them.
 
-### **Banshee:**
+### Banshee
 
 The Banshee were first formed long ago shortly after the first hostile encounter between the Fae and the mortals of Tyrra. One of the Fae Princes who was loosing a battle against a hosts of men sent a group of Firbolg and Redcaps to destroy the families of the mortals in the hopes that such a loss would shake the warriors confidence and allow him to easily defeat them. The women of their village saw the Redcaps coming and sent the children into hiding and stood up before the host of Fae in order to allow their children to get away. The children escaped but the women were all slaughtered. When the men found this out they did not lose heart as the Prince had hoped, the men went berserk and slaughtered the Fae host, capturing the Prince himself in a Cold Iron cage. The warriors brought him to the remains of their village and set him in front of the bodies of their wives. How can you do such evil said the leader of the men, how can you kill indiscriminately like this. The Prince looked at him and replied I do what I will, but I will return your wives unto all of you in repayment for my defeat. He turned and faced the bodies and said "May ye rise again to complete what was unfinished, may your rest be unsettled and thus may you bring others to your bed." and with that spirits began to rise out of the bodies of the wives and they moaned and screamed and brought all of their husbands to join them in death. Thus were the first Banshees created and though the affliction has weakened over time it still has some force behind it. Now when a woman afflicted by the Fae dies she will return as a Banshee. A Banshee can only be put to rest by removing the affliction left on their spirit before death. If a Banshee is struck down it will simply rise again the next night until put to its proper rest. When a Banshee appears all should beware for it is a dangerous creature, but they should also pay close attention to its words, deeds, and actions for in them is hidden what is required to remove the affliction. For a Banshee, though it can speak, cannot directly communicate to the living and is driven to kill all who it encounters, so it must lead others to put it to rest in subtle long term communications.
 
-### **Earthhaunts:**
+### Earthhaunts
 
 Earthhaunts are the perfect example of a good affliction gone wrong. They were created by the affliction of the Lady of the Forest herself during the first encounters between her forces and those of the Lord of the Haunted Wood. When the Lady saw the devastation caused by the corruption of the Haunted Wood, and the draining of the life force by the chaos, she uttered her curse of Kings. The Lord of the Haunted Wood was young at this point and did not have the power to utter such an affliction so he could not stop her. "May the earth rise up against such horror, when drained let it fight for itself so it may renew." It was not long before she saw the error of her affliction. The result of the affliction was that in areas that had been severely drained by the corruption, a spirit would arise and seek to renew its land with life force. Of course the problem is that it could not make such life force, it had to take it from others who had it, namely the living. The rising of the Earthhaunts as they came to be known actually strengthened the power of the Lord of the Haunted Wood and accelerated his rise to power. When an area is drained Earthhaunts may still rise, their power directly related to the extent of the draining.
 
-### **Master of the Hunt:**
+### Master of the Hunt
 
 Perhaps to make up for the problems she caused by mistakenly creating the Earthhaunts, the Lady of the Forest uses her greater affliction to create Masters of the Hunt. These afflicted individuals are former hunters or miners or others who abused the land by overworking it or using it for sport and not survival. Some of these stumbled into the Wood to do their business and were caught by the guardians of the Wood and brought before the Lady of the Forest. Those she afflicts now run with the Hounds of the Hunt and stop those like themselves from doing harm to the delicate balance of nature. The Masters of the Hunt can afflict others as well, their affliction causes others to join the Hunt as long as the Master lives. If the Master dies it frees all those caught in the Hunt. If the Master lives and brings those he has afflicted back to the Wood with him, they will be judged and turned into Masters of the Hunt by the Lady of the Forest as well. Once one becomes a Master of the Hunt the only route to freedom is resurrection or for others to convince the Lady of the Forest to remove the affliction. Only time or the magic of the Lady can heal a Master of the Hunt.
 
-### **Corrupter:**
+### Corrupter
 
 When the Lord of the Haunted Wood began to spread his corruption outward the spread was slow for many opposed him and he had to corrupt each new individual himself to bring them to his way of life.
 
@@ -384,25 +384,25 @@ However, when he saw the Masters of the Hunt as afflicted creations to aid the L
 
 Corrupters only hope of freedom is for the affliction to be removed or resurrection. Like most other afflicted, only time will heal the Corrupters, though the Lord of the Haunted Wood can heal them with his necromancy as well.
 
-### **Fir Gruadh:**
+### Fir Gruadh
 
 The Fir Gruadh or Grey Man is an afflicted assassin. Few very powerful Fae Lords can utter an affliction of transformation to create a Fir Gruadh. They do so to take vengeance on one who has greatly wronged them. Often the recipient of the affliction will be someone close to the individual to be killed. This makes the death even more painful. A Grey Man will be unrelenting in its assault upon its target, the affliction makes them immune to any physical attacks by its target. Until it kills its target, it will arise again if killed. Once the target resurrects from their hand, the affliction is lifted and the Fir Gruadh is freed.
 
-### **Fir Darig:**
+### Fir Darig
 
 Fir Darig means man of luck and that is indeed what they are. No one is sure what sort of affliction is responsible for the existence of the Fir Darig, though they are definitely afflicted for removing a greater Fae affliction will return them to normal. Around a Fir Darig luck is warped and strange events happen such as furniture falling apart, the same person winning a game of chance repeatedly, a flipped coin always landing on edge, etc. etc. Again it is unsure what the purpose of the affliction upon them is, though it is thought to be of Unseelie origin, perhaps to spread the misery they enjoy giving to others. For some reason, a Fir Darig is also compelled to wear at least one article of clothing which is red.
 
 Again no one knows why.
 
-### **Fir Caille:**
+### Fir Caille
 
 The Fir Caille is the man of wood. They are another afflicted being the result of the Lady of the Forest. In Faerie whenever you strike at a tree to cut it there is a blast of magical energy which is strong enough to kill most people. Due to a curse of Kings on the Wood itself, any who die there from cutting wood will rise again as a Fir Caille. They are compelled to wander the world killing those who cut live trees or damage them in any way. They are only semi intelligent and can't easily be reasoned with, but they can often be tricked. They are strong enough to rip out of any binding magic, incredibly resistant to weapons and somewhat resistant to imprisoning magic. However being made of wood, they are highly susceptible to flame.
 
-## **Fae Marks**
+## Fae Marks
 
 Certain Fae can place a mark upon an individual. This mark can be placed as a punishment or a reward. The mark can be anywhere upon the body but must be put on with makeup each time the player comes into game. If the player is allergic to make up a compromise can be reached. Most Fae will place the mark where it will be seen, on the face, forehead, hands, or arms. Most marks will be a symbol but occasionally it will be a word. The mark follows the rules of the formal magic create mark/destroy mark as listed in the NERO International Formal Magic System. The only two exceptions to this is it will be identifiable as a mark comprised of both earth and celestial magic and the only way to remove a Fae mark is to have a Fae remove it.
 
-## **Fae Foods and Drinks**
+## Fae Foods and Drinks
 
 The consumption of Fae foods and drinks by non Fae cause any one of these effects. Food and drink detect as magical and can be identified but are not poisons for the purpose of the game skill resist poison. All effects are only cure able by a remove affliction unless stated otherwise in the effect. All effects are determined randomly with a 12 sided dice roll:
 
@@ -454,196 +454,196 @@ The consumption of Fae foods and drinks by non Fae cause any one of these effect
 12. Feel extremely guilty about a crime they never committed for one hour.
 
 
-## **Fae Constructs**
+## **Fae **Constructs
 
 Fae constructs are controllable moving constructs made entirely of the essence of Faerie that have some ability to affect the world around them. Due to the nature of magic that is used to create them they are not able to be created via the Formal Magics Create Golem. There are two types of Fae constructs: Faerie Fires, and Phantasmagorias. A Faerie Fire simply protects the creator, it has no ability to deal damage, but acts as an interposing moving object which is unaffected by all physical attacks. A dispel magic will however crumble a Faerie Fire construct. A Phantasmagoria is a construct that appears as any given race but not a specific individual. It has abilities dictated by its statistics in the monster manual and is crumbled by a dispel magic.
 
 Any existing Fae Construct or Create Fae Golem Scroll must be marked LCO by the issuing chapter and expires on 1/1/2013. A 'Fae Duplicate' no longer exists.
 
-## **Fae Magic Items**
+## Fae Magic Items
 
 Fae magics can have odd effects on the world of Tyrra. Quite often these magic items may have some sort of stigma attached to it much akin to the Formal Magic Flaw/Backlash effects (found in the NERO International Formal magic system) or a Fae Affliction. However, please note that these magic items must always conform to the NERO Formal Magic System and Treasure Distribution Policies.
 
 Any existing Fae Magic Items that do not conform to the formal magic system must be marked LCO to the issuing chapter and expires on 1/1/2013.
 
-## **The Aisling**
+## The Aisling
 
 The Aisling is the Fae word for vision or dream. There are many things in Faerie which can rigger mortals to have an Aisling. Aislings are often prophetic in nature showing brief glimpses of the future. Other times Aislings give fairly detailed instructions on a quest or series of quests of importance to the dreamer.
 
-## **Wishes**
+## Wishes
 
 A few of the Fae have the ability to grant wishes. Use of this ability and approval of any particular wish is always at the discretion of the local plot committee and/or the NERO International Office. Faeries must use the standard Formal Magic rules and treasure distribution in order to grant rewards to PCs. Any wishes or favors must be mundane items, formal effects, spirit effects, magical items, or formal magic scrolls and can in no way go against the current rules and errata as per NERO International. Any existing Fae wishes that do not conform to the formal magic rules must be marked LCO to the issuing chapter and expire on 1/1/2013.
 
-## **Fae Curses / Afflictions/ Abilities**
+## Fae Curses / Afflictions/ Abilities
 
 Fae Curses are now called “afflictions” though they may often be referred to as a “curse” , and can be used by any form of magical creature, as determined by Plot. (Some examples of common creatures that can use afflictions are Elemental Icons, Animal Totem Spirits and High Mages.) Afflictions must follow the rules described below. An affliction has no duration and does not use up a formal magic slot on the victim’s spirit. Afflictions can usually be removed by a destroy magic formal spell of either school, but Plot may determine any criteria they wish for removal so long as it is documented ahead of time. Afflictions are applied by at least one full minute of concentration, during which the user must be touching the victim with a spell packet. If the user takes body damage or uses any other game skill, the count is interrupted and that use of his affliction ability is wasted. The user will typically roleplay channeling magical energy or casting a powerful spell during this count, but specific  roleplay requirements may be determined by plot. The amount of time required is also up to plot’s discretion, but may not be shorter than one minute. An affliction may never be delivered by any form of weapon or packet attack except for the above described method of touch casting.  However  the victim may  not  refuse  an affliction like they could a touch-cast battle spell. Also Plot or the NPC must provide the individual they are afflicting with a copy of the description to keep of the specific affliction being put upon them. All of these abilities must be listed and approved on the monsters card before going out and must follow the NERO International 9th Edition rules. For example, older abilities such as “Glamour” are no longer valid and may not be used.
 
-### **Afflictions**
+### Afflictions
 
 There are four types of affliction; lesser, greater, area, and master (or Kings curse). The ability lesser affliction includes remove lesser affliction and greater affliction includes remove greater affliction. Area affliction is considered a subset of greater affliction and can be removed by remove greater affliction or remove area affliction. A master affliction (or Kings curse) is not removable by normal means.
 
-#### **Lesser Afflictions**
+#### Lesser Afflictions
 
 In essence, a lesser affliction is very similar to the gypsy curse and follows under the same rules, guidelines, and restrictions with the exception for the delivery method which is talked about previosuly. Players can make reasonable refusals until a compromise is made. For example, a brownie elder afflicts a player’s face to be blue. The player is allergic to make-up, so the affliction is changed that they must complement everyone they see at least once a day who wears blue garments. Any lesser affliction can be removed by any creature of the same type who has the lesser affliction ability, whether or not they gave the original affliction. Remove lesser affliction cannot be any other kind of affliction, wish or curse. A remove lesser affliction will only remove one specific lesser affliction, not all lesser afflictions upon the individual. All lesser affliction abilities are times per day only. A lesser affliction cannot affect the recipient's skills or combat ability in any way. There are some specific lesser afflictions listed below. These are given out specifically to plot-related Fae. Most lesser afflictions are related specific to certain types of Fae.
 
-##### **Litany Curse (Brownies):**
+##### Litany Curse (Brownies)
 
 This curse causes the player to say a specific phrase at designated periods until removed. The phrase can be up to thirty words of the NPC’s choice (NPC must write it down for the player to use as a cheat sheet). The phrase is keyed off to an event rather than a specific time. You can’t tell the player to say the phrase at 5:30 PM, but you can tell them to say the phrase the first time they see the Regent every day or when the main course of the feast is given to them. Players cannot whisper the phrase, they must say it so at least one person can hear it. The phrase is delivered immediately upon the event that cues the curse. The player only has to say the litany once per time it is triggered.
 
 Incant: “By my wagging tongue, I curse you to say <phrase here and description when>“
 
-##### **Miser’s Curse (Leprechauns):**
+##### Miser’s Curse (Leprechauns)
 
 This curse causes the player to lose a set amount of money every game day to be handed over to logistics until it is removed. If the player turns in money to max out then first the amount of the curse must be removed and not count towards max out. If they hand in enough to cover the loss and the max out they can max out in full.
 
 Incant: “By My Pot of Gold I curse you to lose <amount> a day”
 
-##### **Curse of Spoiling (Gremlins):**
+##### Curse of Spoiling (Gremlins)
 
 This curse spoils a particular food (anything except spices and bread) as they are eating it. It affects no game skills, but role-playing out the struggle to finish a spoiled meal is suggested.
 
 Incant: “By Oberon’s tankard <full plate> may all the <put food type here> you drink <eat> be spoiled”
 
-##### **Curse of the Beholder (Fomoire):**
+##### Curse of the Beholder (Fomoire)
 
 This curse causes the player see at random intervals hallucinations of horrible, nameless monsters in the place of players. Hallucination monsters cannot be specific monsters from the monster database like Troll or Death Knight. They can be described in such a manner as to not confuse the player with other monster types: “Having a thousand tentacles and yellow bile coming out of every orifice,” “Thirty blood red eyes protruding from a tortoise shell and crab legs for feet,” “like an inside-out melon gliding on it’s own puss,” and so on. This effect can take place twice per game day and lasts for five minutes intervals.
 
 Incant: “With the eyes of ancients, I curse you to see the world through a darkened veil.”
 
-##### **Curse of the Masque (Fomoire):**
+##### Curse of the Masque (Fomoire)
 
 This curse places an non-removable “mask” over the cursed’s face. The mask rep must be supplied by the NPC and approved by the safety committee beforehand. The cursed must be able to eat, talk, hear, and breathe easily in the rep and if size is an issue, the player can opt to make a mask with the same features to fit their size. Alternatively this can change appearance in a manner similar to gypsy curse using prosthetic body parts or makeup.
 
 Incant: “To improve upon what nature has made ugly, I curse a masque to hide your face.”
 
-##### **Curse of Inebriation (Clauricaune):**
+##### Curse of Inebriation (Clauricaune)
 
 This curse inebriates the cursed for a given amount of time each game day. The time which it affects the recipient is stated in the curse. No game skills affected.
 
 Incant:  “Each day at <time or event> 'til <time or event>, I curse away all sobriety.”
 
-##### **Curse of Dreaming (Gan-ceann):**
+##### Curse of Dreaming (Gan-ceann)
 
 This curse causes the recipient to fall into a dream of little to no consequence. Most often this curse only lasts for one dream, but certain very strong Fae can cause the recipient of this curse to fall into dreams on repeated occasions.
 
 Incant: "To wile away your hours, I curse you to dream while waking"
 
-##### **Curse of Greed (Dark Goblin Lords):**
+##### Curse of Greed (Dark Goblin Lords)
 
 This curse causes the recipient to be overcome with greed. They will always claim any treasure for themselves and not be willing to share money or jewelry. They will become covetous of others valuables and may plot to steal them if they so choose.
 
 Incant: "By the hoard of the miser, I curse you to desire all riches"
 
-##### **Curse of Disgust:**
+##### Curse of Disgust
 
 This curse causes the recipient to become disgusted by a given object, person, or action. Each time the cursed individual sees the object of his disgust they must role-play intense disgust and physical discomfort over it.
 
 Incant: "Since you offend me, I curse you to be offended by the sight of <item>"
 
-##### **Curse of the Black Thumb (Gnomes):**
+##### Curse of the Black Thumb (Gnomes)
 
 This curse causes the individual to be unable to grow plants of any kind. No matter how skillfully they grow them, no matter how much care they give them plants will sicken and die in their care. Flowers or cut plants will wilt and blacken in their hands. This curse has no effect on vegetable monsters but Dryads will be digested by any who bear this curse.
 
 Incant: "May your toils of the earth be for naught, may your thumb blacken"
 
-### **Greater Afflictions**
+### Greater Afflictions
 
 A greater affliction is not the same as gypsy curse. These are meant to be powerful detriments against a player who has offended a powerful being in some way. Greater afflictions can affect skill usage and combat ability as well as other physical traits of the recipient. These afflictions are pre-approved by a plot committee and staff before they go out. The beings who have the ability to give a greater affliction are rarely limited in what afflictions they may pronounce, but the specific afflictions that a creature is allowed to give for that encounter must be on their monster card and signed by an Owner, Head of Plot, a current Marshal or Staff member. Remove greater affliction can remove lesser afflictions and greater afflictions, but not gypsy curses, or master (Kings curse) affliction. Remove greater affliction will only remove a specific affliction, not all greater afflictions on the individual. All greater affliction abilities are times per day only. Unless noted, these effects cannot be removed by any means except by a remove greater affliction. All incantations must be clearly audible by the target. Below are a list of standard greater afflictions.
 
-##### **Curse of Devotion:**
+##### Curse of Devotion
 
 When cursed, the player cannot inflict harm or allow harm inflicted upon any of the type of Fae who gave them this curse.
 
 Incant: “Through the good graces of the Fae, I curse you to devote yourself to my kind.”
 
-##### **Curse of the Senses:**
+##### Curse of the Senses
 
 This curse will cause sensory overload to the cursed at a random time no more than once per game day. When afflicted by the sensory overload, they will act as if paralyzed for five minutes with no cure. At which time, a plot person with a white headband will be recounting an experience through the five sense they are viewing an occurrence in the Faerie realm through the eyes, ears, etc. of a Fae. After the short descriptive table-top, the person “returns” to their own body and is no longer paralyzed. Incant: “Trading one eye for another, I curse you to experience our realm as we do.”
 
-##### **Curse of the Dance:**
+##### Curse of the Dance
 
 This curse causes the recipient to dance for a given amount of time each day, it can happen at a certain time or a certain event can trigger it. The recipient must dance even if his life is in danger, the urge overwhelms his feet and he looses control, this will prevent them from running.
 
 Incant: "Since you do not appreciate art each day when <time or event> you shall imitate art"
 
-##### **Curse of Bonding:**
+##### Curse of Bonding
 
 This curse bonds the cursing Fae to the cursed. The only way to kill the Fae is to kill both the cursed and the Fae simultaneously to resurrection. The cursed however, gets the lower end of the deal. They can be killed without the Fae’s death alongside and resurrect as normal not like bottled, but the curse is removed upon their resurrection either way. Plot deaths do not count in removing this curse.
 
 Incant: “By the handfasting of the three-who-are-one, I curse you to bond with me.”
 
-##### **Weakling’s Curse:**
+##### Weakling’s Curse
 
 This curse cuts players body points to two-thirds of player’s maximum and causes the individual to be under the effects of a weakness spell (as per page 82 of the NERO international rulebook) neither of these effects can be restored until the curse is removed. This curse is not cumulative.
 
 Incant: “By the might of the elves, I curse you to be a weakling.”
 
-##### **Curse of Insanity:**
+##### Curse of Insanity
 
 This curse causes the player to babble nonsensical words and phrases at random intervals for up to one minute at a time. All of the nonsensical words and phrases are delivered by staff members only. Incant: “By the tongue of the raving mad, I curse you to babble as if crazed.”
 
-##### **Curse of the Shared Voice:**
+##### Curse of the Shared Voice
 
 This curse causes the player’s voice box to be linked to the fey who cursed them. At random intervals, the plot committee will go up to the cursed player and tell them that they are compelled to say word for word in a clear voice something the cursing fey wishes them to say. These can be phrases specific to the circumstances the player is in as the Fae can see and hear what they’re doing. Often the recipient of this curse will not realize what they are saying as they are saying it and will have no memory of saying it afterward.
 
 Incant: “With the mischief of the Dark Goblins, I curse you to speak my mind.”
 
-##### **Curse of the Eavesdropper:**
+##### Curse of the Eavesdropper
 
 This curse causes the player to be linked to the cursing fey in such a way that at certain times the Fae can hear and see what the player hears and sees. The Fae who causes this is a plot controlled NPC, will always go to the player with a white headband on when they are listening and looking in. They must say to the player that they feel as if they’re being watched. Incant: “By the prying nature of the faeries, I curse you to be my eyes and ears.”
 
-##### **Curse of the Weak Stomached:**
+##### Curse of the Weak Stomached
 
 This curse causes the player to be abhorrent to the gruesome tasks necessary in incapacitating and killing others. The player cannot killing blow, maim or break any bones of their opponents.
 
 Incant: “To rid the world of brutality, I curse you to rend no unspeakable wounds.”
 
-##### **Curse of Elvin Cowardice:**
+##### Curse of Elvin Cowardice
 
 This curse on elven and mystic wood elven players causes them to be unable to use their racial ability “resist charm” or “charm break” on Fear based attacks.
 
 Incant: “By the countenance of the Dullahan, I curse you to be afraid of those who instill fear.”
 
-##### **Curse of the Seer:**
+##### Curse of the Seer
 
 Often times consider more of a gift this curse is extremely similar to the Curse of the Eavesdropper with the exception that follows. This curse bounds the player and a specific Fae so that while the recipient or Fae concentrates they can see through each others eyes. This curse is only a visual and not an audible based curse.
 
 Incant: “By our close relationship may our eyes be as one in times of need, I curse you with my vision.”
 
-##### **Curse of Transformation:**
+##### Curse of Transformation
 
 This curse will cause the recipient to transform into another form. The form is determined by the curse as is the time frame of transformation. Some transformations are for certain times and others remain until removed, the latter are extremely regulated and usually not used on PCs. An example of this curse is the Lady of the Forest's ability to turn those who desecrate the wood into Masters of the Hunt. However a periodic transformation would be similar to Lycanthropy but the PC would in general lose control of himself during the time of change. An example of this would be turning into a pig whenever they eat because they disturb a Fae Lord at his meal. This curse is very closely controlled by plot and may only be used with prier approval because it is considered a curse and not a Formal Magic Transformation, so the recipient may posses both this curse and a Transformation.
 
 Incant: "Because of your actions to offend me, I curse you to become a <creature transformed to> for <duration or action which triggers>"
 
-##### **Curse of Deaths Embrace:**
+##### Curse of Deaths Embrace
 
 This curse will cause a specific spell, as determined by plot, to act as a death spell upon the recipient (as per page 18 of the NERO International Formal Magic backlash table). This is a tightly controlled curse.
 
 Incant: “To quicken your demise, may the spells you love so much send you to your death.”
 
-##### **Curse of the Aisling (Gan-ceann):**
+##### Curse of the Aisling (Gan-ceann)
 
 This curse is often considered more of a blessing. It is specific to the Gan-ceann and causes the recipient to have an Aisling or quest-dream. The recipient will be given a dream directly from plot which has direct bearing to IG situations.
 
 Incant: "So your future will be known may the Aisling fall upon you"
 
-##### **Curse of Magic's Wrath (Sidhe):**
+##### Curse of Magic's Wrath (Sidhe)
 
 This curse causes a particular class of spell to do double damage. These are broad categories such as Flame, Ice, Lightning, Necromancy, and Healing. It is only spells that cause double damage, carrier attacks do normal damage. The source of the spell does not matter, it could be cast from memory, scroll, innate, arcane, or in potion form.
 
 Incant: "For the damage you have done to me, <Damage type> shall damage you twofold hence"
 
-##### **Curse of Still Magic (Firbolg):**
+##### Curse of Still Magic (Firbolg)
 
 This curse causes the recipient to be unable to cast a particular spell until a specific action (determined by the NPC or plot) is done. Any spell is possible as the target of this curse. This includes casting from scrolls or items, but not drinking potions. If the spell is reversible the recipient can cast the opposite spell without the designated action.
 
 Incant: "If you would use <spell name> against me, then nevermore shall ye use it"
 
-##### **Area Affliction**
+##### Area Affliction
 
 An area affliction is a special form of greater affliction that instead of affecting an individual affects a structure or parcel of land. A good example of this is a Clauricaune's ability to afflict an area to sobriety. If he is offended a Clauricaune will afflict a tavern or bar to sobriety and any drinks served within will have no intoxicating effect and any intoxicated people who enter will be sober while within, the intoxication will return once they leave.
 
-##### **Master Affliction or Curse of the Kings:**
+##### Master Affliction or Curse of the Kings
 
 Once every year, certain powerful Fae have the capability to create an affliction so powerful, that it would affect an entire race of people or area of Tyrra. The casting of these afflictions are limited to Kings/Queens, Princes/Princesses and the First Knight of each. These afflictions are predetermined by plot and rules committee and have the possibility of going out once every year into game if deemed proper. Some have already been noted in vague passages of local and racial history. These afflictions cannot be removed by any known means though they can be mildly modified by another Master affliction (or Kings curse) as is talked about with the Firbolg . A Master affliction (or Kings curse) can be used as a devastating weapon, however it is limited in that one can be prevented if opposed by another who can utter a Master affliction (or Kings curse). This keeps such powers in check and used infrequently. This is also a very powerful and very rarely used curse for the facts that its duration last for ten years and once a Fae issues his or her Kings Curse that specific Fae may not again utter a Kings curse until such time as their curse is changed by another Kings Curse or the ten years from their last Curse has reached its end
