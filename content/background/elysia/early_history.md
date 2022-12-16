@@ -234,7 +234,36 @@ Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws h
 
 ![/EarlyElysia4.jpg](/EarlyElysia4.jpg)
 
-
+9/16/592
+First recorded appearance of the 'Glumpf a mischievous creature who is full of practical jokes, is naturally skilled in the roguish arts and delights in suprising and confounding others.
+Many citizens of Glavorn are confounded by the Glumpfs trickery and caught in his traps. First sighting of gigantic bee-like creatures with an annoying loud buzz and dangerous
+sting. A citizen is known to have been carried off to their hive and was later rescued. Baron Herbanion Sarossa formally announces the annexing of Stonewood into his
+Barony of Wood Haven.
+Baron Herbanion Sarossa executes Miriya, a beautiful young woman. for the crime of waylaying the Baron.
+Citizens of Glavorn locate the 12 runes, and successfully follow the magical instructions
+to strengthen the rift and banish the evil one.
+9/20/592
+Some of the lost citizens of Stonewood, trapped by the beasts return to the town. Many of their villagers do not return.
+9/25/592
+Baron Herbanion Sarossa sends some citizens back to Glavorn to explain their absence and send word of the needs of Stonewood to the Duke. The wood carvings provided by the wood 'masons' using the special 'stone' wood in this region are highly prized by royalty. It is expected that relief for the village will be provided by the Duke.
+10/2/592 Baron Herbanion Sarossa sets out with remaining citizens to return to Glavorn.
+10/30/592
+Baron Herbanion Sarossa and fellow travelers, still on the road to Glavorn on the eve of Halloween, turn to the old outpost of Death's End for shelter.
+Lack of proper Jack O'Lanterns to keep free roving spirits at bay allows the valley to fill with spectres seeking humans hosts.
+A number of mummies terrorize the town and in their battles with these fearsome
+creatures a cursed medalion falls into the hands of Citizen Crawthorne. This medallion
+10/31/592
+summons undead and soon all are fighting valorously against these fell creatures. At midnight, many adventurers touch freeroving spirits and discover this merges their spirits for a brief period of time. Some acquire skills and spells, others find treasure or work to provide a service for the misplaced ghost. Others run afoul of malevolent beings and wreak mayhem.
+Halloween day, a magician cames to town and trades a map for the cursed medallion.
+A brave contingent follow this map to a mummies' tomb and there do battle most valorously against a fearsome spider, guardian statues and a greater mummy of huge
+power. They are successful and a great treasure recovered. Local Goblins reveal the true origin of the name of the area. Death's End. The valley
+of Death's End ends in a waterfall. Each year, during the day and night of Halloween. this waterfall has the magical ability to restore life, hence the name Death's End. First recorded appearance of the Joll Troll' under the bridges of the outpost. Beware.
+The mage who purchased the cursed medallion uses it to open a portal to recover his son
+and fell beasts enter. Jownspeople battle gloriously against the beasts and are victorious though some have been
+made into undead.
+Baron Herbanion Sarossa takes control of the undead in order to lead them to the end of the Valley for restoration.
+Many receive a small portion of a scroll as a reward for allowing a spirit to have control of their bodies for a brief period. Such spirits name themselves Friends of Felix'.
+Jownspeople complete the scroll shortly before midnight and find it to contain twelve riddles describing the path to some destination.
 
 ![/EarlyElysia5.jpg](/EarlyElysia5.jpg)
 
