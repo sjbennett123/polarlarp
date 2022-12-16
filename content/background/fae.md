@@ -4,15 +4,11 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-
-
-Author: Noah Mason and Clinton Snyder based off the previous works of Dr. Mathew Sims.
-
 The NERO Fae and Cursed handbook was written by Noah Mason and Clinton Snyder based off the previous works of Dr. Mathew Sims for Joseph Valenti. It is intended to be used in conjunction with the NERO Rule Book and the Tyrran Cosmology. Please be sure to read these other books in the NERO LARP game world of Tyrra.
 
-## **The Basics**
+## Introduction
 
-The Faerie are a group of races all originating in a plane which borders directly on the plane of Tyrra and makes numerous direct connections to Tyrra itself. All Fae are immune to sleep and charm, they are all highly susceptible to the touch of cold iron (which are normal weapons)**,** extremely resistant to magic and silver weapons and have no metabalism. All Fae view time as a whole instead of a segmented thing, this unique vision of the past and future makes them all immune to any effects which alter memory. Another thing all of Faerie have in common is the belief that freedom of choice, expression and personal desire are among the paramount matters of existence.
+The Faerie are a group of races all originating in a plane which borders directly on the plane of Tyrra and makes numerous direct connections to Tyrra itself. All Fae are immune to sleep and charm, they are all highly susceptible to the touch of cold iron (which are normal weapons), extremely resistant to magic and silver weapons and have no metabalism. All Fae view time as a whole instead of a segmented thing, this unique vision of the past and future makes them all immune to any effects which alter memory. Another thing all of Faerie have in common is the belief that freedom of choice, expression and personal desire are among the paramount matters of existence.
 
 Legend has it that Fae killed on Tyrra do not suffer the effects of death, that is untrue. However, as extra-planar creatures they will disappear when they reach 0 body and return to their plane without dying. However if a killing blow is delivered or another effect that would cause them to go into their death count they will disappear and return to their home plane to resurrect which is just as damaging to their spirit as a resurrection is to a Tyrran spirit.
 
@@ -22,7 +18,7 @@ The vengeance of a Fae who died on Tyrra is said to be truly spectacular. In add
 
 From their hidden world called Faerie they came in great ships which sailed across the ocean and the Veil of Tyrra which holds Faerie apart from our world. The ships were sailed by the Formoire who stood high among the Fae as observers and explorers. Having seen all there was for them to see in Faerie, within the Wood, and the Haunted Wood, and the vast plains of Tir-Nan-Og, Tir-Tairnigiri, Tir-Samhraidh, and Magh Da Cheo, on the islands Hy Brasil and Hy Falga, in the twists and turns of the Maze of Convolutions and in all the hidden glens and dales and worlds of Fae, they turned their vision outward across the Great Ocean and to other worlds.
 
-Tyrra was just one such world they landed upon, for Faerie visited many worlds, but when they came they brought their ways to Tyrra and changed her for all time to come. Many say that the elves were born of the Fae and grew as children of Tyrra rather than of Tir-Nan-Og. But these are legends and were never founded in fact, they were simply stories of old. 
+Tyrra was just one such world they landed upon, for Faerie visited many worlds, but when they came they brought their ways to Tyrra and changed her for all time to come. Many say that the elves were born of the Fae and grew as children of Tyrra rather than of Tir-Nan-Og. But these are legends and were never founded in fact, they were simply stories of old.
 
 When the Fae had spent some time upon this world they saw the plethora of life that came and would yet come and they chose to remain on this world, in part to see what was to come. Involving themselves in the dealings of mortal man for mortal men amused them and gave them a change from the dealings of their immortality. The Fae, ever frivolous and ever living in the moment, saw the mortals who looked ahead to the future, and the end they saw there, as a completely foreign beast. Like animals in a zoo or trained creatures doing tricks for their amusement, the Fae chose to deal with the mortals of Tyrra. Their kind calls our world Tir-Nam-Beo, which means land of the living. Some of the Fae were so enraptured with Tyrra that they chose to stay and make their homes here. However it was found that if the Fae did not return to Arcadia and bathe in the ambiance of Faerie's magic, they would lose much of themselves and become mortal. Some of the Fae found ways to bind themselves to the life-force of Tyrra in order to continue their normal existence. These are the earthly Fae, the Dryads and Naiads those who have bound themselves to elements of Tyrra to continue their presence indefinitely. Not all of them chose to stay on Tyrra, for the Dryads still abound in the Wood and Naiads in the Great Ocean and rivers of Arcadia, but many now call Tyrra their home. Other races of Fae interbred with mortal races to form new races which were both of Tyrra and Faerie. These new races were mortal but usually maintained some of the traits of their Fae parents. Still other races remained on Tyrra and became mortal, degenerate races with little resemblance to their Fae brethren.
 
@@ -30,7 +26,7 @@ One of the legends of their name is as follows: They were making their way throu
 
 After a time, more and more Fae came to Tyrra. For once the way was found, gates were made which could bring them here without the need to sail across the Great Ocean. Different groups of Fae dealt differently with the peoples they encountered, generally based on how they were treated. Some dealt well and some dealt poorly, some tried to claim power or rulership for themselves.
 
-Oberon and Dymphna claimed Kingship and dominion over Tyrra as if it were simply another area of Faerie to be claimed.  This is when man struck back and thus began the mistrust and hatred between the Fae and the mortals. To this day one can never be sure which way either the Fae or the mortals will go when they meet.
+Oberon and Dymphna claimed Kingship and dominion over Tyrra as if it were simply another area of Faerie to be claimed. This is when man struck back and thus began the mistrust and hatred between the Fae and the mortals. To this day one can never be sure which way either the Fae or the mortals will go when they meet.
 
 ## The Realms of the Fae
 
@@ -126,8 +122,6 @@ The following is a list of the most common types of Fae that exist among each Co
 
 The Fomoire are a race of three eyed humanoids with the third eye in the center of their forehead. Long ago they attempted a coup to rule all of Faerie but were overthrown by the united forces of Fae. Since then the Fomoire have stayed neutral in the politics of Faerie. They retreated into their mountains and moved outward until they came to the Great Ocean. Here they built ships to sail across it and discovered the Veil of Tyrra as well as the Veils leading to other worlds. When it became apparent that they could use their ships to sail to other worlds, they returned to central Faerie and made offers to the other races to give transport. They bargained with the other races trading the transport to new worlds for political favors and items of power. They have learned that overt leadership has more problems than it is worth but to rule and influence from behind the scenes is true power.
 
- 
-
 #### Leprechauns
 
 Of all the Fae, the Leprechauns are the most industrious, always plying a trade and earning gold. Classically they are thought of as shoemakers but they have many craftsman skills. All the money they make is put into their pot of gold which they guard zealously. If captured a Leprechaun may be forced to offer a fraction of his wealth for his freedom, but beware, he'll do anything and everything in his power to get it back. It is not a good idea to get a Leprechaun mad at you because their curse is that of the Miser which causes the recipient to lose money each day - money which finds its way into the Leprechaun's Pot of Gold! If you are lucky enough to find and capture a Leprechaun's pot of gold, count yourself among the luckiest as they are bound to offer you a Fae wish to get it back from you.
@@ -202,29 +196,29 @@ Fae or mortals unless they can find some great gain in it. As watchers and recor
 
 However as messengers, unless bribed they will always twist and pervert the message to try to get some gain for themselves or watch the simple chaos unfold among the mortal world.
 
-### THE SEELIE 
+### The Seelie
 
-#### **Sprites:**
+#### Sprite
 
 Sprites are small Fae women who live for the joy of flight. They have no other purpose in life but to fly. Many believe they are the ultimate in expression of self desire without intentionally harming the desires of another.
 
-#### **Dryads:**
+#### Dryads
 
 Dryads are benevolent wood Fae, both male and female though more commonly female, which live in symbiotic harmony with trees. Each Dryad is linked directly to a tree and if their tree is killed so are they. Dryads have two classifications based on the types of trees they inhabit. Those who inhabit the hardwood are the warriors among them and those who inhabit the softwoods are the mages. The nobility inhabit the rarer trees and have traits common to both the warriors and mages. Dryads being directly linked to the earth are incapable of casting celestial magic except for a few rare members of the nobility who learn it as do mortals. This link to the earth also renders them incapable of casting chaos magics. However, the Lord of the Haunted Wood and his minions the Corrupters can corrupt the Dryads and rot them from within allowing them to cast necromancy and giving them a perverse delight in it. It is thought that certain mortals who possess rare magics can do the same thing. The Dryads normally follow the Lady of the Forest and serve as guardians of the trees. The only way to kill a noble Dryad is to destroy its tree. The nobility system of the Dryads is similar to the Satyrs, but somewhat different. The Tree Lord followed by the Tree Prince and then the Knights. Legend states that within the Tree of Life is the Tree-Emperor, Lord of all the Dryads, but this is just a legend and has no factual evidence.
 
-#### **Treants:**
+#### Treants
 
 Treants are Faerie trees which have an animate life of their own. They resemble humanoid trees and are powerful guardians of the Wood. They serve the Lady of the Forest directly and thus the Seelie Court. Like Dryads they are directly linked to the earth and incapable of casting chaos magics. Also like Dryads the Lord of the Haunted Wood and the Corrupters can reverse this.
 
-#### **Pixies:**
+#### Pixies
 
 Pixies are relatives of Sprites and also live to fly, they have however, learned from the harsh examples of reality and are more active in preserving their rights and desires. Their ability to throw magic storms will convince most Unseelie that there are better victims out in the world.
 
-#### **Pooka:**
+#### Pooka
 
 Pooka are benevolent guardian spirits that take the form of forest animals wreathed in flame, most often a bear, though they can assume the form of any natural creature, to guard or aid an individual or location. Pooka are always concerned with the rights of others and serve the Seelie Court unswervingly. Pooka will most often be seen as guardians to influential members of the Seelie Court, never serving a high office themselves. On occasion Pooka will attach themselves to a mortal at important times in their lives. Whatever a Pooka actually does they will do with an eye toward enjoyment and having fun.
 
-#### **Sidhe:**
+#### Sidhe
 
 The Sidhe are often referred to as High Elves, they are a Fae subtype which closely resembles the elves of Tyrra and are thought to be their progenitors. The Sidhe can be found all across Faerie but are mainly found within the Wood serving the Lady of the Forest. The Sidhe are thought to be one of the primordial Faerie races as they have the most inherent power and the strongest link to the magics of Faerie. Sidhe speak of the concept of the Ambiance of Faerie which is the magic force which make
 
@@ -260,19 +254,19 @@ Much like Changelings Selkies change their physical form. However it is not to a
 
 Dark Pooka are nearly the exact opposite of the Pooka. They will tie themselves to an individual mortal or location and try and disrupt or destroy all life rather than aid it. They achieve a perverse sort of pleasure from causing others to fail. They will often bind themselves to a powerful Unseelie and serve as his bodyguard.
 
-#### **Dark Goblins:**
+#### Dark Goblins
 
 The Dark Goblins are a race that few would have problems calling inherently evil. They are greedy and self-serving and live to bring misery to others. They attack in groups from hiding and kill any they can and steal anything they find. One of their favorite activities is to kidnap new born children and replace them either with goblin children to torment the parents or with Changelings so that they can have Unseelie placed among the mortals. A group of Dark Goblins together can open a gate between the Maze of Convolutions and Tyrra to steal children. Thus when they leave behind a goblin child often it is possible to follow them back to the Maze and try and retrieve the stolen child. If a mortal is fast and smart they may be able to recover the stolen child before it is consumed by the goblins, of course the Maze is full of mortals who tried and failed and have either died within the Maze or are still trapped and wandering its corridors and byways. Similar to the goblinoid races of Tyrra, the Dark Goblins are more clever than they are smart. They may come up with a clever scheme to capture someone, but never consider circumstances, options, or alternatives. This is their greatest failing. Also similar to goblinoids, they breed incredibly quickly, Dark Goblin woman often having a litter of ten Dark Goblins a week. The gestation period of a Dark Goblin is four days and the women are fertile once a week. The children mature in one week, but do not mature to the point they can learn any skills other than weapons until they are one year old, few Dark Goblins live that long though. If a Dark Goblin lives past ten years, he reaches the next stage of maturity and gains some powers of Faerie as well as more skills. At this point he is called a Dark Goblin Lord. There are rumors that a Lord who survives fifty years becomes a Dark Goblin King, but there hasn't been a King seen in the Maze as far as any mortal can recall or has survived to speak of.
 
-#### **Dark Unicorns:**
+#### Dark Unicorns
 
 Though considered magical animals they far surpass the intelligence and magical nature of all other magical creatures from Tyrra. They are long lived but only measure their lives in hundreds of years. They are destroyers of everything good and pure by the use of chaos magics. The Lord of the Haunted Wood was their creator and thus dark unicorns take to destruction as they are now born to it. The creation and corruption that The Lord of the Haunted Wood placed upon them has made them full blooded Fae creatures.
 
-#### **Dead Trees:**
+#### Dead Trees
 
 The Dead Trees are the Haunted Woods equivalent of Treants. They are the guardians of the Haunted Wood and resemble manlike rotting diseased trees. They are not quite as powerful as Treants as the rot of their wood makes them weaker and more susceptible to damage. In addition they have no forces at their command and they are harmed by healing which is a potent weapon in the hands of those who fight corruption. However their touch withers the limbs of those they strike. Dead Trees are a servant to the Lord of the Haunted Wood and hold no power of their own within the Dark Court.
 
-#### **Twig Blights:**
+#### Twig Blights
 
 Twig Blights are tree like creatures of pure evil disposition that have an unending thirst for blood. They are born from seeds found at the center of the Haunted Wood and corrupt everything they touch so as to prevent their victims from escaping until such time as they have had their fill of blood, which coincidentally never occurs.
 
@@ -342,7 +336,7 @@ Unicorns are creatures native to the Wood on Faerie. Thought they are not a Fae 
 
 ### Hounds of the Hunt
 
-The Hounds of the Hunt were once normal dogs until they were brought to the Wood. While there they ate of only the food of Faerie and drank only of its waters. This changed them to have several Fae like traits such as resistance to sleep, charm, and fear effects. They also have the ability to cause others to be paralyzed with fear or fall into a deep slumber.  These hounds are sent out in the Wood and on Tyrra in packs to hunt down those who defile the wood. They are led by the Masters of the Hunt who are captured evil mortals transformed by the Lady of the Forest to hunt their own, a punishment for their misgivings.
+The Hounds of the Hunt were once normal dogs until they were brought to the Wood. While there they ate of only the food of Faerie and drank only of its waters. This changed them to have several Fae like traits such as resistance to sleep, charm, and fear effects. They also have the ability to cause others to be paralyzed with fear or fall into a deep slumber. These hounds are sent out in the Wood and on Tyrra in packs to hunt down those who defile the wood. They are led by the Masters of the Hunt who are captured evil mortals transformed by the Lady of the Forest to hunt their own, a punishment for their misgivings.
 
 ## Those Mortal Races Which Now Reside on Faerie
 
@@ -426,7 +420,7 @@ The consumption of Fae foods and drinks by non Fae cause any one of these effect
 
 10. Remember something greatly important, but forget it immediately after. It’s on the tip of your tongue for at least an hour.
 
-11. Have a great sense of déjà vu for the next hour. 
+11. Have a great sense of déjà vu for the next hour.
 12. Be world-weary with life for one hour.
 
 *Foods*:
@@ -454,7 +448,7 @@ The consumption of Fae foods and drinks by non Fae cause any one of these effect
 12. Feel extremely guilty about a crime they never committed for one hour.
 
 
-## **Fae **Constructs
+## Fae Constructs
 
 Fae constructs are controllable moving constructs made entirely of the essence of Faerie that have some ability to affect the world around them. Due to the nature of magic that is used to create them they are not able to be created via the Formal Magics Create Golem. There are two types of Fae constructs: Faerie Fires, and Phantasmagorias. A Faerie Fire simply protects the creator, it has no ability to deal damage, but acts as an interposing moving object which is unaffected by all physical attacks. A dispel magic will however crumble a Faerie Fire construct. A Phantasmagoria is a construct that appears as any given race but not a specific individual. It has abilities dictated by its statistics in the monster manual and is crumbled by a dispel magic.
 
@@ -476,7 +470,7 @@ A few of the Fae have the ability to grant wishes. Use of this ability and appro
 
 ## Fae Curses / Afflictions/ Abilities
 
-Fae Curses are now called “afflictions” though they may often be referred to as a “curse” , and can be used by any form of magical creature, as determined by Plot. (Some examples of common creatures that can use afflictions are Elemental Icons, Animal Totem Spirits and High Mages.) Afflictions must follow the rules described below. An affliction has no duration and does not use up a formal magic slot on the victim’s spirit. Afflictions can usually be removed by a destroy magic formal spell of either school, but Plot may determine any criteria they wish for removal so long as it is documented ahead of time. Afflictions are applied by at least one full minute of concentration, during which the user must be touching the victim with a spell packet. If the user takes body damage or uses any other game skill, the count is interrupted and that use of his affliction ability is wasted. The user will typically roleplay channeling magical energy or casting a powerful spell during this count, but specific  roleplay requirements may be determined by plot. The amount of time required is also up to plot’s discretion, but may not be shorter than one minute. An affliction may never be delivered by any form of weapon or packet attack except for the above described method of touch casting.  However  the victim may  not  refuse  an affliction like they could a touch-cast battle spell. Also Plot or the NPC must provide the individual they are afflicting with a copy of the description to keep of the specific affliction being put upon them. All of these abilities must be listed and approved on the monsters card before going out and must follow the NERO International 9th Edition rules. For example, older abilities such as “Glamour” are no longer valid and may not be used.
+Fae Curses are now called “afflictions” though they may often be referred to as a “curse” , and can be used by any form of magical creature, as determined by Plot. (Some examples of common creatures that can use afflictions are Elemental Icons, Animal Totem Spirits and High Mages.) Afflictions must follow the rules described below. An affliction has no duration and does not use up a formal magic slot on the victim’s spirit. Afflictions can usually be removed by a destroy magic formal spell of either school, but Plot may determine any criteria they wish for removal so long as it is documented ahead of time. Afflictions are applied by at least one full minute of concentration, during which the user must be touching the victim with a spell packet. If the user takes body damage or uses any other game skill, the count is interrupted and that use of his affliction ability is wasted. The user will typically roleplay channeling magical energy or casting a powerful spell during this count, but specific roleplay requirements may be determined by plot. The amount of time required is also up to plot’s discretion, but may not be shorter than one minute. An affliction may never be delivered by any form of weapon or packet attack except for the above described method of touch casting. However the victim may not refuse an affliction like they could a touch-cast battle spell. Also Plot or the NPC must provide the individual they are afflicting with a copy of the description to keep of the specific affliction being put upon them. All of these abilities must be listed and approved on the monsters card before going out and must follow the NERO International 9th Edition rules. For example, older abilities such as “Glamour” are no longer valid and may not be used.
 
 ### Afflictions
 
@@ -520,7 +514,7 @@ Incant: “To improve upon what nature has made ugly, I curse a masque to hide y
 
 This curse inebriates the cursed for a given amount of time each game day. The time which it affects the recipient is stated in the curse. No game skills affected.
 
-Incant:  “Each day at <time or event> 'til <time or event>, I curse away all sobriety.”
+Incant: “Each day at <time or event> 'til <time or event>, I curse away all sobriety.”
 
 ##### Curse of Dreaming (Gan-ceann)
 
