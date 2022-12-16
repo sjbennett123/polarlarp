@@ -6,36 +6,41 @@ draft: false
 
 ## The History of Elysia, Wood Haven and Glavorn
 
-This history of our lands has been prepared by Lady Willisa Entmoor who has volunteered to serve as the Historian of the Duchy. Any items of note, additions or corrections should be directed to her. She encourages all citizens to keep record of such things in order to preserve our heritage
+This history of our lands has been prepared by Lady Willisa Entmoor who has volunteered to serve as the Historian of the Duchy. Any items of note, additions or corrections should be directed to her. She encourages all citizens to keep record of such things in order to preserve our heritage.
 
 ## 384 
 
-Richard Endarr is named King of Evendarr. King Richard is angered by slavery in the Duchy of Niman.
+- Richard Endarr is named King of Evendarr. King Richard is angered by slavery in the Duchy of Niman.
+
 
 ## 589
 
- King Richard opens the lands ,West of Volta and North of Niman for exploration. 
+-  King Richard opens the lands ,West of Volta and North of Niman for exploration. 
+
 
 ## 590
 
-Gold is discovered in the plains of Hardran.
+- Gold is discovered in the plains of Hardran.
 
-590
-The Duchies of Niman and Volta compete for access to the gold fields.
+
+- The Duchies of Niman and Volta compete for access to the gold fields.
 
 ## 591 
 
 ### 5/591 
 
-King Richard declares the new lands bordered by Niman and Volta to be the Duchy of Elysia. The Dukes of Niman and Volta formally protest and submit requests to annex the Duchy of Elysia as part of their own holdings. King Richard refuses.
+- King Richard declares the new lands bordered by Niman and Volta to be the Duchy of Elysia. The Dukes of Niman and Volta formally protest and submit requests to annex the Duchy of Elysia as part of their own holdings. King Richard refuses.
+
 
 ### 9/591 
 
-An outpost is erected by the King's men to serve as a waystation for workers and goods passing to and from the gold fields. This outpost consists of a barracks and tavern,
+- An outpost is erected by the King's men to serve as a waystation for workers and goods passing to and from the gold fields. This outpost consists of a barracks and tavern,
+
 
 ### 10/591 
 
-Jabby the Innkeeper arrives to run the tavern.
+- Jabby the Innkeeper arrives to run the tavern.
+
 
 ## 592 
 
@@ -50,7 +55,7 @@ Jabby the Innkeeper arrives to run the tavern.
 
 - First appearance of notorious mage Zipper who, in the company of a fighter named Dirk, charm the Duke and attempt to overrun the town. Dirk is killed and Zipper escapes. It is rumored that both were agents of Niman. 
 
-- First recorded encounter with a creature called a Melf. Prized for its pelt which can be shorn without harm, these creatures have a paranola spell to protect them from close approach.
+- First recorded encounter with a creature called a Melf. Prized for its pelt which can be shorn without harm, these creatures have a paranoia spell to protect them from close approach.
 
 ### 2/02/592
 
@@ -180,92 +185,93 @@ Other adventurers report that an Eye of the Ettin was retrieved at great effort 
 
 ### 6/8/592
 
-Many reports of sightings of the infamous Ex-Knight Xavier abrogio and his resurrected accomplice Exodus are received.
-Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws himself at the mercy of the Knighthood,
+- Many reports of sightings of the infamous Ex-Knight Xavier abrogio and his resurrected accomplice Exodus are received.
+- Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws himself at the mercy of the Knighthood,
 
 ![/EarlyElysia3.jpg](/EarlyElysia3.jpg)
 
 ### 4/24/592 
 
-Duke Azeroth Dragonheart and the Tord Chancelor Thermo travel with a group of citizens to Ravenholt in the Duchy of Ravenhurst. They are received with honors and meet with Duke Basil Ravenhurst. Expressions of mutual respect are exchanged and pubile disapproval is voiced over the practice of davery in Niman. No treaties were signed.
+- Duke Azeroth Dragonheart and the Tord Chancelor Thermo travel with a group of citizens to Ravenholt in the Duchy of Ravenhurst. They are received with honors and meet with Duke Basil Ravenhurst. Expressions of mutual respect are exchanged and pubile disapproval is voiced over the practice of davery in Niman. No treaties were signed.
 
 ### 5/10/592
 
-A medusa is found to have ravaged a small village outside of Glaworn and is defeated by valorous members of the town.
-A mysterious spirit in a lake yields a magic whistle to determined adventurers. The whistle is found to have sinister properties making it unsuitable for use and is placed in to the hands of those able to dispose of it in the proper manner.
-Lord Jalerak Hambrom accepts Osondrea Jamarantha as a Squire in the Knighthood. Lord Jalerak Hambrom promotes Squires Kale Stormblade and Xavier abragio to
-full Knighthood.
-Lord Baron Herbanion Sarossa places a bounty on the head of the mage Zipper. Tady Wills and Walter Dragonheart secretly exhume and raise the goblins sain in the
+- A medusa is found to have ravaged a small village outside of Glaworn and is defeated by valorous members of the town.
+- A mysterious spirit in a lake yields a magic whistle to determined adventurers. The whistle is found to have sinister properties making it unsuitable for use and is placed in to the hands of those able to dispose of it in the proper manner.
+- Lord Jalerak Hambrom accepts Osondrea Jamarantha as a Squire in the Knighthood. Lord Jalerak Hambrom promotes Squires Kale Stormblade and Xavier abragio to
+- full Knighthood.
+- Lord Baron Herbanion Sarossa places a bounty on the head of the mage Zipper. Tady Wills and Walter Dragonheart secretly exhume and raise the goblins sain in the
 
 ### 5/15/592
 
-Olde Griff Anne to save the broken treaty with the Tribe of the Tree. A conspiracy to take over the town of Glavorn is hatched by renegade Knight Xavier labragio. Known accomplices include Squire Bannor Van Deathdealer and
-These joined forces with the notorious mage Zipper and his band of minions,
-Exodus.
-Xavier Tabragio days Igdy Willis Entermoor and Journeyman Healer Roswell in the Healing Guilde, steals the staff of resurrection and the key to the magically locked
-Guilde to hide the crime.. Greater undead attack Glavorn and are barely defeated. Thermo Lord Chancelor is
-dain.
-More attacks of the Jaefonbeaste are reported. Rumors that some spells are able to
-damage it circulate but detalls are not clear. Xavier ghragio is captured and stripped of his Knighthood by Tord Jalorek
-Hambrom,
-The staff of resurrection is recovered and the dead restored to life.
+- Olde Griff Anne to save the broken treaty with the Tribe of the Tree. A conspiracy to take over the town of Glavorn is hatched by renegade Knight Xavier labragio. Known accomplices include Squire Bannor Van Deathdealer and
+- These joined forces with the notorious mage Zipper and his band of minions,
+- Exodus.
+- Xavier Tabragio days Igdy Willis Entermoor and Journeyman Healer Roswell in the Healing Guilde, steals the staff of resurrection and the key to the magically locked
+- Guilde to hide the crime.. Greater undead attack Glavorn and are barely defeated. Thermo Lord Chancelor is
+- dain.
+- More attacks of the Jaefonbeaste are reported. Rumors that some spells are able to
+- damage it circulate but detalls are not clear. Xavier ghragio is captured and stripped of his Knighthood by Tord Jalorek
+- Hambrom,
+- The staff of resurrection is recovered and the dead restored to life.
 
 ### 5/15/592
 
-Xavier geragio is placed on trial and midway through the proceedings, escapes with the aid of Exodus who dies defending him,
-A reward is posted by the Baron for the capture of Xavier Tabragio, Walter Dragonheart orders the body of Exodus destroyed and refuses the spirit service
-In the Glavorn Healing Guilde. Tady Willis agrees.
-Jord Baron Herbanion Sarossa Increases the bounty on the head of the mage Zipper and his accomplices.
+- Xavier geragio is placed on trial and midway through the proceedings, escapes with the aid of Exodus who dies defending him,
+- A reward is posted by the Baron for the capture of Xavier Tabragio, Walter Dragonheart orders the body of Exodus destroyed and refuses the spirit service
+- In the Glavorn Healing Guilde. Tady Willis agrees.
+- Jord Baron Herbanion Sarossa Increases the bounty on the head of the mage Zipper and his accomplices.
 
 ### 5/16/592
 
-Walter Dragonheart leaves Glavorn on sabbatical and places the Earth Scholar Spell Books in the care of Jody Willis Entemoor, Baron Herbanion Sarossa appoints the Half-Ogre Thorin Hillmover to the position of
-Sheriff of Glavorn and the Barony of Wood Haven. Baron Herbanion Sarossa appoints the citizen Ranses to be Prosecuter of Criminals for the town of Glavorn and the Barony of Wood Haven, Baron Herbanton Sarossa appoints Squire Mordrik the Half-Ore to be Puble Defender of the Accused for the town of Glavorn and the Barony of Wood Haven, Adventurers working to tame the lands surrounding Glavorn face off with a werewolf
-and his pack.
+- Walter Dragonheart leaves Glavorn on sabbatical and places the Earth Scholar Spell Books in the care of Jody Willis Entemoor, Baron Herbanion Sarossa appoints the Half-Ogre Thorin Hillmover to the position of
+- Sheriff of Glavorn and the Barony of Wood Haven. Baron Herbanion Sarossa appoints the citizen Ranses to be Prosecuter of Criminals for the town of Glavorn and the Barony of Wood Haven, Baron Herbanton Sarossa appoints Squire Mordrik the Half-Ore to be Puble Defender of the Accused for the town of Glavorn and the Barony of Wood Haven, Adventurers working to tame the lands surrounding Glavorn face off with a werewolf and his pack.
 
 ### 6/6/592
 
-Other adventurers report that an Eye of the Ettin was retrieved at great effort for Walter Dragonhearts' alchemy studies,
+- Other adventurers report that an Eye of the Ettin was retrieved at great effort for Walter Dragonhearts' alchemy studies,
 
 ### 6/8/592
 
-Many reports of sightings of the infamous Ex-Knight Xavier abrogio and his resurrected accomplice Exodus are received.
-Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws himself at the mercy of the Knighthood,
+- Many reports of sightings of the infamous Ex-Knight Xavier abrogio and his resurrected accomplice Exodus are received.
+- Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws himself at the mercy of the Knighthood,
 
 ![/EarlyElysia4.jpg](/EarlyElysia4.jpg)
 
-9/16/592
-First recorded appearance of the 'Glumpf a mischievous creature who is full of practical jokes, is naturally skilled in the roguish arts and delights in suprising and confounding others.
-Many citizens of Glavorn are confounded by the Glumpfs trickery and caught in his traps. First sighting of gigantic bee-like creatures with an annoying loud buzz and dangerous
-sting. A citizen is known to have been carried off to their hive and was later rescued. Baron Herbanion Sarossa formally announces the annexing of Stonewood into his
-Barony of Wood Haven.
-Baron Herbanion Sarossa executes Miriya, a beautiful young woman. for the crime of waylaying the Baron.
-Citizens of Glavorn locate the 12 runes, and successfully follow the magical instructions
-to strengthen the rift and banish the evil one.
-9/20/592
-Some of the lost citizens of Stonewood, trapped by the beasts return to the town. Many of their villagers do not return.
-9/25/592
-Baron Herbanion Sarossa sends some citizens back to Glavorn to explain their absence and send word of the needs of Stonewood to the Duke. The wood carvings provided by the wood 'masons' using the special 'stone' wood in this region are highly prized by royalty. It is expected that relief for the village will be provided by the Duke.
-10/2/592 Baron Herbanion Sarossa sets out with remaining citizens to return to Glavorn.
-10/30/592
-Baron Herbanion Sarossa and fellow travelers, still on the road to Glavorn on the eve of Halloween, turn to the old outpost of Death's End for shelter.
-Lack of proper Jack O'Lanterns to keep free roving spirits at bay allows the valley to fill with spectres seeking humans hosts.
-A number of mummies terrorize the town and in their battles with these fearsome
-creatures a cursed medalion falls into the hands of Citizen Crawthorne. This medallion
-10/31/592
-summons undead and soon all are fighting valorously against these fell creatures. At midnight, many adventurers touch freeroving spirits and discover this merges their spirits for a brief period of time. Some acquire skills and spells, others find treasure or work to provide a service for the misplaced ghost. Others run afoul of malevolent beings and wreak mayhem.
-Halloween day, a magician cames to town and trades a map for the cursed medallion.
-A brave contingent follow this map to a mummies' tomb and there do battle most valorously against a fearsome spider, guardian statues and a greater mummy of huge
-power. They are successful and a great treasure recovered. Local Goblins reveal the true origin of the name of the area. Death's End. The valley
-of Death's End ends in a waterfall. Each year, during the day and night of Halloween. this waterfall has the magical ability to restore life, hence the name Death's End. First recorded appearance of the Joll Troll' under the bridges of the outpost. Beware.
-The mage who purchased the cursed medallion uses it to open a portal to recover his son
-and fell beasts enter. Jownspeople battle gloriously against the beasts and are victorious though some have been
-made into undead.
-Baron Herbanion Sarossa takes control of the undead in order to lead them to the end of the Valley for restoration.
-Many receive a small portion of a scroll as a reward for allowing a spirit to have control of their bodies for a brief period. Such spirits name themselves Friends of Felix'.
-Jownspeople complete the scroll shortly before midnight and find it to contain twelve riddles describing the path to some destination.
+### 9/16/592
+
+- First recorded appearance of the 'Glumpf a mischievous creature who is full of practical jokes, is naturally skilled in the roguish arts and delights in suprising and confounding others.
+- Many citizens of Glavorn are confounded by the Glumpfs trickery and caught in his traps. First sighting of gigantic bee-like creatures with an annoying loud buzz and dangerous sting. A citizen is known to have been carried off to their hive and was later rescued. Baron Herbanion Sarossa formally announces the annexing of Stonewood into his Barony of Wood Haven.
+- Baron Herbanion Sarossa executes Miriya, a beautiful young woman. for the crime of waylaying the Baron.
+- Citizens of Glavorn locate the 12 runes, and successfully follow the magical instructions to strengthen the rift and banish the evil one.
+
+### 9/20/592
+
+- Some of the lost citizens of Stonewood, trapped by the beasts return to the town. Many of their villagers do not return.
+
+### 9/25/592
+
+- Baron Herbanion Sarossa sends some citizens back to Glavorn to explain their absence and send word of the needs of Stonewood to the Duke. The wood carvings provided by the wood 'masons' using the special 'stone' wood in this region are highly prized by royalty. It is expected that relief for the village will be provided by the Duke.
+
+### 10/2/592 
+
+- Baron Herbanion Sarossa sets out with remaining citizens to return to Glavorn.
+
+### 10/30/592
+
+- Baron Herbanion Sarossa and fellow travelers, still on the road to Glavorn on the eve of Halloween, turn to the old outpost of Death's End for shelter.
+- Lack of proper Jack O'Lanterns to keep free roving spirits at bay allows the valley to fill with spectres seeking humans hosts.
+- A number of mummies terrorize the town and in their battles with these fearsome creatures a cursed medalion falls into the hands of Citizen Crawthorne. This medallion summons undead and soon all are fighting valorously against these fell creatures. At midnight, many adventurers touch freeroving spirits and discover this merges their spirits for a brief period of time. Some acquire skills and spells, others find treasure or work to provide a service for the misplaced ghost. Others run afoul of malevolent beings and wreak mayhem.
+- Halloween day, a magician cames to town and trades a map for the cursed medallion.
+- A brave contingent follow this map to a mummies' tomb and there do battle most valorously against a fearsome spider, guardian statues and a greater mummy of huge power. They are successful and a great treasure recovered. Local Goblins reveal the true origin of the name of the area. Death's End. The valley of Death's End ends in a waterfall. Each year, during the day and night of Halloween. this waterfall has the magical ability to restore life, hence the name Death's End. First recorded appearance of the Joll Troll' under the bridges of the outpost. Beware.
+- The mage who purchased the cursed medallion uses it to open a portal to recover his son and fell beasts enter. Townspeople battle gloriously against the beasts and are victorious though some have been made into undead.
+  Baron Herbanion Sarossa takes control of the undead in order to lead them to the end of the Valley for restoration.
+- Many receive a small portion of a scroll as a reward for allowing a spirit to have control of their bodies for a brief period. Such spirits name themselves Friends of Felix'.
+- Townspeople complete the scroll shortly before midnight and find it to contain twelve riddles describing the path to some destination.
 
 ![/EarlyElysia5.jpg](/EarlyElysia5.jpg)
+
+---
 
 https://chromeready.com/9049/use-ocr-text-tool-google-lens-desktop/
 
