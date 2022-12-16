@@ -134,11 +134,103 @@ Goblins form a new treaty with local ogres and attack Glavorn in broad daylight.
 
 ![/EarlyElysia2.jpg](/EarlyElysia2.jpg)
 
+### 4/24/592
 
+Duke Azeroth Dragonheart and the Tord Chancelor Thermo travel with a group of citizens to Ravenholt in the Duchy of Ravenhurst. They are received with honors and meet with Duke Basil Ravenhurst. Expressions of mutual respect are exchanged and pubile disapproval is voiced over the practice of davery in Niman. No treaties were signed.
+
+### 5/10/592
+
+A medusa is found to have ravaged a small village outside of Glaworn and is defeated by valorous members of the town.
+A mysterious spirit in a lake yields a magic whistle to determined adventurers. The whistle is found to have sinister properties making it unsuitable for use and is placed in to the hands of those able to dispose of it in the proper manner.
+Lord Jalerak Hambrom accepts Osondrea Jamarantha as a Squire in the Knighthood. Lord Jalerak Hambrom promotes Squires Kale Stormblade and Xavier abragio to
+full Knighthood.
+Lord Baron Herbanion Sarossa places a bounty on the head of the mage Zipper. Tady Wills and Walter Dragonheart secretly exhume and raise the goblins sain in the
+
+### 5/15/592
+
+Olde Griff Anne to save the broken treaty with the Tribe of the Tree. A conspiracy to take over the town of Glavorn is hatched by renegade Knight Xavier labragio. Known accomplices include Squire Bannor Van Deathdealer and
+These joined forces with the notorious mage Zipper and his band of minions,
+Exodus.
+Xavier Tabragio days Igdy Willis Entermoor and Journeyman Healer Roswell in the Healing Guilde, steals the staff of resurrection and the key to the magically locked
+Guilde to hide the crime.. Greater undead attack Glavorn and are barely defeated. Thermo Lord Chancelor is
+dain.
+More attacks of the Jaefonbeaste are reported. Rumors that some spells are able to
+damage it circulate but detalls are not clear. Xavier ghragio is captured and stripped of his Knighthood by Tord Jalorek
+Hambrom,
+The staff of resurrection is recovered and the dead restored to life.
+
+### 5/15/592
+
+Xavier geragio is placed on trial and midway through the proceedings, escapes with the aid of Exodus who dies defending him,
+A reward is posted by the Baron for the capture of Xavier Tabragio, Walter Dragonheart orders the body of Exodus destroyed and refuses the spirit service
+In the Glavorn Healing Guilde. Tady Willis agrees.
+Jord Baron Herbanion Sarossa Increases the bounty on the head of the mage Zipper and his accomplices.
+
+### 5/16/592
+
+Walter Dragonheart leaves Glavorn on sabbatical and places the Earth Scholar Spell Books in the care of Jody Willis Entemoor, Baron Herbanion Sarossa appoints the Half-Ogre Thorin Hillmover to the position of
+Sheriff of Glavorn and the Barony of Wood Haven. Baron Herbanion Sarossa appoints the citizen Ranses to be Prosecuter of Criminals for
+the town of Glavorn and the Barony of Wood Haven, Baron Herbanton Sarossa appoints Squire Mordrik the Half-Ore to be Puble
+Defender of the Accused for the town of Glavorn and the Barony of Wood Haven, Adventurers working to tame the lands surrounding Glavorn face off with a werewolf
+and his pack.
+
+### 6/6/592
+
+Other adventurers report that an Eye of the Ettin was retrieved at great effort for Walter Dragonhearts' alchemy studies,
+
+### 6/8/592
+
+Many reports of sightings of the infamous Ex-Knight Xavier abrogio and his resurrected accomplice Exodus are received.
+Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws himself at the mercy of the Knighthood,
 
 ![/EarlyElysia3.jpg](/EarlyElysia3.jpg)
 
+### 4/24/592 
 
+Duke Azeroth Dragonheart and the Tord Chancelor Thermo travel with a group of citizens to Ravenholt in the Duchy of Ravenhurst. They are received with honors and meet with Duke Basil Ravenhurst. Expressions of mutual respect are exchanged and pubile disapproval is voiced over the practice of davery in Niman. No treaties were signed.
+
+### 5/10/592
+
+A medusa is found to have ravaged a small village outside of Glaworn and is defeated by valorous members of the town.
+A mysterious spirit in a lake yields a magic whistle to determined adventurers. The whistle is found to have sinister properties making it unsuitable for use and is placed in to the hands of those able to dispose of it in the proper manner.
+Lord Jalerak Hambrom accepts Osondrea Jamarantha as a Squire in the Knighthood. Lord Jalerak Hambrom promotes Squires Kale Stormblade and Xavier abragio to
+full Knighthood.
+Lord Baron Herbanion Sarossa places a bounty on the head of the mage Zipper. Tady Wills and Walter Dragonheart secretly exhume and raise the goblins sain in the
+
+### 5/15/592
+
+Olde Griff Anne to save the broken treaty with the Tribe of the Tree. A conspiracy to take over the town of Glavorn is hatched by renegade Knight Xavier labragio. Known accomplices include Squire Bannor Van Deathdealer and
+These joined forces with the notorious mage Zipper and his band of minions,
+Exodus.
+Xavier Tabragio days Igdy Willis Entermoor and Journeyman Healer Roswell in the Healing Guilde, steals the staff of resurrection and the key to the magically locked
+Guilde to hide the crime.. Greater undead attack Glavorn and are barely defeated. Thermo Lord Chancelor is
+dain.
+More attacks of the Jaefonbeaste are reported. Rumors that some spells are able to
+damage it circulate but detalls are not clear. Xavier ghragio is captured and stripped of his Knighthood by Tord Jalorek
+Hambrom,
+The staff of resurrection is recovered and the dead restored to life.
+
+### 5/15/592
+
+Xavier geragio is placed on trial and midway through the proceedings, escapes with the aid of Exodus who dies defending him,
+A reward is posted by the Baron for the capture of Xavier Tabragio, Walter Dragonheart orders the body of Exodus destroyed and refuses the spirit service
+In the Glavorn Healing Guilde. Tady Willis agrees.
+Jord Baron Herbanion Sarossa Increases the bounty on the head of the mage Zipper and his accomplices.
+
+### 5/16/592
+
+Walter Dragonheart leaves Glavorn on sabbatical and places the Earth Scholar Spell Books in the care of Jody Willis Entemoor, Baron Herbanion Sarossa appoints the Half-Ogre Thorin Hillmover to the position of
+Sheriff of Glavorn and the Barony of Wood Haven. Baron Herbanion Sarossa appoints the citizen Ranses to be Prosecuter of Criminals for the town of Glavorn and the Barony of Wood Haven, Baron Herbanton Sarossa appoints Squire Mordrik the Half-Ore to be Puble Defender of the Accused for the town of Glavorn and the Barony of Wood Haven, Adventurers working to tame the lands surrounding Glavorn face off with a werewolf
+and his pack.
+
+### 6/6/592
+
+Other adventurers report that an Eye of the Ettin was retrieved at great effort for Walter Dragonhearts' alchemy studies,
+
+### 6/8/592
+
+Many reports of sightings of the infamous Ex-Knight Xavier abrogio and his resurrected accomplice Exodus are received.
+Squire Bannor Dan Deathdealer repents of his role in the conspiracy and throws himself at the mercy of the Knighthood,
 
 ![/EarlyElysia4.jpg](/EarlyElysia4.jpg)
 
@@ -147,3 +239,9 @@ Goblins form a new treaty with local ogres and attack Glavorn in broad daylight.
 ![/EarlyElysia5.jpg](/EarlyElysia5.jpg)
 
 https://chromeready.com/9049/use-ocr-text-tool-google-lens-desktop/
+
+right click image-- search with google 
+
+click text 
+
+copy all text 
