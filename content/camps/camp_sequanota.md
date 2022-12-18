@@ -164,7 +164,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Website**: [somersethospital.com](https://somersethospital.com)
 - **Hours**: 24h
 - **Distance from Camp**: closest, around 23 minute drive
-- **Google Maps**: 
+- **Google Maps**: https://goo.gl/maps/NU3ukhc8tjs1KdMn7
 
 
 #### Conemaugh Memorial Hospital 
@@ -173,7 +173,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Phone**: (814) 534-9000
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
-- **Google Maps**: 
+- **Google Maps**:  https://goo.gl/maps/J8VmCzYLJLpSYdTbA
 
 ### Urgent Care
 The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 

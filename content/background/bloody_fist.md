@@ -4,8 +4,6 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-## The History of the Bloody Fist
-
 ![/bloodyfist.svg](/bloodyfist.svg)
 
 
@@ -19,39 +17,31 @@ Surrender is NOT an option for the Bloody Fist. If they are to die it will be in
 
 They CAN be settled with on terms but they would be very one sided and demand 20 years of suffering for Stonewood if they were to accept. Plus the deaths of all nobility responsible in the previous war.
 
-
-
 ---
 
 They are not above capturing PCs and taking prisoners. Some Bloody Fist NPCs will be given specific targets to capture certain PCs or NPCs in town they players can defend. Most captured NPCs are killed brutally unless it is a plot hook. PCs will be “held in a prison” until they are able to be rescued or the player choose to persue the Bloody Fist and raid a camp with a follow up module but these are NOT easy to assault a Bloody Fist encampment. The camps normally have casters and soldiers on standby awaiting a returning Raiding party. The Earth Casters of the Bloody Fist love to raise the dead of the PCs and important NPCs as Undead and send them into town to attack for the sheer horror, a cruel payback tactic of the humiliation they face in the last war
 
 ---
 
-Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. that shortness of temper and lack of patience. That is what being an orc is like.
-You just can't think and it makes you furious that others can. Always have a chip on your sholder.
+---
 
- \- Scowl
- \- cut people off when they are talking
- \- Revel in making people uncomfortable
 
-Speaking as an orc - Gruff
-
-Because of that fury and lack of restraint the resentment that others have is often well founded but it is still resentment.  
-
-\---
-
-Before every meal the orcs will give an offering to thier fallen brothers by pouring one out at the banner of the fist.
-The banner of the fist is consecrated with the blood of the orcs that bear it into battle
-
-\--
+---
+## Orc Smalltalk
 orc stories around the campfire
+
 orc songs - like rugby songs
+
 the orcs that we see have been conscripted they have family back home they will talk about them.
 
 Gossip about the generals. Opinions and hte like
+
 Gossip about other missions.
+
 furstration with poor leadership that quickly gets squashed. (maybe have an incompetent general)
+
 stories of success and plunder.
+
 orc traitors
 
 ---
@@ -75,7 +65,7 @@ A few moons ago, a Shadowy Elf in Black Robes descended from the night sky befor
 
 ##   The Taking of Stonewood
 
-The Accords of the Fist
+### The Accords of the Fist
 
 ![accords_of_the_fist.jpg](/accords_of_the_fist.jpg)
 
@@ -85,15 +75,19 @@ The Accords of the Fist
 
 # Lore
 
-##   Casters always travel in pairs
+##   Casters Always Travel in Pairs
 
-##   The banner of the fist
+##   The Banner of the Fist
 
 # Special Rules
 
 ## The Banner of the Bloody Fist
 
 ![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
+
+The banner of the fist is consecrated with the blood of the orcs that bear it into battle
+
+Before every meal the orcs will give an offering to thier fallen brothers by pouring one out at the banner of the fist.
 
 When they enter the battlefield, they carry a banner of the Blood Fist and plant it before rushing into battle. If they fight within 10 ft of the Banner they receive the Blessing of the Bloody Fist. The Blessing is as follows:
 
@@ -107,17 +101,28 @@ The Bloody Fist defend the Banner fiercely and not be drawn away easily unless p
 
 A 
 
+
+
 ##   Fear of the Black Shadow
 
 # NPCing Advice
 
 ##   Orc name List
 
-orc_name_list.pdf
-
 [/orc_name_list.pdf](/orc_name_list.pdf)
 
 ##   Ferocity
+
+Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. that shortness of temper and lack of patience. That is what being an orc is like.
+You just can't think and it makes you furious that others can. Always have a chip on your sholder.
+
+ \- Scowl
+ \- cut people off when they are talking
+ \- Revel in making people uncomfortable
+
+Speaking as an orc - Gruff
+
+Because of that fury and lack of restraint the resentment that others have is often well founded but it is still resentment.  
 
 ​    Remember to roar
 
@@ -134,8 +139,6 @@ https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0
 Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
 
 https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
-
-
 
 ##   Using War Drums
 
