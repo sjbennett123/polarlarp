@@ -9,18 +9,9 @@ draft: false
 ![/bloodyfist.svg](/bloodyfist.svg)
 
 
-
-- Bloody Fist never really used Celestial Magic as they considered it dirty sky magic.
-- With the infusion of Rygalius’s Dragonflame magic, the Bloody Fist become a Draconic Uruk-Hai like orc over the default Orc in NERO. NO ONE KNOWS the source of their power or the name Rygaulis except for Ahroun the Butcher but speaking his name would automatically kill him. Ahourn makes sacrifices to Rygalius in secret to show his allegiance
-
-- The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than the traditional Orcs of NERO and Bloody Fist of the last war
-
-- Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Earth Caster in each squadron that is assigned casters.
-
-- 
-
-
 ---
+
+# Introduciton
 
 The driving goal for the Bloody Fist is Vengeance for the extinction they almost faced 20 some years ago.
 
@@ -28,17 +19,7 @@ Surrender is NOT an option for the Bloody Fist. If they are to die it will be in
 
 They CAN be settled with on terms but they would be very one sided and demand 20 years of suffering for Stonewood if they were to accept. Plus the deaths of all nobility responsible in the previous war.
 
-### The Banner of the Bloody Fist
 
-![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
-
-When they enter the battlefield, they carry a banner of the Blood Fist and plant it before rushing into battle. If they fight within 10 ft of the Banner they receive the Blessing of the Bloody Fist. The Blessing is as follows:
-
-**Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 ft of the Standard swing an additional 5 damage on weapons, they can regenerate 20 Body on a 5 Count of “I drink your blood... X” and finally they may rip from binding as per Rip From Binding Strong trait an unlimited number of times within 10 ft of the Banner.
-
-The banner can be destroyed on a 15 count of Un-Interrupted Role-Play of “I destroy the Banner 1.....” 
-
-The Bloody Fist defend the Banner fiercely and not be drawn away easily unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes.
 
 ---
 
@@ -89,13 +70,16 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 
 A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn Hope-Flayer. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.
 
+- The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than the traditional Orcs of NERO and Bloody Fist of the last war
+- Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Earth Caster in each squadron that is assigned casters.
+
 ##   The Taking of Stonewood
 
 The Accords of the Fist
 
 ![accords_of_the_fist.jpg](/accords_of_the_fist.jpg)
 
-The appointing of a Puppet Mayor
+### The Appointing of a Puppet Mayor
 
 
 
@@ -107,13 +91,23 @@ The appointing of a Puppet Mayor
 
 # Special Rules
 
-##   The banner of the Bloody fist
+## The Banner of the Bloody Fist
 
-##   The ritual of the Fire Drakes
+![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
+
+When they enter the battlefield, they carry a banner of the Blood Fist and plant it before rushing into battle. If they fight within 10 ft of the Banner they receive the Blessing of the Bloody Fist. The Blessing is as follows:
+
+**Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 ft of the Standard swing an additional 5 damage on weapons, they can regenerate 20 Body on a 5 Count of “I drink your blood... X” and finally they may rip from binding as per Rip From Binding Strong trait an unlimited number of times within 10 ft of the Banner.
+
+The banner can be destroyed on a 15 count of Un-Interrupted Role-Play of “I destroy the Banner 1.....” 
+
+The Bloody Fist defend the Banner fiercely and not be drawn away easily unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes.
+
+##   The Ritual of the Fire Drakes
 
 A 
 
-##   The fear of the black shadow
+##   Fear of the Black Shadow
 
 # NPCing Advice
 
@@ -121,7 +115,7 @@ A
 
 orc_name_list.pdf
 
-
+[/orc_name_list.pdf](/orc_name_list.pdf)
 
 ##   Ferocity
 
@@ -145,7 +139,7 @@ https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_e
 
 ##   Using War Drums
 
-##   Using a war horn
+##   Using a War Horn
 
 # Common Roles and Named Characters
 
