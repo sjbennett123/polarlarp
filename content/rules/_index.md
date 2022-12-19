@@ -984,7 +984,7 @@ Any item you throw, toss, or let go of is still considered to be in your possess
 
 If the attack targets the thrown/dropped item directly, such as Shatter or Destroy, the item is still affected.
 
-## Touch-Casting
+### Touch-Casting
 
 Touch-casting is performed by holding a packet and placing it against the target you wish to affect. The obvious advantage to this is that there is no chance of missing and wasting the effect. In such a case, the effect recipient may choose to “accept” the effect, thus letting it past their Spell Defenses such as Shield Magic or Elemental Shield. The recipient must be conscious to “accept” an effect without triggering the Spell Defences. You may never “accept” a thrown effect. The decision to accept an effect through touch-casting is made immediately after the effect is cast. This is to prevent a caster from tricking an unsuspecting victim. 
 
@@ -996,9 +996,7 @@ Whenever your character begins learning magic, either celestial or earth, you mu
 
 ## Stacked Effects
 
-Identical spells may not be stacked. No person may have a second copy of the same spell actively affecting him or her unless the spell description states otherwise. If
-
-you are hit with a second effect that isn’t stackable, the call is “got it”. Calling “No effect” in this situation is incorrect. This definition is extended to include all identically named NERO game effects, not just spells. Identical effects are not stackable, unless noted in the effect’s description.
+Identical spells may not be stacked. No person may have a second copy of the same spell actively affecting him or her unless the spell description states otherwise. If you are hit with a second effect that isn’t stackable, the call is “got it”. Calling “No effect” in this situation is incorrect. This definition is extended to include all identically named NERO game effects, not just spells. Identical effects are not stackable, unless noted in the effect’s description.
 
 The following spell types have special rules regarding spell stacking.
 
@@ -2448,7 +2446,7 @@ Used to mark a particular person’s spirit. The mark is always present on the s
 
 Causes a retributive strike of pure magical damage to any being inflicting a killing blow upon the bearer of this formal magic. This damage occurs after the killing blow and is not avoidable in any manner. When a Vengeance is triggered, the call will be “<number> Arcane Vengeance”
 
-### Formal Magic Components
+## Formal Magic Components
 
 In order to cast a spell from a Formal Magic scroll, one must also have the Formal Magic Components. These components are represented in-game by a tag with a description of the item and its level and type. Some chapters also provide the actual prop itself. If your chapter does not, it can only increase your role-playing fun if you were to provide your own props. 
 
@@ -2460,7 +2458,7 @@ Components come in various ‘flavors’: Power (P), Creation (C), Elemental (E)
 
 Each component has a value of 1, 2 or 4. Formal Magic costs are listed with the total value of each type of needed component. For example, P5 means any combination of Power components totaling a value of 5. One spell, Gr eater Extension, specifically requires a Power component of value 2 or 4 in addition to other components. Components expire no longer than 2 years after the issue date.If there is no printed expiration date then the expiration date is assumed to be one year.
 
-### Extended Circles of Power
+## Extended Circles of Power
 
 In order to use the powers of an Extended Circle, you must be Invested in that Circle. Investiture is a Formal Magic Spell that must be cast upon you in that Circle.
 
@@ -2528,7 +2526,7 @@ Only the following formal magic spells count for the purposes of this “item:�
 
 A PC is always aware of all formal magic spells on their spirit, including, school, specific type, and duration as applicable.
 
-# Chapter 6: Game Play 
+# Chapter 6: Game Play
 
 ## Combat
 
@@ -2611,9 +2609,7 @@ During NERO combat you must never come into physical contact with your opponent.
 
 ## Legal Targets
 
-Legal targets include the entire body except the head, neck, throat, hands from the wrist out, and the groin. A player observed to be
-
-hitting restricted areas repeatedly is subject to disciplinary action. 
+Legal targets include the entire body except the head, neck, throat, hands from the wrist out, and the groin. A player observed to be hitting restricted areas repeatedly is subject to disciplinary action. 
 
 You may not intentionally block a hit with an illegal target.
 
@@ -2697,7 +2693,7 @@ A vengeance is an effect that has a unique delivery method. It automatically tar
 
 Weapon blows are dealt with nero safe hand held boffers, and thrown boffers. Arrows are also considered weapon blows even though they are phys-repped by yellow packets.
 
-### Effects Types
+## Effects Types
 
 In addition to delivery methods, there are also effect types which change what protects you from the damage or effect. Once you take the effect, it is the same no matter what the effect type. 
 
@@ -2733,9 +2729,7 @@ A Weapon’s Type determines the nature of the weapon. There are four weapon typ
 
 ### Damage Type
 
-Some creatures may take an increased or decreased amount of damage from certain damage types. The valid Damage Types are variable and up to the local plot team or as
-
-granted by effects within these rules so long as the call does not duplicate a game effect. 
+Some creatures may take an increased or decreased amount of damage from certain damage types. The valid Damage Types are variable and up to the local plot team or as granted by effects within these rules so long as the call does not duplicate a game effect. 
 
 The most common damage types are the thirteen core elements (fire, water, order, chaos, etc.) and the Effect Types listed above. The only Effect Types which may not be used as a Damage Type are "Magic" or "Spell". To Specify a Carrier Attack as a magical effect you must use the "Arcane" Effect Type.
 
@@ -3001,7 +2995,7 @@ There are 7 different types of traps each with different building parameters.
 
 #### Weapon Traps
 
-A weapon trap is a trap which contains a weapon on a spring mounted mechanism. These traps cost 1 Production Level per 2 points of damage with a minimum damage of 2 and a maximum damage of 40. Weapon traps may be reset by anyone with the Disarm /Arm Tr aps skill without paying the cost to rebuild them. These traps must be mounted to a door, wall or inside a large chest to be effective. If not mounted to a heavy, stable object of this sort, they cannot be set with enough force to be effective. You cannot attach these traps to a body.
+A weapon trap is a trap which contains a weapon on a spring mounted mechanism. These traps cost 1 Production Level per 2 points of damage with a minimum damage of 2 and a maximum damage of 40. Weapon traps may be reset by anyone with the Disarm /Arm Traps skill without paying the cost to rebuild them. These traps must be mounted to a door, wall or inside a large chest to be effective. If not mounted to a heavy, stable object of this sort, they cannot be set with enough force to be effective. You cannot attach these traps to a body.
 
 The mounted weapon must be any standard NERO-safe boffer weapon. This is the only trap that can be blocked, Parried, Dodged or stopped by the Magic Arm or spell.
 
@@ -3045,7 +3039,7 @@ Gas traps, like Fire/Acid traps and Explosive traps, must have a “container.�
 
 #### Alarms and Noise Makers
 
-These are traps that do no damage but set off loud alarms and other noises. They cost 1 Production Level each to make. Alarms and Noise Makers do not have a minimum container size. They are as large, or as small, as they must be to make a noise. When this type of trap is tripped, it must make its own noise. Although it takes a person with Disarm Tr aps to disarm an Alarm or Noise Maker trap, once it has been set off anyone can attempt to muffle the trap’s sound by throwing blankets over the trap, or by using some other method.
+These are traps that do no damage but set off loud alarms and other noises. They cost 1 Production Level each to make. Alarms and Noise Makers do not have a minimum container size. They are as large, or as small, as they must be to make a noise. When this type of trap is tripped, it must make its own noise. Although it takes a person with Disarm Traps to disarm an Alarm or Noise Maker trap, once it has been set off anyone can attempt to muffle the trap’s sound by throwing blankets over the trap, or by using some other method.
 
 ### Trap Mechanics
 
@@ -3063,7 +3057,7 @@ Traps can be set off in 3 ways: by being moved, being destroyed, or their trigge
 
 #### Being Moved
 
-After a trap has been set, it cannot be moved more than five feet without automatically setting it off, even if the person moving it has a Disarm Tr aps skill. In the case of weapon traps, they will automatically hit the person carrying the trap.
+After a trap has been set, it cannot be moved more than five feet without automatically setting it off, even if the person moving it has a Disarm Traps skill. In the case of weapon traps, they will automatically hit the person carrying the trap.
 
 #### Destroyed
 
@@ -3340,7 +3334,7 @@ A player may only carry as many tags as he/she has physical representations.
 
 Some weapons can be strengthened to withstand two or more Destroy or Shatter spells. When you have this done to your weapon, you will be given a new tag to reflect the changes. Weapons can also be silvered which can be very useful when fighting certain monsters, as with strengthening, you will receive a new tag. See “Smithing*” on page 42.
 
-### Weapon Construction
+## Weapon Construction
 
 Weapon combat is a large part of the NERO game. Because of NERO’s reliance on weapons, proper weapon construction is necessary to insure safe yet semi-realistic combat.
 
@@ -3350,7 +3344,7 @@ The guidelines in this section cover making a boffer weapon and choosing a latex
 
 There are a number of manufactured weapons that fall into the NERO guidelines for safety. If you purchase a pre-made weapon, it is your responsibility to determine the type of construction that was used. You must know what type of core the weapon has and what type of foam was used. Latex weapons are not required to have a thrusting tip, and may never be used for thrusting, stabbing or poking. Latex and boffer swords are available for sale and many can be used for NERO combat resolution. A current list of approved vendors and styles for latext weapons as well as latex weapon construction guidelines can be found online at www.nerolarp.com 
 
-## Make Your Own
+### Make Your Own
 
 You may also choose to make your own boffer or latex foam weapons. Making a weapon can range from very simple to very hard depending on the materials you choose and the design of your weapon. The following sections walk through the construction of a very simple weapon, but also provide information about some advanced materials you can try later on. It is highly recommended that you build a simple weapon for you first attempt.
 
@@ -3360,33 +3354,31 @@ There are a number of weapons that fit within a medieval fantasy setting that ar
 
 Below is a list of terms that will be useful to know when constructing a weapon. These terms detail sections of the weapon and what they are used for.
 
-### Thrusting Tip
+#### Thrusting Tip
 
 A thrusting tip consists of at least two inches of open cell foam padding beyond the end of the pipe insulation. If the foam tip is too small, opponents could get hurt with a stiff thrust. If the tip is too large, it could easily break off or fold over, making it useless. All thrusting tips do count towards the weapon’s overall length. The tip must collapse about 50% of its length when pressure is applied. The tip should also be the width of the weapon, and should not easily fit in an eye socket. Weapons with two possible striking ends, such as a staff, should have thrusting tips on both ends. For weapons with heads, the thrusting tip may be incorporated into the head design.
 
-### Blade/Shaft
+#### Blade/Shaft
 
 This is the section of the weapon that is above the grip of the weapon. Blade/Shaft lengths of weapons can be determined by measuring from the end of the grip to the end of the thrusting tip. The Blade/Shaft area must be continuous 5/8” closed cell foam.
 
-### Head
+#### Head
 
 Some weapons, such as a polearm, hammer, or spear, have an additional element(s) added to the weapon. The head(s) extend outwards from the shaft, must be a minimum of 6 inches in length along the shaft, must be made of open cell foam, and must be at least 1 inch thick or thicker. Each head can be a maximum of 2 cubic feet. The head must be positioned near the top of the weapon. 
 
-### Crossguard
+#### Crossguard
 
 A crossguard is used in certain types of weapon and is a blocking surface that is perpendicular to the weapon. This blocking surface cannot have any kind of core inside of it, and can only be constructed of foam, and is a maximum length of 18” across.
 
-### Grip
+#### Grip
 
-This section of the weapon is the location where the weapon is held. With the exception of the special cases listed above, this section of the weapon does not need to be padded. The length of
+This section of the weapon is the location where the weapon is held. With the exception of the special cases listed above, this section of the weapon does not need to be padded. The length of the grip is the length of the weapon from the bottom of the blade/Shaft to the inside of the pommel see figure 7-1.
 
-the grip is the length of the weapon from the bottom of the blade/Shaft to the inside of the pommel see figure 7-1.
-
-### Pommel
+#### Pommel
 
 The pommel is used to protect the butt end of a weapon; it is located at the end of the grip. The pommel should have closed cell foam that extends an inch past the end of the core and is then capped by a piece of closed cell foam.
 
-## Weapon Specific Specs
+## Weapon Specific Specifications
 
 Certain weapons types may have additional requirements, which can be found below.
 
@@ -4413,7 +4405,7 @@ Some anachronisms cannot be avoided. However, NERO makes every attempt to avoid 
 
 You are not allowed to use modern electronic gadgetry such as infrared seeing devices, electronic listening devices, or any other technological anachronistic mechanism. In effect, by using these things, it’s as if you have a powerful magical item and it would hardly be fair to the rest of the players.
 
-### Justifying Anachronisms
+## Justifying Anachronisms
 
 In order for the NERO world of Tyrra to function more smoothly, we have allowed certain anachronisms to exist in our medieval society.
 
@@ -4621,9 +4613,7 @@ Thieves are commoners unless someone has granted them a title of some sort. (We�
 
 ## Noble Powers
 
-Nobility carries with it power and responsibility. Beside showing respect to those who are above you in the feudal hierarchy, you must also obey them. Commoners owe respect to nobles because nobles protect them from marauding monsters, ensure that there is a flowing economy, strengthen the land’s ties with the throne, and generally maintain a status quo which keeps the citizenry a few steps away
-
-from anarchy. Because of all this hard work, if a noble gives a commoner an order, that person is obligated to obey it. Although there is no Oath of Fealty, the relation is implied because of what the noble does for the commoner.
+Nobility carries with it power and responsibility. Beside showing respect to those who are above you in the feudal hierarchy, you must also obey them. Commoners owe respect to nobles because nobles protect them from marauding monsters, ensure that there is a flowing economy, strengthen the land’s ties with the throne, and generally maintain a status quo which keeps the citizenry a few steps away from anarchy. Because of all this hard work, if a noble gives a commoner an order, that person is obligated to obey it. Although there is no Oath of Fealty, the relation is implied because of what the noble does for the commoner.
 
 Does that mean that the nobles have free reign over the commoners? Of course not. A noble who orders commoners to perform manual labor or pushes them about for no reason places himself or herself at risk of losing his or her title. The noble’s lieges are obligated to investigate any charges of wrongdoing by the nobility even if reported to them by a commoner. 
 
