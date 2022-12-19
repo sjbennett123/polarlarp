@@ -4,6 +4,8 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
+[PDF Spreads](/nero_october_module_book_spreads.pdf)
+
 **Standard Modules** 
 
 **(F) Passing through the Mists:** Ran by Donnie: Navigating the Crystal Barrier and Kingdom Knight Encounter
