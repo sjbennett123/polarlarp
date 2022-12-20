@@ -1026,15 +1026,15 @@ In-game, Spell Defenses are visible when they go off. It is obvious to anyone lo
 
 A spellcaster is not immune to his or her own spells, nor can they automatically dispel or deactivate their own spells, unless specifically noted in a spell’s description. Spells such as Bless and Shield which merely add hit points do not have to be so announced.
 
-### Visible Effects
+## Visible Effects
 
 Berserk, Bind, Confine, Disease, Feeblemind, Hallucinoid, Imprison, Nausea, Paralyze, Pin, Silence, Sleep, Taint Blood, Vertigo, and Web, are all visible to any viewer while they are in effect, so long as the viewer takes the time to observe them (they must ask the affected player). The spells Ward and Circle of Power are also visible, provided that the physical representation (rope, building or otherwise) can be seen and the viewer takes the time to observe them. You cannot call a Hold to determine whether any visible effects are present. The amount of time it takes to ask if your character sees the effect is the amount of time it took your character to notice the effect, and you should only ask for visible effects from a short distance away at a conversational volume.
 
-### Eldritch Power
+## Eldritch Power
 
 Many of the spells call upon an energy called eldritch power. This is a type of energy that only affects beings that are alive or animated. If you cast a Flame Bolt spell at someone and miss and hit a tree, the tree will not catch on fire. Nor can you use an Ice Bolt spell to keep your ice cream cold. These spells can only affect creatures that are alive or animated.
 
-### Reversible Spells
+## Reversible Spells
 
 Many earth magic spells are reversible (for example, Cure Disease and Cause Disease). These spells do not have to be learned or “memorized” separately. In fact, there is no way to separate the two spells. If you know the spell Cure Wounds, you automatically also know Cause Wounds. You cannot “forget” how to cast necromantic spells or otherwise claim to only know one side of a reversible spell. You can decide at the moment of casting which spell effect you will use (With proper incantation, of course). The reverse of many healing spells are necromantic, identifiable by the word “Chaos” in their incant. Beware however, that in- many in game places laws exist against necromantic spells such as Create Undead, so you’d better be ready to face the in-game consequences.
 

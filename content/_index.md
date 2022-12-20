@@ -28,6 +28,7 @@ disableNextPrev:  true
 - Sometimes we do a special meeting. 
   - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
   - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
+- All writeups **must** be completed 2 weeks before the event to be reviewed by another plot team. They will check for Nonstandard effects and consistency. Ideally we would do this sooner than that so that feedback could be incorporated before having copies printed but this is the deadline. 
 
 ## [Trello - Prop tracking](https://trello.com/b/A6eLvFdV/polar-props)
 
