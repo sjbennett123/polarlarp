@@ -5,7 +5,7 @@ draft: false
 ---
 ## Transform Cards
 
-All cards are subject to Monster card effects like Celestial PVE playtest
+All cards are subject to Monster card effects like Celestial PVE playtest. Paragon/Greater Race is not considered a “monster” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for Celestial PVE Playtest
 
 ### Conditions for Transform activation
 *Plot Only Activated*: Please do not ask Plot to “activate” your transform as modules will be written with them in mind or side RP spirit quests will be handled privately.
@@ -69,228 +69,32 @@ Transform levels will grant users a set amount of points to purchase skills from
 
 All skills cost 1 point to buy but some may only be purchased one time ever. 
 
-Paragon/Greater Race is not considered a “monster” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for Celestial PVE Playtest
-
-1. Elemental (Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death, Void, Time)
-2. Hunter (Undead, Lycan, Extra-Planar, Magical Beast)
-3. Naturalist (Druids of Tyrra, Vital Spirit, Totem Spirit)
-4. Undead (Death Knight, Lich, Mummy, Vampire, Ghost, Wraith)
-5. Extra-Planar (Fae) (Seelie, Unseelie, Dark, Neutral)
-6. Magical Beasts (Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix)
-7. Paragon (Greater Race/Class)
 
 ## Elementals
 
-### 7th
-
-- +30 body
-- +3 Superhuman Strength
-- Type Specific Ability
+Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death, Void, Time
 - 150 Elemental Pool of Chosen Element-30 Elemental (insert element)
+
+### 7th
+
+gets 2 skill points to buy
+
+- +30 body
+- +3 Superhuman Strength
 - x3-Innate Elemental Aura
 
 ### 8th
 
+8th level gets 4 skill points to buy
+
 - +60 body
 - +6 Superhuman Strength
-- Type Specific Ability
-- 150 Elemental Pool of Chosen Element-60 Elemental (insert element) 
 - x3-Innate Elemental Aura
 
 ### 9th
 
 - +90 body
 - +9 Superhuman Strength
-- 150 Elemental Pool of Chosen Element-90 Elemental (insert element) x3-Innate Elemental Aura
-
-## Hunter 
-
-(Undead, Lycan, Extra Planar, Magical Beast)
-
-### 7th
-
-- +30 body
-- +3 Superhuman Strength
-- Type Specific Ability-May Cast Regenerate After Killing Blow Creature of Hunter Type
-- Innate Magic or Silver AuraBattle Magic Return x3
-
-### 8th
-
-- +60 body
-- +6 Superhuman Strength
-- Type Specific Ability-May Cast Regenerate After Killing Blow Creature of Hunter Type
-- Innate Magic or Silver Aura
-- Battle Magic Return x3
-
-### 9th
-
-- +90 body+9 Superhuman Strength
-- Type Specific Ability-May Cast Regenerate After Killing Blow Creature of Hunter Type
-- Innate Magic or Silver Aura
-- Battle Magic Return x3
-
-## Naturalist 
-
-(Tyrran Spiritualist, Vital Spirit, Totem Spirit)
-
-### 7th
-
-- +30 body
-- +3 Superhuman Strength
-- Type Specific Ability-Magic Purify Blood x3Magic Banish x3Cloak Chaos x3 
-
-### 8th
-
-- +60 body
-- +6 Superhuman Strength
-- Type Specific Ability-Magic Purify Blood x3 
-- Magic Banish x3
-- Cloak Chaos x3
-
-### 9th
-
-- +90 body
-- +9 Superhuman Strength
-- Type Specific Ability-Magic Purify Blood x3
-- Magic Banish x3
-- Cloak Chaos x3
-
-## Undead 
-
-(Death Knight, Lich, Mummy, Vampire, Ghost, Wraith)
-
-### 7th
-
-- +30 body+3 Superhuman Strength
-- Type Specific Ability-Magic Wither Limb x3
-- Magic Drain Life x3
-- Cloak Earth x3
-
-### 8th
-
-- +60 body
-- +6 Superhuman Strength
--Type Specific Ability-Magic Wither Limb x3
-- Magic Drain Life x3
-- Cloak Earth x3
-
-### 9th
-
-- +90 body
-- +9 Superhuman Strength
-- Type Specific Ability-Magic Wither Limb x3
-- Magic Drain Life x3
-- Cloak Earth x3
-
-## Extra-Planar 
-
-(Fae) (Seelie, Unseelie, Dark, Neutral)
-
-### 7th
-
-- +30 body
-- +3 Superhuman Strength
-- Type Specific Ability
-- Innate Magic AuraA
-- all Fae are Immune to Sleep
-- Magic Fear x3
-
-### 8th
-
-- +60 body
-- +6 Superhuman Strength
--Type Specific Ability-Innate Magic Aura
-- All Fae are Immune to Sleep
-- Magic Fear x3
-
-### 9th
-
-- +90 body
-- +9 Superhuman Strength
-- Type Specific Ability-Innate Magic Aura
-- All Fae are Immune to Sleep
-- Magic Fear x3
-
-## Magical Beasts 
-
-(Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix)
-
-### 7th
-
-- +30 body
-- +3 Superhuman Strength
-- Type Specific Ability
-- Innate Magic Aura
-- Battle Magic Return x3
-- All Magical Beasts gain 30 natural armor
-
-### 8th
-- +60 body
-- +6 Superhuman Strength
-- Type Specific Ability
-- Innate Magic Aura
-- Battle Magic Return x3
-- All Magical Beasts gain 30 natural armor
-
-### 9th
-
-- +90 body
-- +9 Superhuman Strength
-- Type Specific Ability
-- Innate Magic Aura
-- Battle Magic Return x3
-- All Magical Beasts gain 30 natural armor
-
-## Paragon 
-
-(Greater Race/Class)
-
-### 7th
-
-- +30 body
-- +3 Superhuman Strength
-- Type Specific Ability-Paragons are Immune to Fear
-- Resist Charm x3
-- Resist Sleep x3
-
-### 8th
-- +60 body
-- +6 Superhuman Strength
-- Type Specific Ability-Paragons are Immune to Fear
-- Resist Charm x3
-- Resist Sleep x3
-
-### 9th
-
-- +90 body
-- +9 Superhuman Strength
-- Type Specific Ability  -Paragons are Immune to Fear
-- Resist Charm x3
-- Resist Sleep x3
-
-## General Skill Pool
-
-- Resist Charm x3
-- Resist Poison x3
-- Resist Sleep x3
-- Resist Physical x3
-- Battle Rage x3
-- Rip From Binding x3
-- Return x3
-- Superhuman Strength +3
-- Critical Slay/Parry (Can only purchase once)
-- Assassinate/Dodge (Can only purchase once)
-- Magic Earth Spell (Any Level) x3
-- Magic Celestial Spell (Any Level) x3
-- Regenerate x3
-- Claws
-- Innate Elemental Aura
-- Innate Magic Aura
-- Innate Silver Sura
-- Extra Body +30
-- Natural Armor +30
-- Focus
-- Armored to Magic x3-No Component Cost
 
 ## Elemental Skill Pool
 
@@ -299,13 +103,39 @@ Paragon/Greater Race is not considered a “monster” They embody the traits of
 - Gaseous Form x3
 - Elemental Pool 150 x3
 - Elemental Regenerate (Regenerate but heals even if no Metabolism) x3
-- Elemental Boltstorm x3 -As per Formal Cantrip "Boltstorm" but can throw your innate element. Example: Death can throw 10 elemental Destruction, Chaos can throw 10 elemental chaos, etc.-No Component Cost
+- Elemental Boltstorm x3 -As per Formal Cantrip "Boltstorm" but can throw your innate element. Example: Death can throw 10 elemental Destruction, Chaos can throw 10 elemental chaos, etc. -No Component Cost
 - No Metabolism
 - Non-Corporeal Form
-- Planar Asylum (Grants ability to 5 people, Own Element) x3-No Component Cost
+- Planar Asylum (Grants ability to 5 people, Own Element) x3 -No Component Cost
 - Planar Rift (Self, Own Element) x3-No Component Cost
 - Interpalar Conduit (Self, Own Element) x3 -No Component Cost
-- Interplanar Travel (Self, Own Element) x3-No Component Cost
+- Interplanar Travel (Self, Own Element) x3 -No Component Cost
+
+## Hunter 
+
+(Undead, Lycan, Extra Planar, Magical Beast)
+
+- Type Specific Ability-May Cast Regenerate After Killing Blow Creature of Hunter Type
+
+### 7th
+
+- +30 body
+- +3 Superhuman Strength
+- Innate Magic or Silver Aura
+- Battle Magic Return x3
+
+### 8th
+
+- +60 body
+- +6 Superhuman Strength
+- Innate Magic or Silver Aura
+- Battle Magic Return x3
+
+### 9th
+
+- +90 body+9 Superhuman Strength
+- Innate Magic or Silver Aura
+- Battle Magic Return x3
 
 ## Hunter Skill Pool
 
@@ -322,6 +152,33 @@ Paragon/Greater Race is not considered a “monster” They embody the traits of
 - Natural Armor +30
 - Extra Body +30
 
+## Naturalist 
+
+(Tyrran Spiritualist, Vital Spirit, Totem Spirit)
+
+type Specific Ability-Magic Purify Blood
+
+### 7th
+
+- +30 body
+- +3 Superhuman Strength
+- Magic Banish x3
+- Cloak Chaos x3
+
+### 8th
+
+- +60 body
+- +6 Superhuman Strength
+- Magic Banish x3
+- Cloak Chaos x3
+
+### 9th
+
+- +90 body
+- +9 Superhuman Strength
+- Magic Banish x3
+- Cloak Chaos x3
+
 ## Naturalist Skill Pool
 
 - Cloak Chaos x3
@@ -337,6 +194,33 @@ Paragon/Greater Race is not considered a “monster” They embody the traits of
 - Magic Banish x3
 - Spirit Mark/Unmark x3-No Component Cost
 - Magic Confine x3
+
+## Undead 
+
+(Death Knight, Lich, Mummy, Vampire, Ghost, Wraith)
+
+Type Specific Ability-Magic Wither Limb x3
+
+### 7th
+
+- +30 body
+- +3 Superhuman Strength
+- Magic Drain Life x3
+- Cloak Earth x3
+
+### 8th
+
+- +60 body
+- +6 Superhuman Strength
+- Magic Drain Life x3
+- Cloak Earth x3
+
+### 9th
+
+- +90 body
+- +9 Superhuman Strength
+- Magic Drain Life x3
+- Cloak Earth x3
 
 ## Undead Skill Pool
 
@@ -365,7 +249,33 @@ Paragon/Greater Race is not considered a “monster” They embody the traits of
 - Magic Taint Blood x3
 - Magic Free Undead x3
 
-## Extra-Planar Skill Pool
+## Extra-Planar (Fae) 
+
+(Seelie, Unseelie, Dark, Neutral)
+
+- all Fae are Immune to Sleep
+- Type Specific Ability-Innate Magic Aura
+
+
+### 7th
+
+- +30 body
+- +3 Superhuman Strength
+- Magic Fear x3
+
+### 8th
+
+- +60 body
+- +6 Superhuman Strength
+- Magic Fear x3
+
+### 9th
+
+- +90 body
+- +9 Superhuman Strength
+- Magic Fear x3
+
+## Extra-Planar (Fae) Skill Pool
 
 - Innate Dream Aura
 - Innate Darkness Aura
@@ -395,6 +305,34 @@ Paragon/Greater Race is not considered a “monster” They embody the traits of
 
 **Lesser Fae Curse**: Remove/Curse of Greed x3 (Neutral Only)This curse causes the recipient to be overcome with greed, they will always claim any treasure for themselves and not be willing to share money or jewelry. They will become covetous of others valuables and may plot to steal them if they so choose. Incant: "By the hoard of the miser, I curse you to desire all riches"
 Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.
+## Magical Beasts 
+
+(Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix)
+
+- All Magical Beasts gain 30 natural armor
+
+### 7th
+
+- +30 body
+- +3 Superhuman Strength
+- Type Specific Ability
+- Innate Magic Aura
+- Battle Magic Return x3
+
+### 8th
+- +60 body
+- +6 Superhuman Strength
+- Type Specific Ability
+- Innate Magic Aura
+- Battle Magic Return x3
+
+### 9th
+
+- +90 body
+- +9 Superhuman Strength
+- Type Specific Ability
+- Innate Magic Aura
+- Battle Magic Return x3
 
 ## Magical Beasts Pool
 
@@ -413,6 +351,33 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Critical Slay/Parry (Can only purchase once)
 - Revive x1 (May only purchase once)A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points
 
+## Paragon 
+
+(Greater Race/Class)
+
+- Type Specific Ability-Paragons are Immune to Fear
+
+
+### 7th
+
+- +30 body
+- +3 Superhuman Strength
+- Resist Charm x3
+- Resist Sleep x3
+
+### 8th
+- +60 body
+- +6 Superhuman Strength
+- Resist Charm x3
+- Resist Sleep x3
+
+### 9th
+
+- +90 body
+- +9 Superhuman Strength
+- Resist Charm x3
+- Resist Sleep x3
+
 ## Paragon Skill Pool
 
 - Superhuman Strength +6 (May Only Purchase Once)
@@ -424,3 +389,28 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Ethereal Sword
 - Tyrra’s Claw
 - Remove Fear x3
+
+## General Skill Pool
+
+- Resist Charm x3
+- Resist Poison x3
+- Resist Sleep x3
+- Resist Physical x3
+- Battle Rage x3
+- Rip From Binding x3
+- Return x3
+- Superhuman Strength +3
+- Critical Slay/Parry (Can only purchase once)
+- Assassinate/Dodge (Can only purchase once)
+- Magic Earth Spell (Any Level) x3
+- Magic Celestial Spell (Any Level) x3
+- Regenerate x3
+- Claws
+- Innate Elemental Aura
+- Innate Magic Aura
+- Innate Silver Sura
+- Extra Body +30
+- Natural Armor +30
+- Focus
+- Armored to Magic x3-No Component Cost
+
