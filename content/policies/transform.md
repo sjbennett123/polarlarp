@@ -12,13 +12,13 @@ All cards are subject to Monster card effects like Celestial PVE playtest. Parag
 
 ### Conditions for Transform deactivation
 - Plot Only Deactivation on conclusion of module or scene
-- Player VS Player combat: PVP is defined as any “Hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc) or knock the target unconscious other than stopping a berserked player. Your Transform will deactivate if you resurrect as well. Taking a killing blow or Death Spell does not deactivate your transform. You are still considered transformed until Plot Deactivate them or you take your full 5 minute death count and goto a spirit circle to Resurrect.Accidental packet throws hitting other Transformed players is not considered “PVP hostility” as mass melees get messy and unintended targets are hit. If this is a malicious action then it will fall under the “Hostile” category and your Transform will deactivate.If there is a situation where you are “assaulted” in game while Transformed and you/they ARE NOT under the effects of a Berserk or Arcane Vampire Charm then please call a Hold of you think someone violated the sportsmanship rule and a Marshall will resolve the situation on the spot.
+- Player VS Player combat: PVP is defined as any “Hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc) or knock the target unconscious other than stopping a berserked player. Your Transform will deactivate if you resurrect as well. Taking a killing blow or Death Spell does not deactivate your transform. You are still considered transformed until Plot Deactivates them or you take your full 5 minute death count and go to a spirit circle to Resurrect. Accidental packet throws hitting other Transformed players is not considered “PVP hostility” as mass melees get messy and unintended targets are hit. If this is a malicious action then it will fall under the “Hostile” category and your Transform will deactivate. If there is a situation where you are “assaulted” in game while Transformed and you/they ARE NOT under the effects of a Berserk or Arcane Vampire Charm then please call a Hold of you think someone violated the sportsmanship rule and a Marshall will resolve the situation on the spot.
 
-## 2 Ways to obtain Transforms:
+## 2 Ways to obtain Transforms
 
 ### Obtain via spirit quest
 
-Spirit Quests are a Plot Preformed quest players can request to attune themself with a creature or spirit to grow a bond. Players should submit a short write up with the intent of the Spirit Quest and what creature/spirit they wish to attune to and why. You can obtain the 7th level transform via Spirit Quest this was with plot approval but 8 and 9 will need to be cast on you using components after you have satisfied your creature/spirits requirements and trials.
+Spirit Quests are a Plot Preformed quest players can request to attune themself with a creature or spirit to grow a bond. Players should submit a short write up with the intent of the Spirit Quest and what creature/spirit they wish to attune to and why. You can obtain the Greater(7th) level transform via Spirit Quest this was with plot approval but 8 and 9 will need to be cast on you using components after you have satisfied your creature/spirits requirements and trials.
 
 ### Cast via Formal Magic Rules with Scroll
 
@@ -57,15 +57,15 @@ This formal magic will transform the target into a specific High Creature upon t
 
 This formal magic will transform the target into a specific Master Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 9” on the target. The target must currently have an Affinity “<Creature>8” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity then this formal magic will fail. All components and scrolls used in the casting of this formal magic MUST be of unrestricted transfer. Effects exist which may, for limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
-All Transform Base Cards receives a static card with the following boosts that replace themselves per transform level. You take the highest boost as your card base on your Transform level (ex. 9th level gets +9 Superhuman Strength and +90 Body)+3/6/9 Supernatural Strength+30/60/90 Body 3 Type Specific Abilities. 
+All Transform Base Cards receives a static card with the following boosts that replace themselves per transform level. You take the highest boost as your card base on your Transform level (ex. Master(9th) level gets +9 Superhuman Strength and +90 Body)+3/6/9 Supernatural Strength+30/60/90 Body 3 Type Specific Abilities. 
 
 Transform levels will grant users a set amount of points to purchase skills from the General Pool or Creature Type Specific Pools Transform skill buy points will be as follows:
 
-7th level gets 2 skill points to buy
+- Greater(7th) level gets 2 skill points to buy
 
-8th level gets 4 skill points to buy
+- High(8th) level gets 4 skill points to buy
 
-9th level gets 6 skill points to buy
+- Master(9th) level gets 6 skill points to buy
 
 All skills cost 1 point to buy but some may only be purchased one time ever. 
 
@@ -75,28 +75,30 @@ All skills cost 1 point to buy but some may only be purchased one time ever.
 Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death, Void, Time
 - 150 Elemental Pool of Chosen Element-30 Elemental (insert element)
 
-### 7th
+### Greater(7th)
 
-gets 2 skill points to buy
+*Gets 2 skill points to buy skills from Elemental Skill Pool and General Skill Pool*
 
 - +30 body
 - +3 Superhuman Strength
 - x3-Innate Elemental Aura
 
-### 8th
+### High(8th)
 
-8th level gets 4 skill points to buy
+*Gets 4 skill points to buy skills from Elemental Skill Pool and General Skill Pool*
 
 - +60 body
 - +6 Superhuman Strength
 - x3-Innate Elemental Aura
 
-### 9th
+### Master(9th)
+
+*Gets 6 skill points to buy skills from Elemental Skill Pool and General Skill Pool*
 
 - +90 body
 - +9 Superhuman Strength
 
-## Elemental Skill Pool
+### Elemental Skill Pool
 
 - Cloak Opposite Element x3
 - 90 Elemental (Element) x3
@@ -117,27 +119,27 @@ gets 2 skill points to buy
 
 - Type Specific Ability-May Cast Regenerate After Killing Blow Creature of Hunter Type
 
-### 7th
+### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
 - Innate Magic or Silver Aura
 - Battle Magic Return x3
 
-### 8th
+### High(8th)
 
 - +60 body
 - +6 Superhuman Strength
 - Innate Magic or Silver Aura
 - Battle Magic Return x3
 
-### 9th
+### Master(9th)
 
 - +90 body+9 Superhuman Strength
 - Innate Magic or Silver Aura
 - Battle Magic Return x3
 
-## Hunter Skill Pool
+### Hunter Skill Pool
 
 - Bane the Dead x3-No Component CostInnate Silver Aura
 - Healers Grace x3-No Component Cost
@@ -158,28 +160,28 @@ gets 2 skill points to buy
 
 type Specific Ability-Magic Purify Blood
 
-### 7th
+### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
 - Magic Banish x3
 - Cloak Chaos x3
 
-### 8th
+### High(8th)
 
 - +60 body
 - +6 Superhuman Strength
 - Magic Banish x3
 - Cloak Chaos x3
 
-### 9th
+### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
 - Magic Banish x3
 - Cloak Chaos x3
 
-## Naturalist Skill Pool
+### Naturalist Skill Pool
 
 - Cloak Chaos x3
 - Bane Chaos x3
@@ -201,28 +203,28 @@ type Specific Ability-Magic Purify Blood
 
 Type Specific Ability-Magic Wither Limb x3
 
-### 7th
+### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
 - Magic Drain Life x3
 - Cloak Earth x3
 
-### 8th
+### High(8th)
 
 - +60 body
 - +6 Superhuman Strength
 - Magic Drain Life x3
 - Cloak Earth x3
 
-### 9th
+### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
 - Magic Drain Life x3
 - Cloak Earth x3
 
-## Undead Skill Pool
+### Undead Skill Pool
 
 - Magic Create Undead x3
 - Innate Chaos Aura
@@ -253,29 +255,30 @@ Type Specific Ability-Magic Wither Limb x3
 
 (Seelie, Unseelie, Dark, Neutral)
 
-- all Fae are Immune to Sleep
-- Type Specific Ability-Innate Magic Aura
+all Fae are Immune to Sleep 
+
+Type Specific Ability-Innate Magic Aura
 
 
-### 7th
+### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
 - Magic Fear x3
 
-### 8th
+### High(8th)
 
 - +60 body
 - +6 Superhuman Strength
 - Magic Fear x3
 
-### 9th
+### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
 - Magic Fear x3
 
-## Extra-Planar (Fae) Skill Pool
+### Extra-Planar (Fae) Skill Pool
 
 - Innate Dream Aura
 - Innate Darkness Aura
@@ -311,7 +314,7 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 
 - All Magical Beasts gain 30 natural armor
 
-### 7th
+### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
@@ -319,14 +322,14 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Innate Magic Aura
 - Battle Magic Return x3
 
-### 8th
+### High(8th)
 - +60 body
 - +6 Superhuman Strength
 - Type Specific Ability
 - Innate Magic Aura
 - Battle Magic Return x3
 
-### 9th
+### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
@@ -334,7 +337,7 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Innate Magic Aura
 - Battle Magic Return x3
 
-## Magical Beasts Pool
+### Magical Beasts Skill Pool
 
 - Superhuman Strength +6 (May Only Purchase Once)
 - Magic Paralysis x3
@@ -355,30 +358,31 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 
 (Greater Race/Class)
 
-- Type Specific Ability-Paragons are Immune to Fear
+Type Specific Ability-Paragons are Immune to Fear
 
 
-### 7th
+### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
 - Resist Charm x3
 - Resist Sleep x3
 
-### 8th
+### High(8th)
+
 - +60 body
 - +6 Superhuman Strength
 - Resist Charm x3
 - Resist Sleep x3
 
-### 9th
+### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
 - Resist Charm x3
 - Resist Sleep x3
 
-## Paragon Skill Pool
+### Paragon Skill Pool
 
 - Superhuman Strength +6 (May Only Purchase Once)
 - Assassinate/Dodge x1 (May only purchase once)
@@ -414,3 +418,6 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Focus
 - Armored to Magic x3-No Component Cost
 
+---
+
+7 8 and 9 should be Greater(7) etc
