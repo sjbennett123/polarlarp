@@ -5,21 +5,27 @@ draft: false
 ---
 ## You Have Become a Monster
 
-All cards are subject to Monster card effects like Celestial PVE playtest. Paragon/Greater Race is not considered a “monster” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for Celestial PVE Playtest
+All transformed characters are subject to Monster card effects like Celestial PVE playtest. Paragon/Greater Race is not considered a “monster” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for Celestial PVE Playtest
 
-## Conditions for Transform activation
-### Plot Only Activated
+## Conditions for Transform Activation
+### Plot  Activated
 
- Please do not ask Plot to “activate” your transform as modules will be written with them in mind or side RP spirit quests will be handled privately.
+Do not ask Plot to “activate” your transform as modules will be written with them in mind or side RP spirit quests will be handled privately.
 
-## Conditions for Transform deactivation
-### Plot Only Deactivation 
+## Conditions for Transform Deactivation
+### Plot Deactivated
 
-on conclusion of module or scene
+On conclusion of module or scene.
 
-### Player VS Player combat
+### Ressurection
 
-PVP is defined as any “Hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc) or knock the target unconscious other than stopping a berserked player. Your Transform will deactivate if you resurrect as well. Taking a killing blow or Death Spell does not deactivate your transform. You are still considered transformed until Plot Deactivates them or you take your full 5 minute death count and go to a spirit circle to Resurrect. Accidental packet throws hitting other Transformed players is not considered “PVP hostility” as mass melees get messy and unintended targets are hit. If this is a malicious action then it will fall under the “Hostile” category and your Transform will deactivate. If there is a situation where you are “assaulted” in game while Transformed and you/they ARE NOT under the effects of a Berserk or Arcane Vampire Charm then please call a Hold of you think someone violated the sportsmanship rule and a Marshall will resolve the situation on the spot.
+Your Transform will deactivate if you resurrect. Taking a killing blow or Death Spell does not deactivate your transform. You are still considered transformed until Plot Deactivates them or you take your full 5 minute death count and go to a spirit circle to Resurrect. 
+
+### Player vs Player Combat
+
+PVP is defined as any “Hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc) or knock the target unconscious other than stopping a berserked player. Accidental packet throws hitting other Transformed players is not considered “PVP hostility” as mass melees get messy and unintended targets are hit. If this is a malicious action then it will fall under the “Hostile” category and your Transform will deactivate. 
+
+If there is a situation where you are “assaulted” in game while Transformed and you/they ARE NOT under the effects of a Berserk or Arcane Vampire Charm then call a Hold. If you think someone violated the sportsmanship policy and a Marshall will resolve the situation on the spot.
 
 ## 2 Ways to obtain Transforms
 
@@ -27,7 +33,7 @@ PVP is defined as any “Hostile” action causing damage with the intent to kil
 
 Spirit Quests are a quest players can request to attune themself with a creature or spirit to grow a bond. Players submit a short write up with the intent of the Spirit Quest and what creature or spirit they wish to attune to and why. 
 
-A player can obtain the Greater(7th) level transform via a Spirit Quest but High(8th) and Master(9th) will need to be cast using a Formal Magic Ritual and Components after you have satisfied your creature/spirits requirements and trials.
+A player can obtain the Greater(7th) level transform via a Spirit Quest but High(8th) and Master(9th) will need to be cast using a Formal Magic Ritual and Components after you have satisfied your creature or spirit's requirements and trials.
 
 ### Cast Using Formal Magic Ritual with Components
 
@@ -43,7 +49,9 @@ This is the ONLY way that a player can attain High and Master level transforms. 
 
 **Components**: P7, C3, E4, S4, T1 (Unrestricted only)
 
-This formal magic will transform the target into a specific Greater Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 7” on the target. Effects exist which may for limited duration invoke the full transformation prior to permanent death. See the description in the Casting Rules.
+This formal magic will transform the target into a specific Greater Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 7” on the target. 
+
+Effects exist which may for limited duration invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 #### Transform to High Creature
 
@@ -55,7 +63,9 @@ This formal magic will transform the target into a specific Greater Creature upo
 
 **Components**: P8, C4, E5, S5, T3 (Unrestricted only)
 
-This formal magic will transform the target into a specific High Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 8” on the target. The target must currently have an Affinity “<Creature>7” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity then this formal magic will fail. All components and scrolls used in the casting of this formal magic MUST be of unrestricted transfer. Effects exist which may for limited duration invoke the full transformation prior to permanent death. See the description in the Casting Rules.
+This formal magic will transform the target into a specific High Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 8” on the target. The target must currently have an Affinity “<Creature>7” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity then this formal magic will fail. All components and scrolls used in the casting of this formal magic MUST be of unrestricted transfer. 
+
+Effects exist which may for limited duration invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 #### Transform to Master Creature
 **Level** 9
@@ -66,7 +76,9 @@ This formal magic will transform the target into a specific High Creature upon t
 
 **Components**: P9, C8, E10, S10, T5 (Unrestricted only)
 
-This formal magic will transform the target into a specific Master Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 9” on the target. The target must currently have an Affinity “<Creature>8” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity then this formal magic will fail. All components and scrolls used in the casting of this formal magic MUST be of unrestricted transfer. Effects exist which may, for limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
+This formal magic will transform the target into a specific Master Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 9” on the target. The target must currently have an Affinity “<Creature>8” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity then this formal magic will fail. All components and scrolls used in the casting of this formal magic MUST be of unrestricted transfer. 
+
+Effects exist which may, for limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 ## Abilities Granted by Transformation
 
@@ -92,8 +104,9 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### All Characters with an Elemental Transform
 
-- 150 Elemental Pool of Chosen Element-30 Elemental (insert element)
-- x3-Innate Elemental Aura
+- 150 Elemental Pool of Chosen Element
+- 30 Elemental (insert element) x3
+- Innate Elemental Aura
 
 ### Greater(7th)
 
@@ -350,7 +363,7 @@ Incant: “With the eyes of ancients, I curse you to see the world through a dar
 
 **Lesser Fae Curse**: Remove/Curse of Greed x3 (Neutral Only)This curse causes the recipient to be overcome with greed, they will always claim any treasure for themselves and not be willing to share money or jewelry. They will become covetous of others valuables and may plot to steal them if they so choose. 
 
-**	Incant**: "By the hoard of the miser, I curse you to desire all riches"
+​	**Incant**: "By the hoard of the miser, I curse you to desire all riches"
 Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.
 
 ## Magical Beasts 
@@ -453,7 +466,3 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Natural Armor +30
 - Focus
 - Armored to Magic x3-No Component Cost
-
----
-
-7 8 and 9 should be Greater(7) etc
