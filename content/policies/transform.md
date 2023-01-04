@@ -3,24 +3,35 @@ title: "Transform"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
-## Transform Cards
+## You Have Become a Monster
 
 All cards are subject to Monster card effects like Celestial PVE playtest. Paragon/Greater Race is not considered a “monster” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for Celestial PVE Playtest
 
-### Conditions for Transform activation
-*Plot Only Activated*: Please do not ask Plot to “activate” your transform as modules will be written with them in mind or side RP spirit quests will be handled privately.
+## Conditions for Transform activation
+### Plot Only Activated
 
-### Conditions for Transform deactivation
-- Plot Only Deactivation on conclusion of module or scene
-- Player VS Player combat: PVP is defined as any “Hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc) or knock the target unconscious other than stopping a berserked player. Your Transform will deactivate if you resurrect as well. Taking a killing blow or Death Spell does not deactivate your transform. You are still considered transformed until Plot Deactivates them or you take your full 5 minute death count and go to a spirit circle to Resurrect. Accidental packet throws hitting other Transformed players is not considered “PVP hostility” as mass melees get messy and unintended targets are hit. If this is a malicious action then it will fall under the “Hostile” category and your Transform will deactivate. If there is a situation where you are “assaulted” in game while Transformed and you/they ARE NOT under the effects of a Berserk or Arcane Vampire Charm then please call a Hold of you think someone violated the sportsmanship rule and a Marshall will resolve the situation on the spot.
+ Please do not ask Plot to “activate” your transform as modules will be written with them in mind or side RP spirit quests will be handled privately.
+
+## Conditions for Transform deactivation
+### Plot Only Deactivation 
+
+on conclusion of module or scene
+
+### Player VS Player combat
+
+PVP is defined as any “Hostile” action causing damage with the intent to kill, render them useless with status effects (taint blood, vertigo gas, nausea, sleep, etc) or knock the target unconscious other than stopping a berserked player. Your Transform will deactivate if you resurrect as well. Taking a killing blow or Death Spell does not deactivate your transform. You are still considered transformed until Plot Deactivates them or you take your full 5 minute death count and go to a spirit circle to Resurrect. Accidental packet throws hitting other Transformed players is not considered “PVP hostility” as mass melees get messy and unintended targets are hit. If this is a malicious action then it will fall under the “Hostile” category and your Transform will deactivate. If there is a situation where you are “assaulted” in game while Transformed and you/they ARE NOT under the effects of a Berserk or Arcane Vampire Charm then please call a Hold of you think someone violated the sportsmanship rule and a Marshall will resolve the situation on the spot.
 
 ## 2 Ways to obtain Transforms
 
-### Obtain via spirit quest
+### Obtain via Spirit Quest
 
-Spirit Quests are a Plot Preformed quest players can request to attune themself with a creature or spirit to grow a bond. Players should submit a short write up with the intent of the Spirit Quest and what creature/spirit they wish to attune to and why. You can obtain the Greater(7th) level transform via Spirit Quest this was with plot approval but 8 and 9 will need to be cast on you using components after you have satisfied your creature/spirits requirements and trials.
+Spirit Quests are a quest players can request to attune themself with a creature or spirit to grow a bond. Players submit a short write up with the intent of the Spirit Quest and what creature or spirit they wish to attune to and why. 
 
-### Cast via Formal Magic Rules with Scroll
+A player can obtain the Greater(7th) level transform via a Spirit Quest but High(8th) and Master(9th) will need to be cast using a Formal Magic Ritual and Components after you have satisfied your creature/spirits requirements and trials.
+
+### Cast Using Formal Magic Ritual with Components
+
+This is the ONLY way that a player can attain High and Master level transforms. They may not be obtained with a Spirit Quest. 
 
 #### Transform to Greater Creature
 
@@ -57,23 +68,32 @@ This formal magic will transform the target into a specific High Creature upon t
 
 This formal magic will transform the target into a specific Master Creature upon the permanent death of the target. It will also leave an affinity of “<Creature> 9” on the target. The target must currently have an Affinity “<Creature>8” or higher present upon its spirit. The <creature> must be of the same type of creature as the one being attempted. If the target does not have the correct affinity then this formal magic will fail. All components and scrolls used in the casting of this formal magic MUST be of unrestricted transfer. Effects exist which may, for limited duration, invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
+## Abilities Granted by Transformation
+
 All Transform Base Cards receives a static card with the following boosts that replace themselves per transform level. You take the highest boost as your card base on your Transform level (ex. Master(9th) level gets +9 Superhuman Strength and +90 Body)+3/6/9 Supernatural Strength+30/60/90 Body 3 Type Specific Abilities. 
 
-Transform levels will grant users a set amount of points to purchase skills from the General Pool or Creature Type Specific Pools Transform skill buy points will be as follows:
+### Skill Pools
 
-- Greater(7th) level gets 2 skill points to buy
+Transforms grant characters a set amount of points to purchase skills from either the General Pool or Creature Type Specific Pool. All skills cost 1 point to buy. Several skills can only be purchased once.
 
-- High(8th) level gets 4 skill points to buy
+- Greater(7th) level gets 2 skill points to spend
 
-- Master(9th) level gets 6 skill points to buy
+- High(8th) level gets 4 skill points to spend
 
-All skills cost 1 point to buy but some may only be purchased one time ever. 
+- Master(9th) level gets 6 skill points to spend
+
+
+Any formal or cantrip effects that are present in the skill list will not require components to use. 
 
 
 ## Elementals
 
-Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death, Void, Time
+**Choose an elemental type from the following**: Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death, Void, Time
+
+### All Characters with an Elemental Transform
+
 - 150 Elemental Pool of Chosen Element-30 Elemental (insert element)
+- x3-Innate Elemental Aura
 
 ### Greater(7th)
 
@@ -81,7 +101,6 @@ Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death
 
 - +30 body
 - +3 Superhuman Strength
-- x3-Innate Elemental Aura
 
 ### High(8th)
 
@@ -89,7 +108,6 @@ Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death
 
 - +60 body
 - +6 Superhuman Strength
-- x3-Innate Elemental Aura
 
 ### Master(9th)
 
@@ -110,35 +128,39 @@ Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death
 - Non-Corporeal Form
 - Planar Asylum (Grants ability to 5 people, Own Element) x3 -No Component Cost
 - Planar Rift (Self, Own Element) x3-No Component Cost
-- Interpalar Conduit (Self, Own Element) x3 -No Component Cost
+- Interplanar Conduit (Self, Own Element) x3 -No Component Cost
 - Interplanar Travel (Self, Own Element) x3 -No Component Cost
 
 ## Hunter 
 
-(Undead, Lycan, Extra Planar, Magical Beast)
+**Choose hunter's Prey**: Undead, Lycan, Extra Planar, Magical Beast)
 
-- Type Specific Ability-May Cast Regenerate After Killing Blow Creature of Hunter Type
+### All Characters with an Hunter Transform
+
+- May Cast Regenerate After Killing Blow Creature of Hunter Type
+- Battle Magic Return x3
+- Innate Magic or Silver Aura
 
 ### Greater(7th)
 
+*Gets 2 skill points to buy skills from Hunter Skill Pool and General Skill Pool*
+
 - +30 body
 - +3 Superhuman Strength
-- Innate Magic or Silver Aura
-- Battle Magic Return x3
 
 ### High(8th)
 
+*Gets 4 skill points to buy skills from Elemental Skill Pool and General Skill Pool*
+
 - +60 body
 - +6 Superhuman Strength
-- Innate Magic or Silver Aura
-- Battle Magic Return x3
 
 ### Master(9th)
 
+*Gets 6 skill points to buy skills from Elemental Skill Pool and General Skill Pool*
+
 - +90 body
 - +9 Superhuman Strength
-- Innate Magic or Silver Aura
-- Battle Magic Return x3
 
 ### Hunter Skill Pool
 
@@ -149,39 +171,43 @@ Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death
 - Cloak Chaos-No Component Cost
 - Spellstrike Destroy Undead x3
 - Arcane Solidify x3
-- Create Stake of Woe x3 (Fades when Transform drops)-No Component Cost-Must Have Stake Rep
+- Create Stake of Woe x3 (Fades when Transform drops) - No Component Cost - Must Have Stake Prop
 - Remove Curse of Transformation x3-No Component Cost
-- Carrier Immunity x3 (As per Cantrip Rules)-No Component Cost
+- Carrier Immunity x3 (As per Cantrip Rules) - No Component Cost
 - Magic Banish x3
 - Natural Armor +30
 - Extra Body +30
 
 ## Naturalist 
 
-(Tyrran Spiritualist, Vital Spirit, Totem Spirit)
+**Choose the type of Naturalist**: Tyrran Spiritualist, Vital Spirit, Totem Spirit
 
-type Specific Ability-Magic Purify Blood
+### All Characters with an Naturalist Transform
+
+- Magic Purify Blood x1
+- Magic Banish x3
+- Cloak Chaos x3
 
 ### Greater(7th)
 
+*Gets 2 skill points to buy skills from Naturalist Skill Pool and General Skill Pool*
+
 - +30 body
 - +3 Superhuman Strength
-- Magic Banish x3
-- Cloak Chaos x3
 
 ### High(8th)
 
+*Gets 4 skill points to buy skills from Naturalist Skill Pool and General Skill Pool*
+
 - +60 body
 - +6 Superhuman Strength
-- Magic Banish x3
-- Cloak Chaos x3
 
 ### Master(9th)
 
+*Gets 6 skill points to buy skills from Naturalist Skill Pool and General Skill Pool*
+
 - +90 body
 - +9 Superhuman Strength
-- Magic Banish x3
-- Cloak Chaos x3
 
 ### Naturalist Skill Pool
 
@@ -201,30 +227,34 @@ type Specific Ability-Magic Purify Blood
 
 ## Undead 
 
-(Death Knight, Lich, Mummy, Vampire, Ghost, Wraith)
+**Choose the type of Undead**: Death Knight, Lich, Mummy, Vampire, Ghost, Wraith)
 
-Type Specific Ability-Magic Wither Limb x3
+### All Characters with an Undead Transform
+
+- Magic Wither Limb x3
+- Magic Drain Life x3
+- Cloak Earth x3
 
 ### Greater(7th)
 
+*Gets 2 skill points to buy skills from Undead Skill Pool and General Skill Pool*
+
 - +30 body
 - +3 Superhuman Strength
-- Magic Drain Life x3
-- Cloak Earth x3
 
 ### High(8th)
 
+*Gets 4 skill points to buy skills from Undead Skill Pool and General Skill Pool*
+
 - +60 body
 - +6 Superhuman Strength
-- Magic Drain Life x3
-- Cloak Earth x3
 
 ### Master(9th)
 
+*Gets 6 skill points to buy skills from Undead Skill Pool and General Skill Pool*
+
 - +90 body
 - +9 Superhuman Strength
-- Magic Drain Life x3
-- Cloak Earth x3
 
 ### Undead Skill Pool
 
@@ -255,29 +285,34 @@ Type Specific Ability-Magic Wither Limb x3
 
 ## Extra-Planar (Fae) 
 
-(Seelie, Unseelie, Dark, Neutral)
+**Choose the type of Fae**: Seelie, Unseelie, Dark, Neutral
 
-all Fae are Immune to Sleep 
+### All Characters with an Extra-Planar (Fae)  Transform
 
-Type Specific Ability-Innate Magic Aura
+- Immune  to Sleep 
+- Innate Magic Aura
+- Magic Fear x3
 
 ### Greater(7th)
 
+*Gets 2 skill points to buy skills from Extra-Planar (Fae) Skill Pool and General Skill Pool*
+
 - +30 body
 - +3 Superhuman Strength
-- Magic Fear x3
 
 ### High(8th)
 
+*Gets 4 skill points to buy skills from Extra-Planar (Fae) Skill Pool and General Skill Pool*
+
 - +60 body
 - +6 Superhuman Strength
-- Magic Fear x3
 
 ### Master(9th)
 
+*Gets 6 skill points to buy skills from Extra-Planar (Fae) Skill Pool and General Skill Pool*
+
 - +90 body
 - +9 Superhuman Strength
-- Magic Fear x3
 
 ### Extra-Planar (Fae) Skill Pool
 
@@ -296,47 +331,51 @@ Type Specific Ability-Innate Magic Aura
 - Non-Corporeal Form
 - Planar Asylum (Grants ability to 5 people, Own Type) x3-No Component Cost
 - Planar Rift x3 (Self, Own Type)-No Component Cost
-- Interpalar Conduit (Self, Own Type) x3-No Component Cost
+- Interplanar Conduit (Self, Own Type) x3-No Component Cost
 - Interplanar Travel (Self, Own Type) x3-No Component Cost
 - Cloak Command x3
 - Cloak Binding x3
 
-**Lesser Fae Curse**: Remove/Curse of the Beholder x3 (Unseelie Only)-This curse causes the player see at random intervals hallucinations of horrible, nameless monsters in the place of players. Hallucination monsters cannot be specific monsters from the monster database like Troll or Death Knight. They can be described in such a manner as to not confuse the player with other monster types: “Having a thousand tentacles and yellow bile coming out of every orifice,” “Thirty blood red eyes protruding from a tortoise shell and crab legs for feet,” “like an inside-out melon gliding on it’s own puss,” and so on. This effect can take place twice on one game day and lasts for five minutes intervals. Incant: “With the eyes of ancients, I curse you to see the world through a darkened veil.”
+**Lesser Fae Curse**: Remove/Curse of the Beholder x3 (Unseelie Only)-This curse causes the player see at random intervals hallucinations of horrible, nameless monsters in the place of players. Hallucination monsters cannot be specific monsters from the monster database like Troll or Death Knight. They can be described in such a manner as to not confuse the player with other monster types: “Having a thousand tentacles and yellow bile coming out of every orifice,” “Thirty blood red eyes protruding from a tortoise shell and crab legs for feet,” “like an inside-out melon gliding on it’s own puss,” and so on. This effect can take place twice on one game day and lasts for five minutes intervals. 
 
-**Lesser Fae Curse**: Remove/Litany Curse x3 (Seelie Only)-This curse causes the player to say a specific phrase at designated periods until removed. The phrase can be up to thirty words of the NPC’s choice (NPC must write it down for the player to use as a cheat sheet). The phrase is keyed off to an event rather that a specific time. You can’t tell the player to say the phrase at 5:30 PM, but you can tell them to say the phrase the first time they see the Regent every day or when the main course of the feast is given to them. Players cannot whisper the phrase, they must say it so at least one person can hear it. The phrase is delivered immediately upon the event that cues the curse. The player only has to say the litany once. Incant: “By my wagging tongue, I curse you to say <phrase here and description when>“
+Incant: “With the eyes of ancients, I curse you to see the world through a darkened veil.”
 
-**Lesser Fae Curse**: Remove/Curse of Disgust x3 (Shadow Court Only)-This curse causes the recipient to become disgusted by a given object, person, or action. Each time the cursed individual sees the object of his disgust they must role-play intense disgust and physical discomfort over it. Incant: "Since you offend me, I curse you to be offended by the sight of <item>"
+**Lesser Fae Curse**: Remove/Litany Curse x3 (Seelie Only)-This curse causes the player to say a specific phrase at designated periods until removed. The phrase can be up to thirty words of the NPC’s choice (NPC must write it down for the player to use as a cheat sheet). The phrase is keyed off to an event rather that a specific time. You can’t tell the player to say the phrase at 5:30 PM, but you can tell them to say the phrase the first time they see the Regent every day or when the main course of the feast is given to them. Players cannot whisper the phrase, they must say it so at least one person can hear it. The phrase is delivered immediately upon the event that cues the curse. The player only has to say the litany once. 
 
-**Lesser Fae Curse**: Remove/Curse of Greed x3 (Neutral Only)This curse causes the recipient to be overcome with greed, they will always claim any treasure for themselves and not be willing to share money or jewelry. They will become covetous of others valuables and may plot to steal them if they so choose. Incant: "By the hoard of the miser, I curse you to desire all riches"
+​	**Incant**: “By my wagging tongue, I curse you to say <phrase here and description when>“
+
+**Lesser Fae Curse**: Remove/Curse of Disgust x3 (Shadow Court Only)-This curse causes the recipient to become disgusted by a given object, person, or action. Each time the cursed individual sees the object of his disgust they must role-play intense disgust and physical discomfort over it. 
+
+​	**Incant**: "Since you offend me, I curse you to be offended by the sight of <item>"
+
+**Lesser Fae Curse**: Remove/Curse of Greed x3 (Neutral Only)This curse causes the recipient to be overcome with greed, they will always claim any treasure for themselves and not be willing to share money or jewelry. They will become covetous of others valuables and may plot to steal them if they so choose. 
+
+**	Incant**: "By the hoard of the miser, I curse you to desire all riches"
 Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.
+
 ## Magical Beasts 
 
 (Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix)
 
-- All Magical Beasts gain 30 natural armor
+### All Characters with an Magical Beasts Transform
+
+- 30 natural armor
+- Innate Magic Aura
+- Battle Magic Return x3
 
 ### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
-- Type Specific Ability
-- Innate Magic Aura
-- Battle Magic Return x3
 
 ### High(8th)
 - +60 body
 - +6 Superhuman Strength
-- Type Specific Ability
-- Innate Magic Aura
-- Battle Magic Return x3
 
 ### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
-- Type Specific Ability
-- Innate Magic Aura
-- Battle Magic Return x3
 
 ### Magical Beasts Skill Pool
 
@@ -358,30 +397,26 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 ## Paragon 
 
 (Greater Race/Class)
+### All Characters with an Paragon Transform
 
-Type Specific Ability-Paragons are Immune to Fear
-
+- Immune to Fear
+- Resist Charm x3
+- Resist Sleep x3
 
 ### Greater(7th)
 
 - +30 body
 - +3 Superhuman Strength
-- Resist Charm x3
-- Resist Sleep x3
 
 ### High(8th)
 
 - +60 body
 - +6 Superhuman Strength
-- Resist Charm x3
-- Resist Sleep x3
 
 ### Master(9th)
 
 - +90 body
 - +9 Superhuman Strength
-- Resist Charm x3
-- Resist Sleep x3
 
 ### Paragon Skill Pool
 
