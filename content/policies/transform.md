@@ -135,7 +135,8 @@ Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death
 
 ### Master(9th)
 
-- +90 body+9 Superhuman Strength
+- +90 body
+- +9 Superhuman Strength
 - Innate Magic or Silver Aura
 - Battle Magic Return x3
 
@@ -304,7 +305,7 @@ Type Specific Ability-Innate Magic Aura
 
 **Lesser Fae Curse**: Remove/Litany Curse x3 (Seelie Only)-This curse causes the player to say a specific phrase at designated periods until removed. The phrase can be up to thirty words of the NPC’s choice (NPC must write it down for the player to use as a cheat sheet). The phrase is keyed off to an event rather that a specific time. You can’t tell the player to say the phrase at 5:30 PM, but you can tell them to say the phrase the first time they see the Regent every day or when the main course of the feast is given to them. Players cannot whisper the phrase, they must say it so at least one person can hear it. The phrase is delivered immediately upon the event that cues the curse. The player only has to say the litany once. Incant: “By my wagging tongue, I curse you to say <phrase here and description when>“
 
-*Lesser Fae Curse*: Remove/Curse of Disgust x3 (Shadow Court Only)-This curse causes the recipient to become disgusted by a given object, person, or action. Each time the cursed individual sees the object of his disgust they must role-play intense disgust and physical discomfort over it. Incant: "Since you offend me, I curse you to be offended by the sight of <item>"
+**Lesser Fae Curse**: Remove/Curse of Disgust x3 (Shadow Court Only)-This curse causes the recipient to become disgusted by a given object, person, or action. Each time the cursed individual sees the object of his disgust they must role-play intense disgust and physical discomfort over it. Incant: "Since you offend me, I curse you to be offended by the sight of <item>"
 
 **Lesser Fae Curse**: Remove/Curse of Greed x3 (Neutral Only)This curse causes the recipient to be overcome with greed, they will always claim any treasure for themselves and not be willing to share money or jewelry. They will become covetous of others valuables and may plot to steal them if they so choose. Incant: "By the hoard of the miser, I curse you to desire all riches"
 Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.
@@ -352,7 +353,7 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Armored to Magic x3
 - Assassinate/Dodge x1 (May only purchase once)
 - Critical Slay/Parry (Can only purchase once)
-- Revive x1 (May only purchase once)A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points
+- Revive x1 (May only purchase once) A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points
 
 ## Paragon 
 
@@ -412,7 +413,7 @@ Type Specific Ability-Paragons are Immune to Fear
 - Claws
 - Innate Elemental Aura
 - Innate Magic Aura
-- Innate Silver Sura
+- Innate Silver Aura
 - Extra Body +30
 - Natural Armor +30
 - Focus
