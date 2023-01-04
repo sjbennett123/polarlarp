@@ -141,7 +141,8 @@ Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death
 
 ### Hunter Skill Pool
 
-- Bane the Dead x3-No Component CostInnate Silver Aura
+- Bane the Dead x3-No Component Cost
+- Innate Silver Aura
 - Healers Grace x3-No Component Cost
 - Magic Destroy Undead x3
 - Cloak Chaos-No Component Cost
@@ -258,7 +259,6 @@ Type Specific Ability-Magic Wither Limb x3
 all Fae are Immune to Sleep 
 
 Type Specific Ability-Innate Magic Aura
-
 
 ### Greater(7th)
 
