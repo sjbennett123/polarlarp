@@ -4,6 +4,11 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 
 ---
+
+{{% notice note %}}
+I added the weaknesses but they still need voted on. I will comment them out in the morning. 
+{{% /notice %}}
+
 ## You Have Become a Monster
 
 All transformed characters are subject to Monster card effects like Celestial PVE playtest. Paragon/Greater Race is not considered a “monster” They embody the traits of legendary heroes of their race but suffer the “monster card” effect for Celestial PVE Playtest
@@ -97,9 +102,7 @@ Transforms grant characters a set amount of points to purchase skills from eithe
 
 - **Master(9th)** gets 6 skill points to spend.
 
-
 Any formal or cantrip effects that are present in the skill list will not require components to use. 
-
 
 ## Elemental
 
@@ -498,28 +501,3 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Natural Armor +30
 - Focus
 - Armored to Magic x3-No Component Cost
-
-
-### Polar Transform Weaknesses
-
-Elemental:
-
-
-Hunter:
-
-
-Undead:
-
-
-Naturalist/Vital Spirit:
-
-
-
-Fae/Extra Planar:
-
-
-Magical Beast:
-
-
-Paragon: 
-?????
