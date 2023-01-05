@@ -110,6 +110,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - 150 Elemental Pool of Chosen Element
 - 30 Elemental (insert element) x3
 - Innate Elemental Aura
+- Double Damage Opposite Type
+- 70 Damage from Banish (Like Destroy to Golem)
 
 ### Greater(7th)
 
@@ -156,6 +158,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - May Cast Regenerate After Killing Blowing the Creature of Hunter Type
 - Battle Magic Return x3
 - Innate Magic or Silver Aura
+- **Weakness** Double Damage from Chaos
+- **Weakness** Double Damage from Ice
 
 ### Greater(7th)
 
@@ -203,6 +207,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Magic Purify Blood x1
 - Magic Banish x3
 - Cloak Chaos x3
+- Double Damage from Chaos
+- Double Damage from Lightning
 
 ### Greater(7th)
 
@@ -250,6 +256,9 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Magic Wither Limb x3
 - Magic Drain Life x3
 - Cloak Earth x3
+- Double Damage from Fire
+- Double Damage from Healing
+
 
 ### Greater(7th)
 
@@ -311,6 +320,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Immune  to Sleep 
 - Innate Magic Aura
 - Magic Fear x3
+- Double Damage from Normal
+- 70 Damage from Banish (Like Destroy to Golem)
 
 ### Greater(7th)
 
@@ -370,6 +381,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - 30 natural armor
 - Innate Magic Aura
 - Battle Magic Return x3
+- Double Damage from Silver
+- Double Damage from Stone
 
 ### Greater(7th)
 
@@ -490,29 +503,23 @@ Any formal or cantrip effects that are present in the skill list will not requir
 ### Polar Transform Weaknesses
 
 Elemental:
-Double Damage Opposite Type
-70 Damage from Banish (Like Destroy to Golem)
+
 
 Hunter:
-Double Damage from  Chaos
-Double Damage from Ice
+
 
 Undead:
-Double Damage from Fire
-Double Damage from Healing
+
 
 Naturalist/Vital Spirit:
-Double Damage from Chaos
-Double Damage from Lightning
+
 
 
 Fae/Extra Planar:
-Double Damage from Normal
-70 Damage from Banish (Like Destroy to Golem)
+
 
 Magical Beast:
-Double Damage from Silver
-Double Damage from Stone
+
 
 Paragon: 
 ?????
