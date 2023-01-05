@@ -2,6 +2,7 @@
 title: "Transform"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+
 ---
 ## You Have Become a Monster
 
@@ -10,12 +11,12 @@ All transformed characters are subject to Monster card effects like Celestial PV
 ## Conditions for Transform Activation
 ### Plot  Activated
 
-Do not ask Plot to “activate” your transform as modules will be written with them in mind or side RP spirit quests will be handled privately.
+Do not ask Plot to “activate” your transform as modules will be written with them in mind or side Roleplay Spirit Quests will be handled privately.
 
 ## Conditions for Transform Deactivation
 ### Plot Deactivated
 
-On conclusion of module or scene.
+On conclusion of module or scene a character's trasnform will deactivate. 
 
 ### Ressurection
 
