@@ -485,3 +485,34 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Natural Armor +30
 - Focus
 - Armored to Magic x3-No Component Cost
+
+
+### Polar Transform Weaknesses
+
+Elemental:
+Double Damage Opposite Type
+70 Damage from Banish (Like Destroy to Golem)
+
+Hunter:
+Double Damage from  Chaos
+Double Damage from Ice
+
+Undead:
+Double Damage from Fire
+Double Damage from Healing
+
+Naturalist/Vital Spirit:
+Double Damage from Chaos
+Double Damage from Lightning
+
+
+Fae/Extra Planar:
+Double Damage from Normal
+70 Damage from Banish (Like Destroy to Golem)
+
+Magical Beast:
+Double Damage from Silver
+Double Damage from Stone
+
+Paragon: 
+?????
