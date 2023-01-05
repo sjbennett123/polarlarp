@@ -83,6 +83,8 @@ Effects exist which may, for limited duration, invoke the full transformation pr
 
 ## Abilities Granted by Transformation
 
+### Static Card
+
 All Transform Base Cards receives a static card with the following boosts that replace themselves per transform level. You take the highest boost as your card base on your Transform level (ex. Master(9th) level gets +9 Superhuman Strength and +90 Body)+3/6/9 Supernatural Strength+30/60/90 Body 3 Type Specific Abilities. 
 
 ### Skill Pools
@@ -99,7 +101,7 @@ Transforms grant characters a set amount of points to purchase skills from eithe
 Any formal or cantrip effects that are present in the skill list will not require components to use. 
 
 
-## Elementals
+## Elemental
 
 **Choose an Elemental Type**: Fire, Ice, Stone, Air, Light, Darkness, Order, Chaos, Dream, Reason, Life, Death, Void, Time
 
@@ -359,7 +361,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 **Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.**
 
-## Magical Beasts 
+## Magical Beast
 
 **Choose the Type of Magical Beast**: Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix
 
