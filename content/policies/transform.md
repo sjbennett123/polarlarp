@@ -6,7 +6,7 @@ draft: false
 ---
 
 {{% notice note %}}
-I added the weaknesses but they still need voted on. I will comment them out in the morning. 
+This is a work in progress any questions or comments talk to the Comitte
 {{% /notice %}}
 
 ## You Have Become a Monster
@@ -97,9 +97,7 @@ All Transform Base Cards receives a static card with the following boosts that r
 Transforms grant characters a set amount of points to purchase skills from either the General Pool or Creature Type Specific Pool. All skills cost 1 point to buy. Several skills can only be purchased once.
 
 - **Greater(7th)** gets 2 skill points to spend.
-
 - **High(8th)** gets 4 skill points to spend.
-
 - **Master(9th)** gets 6 skill points to spend.
 
 Any formal or cantrip effects that are present in the skill list will not require components to use. 
@@ -112,9 +110,10 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 - 150 Elemental Pool of Chosen Element
 - 30 Elemental (insert element) x3
-- Innate Elemental Aura
-- Double Damage Opposite Type
-- 70 Damage from Banish (Like Destroy to Golem)
+- Innate Elemental Aura 
+<!-- - Double Damage Opposite Type --> 
+<!-- - 70 Damage from Banish (Like Destroy to Golem) -->
+
 
 ### Greater(7th)
 
@@ -161,8 +160,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - May Cast Regenerate After Killing Blowing the Creature of Hunter Type
 - Battle Magic Return x3
 - Innate Magic or Silver Aura
-- **Weakness** Double Damage from Chaos
-- **Weakness** Double Damage from Ice
+<!-- - **Weakness** Double Damage from Chaos -->
+<!-- - **Weakness** Double Damage from Ice -->
 
 ### Greater(7th)
 
@@ -210,8 +209,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Magic Purify Blood x1
 - Magic Banish x3
 - Cloak Chaos x3
-- Double Damage from Chaos
-- Double Damage from Lightning
+<!-- - Double Damage from Chaos -->
+<!-- - Double Damage from Lightning -->
 
 ### Greater(7th)
 
@@ -259,8 +258,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Magic Wither Limb x3
 - Magic Drain Life x3
 - Cloak Earth x3
-- Double Damage from Fire
-- Double Damage from Healing
+<!-- - Double Damage from Fire -->
+<!-- - Double Damage from Healing -->
 
 
 ### Greater(7th)
@@ -323,8 +322,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Immune  to Sleep 
 - Innate Magic Aura
 - Magic Fear x3
-- Double Damage from Normal
-- 70 Damage from Banish (Like Destroy to Golem)
+<!-- - Double Damage from Normal -->
+<!-- - 70 Damage from Banish (Like Destroy to Golem) -->
 
 ### Greater(7th)
 
@@ -384,8 +383,8 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - 30 natural armor
 - Innate Magic Aura
 - Battle Magic Return x3
-- Double Damage from Silver
-- Double Damage from Stone
+<!-- - Double Damage from Silver -->
+<!-- - Double Damage from Stone -->
 
 ### Greater(7th)
 
@@ -501,3 +500,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Natural Armor +30
 - Focus
 - Armored to Magic x3-No Component Cost
+---
+### Credits
+Writing and Design: Bill Roman, Chris Colland, Danielle Regula, Erin Albert Jamison, Ian Pergl, Michaiel Kebert, Ron Schultz
+Layout and Editing: Scott Bennett
