@@ -146,7 +146,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ## Hunter 
 
-**Choose hunter's Prey**: Undead, Lycan, Extra Planar, Magical Beast)
+**Choose hunter's Prey**: Undead, Lycan, Extra Planar, Magical Beast
 
 ### All Characters with an Hunter Transform
 
@@ -240,7 +240,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ## Undead 
 
-**Choose the type of Undead**: Death Knight, Lich, Mummy, Vampire, Ghost, Wraith)
+**Choose the type of Undead**: Death Knight, Lich, Mummy, Vampire, Ghost, Wraith
 
 ### All Characters with an Undead Transform
 
@@ -271,29 +271,54 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### Undead Skill Pool
 
-- Magic Create Undead x3
-- Innate Chaos Aura
 - Superhuman Strength +6 (May Only Purchase Once)
-- Cloak Earth x3
-- Magic Death x3
-- 60 Elemental Chaos x3
+
 - Arcane Vampire Charm x3 (May Only Purchase Once)
-- Displacement x3
-- No Metabolism
-- Non-Corporeal Form
-- Magic Fear x3
-- Resist Earth x3
-- Bane Earth x3
-- Magic Weakness x3
-- Magic Curse x3
-- Gaseous Form
-- Defiling Pool 150 x3
-- Natural Armor +30
-- Extra Body +30
+
+---
+
 - Magic Create Undead x3
+
+- Innate Chaos Aura
+
+- Cloak Earth x3
+
+- Magic Death x3
+
+- 60 Elemental Chaos x3
+
+- Displacement x3
+
+- No Metabolism
+
+- Non-Corporeal Form
+
+- Magic Fear x3
+
+- Resist Earth x3
+
+- Bane Earth x3
+
+- Magic Weakness x3
+
+- Magic Curse x3
+
+- Gaseous Form
+
+- Defiling Pool 150 x3
+
+- Natural Armor +30
+
+- Extra Body +30
+
+- Magic Create Undead x3
+
 - Magic Cause Mortal Wounds 40 x3
+
 - Magic Help Undead x3
+
 - Magic Taint Blood x3
+
 - Magic Free Undead x3
 
 ## Extra-Planar (Fae) 
@@ -368,7 +393,7 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 
 ## Magical Beasts 
 
-(Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix)
+**Choose the type of Magical Beast**: Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix
 
 ### All Characters with an Magical Beasts Transform
 
@@ -393,23 +418,38 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 ### Magical Beasts Skill Pool
 
 - Superhuman Strength +6 (May Only Purchase Once)
+- Assassinate/Dodge x1 (May Only Purchase Once)
+- Critical Slay/Parry (May Only Purchase Once)
+- Revive x1 (May Only Purchase Once) A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points
+
+---
+
 - Magic Paralysis x3
+
 - Innate Paralysis Gas x3
+
 - Resist Physical x3
+
 - Magic Charm x3
+
 - Physical Strike Destroy x3
+
 - Magic Dragons Breath 80 x3
+
 - Magic Eldritch Blast x3
+
 - Magic Life x3
+
 - Physical Web x3
+
 - Armored to Magic x3
-- Assassinate/Dodge x1 (May only purchase once)
-- Critical Slay/Parry (Can only purchase once)
-- Revive x1 (May only purchase once) A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points
+
+  
 
 ## Paragon 
 
-(Greater Race/Class)
+**Choose a Race or Class**: Fighter, Templar, Rogue, Wizard, Human, Elf
+
 ### All Characters with an Paragon Transform
 
 - Immune to Fear
@@ -434,8 +474,11 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 ### Paragon Skill Pool
 
 - Superhuman Strength +6 (May Only Purchase Once)
-- Assassinate/Dodge x1 (May only purchase once)
-- Critical Slay/Parry (Can only purchase once)
+- Assassinate/Dodge x1 (May Only Purchase Once)
+- Critical Slay/Parry (May Only Purchase Once)
+
+---
+
 - Carrier Immunity x3 
 - Cloak (choice) x3 Binding, Chaos, Charm Protects from Calm, Command, Curse, Earth, Fire, I Call Forth a(n), Ice, Lightning, Stone, Summoned Force, <Spell Name>
 - Bane (choice) x3 Binding, Chaos, Charm Protects from Calm, Command, Curse, Earth, Fire, I Call Forth a(n), Ice, Lightning, Stone, Summoned Force, <Spell Name>
@@ -445,6 +488,11 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 
 ## General Skill Pool
 
+- Critical Slay/Parry (May Only Purchase Once)
+- Assassinate/Dodge (May Only Purchase Once)
+
+---
+
 - Resist Charm x3
 - Resist Poison x3
 - Resist Sleep x3
@@ -453,8 +501,6 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 - Rip From Binding x3
 - Return x3
 - Superhuman Strength +3
-- Critical Slay/Parry (Can only purchase once)
-- Assassinate/Dodge (Can only purchase once)
 - Magic Earth Spell (Any Level) x3
 - Magic Celestial Spell (Any Level) x3
 - Regenerate x3
