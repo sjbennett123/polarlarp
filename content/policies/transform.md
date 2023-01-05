@@ -273,53 +273,31 @@ Any formal or cantrip effects that are present in the skill list will not requir
 ### Undead Skill Pool
 
 - Superhuman Strength +6 (May Only Purchase Once)
-
 - Arcane Vampire Charm x3 (May Only Purchase Once)
 
 ---
 
 - Magic Create Undead x3
-
 - Innate Chaos Aura
-
 - Cloak Earth x3
-
 - Magic Death x3
-
 - 60 Elemental Chaos x3
-
 - Displacement x3
-
 - No Metabolism
-
 - Non-Corporeal Form
-
 - Magic Fear x3
-
 - Resist Earth x3
-
 - Bane Earth x3
-
 - Magic Weakness x3
-
 - Magic Curse x3
-
 - Gaseous Form
-
 - Defiling Pool 150 x3
-
 - Natural Armor +30
-
 - Extra Body +30
-
 - Magic Create Undead x3
-
 - Magic Cause Mortal Wounds 40 x3
-
 - Magic Help Undead x3
-
 - Magic Taint Blood x3
-
 - Magic Free Undead x3
 
 ## Extra-Planar (Fae) 
@@ -391,7 +369,6 @@ Incant: “With the eyes of ancients, I curse you to see the world through a dar
 
 ​	**Incant**: "By the hoard of the miser, I curse you to desire all riches"
 Lesser Fae Curses are intended to force a role-play condition onto a character using the power of the Fae connection via transform.
-
 ## Magical Beasts 
 
 **Choose the type of Magical Beast**: Lycan, Giant, Mind Flayer, Beholder, Hydra, Dragon, Phoenix
@@ -426,26 +403,15 @@ Lesser Fae Curses are intended to force a role-play condition onto a character u
 ---
 
 - Magic Paralysis x3
-
 - Innate Paralysis Gas x3
-
 - Resist Physical x3
-
 - Magic Charm x3
-
 - Physical Strike Destroy x3
-
 - Magic Dragons Breath 80 x3
-
 - Magic Eldritch Blast x3
-
 - Magic Life x3
-
 - Physical Web x3
-
 - Armored to Magic x3
-
-  
 
 ## Paragon 
 
