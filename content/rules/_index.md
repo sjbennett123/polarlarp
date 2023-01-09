@@ -10,7 +10,7 @@ weight: 2
 
 # Chapter 1 : Getting Started
 
-## Introduction
+## Introduction - A new change
 
 I call upon chaos to create undead! Arise, my minions! Arise and slay them all!” The voice of the necromancer echoed like a funeral song through the cave, bouncing off the walls and ringing in our ears. We could not see her beyond the flickering light of our torch, and at first it seemed as though nothing had happened. I exchanged a few glances with my companions but found little confidence in their nervous expressions. Tightening my grip on my sword and drawing my shield closer to my chest, I strained my eyes to see into the pitch-black tunnel before me. Slowly, as though the noise was being dredged up from the heart of the cave, the soft sound of feet dragging along gravel and rocks being scratched sifted into our ears. I looked at my companions and saw looks of dismayed realization cross over their faces. The necromancer’s spell had worked.
 
