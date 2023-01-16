@@ -54,3 +54,25 @@ Run with it to a degree. Don’t just shoot it down
 - Starting of Healer’s Guild of Elysia in Stonewood with a sneaky pete as the guild master or mistress.
 - Six green bipedal dragon-like creatures (I have six green dragon masks) part of the Orc/ Morumbrian plot.
 - Big mouse in the grain house, Townsfolk need help to rid their grain house of Giant Mice, follow them into the sewer and destroy their nest.  (New Player Module)
+- [New player modual] A nest of Giant Spiders has been found. These spiders are not just beasts, but intelligent. It's up to the players how to proceed.
+- A merchant has come to town! This merchant is a happy, go lucky fellow willing to haggle and deal. Will buy or sell almost anything. NPC must be informed on current prices and exchange rates
+- A new currency is made! Due to overt violence, the currency of the land has become scarce. In response to this, the dwarves have made their own currency out of the raw materials of the land. The dwarves will trade readily with this currency, but no other native will.
+- A flimsy door covers the entrance to a cave filled with orcs. The riddle on the door is simple and crude. “Shout answer to open!” is written under the riddle. The door is unlocked and all the shouting does is alert the orcs.
+- A killer is terrorizing a district of the city. Everyday a notice is posted when no one is watching detailing the time the murder will take place. No one has caught sight of them. Rumor abounds of a ghost, vampire, or a werewolf culprit.
+- Gold Tenders Union- A place where PC's can go to exchange gold for larger coin, and to get items appraised and exchange for coin.
+- A fast talking wild elf comes to town. The elf loves to gamble and will gamble with the PC's, dropping information and mod hooks.
+- Colorful eggs are found around town. Each egg contains a treat, a coin, a rumor, some kind of small prize. 
+- A giant wererabbit is seen with a basket. The source of the eggs! Loot, kill, talk, or trick the rabbit for an egg drop.
+- Werewolves have moved into the area, with the  goal of selecting good stock to increase the pack. They come suddenly and without warning after dark to attack and grow their pack.
+- Two competing treasure seekers enlist two different groups to go after the same treasure. Both treasure seekers hate each other.
+- A painting is retrieved with a stash of treasure. Under the painting (scratch board) is another painting, this one a map of the local area with an X marking a spot.
+- [New Player Modual] A group is tasked with delivering a letter across the city. 
+- A locket is found on the body of a poor, slain cheese maker.
+- A dwarf and orc are found in a cave together. Unlikely friends, they decided they would rather live in a cave then risk anyone finding out
+- A large monster has found a wandering child and has taken to protecting it. It possesses no intelligence except that of an animal. The PC's are tasked with tracking and rescuing the child.
+- A Biatia in the Library- A bi speckled, frazzled librarian asks for help retrieving stolen books. Said books are about how to open portals.
+- Upon retrieving stolen books, it becomes apparent that darker things are afoot
+- A flock of crows are eating the seed as soon as its planted! The scarecrow is ineffective. A farmer posts a “Help wanted” sign on the board.
+- A mod containing traps, warnings, and a puzzle box
+- Escort a Dwarven jeweler through orc territory
+- A thief is leaving calling cards at the sight of very theft. Some are left in blood.
