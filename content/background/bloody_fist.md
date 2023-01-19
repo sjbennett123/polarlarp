@@ -103,34 +103,54 @@ The Bloody Fist are known to defend the Banner fiercely and not be drawn away un
 
 
 
-# Notable Members of the Bloody Fist
+# Current Structure of the Bloody Fist
+o Generals: 
+o 
+o High Shamans: Strum Skyburner (Celestial Avatar of the Sky), Nur’gal Bloodbane (Earth 
+Necromancer), Uktena Wolvesbane (Earth Spirit Healer)
+o Raid Leaders: Gnar the Black Fury, Skindancer the Cruel, Wendigo the White Howler
 
-##   Ahon the Hope-Flayer Bloody Fist Warlord
+Svoul the Silent Strider is the 4th one who turns on them. He is like an assassin type who was brought into the Bloody Fist in an unpleasant way so he has been bidding his time for revenge on them
 
-##   Gimfang Skyrender Bloody Fist General
+##   Warlord 
 
-##   Bonesaw
+### Ahon the Hope-Flayer 
 
-# Common Classifications of Bloody Fist Warriors
+## Generals
 
-##   Honor Guard
+### Gimfang Skyrender
 
-##   High Shaman
+### Val’Kaz the Ruthless
 
-##   Raid Leader
+### Mal-Valoance the Devourer
 
-##   Bloody Fist Grunt
+### Svoul the Silent Strider
+
+## Honor Guard: 
+
+Nameless Soldiers, They all give up their names to serve the Bloody Fist. 
+High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. 
+
+## High Shamans
+
+### Strum Skyburner (Celestial Avatar of the Sky)
+
+### Nur’gal Bloodbane (Earth Necromancer)
+
+### Uktena Wolvesbane (Earth Spirit Healer)
 
 
+## Raid Leaders
 
+### Gnar the Black Fury
 
-# Optional Encouters
+### Skindancer the Cruel
 
+### Wendigo the White Howler
 
+### Bonesaw
 
-
-
----
+--- 
 
 # NPCing Advice
 
