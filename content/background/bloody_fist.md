@@ -9,9 +9,6 @@ draft: false
 
 ![/bloodyfist.svg](/bloodyfist.svg)
 
-
----
-
 These notes have been collected at great personal cost by the reformed Black Anvil Company . Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
 
 # Motivations
@@ -22,15 +19,33 @@ We have seen that they employ whatever savage tactics to win they see fit. If th
 
 We believe that they can be settled with on terms but they would be very one sided and demand 20 years of suffering for Stonewood if they were to accept. Plus the deaths of all nobility responsible in the previous war.
 
-## A Dark Bargain with the Black Shadow
+# A Dark Bargain with the Black Shadow
 
-This information has been provided by a confidential source. 
+This information has been provided by a confidential source. This tale has been repeated around the fires of the Bloody Fist. 
 
 A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn Hope-Flayer. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.
 
 # Dragon Orcs
 
-The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war
+The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war. They are made this way by the ritual that was gifted by the black shadow the process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. that shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen
+
+ - Scowl
+ - Gruff Speech
+ - cut people off when they are talking
+ - Revel in making people uncomfortable
+ - Roar when entering into battle
+
+## Makeup
+
+![img](/bloody_fist_makeup.jpeg)
+
+https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
+
+https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0
+
+Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
+
+https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
 
 # The History of the Bloody Fist
 
@@ -46,15 +61,15 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 
 ### The Accords of the Fist
 
+### The Pledge of Servitude
+
 ### The Appointing of a Puppet Mayor
-
-
 
 # Practices of the Bloody Fist
 
 ## Casters Always Travel in Pairs
 
-- Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Earth Caster in each squadron that is assigned casters.
+Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Earth Caster in each squadron that is assigned casters.
 
 ## The Banner of the Fist
 
@@ -90,20 +105,7 @@ The Bloody Fist defend the Banner fiercely and not be drawn away easily unless p
 
 [/orc_name_list.pdf](/orc_name_list.pdf)
 
-##   Ferocity
 
-Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. that shortness of temper and lack of patience. That is what being an orc is like.
-You just can't think and it makes you furious that others can. Always have a chip on your sholder.
-
- \- Scowl
- \- cut people off when they are talking
- \- Revel in making people uncomfortable
-
-Speaking as an orc - Gruff
-
-Because of that fury and lack of restraint the resentment that others have is often well founded but it is still resentment.  
-
-​    Remember to roar
 
 
 ##   Using War Drums
@@ -133,17 +135,7 @@ Because of that fury and lack of restraint the resentment that others have is of
 ---
 ##   Scouting tips
 
-##   Makeup
 
-![img](/bloody_fist_makeup.jpeg)
-
-https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
-
-https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0
-
-Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
-
-https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
 
 ---
 
