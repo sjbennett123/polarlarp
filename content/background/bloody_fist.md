@@ -8,7 +8,11 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 ![/bloodyfist.svg](/bloodyfist.svg)
 
-These notes have been collected at great personal cost by the reformed Black Anvil Company . Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
+These notes have been collected at great personal cost by the reformed Black Anvil Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
+
+[TOC]
+
+
 
 # Motivations
 
@@ -38,21 +42,20 @@ The orcs that we see have been conscripted they have family back home they will 
 
 ## Makeup
 
+
+
+![img](/bloody_fist_makeup.jpeg)
+
+- [Makeup Sponge Mini Applicator Wedges](https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1)
+
+- [Go Ho Red Face Body Paint Makeup](https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0)
+- [Mermaid Scale Stencil](https://www.amazon.com/dp/B0B31D43B4?ref=ppx_pop_mob_ap_share&th=1) 
+
 The red tribal design is said to be a mixture of human dwarf and elf blood
 
 The white is ground up bone used during their rebirth ritual.
 
 The black scales are present due to some Deal they have with “the Black Shadow”
-
-![img](/bloody_fist_makeup.jpeg)
-
-https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
-
-https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0
-
-Go Ho Red Face Body Paint Makeup,Creamy to Gel Water Based Red Devil Makeup Body Painting Full Coverage for Adults Children Cosplay SFX Costumes Festivals Halloween,Non Toxic,25g
-
-https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1
 
 # The History of the Bloody Fist
 
@@ -72,28 +75,30 @@ The Accords of the Fist were agreed to by the townspeople as part of he parlay w
 
 - No weapons on person or drawn
 - No spells in hand
-- No verbal condensation of Orcish Might
+- No verbal condemnation  of Orcish Might
 - Kneel or bow at the Bloody Fist Banners
 - Attend the pledge of freedom and tithe nightly
+
+![accords_of_the_fist.jpg](/accords_of_the_fist.jpg)
 
 ### The Pledge of Servitude
 
 Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe.  
 The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away of in infirm health another member of the citizenry will perform this ceremony. Each of the townspeople that are able will join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
-The mighty bloody fist is benevolent.
+*The mighty Bloody Fist is benevolent.*
 
-The mighty bloody fist is kind.
+*The mighty Bloody Fist is kind.*
 
-The mighty bloody fist is gentle.
+*The mighty Bloody Fist is gentle.*
 
-We accept our place below the mighty orc. {bow}
+We accept our place below the mighty orc. **{bow}**
 
-We offer now our meager tribute though we know it will never be enough.
+*We offer now our meager tribute though we know it will never be enough.*
 
-The great orc horde watches over us.
+*The great orc horde watches over us.*
 
-The great orc horde protects us.
+*The great orc horde protects us.*
 
 ### The Appointing of a Puppet Mayor
 
@@ -108,21 +113,26 @@ Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Eart
 
 ![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
 
-The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When  
+The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When a great victory is had the most powerful warriors are sacrificed by the shamans and their spirits are imbued in the banners. This is not a punishment of any sort it is a great reward to be with their brothers offering strength forevermore.  Before every meal the orcs give an offering to thier fallen brothers by pouring one out at the banner of the fist.
 
-Before every meal the orcs give an offering to thier fallen brothers by pouring one out at the banner of the fist.
+When the Bloody Fist enters battle, the banner of the Blood Fist is planted in the ground. By channeling the trapped spirit within the banner the warriors within 10 Feet of the banner can receive **The Blessing of he Bloody Fist**. The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes. The banner can be destroyed on a 15 count of Counted Action of “I destroy the Banner 1.....” 
 
-When they enter the battlefield, they carry a banner of the Blood Fist and plant it before rushing into battle. If they fight within 10 ft of the Banner they receive the Blessing of the Bloody Fist. The Blessing is as follows:
+## 
 
-**Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 ft of the Standard swing an additional 5 damage on weapons, they can regenerate 20 Body on a 5 Count of “I drink your blood... X” and finally they may rip from binding as per Rip From Binding Strong trait an unlimited number of times within 10 ft of the Banner.
+**Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 Feet of the Banner. 
 
-The banner can be destroyed on a 15 count of Un-Interrupted Role-Play of “I destroy the Banner 1.....” 
-
-The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes.
+- swing an additional 5 damage on weapons
+- can regenerate 20 Body on a 5 Count of “I drink your blood... X” and 
+- may rip from binding as per Rip From Binding Strong trait an unlimited number of times
 
 ## The Ritual of the Fire Drakes
 
+![fire_drake_masks.jpg](/fire_drake_masks.jpg)
+
+
 ## Fear of the Black Shadow
+
+
 
 ## War Drums and War Horns
 
@@ -133,6 +143,8 @@ The Bloody Fist are known to defend the Banner fiercely and not be drawn away un
 ##   Warlord 
 
 ### Ahon the Hope-Flayer 
+
+“He stands tall like a tree, covered in animal furs and a Wolves head on his, burning Orange Eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what It means to be called a warrior…”
 
 ## Generals
 
@@ -166,7 +178,7 @@ Nameless Soldiers, They all give up their names to serve the Bloody Fist. High S
 
 ### Bonesaw
 
---- 
+---
 
 # NPCing Advice
 
@@ -186,7 +198,7 @@ They are not above capturing PCs and taking prisoners. Some Bloody Fist NPCs wil
 ---
 
 ---
-![accords_of_the_fist.jpg](/accords_of_the_fist.jpg)
+
 
 
 ---

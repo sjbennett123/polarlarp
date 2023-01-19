@@ -502,5 +502,6 @@ Any formal or cantrip effects that are present in the skill list will not requir
 - Armored to Magic x3-No Component Cost
 ---
 ### Credits
-Writing and Design: Bill Roman, Chris Colland, Danielle Regula, Erin Albert Jamison, Ian Pergl, Michaiel Kebert, Ron Schultz
-Layout and Editing: Scott Bennett
+**Writing and Design**: Bill Roman, Chris Colland, Danielle Regula, Erin Albert Jamison, Ian Pergl, Michaiel Kebert, Ron Schultz
+
+**Layout and Editing**: Scott Bennett

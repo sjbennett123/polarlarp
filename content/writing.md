@@ -25,7 +25,7 @@ weight: 1
 POLAR Event directors requirements:  
 
 1. You must work with you Review. 
-2. No none standard effects. Anything you want to try to do that could be none standard please reach out to Clinton or myself and we will find a way to make it standard 
+2. No none standard effects. Anything you want to try to do that could be none standard please reach out to Clinton or Donnie and they will find a way to make it standard. 
 3. Your full event should be reviewed 2 weeks in advance before your event. Your event should have a minimum of 30 encounters. An encounter can be can be as simple as an Npc that Entertains multiple PCs at a time.
 4. Events should include have puzzles, ciphers, none combat skill usage, and transform acquisition mods.
 5. Use of my standard mod sheet. The mod sheet makes it easier for a shack person or anyone who has permission to run a mod for you can pick it up and set up and run quickly. Devin
