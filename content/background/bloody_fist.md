@@ -16,7 +16,7 @@ These notes have been collected at great personal cost by the reformed Black Anv
 
 # Motivations
 
-While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Thier driving goal is Vengeance for the extinction they almost faced 20 years ago. From the ashes thier whole society has been formed around resentment and hate. The time to settle this was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle glory. 
+While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Their driving goal is Vengeance for the extinction they almost faced 20 years ago. From the ashes their whole society has been formed around resentment and hate. The time to settle this was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle glory. 
 
 We have seen that they employ whatever savage tactics to win they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
 
@@ -130,7 +130,7 @@ Because of that fury and lack of restraint the resentment that others have is of
 
 ##   Bonesaw's Black Site
 
---- 
+---
 ##   Scouting tips
 
 ##   Makeup
