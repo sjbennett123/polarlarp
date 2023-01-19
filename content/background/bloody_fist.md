@@ -129,13 +129,6 @@ The Bloody Fist are known to defend the Banner fiercely and not be drawn away un
 
 
 # Current Structure of the Bloody Fist
-o Generals: 
-o 
-o High Shamans: Strum Skyburner (Celestial Avatar of the Sky), Nur’gal Bloodbane (Earth 
-Necromancer), Uktena Wolvesbane (Earth Spirit Healer)
-o Raid Leaders: Gnar the Black Fury, Skindancer the Cruel, Wendigo the White Howler
-
-Svoul the Silent Strider is the 4th one who turns on them. He is like an assassin type who was brought into the Bloody Fist in an unpleasant way so he has been bidding his time for revenge on them
 
 ##   Warlord 
 
@@ -151,11 +144,6 @@ Svoul the Silent Strider is the 4th one who turns on them. He is like an assassi
 
 ### Svoul the Silent Strider
 
-## Honor Guard: 
-
-Nameless Soldiers, They all give up their names to serve the Bloody Fist. 
-High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. 
-
 ## High Shamans
 
 ### Strum Skyburner (Celestial Avatar of the Sky)
@@ -164,6 +152,9 @@ High Shaman and Up are escorted around by them. They follow orders to the letter
 
 ### Uktena Wolvesbane (Earth Spirit Healer)
 
+## Honor Guard
+
+Nameless Soldiers, They all give up their names to serve the Bloody Fist. High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. 
 
 ## Raid Leaders
 
