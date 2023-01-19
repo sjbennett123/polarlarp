@@ -13,7 +13,7 @@ These notes have been collected at great personal cost by the reformed Black Anv
 
 # Motivations
 
-While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Their driving goal is Vengeance for the extinction they almost faced 20 years ago. From the ashes their whole society has been formed around resentment and hate. The time to settle this was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle glory. 
+While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Their driving goal is Vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has been formed around resentment and hate. The time to resolve this emnity was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle glory. 
 
 We have seen that they employ whatever savage tactics to win they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
 
@@ -35,7 +35,15 @@ The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, mo
  - Revel in making people uncomfortable
  - Roar when entering into battle
 
+The orcs that we see have been conscripted they have family back home they will talk about them.
+
 ## Makeup
+
+The red tribal design is said to be a mixture of human dwarf and elf blood
+
+The white is ground up bone used during their rebirth ritual.
+
+The black scales are present due to some Deal they have with “the Black Shadow”
 
 ![img](/bloody_fist_makeup.jpeg)
 
@@ -65,6 +73,8 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 
 ### The Appointing of a Puppet Mayor
 
+The beloved mayor Stoneaxe was publically executed. new Mayor Installed. Shaved his beard.
+
 # Practices of the Bloody Fist
 
 ## Casters Always Travel in Pairs
@@ -75,9 +85,9 @@ Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Eart
 
 ![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
 
-The banner of the fist is consecrated with the blood of the orcs that bear it into battle
+The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When  
 
-Before every meal the orcs will give an offering to thier fallen brothers by pouring one out at the banner of the fist.
+Before every meal the orcs give an offering to thier fallen brothers by pouring one out at the banner of the fist.
 
 When they enter the battlefield, they carry a banner of the Blood Fist and plant it before rushing into battle. If they fight within 10 ft of the Banner they receive the Blessing of the Bloody Fist. The Blessing is as follows:
 
@@ -85,40 +95,25 @@ When they enter the battlefield, they carry a banner of the Blood Fist and plant
 
 The banner can be destroyed on a 15 count of Un-Interrupted Role-Play of “I destroy the Banner 1.....” 
 
-The Bloody Fist defend the Banner fiercely and not be drawn away easily unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes.
+The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes.
 
 ## The Ritual of the Fire Drakes
 
 ## Fear of the Black Shadow
 
+## War Drums and War Horns
 
 
 
-
-
-
----
-
-# NPCing Advice
-
-##   Orc name List
-
-[/orc_name_list.pdf](/orc_name_list.pdf)
-
-
-
-
-##   Using War Drums
-
-##   Using a War Horn
-
-# Common Roles and Named Characters
+# Notable Members of the Bloody Fist
 
 ##   Ahon the Hope-Flayer Bloody Fist Warlord
 
 ##   Gimfang Skyrender Bloody Fist General
 
 ##   Bonesaw
+
+# Common Classifications of Bloody Fist Warriors
 
 ##   Honor Guard
 
@@ -128,12 +123,25 @@ The Bloody Fist defend the Banner fiercely and not be drawn away easily unless p
 
 ##   Bloody Fist Grunt
 
+
+
+
 # Optional Encouters
 
-##   Bonesaw's Black Site
+
+
+
 
 ---
-##   Scouting tips
+
+# NPCing Advice
+
+## Orc name List
+
+[/orc_name_list.pdf](/orc_name_list.pdf)
+
+---
+## Scouting tips
 
 
 
@@ -148,12 +156,24 @@ They are not above capturing PCs and taking prisoners. Some Bloody Fist NPCs wil
 
 
 ---
+## Bonesaw's Black Site
+
 ## Orc Smalltalk
 orc stories around the campfire
 
 orc songs - like rugby songs
+http://www.beerandrugby.com/rugbysongs.html
+(After Game Celebration Song)
 
-the orcs that we see have been conscripted they have family back home they will talk about them.
+Glad, glad, very, very glad;
+I am a gladiator.
+Ancient Rome is my home,
+I go down to the hippodrome.
+Glad, glad, very, very glad,
+From my head down to my toes.
+My old mans a dustman,
+And this is how it goes......
+(Pick 'Player of The Match' and you give him a good shoeing)
 
 Gossip about the generals. Opinions and hte like
 
