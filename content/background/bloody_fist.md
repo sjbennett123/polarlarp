@@ -129,6 +129,13 @@ When the Bloody Fist enters battle, the banner of the Blood Fist is planted in t
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)
 
+They are Greenish/red Fire Drakes. They are from the flame plane. They are morphed into Draconic looking figures cause the ritual from Rygalius/Black Shadow.
+
+They are just incredibly destructive and follow who summoned them to complete their taste or scorching things. They breath a fire that will actually burn Stonewood cause it’s magic dragon stuff
+
+Fast Moving
+
+Do not speak just grunt and growl 
 
 ## Fear of the Black Shadow
 
