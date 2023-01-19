@@ -68,7 +68,32 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 
 ### The Accords of the Fist
 
+The Accords of the Fist were agreed to by the townspeople as part of he parlay with the brutal Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
+
+- No weapons on person or drawn
+- No spells in hand
+- No verbal condensation of Orcish Might
+- Kneel or bow at the Bloody Fist Banners
+- Attend the pledge of freedom and tithe nightly
+
 ### The Pledge of Servitude
+
+Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe.  
+The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away of in infirm health another member of the citizenry will perform this ceremony. Each of the townspeople that are able will join around a banner of the bloody fist and recite the Pledge of Servitude. 
+
+The mighty bloody fist is benevolent.
+
+The mighty bloody fist is kind.
+
+The mighty bloody fist is gentle.
+
+We accept our place below the mighty orc. {bow}
+
+We offer now our meager tribute though we know it will never be enough.
+
+The great orc horde watches over us.
+
+The great orc horde protects us.
 
 ### The Appointing of a Puppet Mayor
 
