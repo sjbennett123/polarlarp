@@ -60,7 +60,7 @@ Event Registration closes the week before an event on Friday.
 
 **Event Director**: Clinton Russell Snyder 
 
-### April 7
+### April 14
 
 **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
 
