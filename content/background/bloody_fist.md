@@ -1,9 +1,8 @@
-
 ---
 title: "Bloody Fist"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-# https://github.com/sjbennett123/polarlarp/blob/main/content/background/bloody_fist.md
+github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/background/bloody_fist.md
 
 ---
 
@@ -74,7 +73,6 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 ### The Appointing of a Puppet Mayor
 
 The beloved mayor Stoneaxe was publically executed. new Mayor Installed. Shaved his beard.
-
 # Practices of the Bloody Fist
 
 ## Casters Always Travel in Pairs
