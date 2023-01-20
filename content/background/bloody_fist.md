@@ -152,7 +152,7 @@ This tale has been repeated around the campfires of the Bloody Fist. A legend of
 
 ### Generals
 
-#### Gimfang Skyrender
+#### Gimfang the Skyrender
 
 #### Val’Kaz the Ruthless
 
