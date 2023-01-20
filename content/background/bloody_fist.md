@@ -10,9 +10,6 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 These notes have been collected at great personal cost by the reformed Black Anvil Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
 
-[TOC]
-
-
 
 # Motivations
 
@@ -24,9 +21,9 @@ We believe that they can be settled with on terms but they would be very one sid
 
 # A Dark Bargain with the Black Shadow
 
-This information has been provided by a confidential source. This tale has been repeated around the fires of the Bloody Fist. 
+This tale has been repeated around the campfires of the Bloody Fist. A legend of thier rebirth as a new horde. 
 
-A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn Hope-Flayer. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.
+*A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
 
 # Dragon Orcs
 
@@ -55,7 +52,7 @@ The red tribal design is said to be a mixture of human dwarf and elf blood
 
 The white is ground up bone used during their rebirth ritual.
 
-The black scales are present due to some Deal they have with “the Black Shadow”
+The black scales are present due to the deal they have with The Black Shadow
 
 # The History of the Bloody Fist
 
