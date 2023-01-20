@@ -83,7 +83,8 @@ The Accords of the Fist were agreed to by the townspeople as part of he parlay w
 
 ### The Pledge of Servitude
 
-Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe.  
+Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe. 
+
 The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away of in infirm health another member of the citizenry will perform this ceremony. Each of the townspeople that are able will join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
 *The mighty Bloody Fist is benevolent.*
@@ -92,7 +93,7 @@ The Accords of the Fist mandate that the town give an offering every day. This i
 
 *The mighty Bloody Fist is gentle.*
 
-We accept our place below the mighty orc. **{bow}**
+*We accept our place below the mighty orc.* **{bow}**
 
 *We offer now our meager tribute though we know it will never be enough.*
 
@@ -115,27 +116,19 @@ Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Eart
 
 The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When a great victory is had the most powerful warriors are sacrificed by the shamans and their spirits are imbued in the banners. This is not a punishment of any sort it is a great reward to be with their brothers offering strength forevermore.  Before every meal the orcs give an offering to thier fallen brothers by pouring one out at the banner of the fist.
 
-When the Bloody Fist enters battle, the banner of the Blood Fist is planted in the ground. By channeling the trapped spirit within the banner the warriors within 10 Feet of the banner can receive **The Blessing of he Bloody Fist**. The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes. The banner can be destroyed on a 15 count of Counted Action of “I destroy the Banner 1.....” 
-
-## 
+When the Bloody Fist enters battle, the banner of the Blood Fist is planted in the ground. By channeling the trapped spirit within the banner the warriors within 10 Feet of the banner can receive **The Blessing of he Bloody Fist**. The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes. The banner can be destroyed on a 15 count Counted Action of “I destroy the Banner 1.....”.
 
 **Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 Feet of the Banner. 
 
-- swing an additional 5 damage on weapons
-- can regenerate 20 Body on a 5 Count of “I drink your blood... X” and 
-- may rip from binding as per Rip From Binding Strong trait an unlimited number of times
+- Swing an additional 5 damage on weapons.
+- Regenerate 20 Body on a 5 Count of “I drink your blood... X”. 
+- Rip from binding as per **Rip From Binding** Strong Trait an unlimited number of times.
 
 ## The Ritual of the Fire Drakes
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)
 
-They are Greenish/red Fire Drakes. They are from the flame plane. They are morphed into Draconic looking figures cause the ritual from Rygalius/Black Shadow.
-
-They are just incredibly destructive and follow who summoned them to complete their taste or scorching things. They breath a fire that will actually burn Stonewood cause it’s magic dragon stuff
-
-Fast Moving
-
-Do not speak just grunt and growl 
+They are Greenish/red Fire Drakes from the flame plane. They are morphed into Draconic looking figures cause the ritual from the Black Shadow. They are incredibly destructive and follow who summoned them to complete their taste or scorching things. They breathe a fire that will actually burn Stonewood. They are Fast Moving and do not speak just grunt and growl.
 
 ## Fear of the Black Shadow
 
