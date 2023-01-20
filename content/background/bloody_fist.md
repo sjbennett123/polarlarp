@@ -10,8 +10,7 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 These notes have been collected at great personal cost by the reformed Black Anvil Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
 
-
-# Motivations
+## Motivations
 
 While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has been formed around resentment and hate. The time to resolve this emnity was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
@@ -228,16 +227,8 @@ During the occupation of the town of Stonewood the Bloody Fist introduced  an in
 
 They are not above capturing PCs and taking prisoners. Some Bloody Fist NPCs will be given specific targets to capture certain PCs or NPCs in town they players can defend. Most captured NPCs are killed brutally unless it is a plot hook. PCs will be “held in a prison” until they are able to be rescued or the player choose to persue the Bloody Fist and raid a camp with a follow up module but these are NOT easy to assault a Bloody Fist encampment. The camps normally have casters and soldiers on standby awaiting a returning Raiding party. The Earth Casters of the Bloody Fist love to raise the dead of the PCs and important NPCs as Undead and send them into town to attack for the sheer horror, a cruel payback tactic of the humiliation they face in the last war
 
----
-
----
 
 
-
----
-## Bonesaw's Black Site
-
-## Orc Smalltalk
 orc stories around the campfire
 
 orc songs - like rugby songs
