@@ -149,9 +149,13 @@ They are Greenish/red Fire Drakes from the flame plane. They are morphed into Dr
 
 ### Val’Kaz the Ruthless
 
+Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. 
+
 ### Mal-Valoance the Devourer
 
 ### Svoul the Silent Strider
+
+A mighty assassin. Nobody knows where he will strike.
 
 ## High Shamans
 
@@ -173,7 +177,31 @@ Nameless Soldiers, They all give up their names to serve the Bloody Fist. High S
 
 ### Wendigo the White Howler
 
-### Bonesaw
+## Other Notables
+
+### Bonesaw the Jailor
+
+Known for his brutal ways of blood sacrifice. Some don’t care for for his approach but his favor with Ahon means he cannot be challenged. The warlord favors his methods because they bring results.
+
+#### The Final Comfort
+
+Captives of the Bloody Fist are offered a choice to die or accept the caress of the fist. They should have chosen death. The poor souls that have chosen are then bound and a deadly magic is inflicted upon them. This magic creates terrible creatures from their pain. The creatures are bound to the area nearby the poor captive but are fearsome foes. The Bloody fist get a particular glee from the suffering that this causes.
+
+### Orcamedies
+
+The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He attempted to join the Bloody Fist but rather than take him in the bloody fist took the only part they needed of him his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
+
+#### Ballista
+
+A powerful Ballista made of stonewood that can fire specially made bolts that can penetrate even the most powerful strucutre. 
+
+#### Spirit Bomb
+
+A powerful weapon that has been developed in secret it feeds off the marinated spirits of 6 powerful orc warriors who are allowing themselves to be transferred to a fearsome contraption that will force the will of those orcs upon all those who are within 30 miles of the detonation. The infusion of orcish energy will sway the minds of those who are affected to be sympathetic to the orcish cause. 
+
+#### The Gnawing Ones
+
+During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive woodborne pest that fed on the roots of the mighty stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow. 
 
 ---
 
