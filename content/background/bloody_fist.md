@@ -19,9 +19,9 @@ We have seen them employ whatever savage tactics  they see fit. If they are comm
 We believe that they can be settled with on terms but they will be very one sided the Bloody Fist will  demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
 
 
-# The History of the Bloody Fist
+## The History of the Bloody Fist
 
-## The Great Orc War and Defeat
+### The Great Orc War and Defeat
 
 The Bloody Fist tribe waged a bloody war 20 some years ago against Stonewood and the heroes of Elysia. The war was very long and bloody, but in the end the Blood Fist was defeated.
 
@@ -29,18 +29,18 @@ The heroes of Elysia killed their Warlord and put the remainder of the bloody fi
 
 Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe sanity and will to live.
 
-## The Time Between the Wars
+### The Time Between the Wars
 
 
 
-## The Coming of the Urakhai
+### The Coming of the Urakhai
 
 
-## The Taking of Stonewood
+### The Taking of Stonewood
 
 The taking of stonewood was fast and brutal. Anyone that did not accept the 
 
-### The Accords of the Fist
+#### The Accords of the Fist
 
 The Accords of the Fist were agreed to by the townspeople as part of he parlay with the brutal Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
 
@@ -52,7 +52,7 @@ The Accords of the Fist were agreed to by the townspeople as part of he parlay w
 
 ![accords_of_the_fist.jpg](/accords_of_the_fist.jpg)
 
-### The Pledge of Servitude
+#### The Pledge of Servitude
 
 Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe. 
 
@@ -72,11 +72,11 @@ The Accords of the Fist mandate that the town give an offering every day. This i
 
 *The great orc horde protects us.*
 
-### The Appointing of a Puppet Mayor
+#### The Appointing of a Puppet Mayor
 
 The beloved mayor Stoneaxe was publically executed. new Mayor Installed. Shaved his beard.
 
-# Dragon Orcs
+## Dragon Orcs
 
 The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war. They are made this way by the ritual that was gifted by the black shadow the process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. that shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen
 
@@ -88,7 +88,7 @@ The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, mo
 
 The orcs that we see have been conscripted they have family back home they will talk about them.
 
-## Makeup
+### Makeup
 
 ![img](/bloody_fist_makeup.jpeg)
 
@@ -102,13 +102,13 @@ The white is ground up bone used during their rebirth ritual.
 
 The black scales are present due to the deal they have with The Black Shadow
 
-# Practices of the Bloody Fist
+## Practices of the Bloody Fist
 
-## Casters Always Travel in Pairs
+### Casters Always Travel in Pairs
 
 Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Earth Caster in each squadron that is assigned casters.
 
-## The Banner of the Fist
+### The Banner of the Fist
 
 ![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
 
@@ -122,91 +122,91 @@ When the Bloody Fist enters battle, the banner of the Blood Fist is planted in t
 - Regenerate 20 Body on a 5 Count of “I drink your blood... X”. 
 - Rip from binding as per **Rip From Binding** Strong Trait an unlimited number of times.
 
-## The Ritual of the Fire Drakes
+### The Ritual of the Fire Drakes
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)
 
 They are Greenish/red Fire Drakes from the flame plane. They are morphed into Draconic looking figures cause the ritual from the Black Shadow. They are incredibly destructive and follow who summoned them to complete their taste or scorching things. They breathe a fire that will actually burn Stonewood. They are Fast Moving and do not speak just grunt and growl.
 
-## Fear of the Black Shadow
+### Fear of the Black Shadow
 
 
 
-## War Drums and War Horns
+### War Drums and War Horns
 
 
 
-# Current Structure of the Bloody Fist
+## Current Structure of the Bloody Fist
 
-##   Warlord 
+###   Warlord 
 
-### Ahon the Hope-Flayer 
+#### Ahon the Hope-Flayer 
 
 “He stands tall like a tree, covered in animal furs and a Wolves head on his, burning Orange Eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what It means to be called a warrior…”
 
-#### A Dark Bargain with the Black Shadow
+##### A Dark Bargain with the Black Shadow
 
 This tale has been repeated around the campfires of the Bloody Fist. A legend of thier rebirth as a new horde. 
 
 *A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
 
-## Generals
+### Generals
 
-### Gimfang Skyrender
+#### Gimfang Skyrender
 
-### Val’Kaz the Ruthless
+#### Val’Kaz the Ruthless
 
 Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. 
 
-### Mal-Valoance the Devourer
+#### Mal-Valoance the Devourer
 
-### Svoul the Silent Strider
+#### Svoul the Silent Strider
 
 A mighty assassin. Nobody knows where he will strike.
 
-## High Shamans
+### High Shamans
 
-### Strum Skyburner (Celestial Avatar of the Sky)
+#### Strum Skyburner (Celestial Avatar of the Sky)
 
-### Nur’gal Bloodbane (Earth Necromancer)
+#### Nur’gal Bloodbane (Earth Necromancer)
 
-### Uktena Wolvesbane (Earth Spirit Healer)
+#### Uktena Wolvesbane (Earth Spirit Healer)
 
-## Honor Guard
+### Honor Guard
 
 Nameless Soldiers, They all give up their names to serve the Bloody Fist. High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. 
 
-## Raid Leaders
+### Raid Leaders
 
-### Gnar the Black Fury
+#### Gnar the Black Fury
 
-### Skindancer the Cruel
+#### Skindancer the Cruel
 
-### Wendigo the White Howler
+#### Wendigo the White Howler
 
-## Other Notables
+### Other Notables
 
-### Bonesaw the Jailor
+#### Bonesaw the Jailor
 
 Known for his brutal ways of blood sacrifice. Some don’t care for for his approach but his favor with Ahon means he cannot be challenged. The warlord favors his methods because they bring results.
 
-#### The Final Comfort
+##### The Final Comfort
 
 Captives of the Bloody Fist are offered a choice to die or accept the caress of the fist. They should have chosen death. The poor souls that have chosen are then bound and a deadly magic is inflicted upon them. This magic creates terrible creatures from their pain. The creatures are bound to the area nearby the poor captive but are fearsome foes. The Bloody fist get a particular glee from the suffering that this causes.
 
-### Orcamedies
+#### Orcamedies
 
 The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He attempted to join the Bloody Fist but rather than take him in the bloody fist took the only part they needed of him his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
 
-#### Ballista
+##### Ballista
 
 A powerful Ballista made of stonewood that can fire specially made bolts that can penetrate even the most powerful strucutre. 
 
-#### Spirit Bomb
+##### Spirit Bomb
 
 A powerful weapon that has been developed in secret it feeds off the marinated spirits of 6 powerful orc warriors who are allowing themselves to be transferred to a fearsome contraption that will force the will of those orcs upon all those who are within 30 miles of the detonation. The infusion of orcish energy will sway the minds of those who are affected to be sympathetic to the orcish cause. 
 
-#### The Gnawing Ones
+##### The Gnawing Ones
 
 During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive woodborne pest that fed on the roots of the mighty stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow. 
 
