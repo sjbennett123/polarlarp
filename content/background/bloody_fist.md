@@ -150,8 +150,8 @@ The bloody fist are known to use war drums and horns.
 #### Ahon the Hope-Flayer  (The Warlord)
 
 Carries Magic Items:
-- Blade of The Black Shadow (+3 2h Sword, Darkness Aura, Destruction Aura)
-- Amulet of the Fist (Cloak Command x2, Cloak Charm x2, Cloak Curse x1)
+- Blade of The Black Shadow <!-- (+3 2h Sword, Darkness Aura, Destruction Aura)  --> 
+- Amulet of the Fist <!--  (Cloak Command x2, Cloak Charm x2, Cloak Curse x1)  --> 
 
 “He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…”
 
@@ -170,8 +170,8 @@ The Generals of the bloody fist have been made powerful
 #### Gimfang the Skyrender (The Berserker Butcher)
 
 **Carries Magic Items**
-- Glaive of the Skyrender (+3 Polearm, Death x2)
-- Necklace of Terror (Fear x2, Taint Blood x2, Paralysis x1)
+- Glaive of the Skyrender  <!-- (+3 Polearm, Death x2) --> 
+- Necklace of Terror <!--   (Fear x2, Taint Blood x2, Paralysis x1)  --> 
 
 “He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts can shake even the most hardened hearts. His self preservation is low as making the kill is all that matters to this berserker butcher…”
 
@@ -180,8 +180,8 @@ Grimfang was always a very violent and angry child. He grew up trying to fight e
 #### Val’Kaz the Ruthless  (The Drinker of Fear)
 
 **Carries Magic Items**
-- Necklace of Terror (Fear x2, Taint Blood x2, Paralysis x1)
-- Ring of Ruthlessness (Paralysis x2, Imprison x2, Weakness x1)
+- Necklace of Terror  <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
+- Ring of Ruthlessness  <!-- (Paralysis x2, Imprison x2, Weakness x1)  --> 
 
 “He stands of average Orcish height, a slimmer build than other Bloody Fist. His face half hidden in a cowl, scarred and disfigured from his menacing tactics and explosives over the years. He carries his blackened blade and dagger under his shield for nefarious deeds. When he enters a room he doesn’t speak a word until he has planned to speak. People avoid his eye contact cause he looks directly into your soul and finds what you fear to use against you…”
 
@@ -190,9 +190,9 @@ Some would call him cowardly but he is far from it. He acts from the shadows sen
 #### Mal-Valoance the Devourer (The Tactician)
 
 **Carries Magic Items**
-- Tacticians Bracer [//]: # (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1)
+- Tacticians Bracer <!-- (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1) -->
 
-- Bulwark of the Battlefield Shield (Bane Binding x2, Bane Command x2, Regenerate x1) 
+- Bulwark of the Battlefield Shield  <!-- (Bane Binding x2, Bane Command x2, Regenerate x1) -->
 
 “He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect cause he already has planned how to defeat them if they cross him…”
 
@@ -201,8 +201,8 @@ Mal-Valoance from a young age took to studying the tactics of all creatures and 
 #### Svoul the Silent Strider (The Face and Dagger)
 
 **Carries Magic Items**
-- Blade of Assasination (+3 Short Sword, Silence x2)
-- Necklace of Hidden Movements (Sleep x2, Silence x2, Curse x1)
+- Blade of Assasination   <!-- (+3 Short Sword, Silence x2) -->
+- Necklace of Hidden Movements  <!-- (Sleep x2, Silence x2, Curse x1) -->
 
 “He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask upto his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem very well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passive determining the fate of people he meets, Heads for Dead or Tails for Potential Victim…” 
 
@@ -213,8 +213,8 @@ A mighty assassin. Nobody knows where he will strike. Svoul was recruited into t
 #### Strum Skyburner (Celestial Avatar of the Sky)
 
 **Carries Magic Items**
-- Wand of Skyburner (Eldritch Blast x5) 
-- Amulet of Skyburner (Dragons Breath x3, Shield Magic x2)
+- Wand of Skyburner   <!-- (Eldritch Blast x5) -->
+- Amulet of Skyburner <!-- (Dragons Breath x3, Shield Magic x2) -->
 
 “He stands slightly hunched from his age but a grizzled veteran of war with the Bloody Fist. A very well studied wizard from his time in his library. A completely self taught wizard but very deadly in combat. His face is covered in Celestial markings and runes. He has devoted himself, a rarity among Orcish kind but he is a prodigy or Celestial Magic. The air around him has a lingering scent of magic and fire radianting in it. His robes are Dark Red like the setting Sun when it appears like it is on fire…”
 
@@ -223,8 +223,8 @@ Strum is a very highly intelligent Orc. His theories about magic and turning the
 #### Nur’gal Bloodbane (Earth Necromancer)
 
 **Carries Magic Items**
-- Staff of the Bloodbane (Taint Blood x2, Cause Disease x2, Desecrate x1) 
-- Amulet of the Bloodbane (Cloak Chaos x2, Cause Mortal Wound x2, Create Undead x1)
+- Staff of the Bloodbane  <!-- (Taint Blood x2, Cause Disease x2, Desecrate x1) -->
+- Amulet of the Bloodbane <!-- (Cloak Chaos x2, Cause Mortal Wound x2, Create Undead x1) -->
 
 “He stands with the power of undeath in and around him. His eyes are a white-ish blue like the undead he commands, the lack of pupils is a very sinister feeling when he gazes at you. His bone is covered in scars and markings of Undeath. He has a Chaos Star on his throat, necklace of bones hanging from his neck, and a Skull Staff in his hand ready to kill your friends and resurrect them for his legions without remorse…”
 
@@ -233,8 +233,8 @@ Nur’gal was a very cruel young Orc. He would kill things just to see how they 
 #### Uktena Wolvesbane (Earth Spirit Healer)
 
 **Carries Magic Items**
-- Wolvesbane Amulet (Regenerate x2, Cure Mortal Wounds x2, Life x1)
-- Dagger of Wolvesbane (Silver Dagger, +1 Damage Aura, Purify Blood x2, Restore Limb x2)
+- Wolvesbane Amulet <!-- (Regenerate x2, Cure Mortal Wounds x2, Life x1)  --> 
+- Dagger of Wolvesbane  <!-- (Silver Dagger, +1 Damage Aura, Purify Blood x2, Restore Limb x2) --> 
 
 “He stands shorter than your average Orc but very stout in stature. His arms and shoulders are covered in Wolf White fur with streaks of blood across them. His hands are covered with wolf claws as a proper shaman would, used for ritual and rending the flesh of his foes who try to bring harm to the Bloody Fist. His face and neck with the blood of other Orcs smeared on it to link them spiritually. When he walks among the other Fist members, they part the way out of respect for his ability as a healer and trust when he says how to tend to the wounded”
 
@@ -257,7 +257,7 @@ Nameless Soldiers, They all give up their names to serve the Bloody Fist. High S
 #### Bonesaw the Jailor
 
 **Carries Magic Items**
-- Bonesaw (+3 2H Sword, Confine x2)
+- Bonesaw <!--  (+3 2H Sword, Confine x2)  --> 
 
 “He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smile. Just before he bashes someone skull in with his Bonesaw…”
 
@@ -289,7 +289,5 @@ During the occupation of the town of Stonewood the Bloody Fist introduced  an in
 
 
 ---
-## when making public
 
-Remove magic item descriptions
 
