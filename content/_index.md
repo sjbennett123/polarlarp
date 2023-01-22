@@ -15,7 +15,6 @@ disableNextPrev:  true
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
 - Follow the writers guidelines availible at [https://gloryforthefist.netlify.app/writing]({{< ref "/writing" >}})
 - [outline]({{< ref "/outline" >}})
-
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
 - Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... <u>it can wait an hour I promise you.</u>
