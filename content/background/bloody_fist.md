@@ -27,9 +27,9 @@ The Bloody Fist tribe waged a brutal war 20 some years ago against Stonewood and
 
 The heroes of Elysia killed their Warlord and put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened Forests and hills of Eastern Stonewood. In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture.
 
-Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
-
 ### The Time Between the Wars
+
+Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
 
 
 ### The Coming of the Urakhai
