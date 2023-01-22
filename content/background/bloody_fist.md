@@ -139,9 +139,15 @@ The bloody fist are known to use war drums and horns.
 
 ## Current Structure of the Bloody Fist
 
+
+
+### The Black Shadow
+
+
+
 ###   Warlord 
 
-#### Ahon the Hope-Flayer 
+#### Ahon the Hope-Flayer  (The Warlord)
 
 Carries Magic Items:
 - Blade of The Black Shadow (+3 2h Sword, Darkness Aura, Destruction Aura)
@@ -159,11 +165,11 @@ This tale has been repeated around the campfires of the Bloody Fist. A legend of
 
 ### Generals
 
-The Generals of the bloody fist have been made powerful. 
+The Generals of the bloody fist have been made powerful 
 
-#### Gimfang the Skyrender
+#### Gimfang the Skyrender (The Berserker Butcher)
 
-**Carries Magic Items**:
+**Carries Magic Items**
 - Glaive of the Skyrender (+3 Polearm, Death x2)
 - Necklace of Terror (Fear x2, Taint Blood x2, Paralysis x1)
 
@@ -171,9 +177,9 @@ The Generals of the bloody fist have been made powerful.
 
 Grimfang was always a very violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is fair targets. His Glave he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are very cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 shortswords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
 
-#### Val’Kaz the Ruthless
+#### Val’Kaz the Ruthless  (The Drinker of Fear)
 
-**Carries Magic Items**: 
+**Carries Magic Items**
 - Necklace of Terror (Fear x2, Taint Blood x2, Paralysis x1)
 - Ring of Ruthlessness (Paralysis x2, Imprison x2, Weakness x1)
 
@@ -181,10 +187,11 @@ Grimfang was always a very violent and angry child. He grew up trying to fight e
 
 Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. If you let him know what you are afraid of or what would make you surrender or submit, you might as well consider yourself defeated cause he will employ cruel tactics to get it done. Terror is his game and he does it masterfully. His preferred method is you to come crawling to him on your knees to surrender after he has terrorized you into submission. However, he is not above just slaughtering you and your family and mailing your heads to a mayor to send a message of who you are dealing with.
 
-#### Mal-Valoance the Devourer
+#### Mal-Valoance the Devourer (The Tactician)
 
-**Carries Magic Items**: 
-- Tacticians Bracer (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1)
+**Carries Magic Items**
+- Tacticians Bracer [//]: # (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1)
+
 - Bulwark of the Battlefield Shield (Bane Binding x2, Bane Command x2, Regenerate x1) 
 
 “He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect cause he already has planned how to defeat them if they cross him…”
@@ -193,8 +200,7 @@ Mal-Valoance from a young age took to studying the tactics of all creatures and 
 
 #### Svoul the Silent Strider (The Face and Dagger)
 
-**Carries Magic Items**: 
-
+**Carries Magic Items**
 - Blade of Assasination (+3 Short Sword, Silence x2)
 - Necklace of Hidden Movements (Sleep x2, Silence x2, Curse x1)
 
@@ -206,7 +212,7 @@ A mighty assassin. Nobody knows where he will strike. Svoul was recruited into t
 
 #### Strum Skyburner (Celestial Avatar of the Sky)
 
-**Carries Magic Items**: 
+**Carries Magic Items**
 - Wand of Skyburner (Eldritch Blast x5) 
 - Amulet of Skyburner (Dragons Breath x3, Shield Magic x2)
 
@@ -216,7 +222,7 @@ Strum is a very highly intelligent Orc. His theories about magic and turning the
 
 #### Nur’gal Bloodbane (Earth Necromancer)
 
-**Carries Magic Items**: 
+**Carries Magic Items**
 - Staff of the Bloodbane (Taint Blood x2, Cause Disease x2, Desecrate x1) 
 - Amulet of the Bloodbane (Cloak Chaos x2, Cause Mortal Wound x2, Create Undead x1)
 
@@ -226,7 +232,7 @@ Nur’gal was a very cruel young Orc. He would kill things just to see how they 
 
 #### Uktena Wolvesbane (Earth Spirit Healer)
 
-**Carries Magic Items**: 
+**Carries Magic Items**
 - Wolvesbane Amulet (Regenerate x2, Cure Mortal Wounds x2, Life x1)
 - Dagger of Wolvesbane (Silver Dagger, +1 Damage Aura, Purify Blood x2, Restore Limb x2)
 
@@ -236,7 +242,7 @@ Uktena was brought into the life of being a healer when he saved his older broth
 
 ### Honor Guard
 
-Nameless Soldiers, They all give up their names to serve the Bloody Fist. High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist till them to suicide they will fall on their swords. 
+Nameless Soldiers, They all give up their names to serve the Bloody Fist. High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist tell them to commit suicide they will fall on their swords. 
 
 ### Raid Leaders
 
@@ -250,8 +256,7 @@ Nameless Soldiers, They all give up their names to serve the Bloody Fist. High S
 
 #### Bonesaw the Jailor
 
-**Carries Magic Items**:
-
+**Carries Magic Items**
 - Bonesaw (+3 2H Sword, Confine x2)
 
 “He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smile. Just before he bashes someone skull in with his Bonesaw…”
@@ -278,6 +283,13 @@ A powerful weapon that has been developed in secret. It feeds off the marinated 
 
 During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that fed on the roots of the mighty Stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow. 
 
+## Bloody Fist Scouts
+
+
+
 
 ---
+## when making public
+
+Remove magic item descriptions
 
