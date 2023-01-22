@@ -14,7 +14,7 @@ These notes have been collected at great personal cost by the reformed Black Anv
 
 While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has been formed around resentment and hate. The time to resolve this enmity was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
-We have seen them employ whatever savage tactics  they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
+We have seen them employ whatever savage tactics they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
 
 We believe that they can be settled with on terms but they will be very one sided. The Bloody Fist will  demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
 
@@ -30,7 +30,6 @@ The heroes of Elysia killed their Warlord and put the remainder of the Bloody Fi
 Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
 
 ### The Time Between the Wars
-
 
 
 ### The Coming of the Urakhai
@@ -114,7 +113,7 @@ Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Eart
 
 The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When a great victory is had the most powerful warriors are sacrificed by the shamans and their spirits are imbued in the banners. This is not a punishment of any sort it is a great reward to be with their brothers offering strength forevermore.  Before every meal the orcs give an offering to thier fallen brothers by pouring one out at the banner of the fist.
 
-When the Bloody Fist enters battle, the banner of the Blood Fist is planted in the ground. By channeling the trapped spirit within the banner the warriors within 10 Feet of the banner can receive **The Blessing of he Bloody Fist**. The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes. The banner can be destroyed on a 15 count Counted Action of “I destroy the Banner 1.....”.
+When the Bloody Fist enters battle, the banner of the Blood Fist is planted in the ground. By channeling the trapped spirit within the banner the warriors within 10 Feet of the banner can receive **The Blessing of the Bloody Fist**. The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes. The banner can be destroyed on a 15 count Counted Action of “I destroy the Banner 1.....”.
 
 **Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 Feet of the Banner. 
 
@@ -126,15 +125,17 @@ When the Bloody Fist enters battle, the banner of the Blood Fist is planted in t
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)
 
-They are Greenish/red Fire Drakes from the flame plane. They are morphed into Draconic looking figures cause the ritual from the Black Shadow. They are incredibly destructive and follow who summoned them to complete their taste or scorching things. They breathe a fire that will actually burn Stonewood. They are Fast Moving and do not speak just grunt and growl.
+Gifted by the Black Shadow this ritual allows the orcs to summon the mighty fire drakes. 
+
+Green and red Fire Drakes from the Fire Plane. They are morphed into Draconic looking figures because of the influence of  the Black Shadow on the ritual. They are incredibly destructive and follow those who summoned them to complete their task or scorching things. They breathe a fire that will actually burn Stonewood. They are fast moving and do not speak just grunt and growl.
 
 ### Fear of the Black Shadow
 
-
+It is unknown how this can be performed but we have found as part of the ritual that gives the Urakhai thier power they have a fear of the true form of the black shadow. 
 
 ### War Drums and War Horns
 
-
+The bloody fist are known to use war drums and horns. 
 
 ## Current Structure of the Bloody Fist
 
@@ -146,9 +147,9 @@ Carries Magic Items:
 - Blade of The Black Shadow (+3 2h Sword, Darkness Aura, Destruction Aura)
 - Amulet of the Fist (Cloak Command x2, Cloak Charm x2, Cloak Curse x1)
 
-“He stands tall like a tree, covered in animal furs and a Wolves head on his, burning Orange Eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what It means to be called a warrior…”
+“He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…”
 
-Not much is known about Ahrouns true power. He was once a meet Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a Master of Arms and an absolute terror on the Battlefield. No one has seen him without his Wolf Mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all his hatred that fuels him he remains relatively calm unless he is challenged or his authority is questioned. 
+Not much is known about Ahrouns true power. He was once a mere Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a master of arms and an absolute terror on the battlefield. No one has seen him without his wolf mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all his hatred that fuels him he remains relatively calm unless he is challenged or his authority is questioned. 
 
 ##### A Dark Bargain with the Black Shadow
 
@@ -158,13 +159,15 @@ This tale has been repeated around the campfires of the Bloody Fist. A legend of
 
 ### Generals
 
+The Generals of the bloody fist have been made powerful. 
+
 #### Gimfang the Skyrender
 
 **Carries Magic Items**:
 - Glaive of the Skyrender (+3 Polearm, Death x2)
 - Necklace of Terror (Fear x2, Taint Blood x2, Paralysis x1)
 
-“He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. Teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his Glave. His primal roars and grunts can shake even the most hardened hearts. His preservation of self is low as making the kill is all that matters to this Berserker Butcher…”
+“He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts can shake even the most hardened hearts. His self preservation is low as making the kill is all that matters to this berserker butcher…”
 
 Grimfang was always a very violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is fair targets. His Glave he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are very cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 shortswords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
 
@@ -176,7 +179,7 @@ Grimfang was always a very violent and angry child. He grew up trying to fight e
 
 “He stands of average Orcish height, a slimmer build than other Bloody Fist. His face half hidden in a cowl, scarred and disfigured from his menacing tactics and explosives over the years. He carries his blackened blade and dagger under his shield for nefarious deeds. When he enters a room he doesn’t speak a word until he has planned to speak. People avoid his eye contact cause he looks directly into your soul and finds what you fear to use against you…”
 
-Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. If you let him know what you are afraid of or what would make you surrender or submit, you might as well consider yourself defeated cause he will employ cruel tactics to get it done. Terror is his game and he does it masterfully. His preferred method is you to come crawling to him on your knees to surrender after he has terrorized you into submission. However, he is not above just slaughtering you and your family and mailing your heads to a mayor to send a message who you are dealing with.
+Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. If you let him know what you are afraid of or what would make you surrender or submit, you might as well consider yourself defeated cause he will employ cruel tactics to get it done. Terror is his game and he does it masterfully. His preferred method is you to come crawling to him on your knees to surrender after he has terrorized you into submission. However, he is not above just slaughtering you and your family and mailing your heads to a mayor to send a message of who you are dealing with.
 
 #### Mal-Valoance the Devourer
 
@@ -188,9 +191,7 @@ Some would call him cowardly but he is far from it. He acts from the shadows sen
 
 Mal-Valoance from a young age took to studying the tactics of all creatures and races. His eye and acumen on the battlefield are unmatched among his kind. He has a library of tactic and society books to understand his enemies from birth to the grave. His skill in battle is very impressive but his true skill lies in his ability to control the battlefield and the armies clashing on it. He is not afraid to retreat and let them fight a skeleton force to preserve his main army. Live to fight another day and destroy your enemy without drawing your sword are his preferred methods but when people see the Bloody Fist terror makes men panic and draw blades.
 
-#### Svoul the Silent Strider
-
-The Face and Dagger
+#### Svoul the Silent Strider (The Face and Dagger)
 
 **Carries Magic Items**: 
 
@@ -249,9 +250,11 @@ Nameless Soldiers, They all give up their names to serve the Bloody Fist. High S
 
 #### Bonesaw the Jailor
 
-Carries Magic Item:Bonesaw (+3 2H Sword, Confine x2)
+**Carries Magic Items**:
 
-“He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smileJust before he bashes someone skull in with his Bonesaw…”
+- Bonesaw (+3 2H Sword, Confine x2)
+
+“He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smile. Just before he bashes someone skull in with his Bonesaw…”
 
 Known for his brutal ways of blood sacrifice. Some don’t care for for his approach but his favor with Ahroun means he cannot be challenged. The warlord favors his methods because they bring results.
 
@@ -274,7 +277,6 @@ A powerful weapon that has been developed in secret. It feeds off the marinated 
 ##### The Gnawing Ones
 
 During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that fed on the roots of the mighty Stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow. 
-
 
 
 ---
