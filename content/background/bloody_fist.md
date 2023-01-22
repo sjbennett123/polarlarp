@@ -35,13 +35,14 @@ Over these 20 years, the burning memory of defeat and exile chewed away at the s
 ### The Coming of the Urakhai
 
 
+
 ### The Taking of Stonewood
 
 The taking of Stonewood was fast and brutal. Anyone that did not accept the Accords of the Fist was put to death. 
 
 #### The Accords of the Fist
 
-The Accords of the Fist were agreed to by the townspeople as part of he parlay with the brutal Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
+The Accords of the Fist were agreed to by the townspeople as part of he parlay with the  Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
 
 - No weapons on person or drawn
 - No spells in hand
@@ -55,7 +56,7 @@ The Accords of the Fist were agreed to by the townspeople as part of he parlay w
 
 Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe. 
 
-The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry will perform this ceremony. Each of the townspeople that are able will join around a banner of the bloody fist and recite the Pledge of Servitude. 
+The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry perform this ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
 *The mighty Bloody Fist is benevolent.*
 
@@ -180,7 +181,7 @@ The Generals of the bloody fist have been made powerful
 
 **Carries Magic Items**
 - Glaive of the Skyrender  <!-- (+3 Polearm, Death x2) --> 
-- Necklace of Terror <!--   (Fear x2, Taint Blood x2, Paralysis x1)  --> 
+- Necklace of Terror <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
 
 “He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts can shake even the most hardened hearts. His self preservation is low as making the kill is all that matters to this berserker butcher…”
 
@@ -218,6 +219,14 @@ A mighty assassin. Nobody knows where he will strike. Svoul was recruited into t
 
 ### High Shamans
 
+You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
+	Shamans are the literal backbone of the Bloody Fist fighting machine. The Grunts take the abuse for you, and you heal their wounds, but you always make wounds that don’t heal so easily.
+	You outrank the Raid Leaders in power structure, but you respect their battlefield skill and prowess so unless the command is unsound you will follow it even till death
+	Make sure you stay in formation with your Grunts infront of you and beside your Raid Leaders. You should play these roles like a PC healer/necromancer/celestial caster would.
+	If you are the Celestial caster of the pairing, BLOW THEM UP! Make them fear your spells. The players will be confused at your intelligence and use of “sky magics” for a the “common Orc” so use that to your advantage. Cast protectives, imprison people who rush you. 
+	If you are the Earth caster of the pairing, KEEP YOUR MEN ALIVE! When everyone is safe on healing, disable them with Chaos debuffs and Cause Wound spells. Don’t waste Death Spells because you will need Life Spells for your Raid Leaders and other Shaman. Play like a PC would about keeping your team alive, if the Grunts fall you are screwed so keep them up as meat shields. Don’t be afraid to cut loose on the players with Necromancy/Chaos
+	You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
+
 #### Strum Skyburner (Celestial Avatar of the Sky)
 
 **Carries Magic Items**
@@ -253,6 +262,8 @@ Uktena was brought into the life of being a healer when he saved his older broth
 Nameless Soldiers, They all give up their names to serve the Bloody Fist. High Shaman and Up are escorted around by them. They follow orders to the letter no exceptions. If the Fist tell them to commit suicide they will fall on their swords. 
 
 ### Raid Leaders
+
+You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Your word is law to the lower ranks, they will die on your command. Every battle you win is another reward closer to a promotion to Honor Guard. The Generals and Warlord rely on your tenacity and tactics to win the war against Woodhaven.
 
 #### Gnar the Black Fury
 
@@ -291,9 +302,19 @@ A powerful weapon that has been developed in secret. It feeds off the marinated 
 
 During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that fed on the roots of the mighty Stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow. 
 
-## Bloody Fist Scouts
+### Troops
 
+#### Scouts
 
+You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead.
+
+#### Grunts
+
+You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet
+
+#### Shamans
+
+You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage
 
 
 ---
