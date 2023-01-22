@@ -11,21 +11,22 @@ weight: 1
 - When reviewing someone's work make sure you follow our TIPS page while doing it. Remember they tried their best. 
 - Once you are confident with your work we will ingest it into the website get it printed up. 
 
-
+## Parts of Writeups
 
 - Overview:
 - Monster Cards:
 - Lore:
 - Advice:
 
-
-
----
-
-POLAR Event directors requirements:  
+## POLAR Event directors requirements:  
 
 1. You must work with you Review. 
-2. No none standard effects. Anything you want to try to do that could be none standard please reach out to Clinton or Donnie and they will find a way to make it standard. 
-3. Your full event should be reviewed 2 weeks in advance before your event. Your event should have a minimum of 30 encounters. An encounter can be can be as simple as an Npc that Entertains multiple PCs at a time.
-4. Events should include have puzzles, ciphers, none combat skill usage, and transform acquisition mods.
-5. Use of my standard mod sheet. The mod sheet makes it easier for a shack person or anyone who has permission to run a mod for you can pick it up and set up and run quickly. Devin
+2. No non-standard effects. Anything you want to try to do that could be non-standard please reach out to Clinton Snyder or Donnie Leight and they will find a way to make it standard. 
+3. Your full event must be reviewed 2 weeks in advance before your event. Your event must have a minimum of 30 encounters. An encounter can be can be as simple as an NPC that Entertains multiple PCs at a time.
+4. Events should include 
+   1. puzzles
+   2. ciphers
+   3. non-combat skill usage
+   4. transform acquisition modules.
+5. Use of Donnie Leight's standard mod sheet. 
+   1. The mod sheet makes it easier for a shack person or anyone who has permission to run a mod for you can pick it up and set up and run quickly.
