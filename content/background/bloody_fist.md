@@ -75,6 +75,15 @@ The Accords of the Fist mandate that the town give an offering every day. This i
 
 The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shaved his beard.
 
+### Occupation of Stonewood
+
+
+
+### Elysia Reclaims Stonewood
+
+
+
+
 ## Dragon Orcs
 
 The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war. They are made this way by the ritual that was gifted by the black shadow. The process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen.
@@ -143,7 +152,7 @@ The bloody fist are known to use war drums and horns.
 
 ### The Black Shadow
 
-
+Not much is known about the being known as the Black Shadow. 
 
 ###   Warlord 
 
@@ -191,7 +200,6 @@ Some would call him cowardly but he is far from it. He acts from the shadows sen
 
 **Carries Magic Items**
 - Tacticians Bracer <!-- (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1) -->
-
 - Bulwark of the Battlefield Shield  <!-- (Bane Binding x2, Bane Command x2, Regenerate x1) -->
 
 “He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect cause he already has planned how to defeat them if they cross him…”
@@ -289,5 +297,4 @@ During the occupation of the town of Stonewood the Bloody Fist introduced  an in
 
 
 ---
-
 
