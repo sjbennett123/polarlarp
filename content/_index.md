@@ -11,9 +11,11 @@ disableNextPrev:  true
 
 ## [Google Hangouts - Weekly Writer Check In](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
-- ↑ Up there is a link you can click on it! You can also go to https://gloryforthefist.netlify.app/writersroom
+- ↑ Up there is a link you can click on it! You can also go to [gloryforthefist.netlify.app/writersroom](https://gloryforthefist.netlify.app/writersroom)
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
-- Follow the writers guidelines availible at https://gloryforthefist.netlify.app/writing
+- Follow the writers guidelines availible at [https://gloryforthefist.netlify.app/writing]({{< ref "/writing" >}})
+- [outline]({{< ref "/outline" >}})
+
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
 - Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... <u>it can wait an hour I promise you.</u>
