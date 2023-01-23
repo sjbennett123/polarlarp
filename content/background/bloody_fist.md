@@ -163,7 +163,7 @@ Carries Magic Items:
 - Blade of The Black Shadow <!-- (+3 2h Sword, Darkness Aura, Destruction Aura)  --> 
 - Amulet of the Fist <!--  (Cloak Command x2, Cloak Charm x2, Cloak Curse x1)  --> 
 
-“He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…”
+*He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…*
 
 Not much is known about Ahrouns true power. He was once a mere Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a master of arms and an absolute terror on the battlefield. No one has seen him without his wolf mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all his hatred that fuels him he remains relatively calm unless he is challenged or his authority is questioned. 
 
@@ -183,7 +183,7 @@ The Generals of the bloody fist have been made powerful
 - Glaive of the Skyrender  <!-- (+3 Polearm, Death x2) --> 
 - Necklace of Terror <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
 
-“He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts can shake even the most hardened hearts. His self preservation is low as making the kill is all that matters to this berserker butcher…”
+*He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts can shake even the most hardened hearts. His self preservation is low as making the kill is all that matters to this berserker butcher…*
 
 Grimfang was always a very violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is fair targets. His Glave he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are very cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 shortswords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
 
@@ -197,13 +197,31 @@ Grimfang was always a very violent and angry child. He grew up trying to fight e
 
 Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. If you let him know what you are afraid of or what would make you surrender or submit, you might as well consider yourself defeated cause he will employ cruel tactics to get it done. Terror is his game and he does it masterfully. His preferred method is you to come crawling to him on your knees to surrender after he has terrorized you into submission. However, he is not above just slaughtering you and your family and mailing your heads to a mayor to send a message of who you are dealing with.
 
+##### A Warning to Stonewood
+
+Attention vile disruptors of Stonewood,
+
+I Val’kaz the Ruthless, 3rd Blade General of the Bloody Fist, Ahrouns Terror, drinker of fear, smasher of dreams do issue the following warning for your transgressions against the Bloody Fist:
+
+Stonewood shall be surrendered unto the Bloody Fist upon winters end in 3 months. We do not wish to deploy our full tactics and military to remove the invaders to our rightfully claimed land but we shall if you force our hand. Those who wish to be spared our fury may take this brief time to prepare for our arrival and greet us with open arms as we provided safety and protection for the last season before this incident. Those who wish to still remain loyal to the Bloody Fist may do so by swearing it before your mayor Little Bristle. He shall keep tabs on who wishes to live within our good graces and who who wishes to bite the Fist that feeds. 
+
+Those who stay and raise up arms against us know this, we will hunt you like prey, we will rend the flesh from your bones, we will drink your blood from the skulls of the fallen, we will spare no man, woman, dwarf, elf, or child who fights us. The choice is yours, but I Val’Kaz the Ruthless will show you why I am named such if you cross me. You will be turning your head to check the shadows for me when my breed of terror strikes if war is declared upon our arrival. 
+
+Please do think this through carefully, we may sound like bloodthirsty savages but there are darker forces than us that lurk in your Elysia which we will give you shelter from. All we ask in return is your cooperation and loyalty tithes. 
+
+We will see you in 3 months time, I pray you make the correct decision for your own good and the good of Stonewood. The mighty Hopeflayer sends his regards and wishes your families well this winter and that you remember who it was that gave you a second chance where others would not
+
+~Val’kaz the Ruthless
+
+3rd Blade General of the Bloody Fist
+
 #### Mal-Valoance the Devourer (The Tactician)
 
 **Carries Magic Items**
 - Tacticians Bracer <!-- (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1) -->
 - Bulwark of the Battlefield Shield  <!-- (Bane Binding x2, Bane Command x2, Regenerate x1) -->
 
-“He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect cause he already has planned how to defeat them if they cross him…”
+*He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect cause he already has planned how to defeat them if they cross him…*
 
 Mal-Valoance from a young age took to studying the tactics of all creatures and races. His eye and acumen on the battlefield are unmatched among his kind. He has a library of tactic and society books to understand his enemies from birth to the grave. His skill in battle is very impressive but his true skill lies in his ability to control the battlefield and the armies clashing on it. He is not afraid to retreat and let them fight a skeleton force to preserve his main army. Live to fight another day and destroy your enemy without drawing your sword are his preferred methods but when people see the Bloody Fist terror makes men panic and draw blades.
 
@@ -213,19 +231,20 @@ Mal-Valoance from a young age took to studying the tactics of all creatures and 
 - Blade of Assasination   <!-- (+3 Short Sword, Silence x2) -->
 - Necklace of Hidden Movements  <!-- (Sleep x2, Silence x2, Curse x1) -->
 
-“He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask upto his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem very well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passive determining the fate of people he meets, Heads for Dead or Tails for Potential Victim…” 
+*He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask upto his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem very well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passive determining the fate of people he meets, Heads for Dead or Tails for Potential Victim…*
 
 A mighty assassin. Nobody knows where he will strike. Svoul was recruited into the Bloody Fist at a young age when his parents were killed by the Bloody Fist during a tribal “misunderstanding.” Fueled with grief and Orcish bloodlust, Svoul focused inward and sharpened his skills into razor precision and deadly efficiency. When things require a delicate touch or political coercion, Svoul is sent in. Mastering the art of subterfuge and etiquette to get him in the door but when it’s time to execute the plan he will make it seem like he was never there and leave a trail of carnage in his wake. Sometimes missions are as simple as black bag and grab a target or setup a murder scene and pin the job on someone else. He uses an assortment of weapons based on the job to make sure it fits the description and wounds match the job to avoid suspicion.
 
 ### High Shamans
 
 You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
-	Shamans are the literal backbone of the Bloody Fist fighting machine. The Grunts take the abuse for you, and you heal their wounds, but you always make wounds that don’t heal so easily.
-	You outrank the Raid Leaders in power structure, but you respect their battlefield skill and prowess so unless the command is unsound you will follow it even till death
-	Make sure you stay in formation with your Grunts infront of you and beside your Raid Leaders. You should play these roles like a PC healer/necromancer/celestial caster would.
-	If you are the Celestial caster of the pairing, BLOW THEM UP! Make them fear your spells. The players will be confused at your intelligence and use of “sky magics” for a the “common Orc” so use that to your advantage. Cast protectives, imprison people who rush you. 
-	If you are the Earth caster of the pairing, KEEP YOUR MEN ALIVE! When everyone is safe on healing, disable them with Chaos debuffs and Cause Wound spells. Don’t waste Death Spells because you will need Life Spells for your Raid Leaders and other Shaman. Play like a PC would about keeping your team alive, if the Grunts fall you are screwed so keep them up as meat shields. Don’t be afraid to cut loose on the players with Necromancy/Chaos
-	You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
+
+- Shamans are the literal backbone of the Bloody Fist fighting machine. The Grunts take the abuse for you, and you heal their wounds, but you always make wounds that don’t heal so easily.
+- You outrank the Raid Leaders in power structure, but you respect their battlefield skill and prowess so unless the command is unsound you will follow it even till death
+- Make sure you stay in formation with your Grunts infront of you and beside your Raid Leaders. You should play these roles like a PC healer/necromancer/celestial caster would.
+- If you are the Celestial caster of the pairing, BLOW THEM UP! Make them fear your spells. The players will be confused at your intelligence and use of “sky magics” for a the “common Orc” so use that to your advantage. Cast protectives, imprison people who rush you. 
+- If you are the Earth caster of the pairing, KEEP YOUR MEN ALIVE! When everyone is safe on healing, disable them with Chaos debuffs and Cause Wound spells. Don’t waste Death Spells because you will need Life Spells for your Raid Leaders and other Shaman. Play like a PC would about keeping your team alive, if the Grunts fall you are screwed so keep them up as meat shields. Don’t be afraid to cut loose on the players with Necromancy/Chaos
+- You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
 
 #### Strum Skyburner (Celestial Avatar of the Sky)
 
@@ -278,7 +297,7 @@ You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Y
 **Carries Magic Items**
 - Bonesaw <!--  (+3 2H Sword, Confine x2)  --> 
 
-“He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smile. Just before he bashes someone skull in with his Bonesaw…”
+*He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smile. Just before he bashes someone skull in with his Bonesaw…*
 
 Known for his brutal ways of blood sacrifice. Some don’t care for for his approach but his favor with Ahroun means he cannot be challenged. The warlord favors his methods because they bring results.
 
@@ -318,4 +337,12 @@ You are the spiritual magical force behind the Bloody Fist’s mighty blades. Yo
 
 
 ---
+
+Add black shadow to hierarchy
+
+Bloody fist title case
+
+Black shadow title case
+
+-Message nailed to a tree outside the Mayors house-
 
