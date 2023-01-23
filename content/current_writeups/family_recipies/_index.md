@@ -10,19 +10,17 @@ description: Family Recipes
 
 ## Family Recipes Overview
 
-​	**Grandma Linda Glynhall,** a long retired adventurer, is quite glad the **siege* of Stonewood is over. Having spent the summer under brutal occupation and the long winter just trying to survive, this spring brings with it a renewed vigor that can only come from a newfound freedom. “Granny”, hearing that the adventurer's would be returning to Stonewood, has decided to bake up a delicious batch of cookies as a thank you. Only one problem, her recipe book has gone missing!
+**Grandma Linda Glynhall,** a long retired adventurer, is quite glad the **siege* of Stonewood is over. Having spent the summer under brutal occupation and the long winter just trying to survive, this spring brings with it a renewed vigor that can only come from a newfound freedom. “Granny”, hearing that the adventurer's would be returning to Stonewood, has decided to bake up a delicious batch of cookies as a thank you. Only one problem, her recipe book has gone missing!
 
-​	**Charles “Charlie” Glynnhall,** grandson of Granny Glynhall, has always had his problems. He's not to bright, and is always getting into trouble. After losing his parents at a young age, he was sent to be raised by his grandmother. Granny did her best, but Charlie wanted more than she was able to give. He craved adventure, but his grandmother, knowing where that type of life leads, forbade him from leaving the city. When the Orcs took over Stonewood, Charlie saw the perfect opportunity He tried to rebel and take down the orcs, but was quickly beaten to within an inch of his life. Not by the Orcs; they wouldn't have left him alive. No, he was beaten by his neighbors, because anyone who defied the Orcs would bring their wrath down upon everyone. Chastised and wounded, Charlie spent the remainder of the occupation holed up in Granny's house. When the city was liberated, Charlie took to his new found freedom by drinking and gambling in excess. When his money ran out, he started borrowing. Soon, no one would lend him money or drink and Charlie found himself in trouble again, this time seemingly at the end of his rope.
+**Charles “Charlie” Glynnhall,** grandson of Granny Glynhall, has always had his problems. He's not to bright, and is always getting into trouble. After losing his parents at a young age, he was sent to be raised by his grandmother. Granny did her best, but Charlie wanted more than she was able to give. He craved adventure, but his grandmother, knowing where that type of life leads, forbade him from leaving the city. When the Orcs took over Stonewood, Charlie saw the perfect opportunity He tried to rebel and take down the orcs, but was quickly beaten to within an inch of his life. Not by the Orcs; they wouldn't have left him alive. No, he was beaten by his neighbors, because anyone who defied the Orcs would bring their wrath down upon everyone. Chastised and wounded, Charlie spent the remainder of the occupation holed up in Granny's house. When the city was liberated, Charlie took to his new found freedom by drinking and gambling in excess. When his money ran out, he started borrowing. Soon, no one would lend him money or drink and Charlie found himself in trouble again, this time seemingly at the end of his rope.
 
-​	The **Felhand** follow the adventurers like rats, feeding off of the scraps left behind when they leave a place. The loot is less, but the chances of being caught are slim in the chaos that happens after a Market Day. And if someone turns up dead, well, maybe they were killed during the Market? Who's to say? It was during this time, in the worse than usual chaos that October's Market had brought, that the Felhand found Charlie, arguing with the local barkeep to “just give me one! I'm good for it, I swear!”. After having paid for their new friend's drink, they sat and talked with the long time resident. The Felhand decided that maybe having a local around Stonewood wasn't a bad idea with all the unrest and a Market coming up. Plus, his eyes, ears, and loyalty came cheap. As long as Charlie was supplied with cheap liquor and a few gold to gamble, he was a happy man. 
+The **Felhand** follow the adventurers like rats, feeding off of the scraps left behind when they leave a place. The loot is less, but the chances of being caught are slim in the chaos that happens after a Market Day. And if someone turns up dead, well, maybe they were killed during the Market? Who's to say? It was during this time, in the worse than usual chaos that October's Market had brought, that the Felhand found Charlie, arguing with the local barkeep to “just give me one! I'm good for it, I swear!”. After having paid for their new friend's drink, they sat and talked with the long time resident. The Felhand decided that maybe having a local around Stonewood wasn't a bad idea with all the unrest and a Market coming up. Plus, his eyes, ears, and loyalty came cheap. As long as Charlie was supplied with cheap liquor and a few gold to gamble, he was a happy man. 
 
-​	Charlie, in debt but with new friends, is now becoming braver and braver. When an argument with his grandmother doesn't go this way, he decides to take matters into his own hands and plots revenge for the slight. Knowing the only thing his grandmother has of value is her recipe book, he takes the book from its place hides it in the cache of the Felhand. The symbol of the thieving group is on the lid.
+Charlie, in debt but with new friends, is now becoming braver and braver. When an argument with his grandmother doesn't go this way, he decides to take matters into his own hands and plots revenge for the slight. Knowing the only thing his grandmother has of value is her recipe book, he takes the book from its place hides it in the cache of the Felhand. The symbol of the thieving group is on the lid.
 
-​	Granny has no idea where her recipe book went. Last time she saw it, she had it on the shelf. She didn't remember moving it, or even using it recently, but it was missing. She tried to get her grandson to help, but he refused and left for the bar. He hasn't come home in a few days, and now she is getting worried. To old to go looking herself, Granny has put a couple of ads in the local paper:
+Granny has no idea where her recipe book went. Last time she saw it, she had it on the shelf. She didn't remember moving it, or even using it recently, but it was missing. She tried to get her grandson to help, but he refused and left for the bar. He hasn't come home in a few days, and now she is getting worried. To old to go looking herself, Granny has put a couple of ads in the local paper:
 
-​	
-
-HELP WANTED- REWARD
+## HELP WANTED- REWARD
 
 Looking for someone to find my grandson, Charles Glynhall. 
 
@@ -32,9 +30,7 @@ If you wish to help, I can be found at my home at most times [directions]
 
 -Granny Linda Glynhall
 
-
-
-HELP WANTED- REWARD
+## HELP WANTED- REWARD
 
 For the finding of a dearly loved recipe book. The book has been in my family for ages.
 
@@ -48,9 +44,9 @@ If the PCs decide to go to Granny's house **[module HELP WANTED]**, Granny will 
 
 ​	If the PCs track Charlie using CRAFTSMAN SKILL: OTHER, they will track him back to the cache of the Felhand, where he is standing guard. **[module WE FOUND CHARLIE]** If the PCs seek information and “ask around”, Charlie proves to be easy to find, as he is in a local tavern being a belligerent drunk. If the PCs don't ask around or seek to find him, or if the module HELP WANTED isn't completed, [within 2 hours of visiting Granny or after 12pm Saturday]  Charlie will turn up in the tavern with his bottle being an asshole. **[module OPERATION FIND CHARLIE]** He is unarmed. He taunts the PCs to the point of confrontation, but before it comes to blows or duels, Charlie makes a deal. He'll take the group to a treasure cache if they pay his tab and let him go. He hands them a crude map to the group, and he runs off before anyone can change their mind. If it does come to a fight, and he is beaten down, the map is the only thing found on his person.
 
-​	Once the cache has been cleared and the book returned **[module CASH IN THE CACHE]**, the Felhand find out that they lost their loot and it is obvious who did it, as Charlie was on guard duty for the duration of the market. 
+Once the cache has been cleared and the book returned **[module CASH IN THE CACHE]**, the Felhand find out that they lost their loot and it is obvious who did it, as Charlie was on guard duty for the duration of the market. 
 
-​	Charlie is beaten, and he tells the Felhand what he did and who took their treasure. They release Charlie to go and take a message to those that stole from them. Charlie, beaten and bloody, finds the group that he lead to the treasure and begs for help. **[module EMERGENCY! HELP WANTED]** He explains what happened, that they want their money back or they will kill Charlie. As the group is talking, a messenger interrupts and gives Charlie a note. In it is a finger and a note that says:
+Charlie is beaten, and he tells the Felhand what he did and who took their treasure. They release Charlie to go and take a message to those that stole from them. Charlie, beaten and bloody, finds the group that he lead to the treasure and begs for help. **[module EMERGENCY! HELP WANTED]** He explains what happened, that they want their money back or they will kill Charlie. As the group is talking, a messenger interrupts and gives Charlie a note. In it is a finger and a note that says:
 
 Charlie, how stupid can you be? 
 
@@ -62,11 +58,11 @@ We know you went to that adventuring scum that stole our loot.
 
 They need to stay out of this if you know what's good for you.
 
-​	At the spot, the Felhand have the area surrounded and can see the spot clearly. **[module THE EXCHANGE]**
+At the spot, the Felhand have the area surrounded and can see the spot clearly. **[module THE EXCHANGE]**
 
-​	If the PCs allow Charlie to take the gold to the spot, alone, Granny will be seen wandering into town unharmed after the mod is completed.
+If the PCs allow Charlie to take the gold to the spot, alone, Granny will be seen wandering into town unharmed after the mod is completed.
 
-​	If the PCs allow Charlie to take the gold but follow, set up an ambush, set up a trap, try to negotiate, make a trade, just refuse to pay, or in anyway make themselves known to the waiting Felhand, they will attack. They will fight until there are three left, and the rest will run. If any are able to run, and they make it back to Granny they will kill her. If none make it back, and Granny is tracked, she is returned unharmed. Charlie will suggest someone track her if no Felhand make it back and the Felhand were not questioned before killing them. If a Felhand member is questioned, they will give up the location og Granny under threat of death. Once Granny is found, she returns to her home with Charlie
+If the PCs allow Charlie to take the gold but follow, set up an ambush, set up a trap, try to negotiate, make a trade, just refuse to pay, or in anyway make themselves known to the waiting Felhand, they will attack. They will fight until there are three left, and the rest will run. If any are able to run, and they make it back to Granny they will kill her. If none make it back, and Granny is tracked, she is returned unharmed. Charlie will suggest someone track her if no Felhand make it back and the Felhand were not questioned before killing them. If a Felhand member is questioned, they will give up the location og Granny under threat of death. Once Granny is found, she returns to her home with Charlie
 
 # Module- Help Wanted
 
