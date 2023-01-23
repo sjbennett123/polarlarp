@@ -47,9 +47,9 @@ This is the ONLY way that a player can attain High and Master level transforms. 
 
 #### Transform to Greater Creature
 
-**Level** 7
+**Level**: 7
 
-**Target** Spirit
+**Target**: Spirit
 
 **Duration**: Four years
 
@@ -61,9 +61,9 @@ Effects exist which may for limited duration invoke the full transformation prio
 
 #### Transform to High Creature
 
-**Level** 8
+**Level**: 8
 
-**Target** Spirit
+**Target**: Spirit
 
 **Duration**: Four years
 
@@ -74,9 +74,9 @@ This formal magic will transform the target into a specific High Creature upon t
 Effects exist which may for limited duration invoke the full transformation prior to permanent death. See the description in the Casting Rules.
 
 #### Transform to Master Creature
-**Level** 9
+**Level**: 9
 
-**Target** Spirit
+**Target**: Spirit
 
 **Duration**: Four years
 
