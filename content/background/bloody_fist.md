@@ -12,7 +12,7 @@ These notes have been collected at great personal cost by the reformed Black Anv
 
 ## Motivations
 
-While it is easy to think that the bloody fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has been formed around resentment and hate. The time to resolve this enmity was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
+While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has been formed around resentment and hate. The time to resolve this enmity was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
 We have seen them employ whatever savage tactics they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
 
@@ -54,7 +54,7 @@ The Accords of the Fist were agreed to by the townspeople as part of he parlay w
 
 #### The Pledge of Servitude
 
-Every day at 10PM the town of Stonewood gathers to pledge allegiance to the bloody fist and to offer up their tithe. 
+Every day at 10PM the town of Stonewood gathers to pledge allegiance to the Bloody Fist and to offer up their tithe. 
 
 The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry perform this ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
@@ -87,7 +87,7 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ## Dragon Orcs
 
-The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war. They are made this way by the ritual that was gifted by the black shadow. The process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen.
+The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. The process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen.
 
  - Scowl
  - Gruff Speech
@@ -141,11 +141,11 @@ Green and red Fire Drakes from the Fire Plane. They are morphed into Draconic lo
 
 ### Fear of the Black Shadow
 
-It is unknown how this can be performed but we have found as part of the ritual that gives the Urakhai thier power they have a fear of the true form of the black shadow. 
+It is unknown how this can be performed but we have found as part of the ritual that gives the Urakhai thier power they have a fear of the true form of the Black Shadow. 
 
 ### War Drums and War Horns
 
-The bloody fist are known to use war drums and horns. 
+The Bloody Fist are known to use war drums and horns. 
 
 ## Current Structure of the Bloody Fist
 
@@ -153,11 +153,11 @@ The bloody fist are known to use war drums and horns.
 
 ### The Black Shadow
 
-Not much is known about the being known as the Black Shadow. 
+No one has seen or heard the Black Shadow speak but Ahroun when the deal was struck with the Bloody Fist. The full details are only known to Ahroun and the Black Shadow, but not a soul questions the word of Ahroun when he spoke the words of power and granted The Black Shadows blessing to his fellow Bloody Fist. The rumor is he is a shapeless entity who can appear as an elf in black robes when a deal is struck. The power granted to the Bloody Fist was a form of “Draconic Power” but the true nature of its source remains unknown. 
 
 ###   Warlord 
 
-#### Ahon the Hope-Flayer  (The Warlord)
+#### Ahroun the Hope-Flayer  (The Warlord)
 
 Carries Magic Items:
 - Blade of The Black Shadow <!-- (+3 2h Sword, Darkness Aura, Destruction Aura)  --> 
@@ -165,13 +165,13 @@ Carries Magic Items:
 
 *He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…*
 
-Not much is known about Ahrouns true power. He was once a mere Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a master of arms and an absolute terror on the battlefield. No one has seen him without his wolf mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all his hatred that fuels him he remains relatively calm unless he is challenged or his authority is questioned. 
+Not much is known about Ahroun's true power. He was once a mere Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a master of arms and an absolute terror on the battlefield. No one has seen him without his wolf mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all his hatred that fuels him he remains relatively calm unless he is challenged or his authority is questioned. 
 
 ##### A Dark Bargain with the Black Shadow
 
 This tale has been repeated around the campfires of the Bloody Fist. A legend of thier rebirth as a new horde. 
 
-*A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahourn. Ahourn rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahourn was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
+*A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahroun. Ahroun rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahroun was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
 
 ### Generals
 
@@ -201,7 +201,7 @@ Some would call him cowardly but he is far from it. He acts from the shadows sen
 
 Attention vile disruptors of Stonewood,
 
-I Val’kaz the Ruthless, 3rd Blade General of the Bloody Fist, Ahrouns Terror, drinker of fear, smasher of dreams do issue the following warning for your transgressions against the Bloody Fist:
+I Val’kaz the Ruthless, 3rd Blade General of the Bloody Fist, Ahroun's Terror, drinker of fear, smasher of dreams do issue the following warning for your transgressions against the Bloody Fist:
 
 Stonewood shall be surrendered unto the Bloody Fist upon winters end in 3 months. We do not wish to deploy our full tactics and military to remove the invaders to our rightfully claimed land but we shall if you force our hand. Those who wish to be spared our fury may take this brief time to prepare for our arrival and greet us with open arms as we provided safety and protection for the last season before this incident. Those who wish to still remain loyal to the Bloody Fist may do so by swearing it before your mayor Little Bristle. He shall keep tabs on who wishes to live within our good graces and who who wishes to bite the Fist that feeds. 
 
@@ -307,7 +307,7 @@ Captives of the Bloody Fist are offered a choice to die or accept the caress of 
 
 #### Orcamedies
 
-The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He attempted to join the Bloody Fist but rather than take him in the bloody fist took the only part they needed of him his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
+The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He attempted to join the Bloody Fist but rather than take him in the Bloody Fibst took the only part they needed of him his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
 
 ##### Ballista
 
@@ -336,13 +336,6 @@ You are part of an elite fighting machine and the strongest Orc tribe in Elysia 
 You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage
 
 
----
 
-Add black shadow to hierarchy
 
-Bloody fist title case
-
-Black shadow title case
-
--Message nailed to a tree outside the Mayors house-
 
