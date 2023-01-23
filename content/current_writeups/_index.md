@@ -8,15 +8,6 @@ draft: false
 
 {{% children depth="3" description="true"  sort="Weight" style="h2"%}}
 
-## Friday Night
-
-- The Magic Bomb blueprints are found and fear spreading shortly after
-- The rebirth of Loken “Bloodhamer” Oakrider emerges to aid Stonewood in its war
-- Lord of the Woods gets introduced as a creeping entity Friday Night 
-
-## Saturday
-
-- Wakeup Raid
 - Introduction of the new Guilds System as they have returned during Winter
 - Opening of Mausoleum of Fallen Heroes Living Dungeon
 - Quest for reforging Foereaver, Faeloin Ironleaf’s weapon for Balor 
@@ -25,4 +16,3 @@ draft: false
 - Grinder fight up path fight to Bomb Site
 - Burning of Stonewood Attempt 1 & 2
 - Lord of the Woods Returns at Sundown
-- Papering of Stonewood with Pamphlets “Fatal Warning” Module

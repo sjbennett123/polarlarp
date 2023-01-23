@@ -1,9 +1,9 @@
 ---
-title: "Introduction of the new Guilds System as they have returned during Winter"
+title: "Fears by Torchlight 2"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 5
-description: Introduction of the new Guilds System as they have returned during Winter
+weight: 8.9
+description: Fears by Torchlight 2
 ---
 
 **Written by**: 
