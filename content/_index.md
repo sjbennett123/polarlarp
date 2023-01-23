@@ -9,7 +9,11 @@ disableNextPrev:  true
 
 [PC INFORMATION CLICK HERE]({{< ref "/pc_information" >}})
 
+---
+
 {{% children %}}
+
+---
 
 ## [Event Outline]({{< ref "/outline" >}})
 
