@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-{{% children depth="2" description="true"  sort="Weight" style="h2"%}}
+{{% children depth="1" description="true"  sort="Weight" style="h2"%}}
 
 - Opening of Mausoleum of Fallen Heroes Living Dungeon
 - Quest for reforging Foereaver, Faeloin Ironleaf’s weapon for Balor 
