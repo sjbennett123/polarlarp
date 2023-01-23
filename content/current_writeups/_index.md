@@ -6,9 +6,8 @@ draft: false
 
 ---
 
-{{% children depth="3" description="true"  sort="Weight" style="h2"%}}
+{{% children depth="2" description="true"  sort="Weight" style="h2"%}}
 
-- Introduction of the new Guilds System as they have returned during Winter
 - Opening of Mausoleum of Fallen Heroes Living Dungeon
 - Quest for reforging Foereaver, Faeloin Ironleaf’s weapon for Balor 
 - Afternoon Raid
