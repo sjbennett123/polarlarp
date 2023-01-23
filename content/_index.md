@@ -9,6 +9,8 @@ disableNextPrev:  true
 
 [PC INFORMATION CLICK HERE]({{< ref "/pc_information" >}})
 
+{{% children %}}
+
 ## [Google Hangouts - Weekly Writer Check In](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
 - ↑ Up there is a link you can click on it! You can also go to [gloryforthefist.netlify.app/writersroom](https://gloryforthefist.netlify.app/writersroom)
