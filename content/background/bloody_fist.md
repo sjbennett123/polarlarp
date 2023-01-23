@@ -12,11 +12,11 @@ These notes have been collected at great personal cost by the reformed Black Anv
 
 ## Motivations
 
-While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has been formed around resentment and hate. The time to resolve this enmity was while the hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
+While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has formed around resentment and hate. The time to resolve this enmity was while this hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
 We have seen them employ whatever savage tactics they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
 
-We believe that they can be settled with on terms but they will be very one sided. The Bloody Fist will  demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
+We believe that they can be settled with but terms will be very one sided. The Bloody Fist will  demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
 
 
 ## The History of the Bloody Fist
@@ -25,11 +25,11 @@ We believe that they can be settled with on terms but they will be very one side
 
 The Bloody Fist tribe waged a brutal war 20 some years ago against Stonewood and the heroes of Elysia. The war was very long and bloody, but in the end the Bloody Fist was defeated.
 
-The heroes of Elysia killed their Warlord and put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened Forests and hills of Eastern Stonewood. In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture.
+The heroes of Elysia killed their Warlord and put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
 
 ### The Time Between the Wars
 
-Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
+In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture. Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
 
 
 ### The Coming of the Urakhai
@@ -42,11 +42,11 @@ The taking of Stonewood was fast and brutal. Anyone that did not accept the Acco
 
 #### The Accords of the Fist
 
-The Accords of the Fist were agreed to by the townspeople as part of he parlay with the  Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
+The Accords of the Fist were agreed to by the townspeople as part of the parlay with the  Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
 
 - No weapons on person or drawn
 - No spells in hand
-- No verbal condemnation  of Orcish Might
+- No verbal condemnation of Orcish Might
 - Kneel or bow at the Bloody Fist Banners
 - Attend the pledge of freedom and tithe nightly
 
@@ -54,9 +54,9 @@ The Accords of the Fist were agreed to by the townspeople as part of he parlay w
 
 #### The Pledge of Servitude
 
-Every day at 10PM the town of Stonewood gathers to pledge allegiance to the Bloody Fist and to offer up their tithe. 
+Every day at 10 PM the town of Stonewood gathers to pledge allegiance to the Bloody Fist and to offer up their tithe. 
 
-The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry perform this ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
+The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry performs ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
 *The mighty Bloody Fist is benevolent.*
 
@@ -87,7 +87,7 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ## Dragon Orcs
 
-The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. The process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen.
+The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen.
 
  - Scowl
  - Gruff Speech
@@ -105,7 +105,7 @@ The orcs that we see have been conscripted if they have family back home they wi
 - [Go Ho Red Face Body Paint Makeup](https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0)
 - [Mermaid Scale Stencil](https://www.amazon.com/dp/B0B31D43B4?ref=ppx_pop_mob_ap_share&th=1) 
 
-The red tribal design is said to be a mixture of human dwarf and elf blood
+The red tribal design is said to be a mixture of human, dwarf, and elf blood
 
 The white is ground up bone used during their rebirth ritual.
 
@@ -121,11 +121,11 @@ Uruk-Hai Casters now travel in pairs, always with a Celestial Caster and an Eart
 
 ![banner_of_the_fist.jpg](/banner_of_the_fist.jpg)
 
-The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When a great victory is had the most powerful warriors are sacrificed by the shamans and their spirits are imbued in the banners. This is not a punishment of any sort it is a great reward to be with their brothers offering strength forevermore.  Before every meal the orcs give an offering to thier fallen brothers by pouring one out at the banner of the fist.
+The banner of the fist is consecrated with the blood of the orcs that bear it into battle. When a great victory is had the most powerful warriors are sacrificed by the shamans and their spirits are imbued in the banners. This is not a punishment of any sort it is a great reward to be with their brothers offering strength forevermore.  Before every meal the orcs give an offering to their fallen brothers by pouring one out at the banner of the fist.
 
 When the Bloody Fist enters battle, the banner of the Blood Fist is planted in the ground. By channeling the trapped spirit within the banner the warriors within 10 Feet of the banner can receive **The Blessing of the Bloody Fist**. The Bloody Fist are known to defend the Banner fiercely and not be drawn away unless provoked. Tactically they stay near the banner and their Casters but can be provoked with rage or killing blows of their fallen brothers in arms to break ranks sometimes. The banner can be destroyed on a 15 count Counted Action of “I destroy the Banner 1.....”.
 
-**Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 Feet of the Banner. 
+**Blessing of the Bloody Fist**: All Bloody Fist Urak-hai within 10 Feet of the Banner.
 
 - Swing an additional 5 damage on weapons.
 - Regenerate 20 Body on a 5 Count of “I drink your blood... X”. 
@@ -159,9 +159,10 @@ No one has seen or heard the Black Shadow speak but Ahroun when the deal was str
 
 #### Ahroun the Hope-Flayer  (The Warlord)
 
-Carries Magic Items:
+**Carries Magic Items**
+
 - Blade of The Black Shadow <!-- (+3 2h Sword, Darkness Aura, Destruction Aura)  --> 
-- Amulet of the Fist <!--  (Cloak Command x2, Cloak Charm x2, Cloak Curse x1)  --> 
+- Amulet of the Fist <!-- (Cloak Command x2, Cloak Charm x2, Cloak Curse x1) --> 
 
 *He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…*
 
@@ -169,13 +170,13 @@ Not much is known about Ahroun's true power. He was once a mere Orc in the Blood
 
 ##### A Dark Bargain with the Black Shadow
 
-This tale has been repeated around the campfires of the Bloody Fist. A legend of thier rebirth as a new horde. 
+This tale has been repeated around the campfires of the Bloody Fist. A legend of their rebirth as a new horde. 
 
 *A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahroun. Ahroun rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia. Ahroun was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
 
 ### Generals
 
-The Generals of the bloody fist have been made powerful 
+The Generals of the bloody fist have been made powerful through a lesser deal with the Black Shadow.
 
 #### Gimfang the Skyrender (The Berserker Butcher)
 
@@ -185,7 +186,7 @@ The Generals of the bloody fist have been made powerful
 
 *He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker and his Glaive, his 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts can shake even the most hardened hearts. His self preservation is low as making the kill is all that matters to this berserker butcher…*
 
-Grimfang was always a very violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is fair targets. His Glave he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are very cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 shortswords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
+Grimfang was always a very violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is fair targets. His Glave he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are very cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 short swords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
 
 #### Val’Kaz the Ruthless  (The Drinker of Fear)
 
@@ -193,9 +194,9 @@ Grimfang was always a very violent and angry child. He grew up trying to fight e
 - Necklace of Terror  <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
 - Ring of Ruthlessness  <!-- (Paralysis x2, Imprison x2, Weakness x1)  --> 
 
-“He stands of average Orcish height, a slimmer build than other Bloody Fist. His face half hidden in a cowl, scarred and disfigured from his menacing tactics and explosives over the years. He carries his blackened blade and dagger under his shield for nefarious deeds. When he enters a room he doesn’t speak a word until he has planned to speak. People avoid his eye contact cause he looks directly into your soul and finds what you fear to use against you…”
+*He stands of average Orcish height, a slimmer build than other Bloody Fist. His face half hidden in a cowl, scarred and disfigured from his menacing tactics and explosives over the years. He carries his blackened blade and dagger under his shield for nefarious deeds. When he enters a room he doesn’t speak a word until he has planned to speak. People avoid his eye contact cause he looks directly into your soul and finds what you fear to use against you…*
 
-Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. If you let him know what you are afraid of or what would make you surrender or submit, you might as well consider yourself defeated cause he will employ cruel tactics to get it done. Terror is his game and he does it masterfully. His preferred method is you to come crawling to him on your knees to surrender after he has terrorized you into submission. However, he is not above just slaughtering you and your family and mailing your heads to a mayor to send a message of who you are dealing with.
+Some would call him cowardly but he is far from it. He acts from the shadows sending messages and inspiring fear. If you let him know what you are afraid of or what would make you surrender or submit, you might as well consider yourself defeated because he will employ cruel tactics to get it done. Terror is his game and he does it masterfully. His preferred method is for you to come crawling to him on your knees to surrender after he has terrorized you into submission. However, he is not above just slaughtering you and your family and mailing your heads to a mayor to send a message of who you are dealing with.
 
 ##### A Warning to Stonewood
 
@@ -209,7 +210,7 @@ Those who stay and raise up arms against us know this, we will hunt you like pre
 
 Please do think this through carefully, we may sound like bloodthirsty savages but there are darker forces than us that lurk in your Elysia which we will give you shelter from. All we ask in return is your cooperation and loyalty tithes. 
 
-We will see you in 3 months time, I pray you make the correct decision for your own good and the good of Stonewood. The mighty Hopeflayer sends his regards and wishes your families well this winter and that you remember who it was that gave you a second chance where others would not
+We will see you in 3 months time, I pray you make the correct decision for your own good and the good of Stonewood. The mighty Hopeflayer sends his regards and wishes your families well this winter and that you remember who it was that gave you a second chance where others would not.
 
 ~Val’kaz the Ruthless
 
@@ -221,9 +222,9 @@ We will see you in 3 months time, I pray you make the correct decision for your 
 - Tacticians Bracer <!-- (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1) -->
 - Bulwark of the Battlefield Shield  <!-- (Bane Binding x2, Bane Command x2, Regenerate x1) -->
 
-*He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect cause he already has planned how to defeat them if they cross him…*
+*He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye is always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect because he already has planned how to defeat them if they cross him…*
 
-Mal-Valoance from a young age took to studying the tactics of all creatures and races. His eye and acumen on the battlefield are unmatched among his kind. He has a library of tactic and society books to understand his enemies from birth to the grave. His skill in battle is very impressive but his true skill lies in his ability to control the battlefield and the armies clashing on it. He is not afraid to retreat and let them fight a skeleton force to preserve his main army. Live to fight another day and destroy your enemy without drawing your sword are his preferred methods but when people see the Bloody Fist terror makes men panic and draw blades.
+Mal-Valoance from a young age took to studying the tactics of all creatures and races. His eye and acumen on the battlefield are unmatched among his kind. He has a library of tactic and society books to understand his enemies from birth to the grave. His skill in battle is very impressive but his true skill lies in his ability to control the battlefield and the armies clashing on it. He is not afraid to retreat and let them fight a skeleton force to preserve his main army. Living to fight another day and destroying his enemy without drawing a sword is preferred methods but when people see the Bloody Fist terror makes men panic and draw blades.
 
 #### Svoul the Silent Strider (The Face and Dagger)
 
@@ -231,7 +232,7 @@ Mal-Valoance from a young age took to studying the tactics of all creatures and 
 - Blade of Assasination   <!-- (+3 Short Sword, Silence x2) -->
 - Necklace of Hidden Movements  <!-- (Sleep x2, Silence x2, Curse x1) -->
 
-*He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask upto his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem very well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passive determining the fate of people he meets, Heads for Dead or Tails for Potential Victim…*
+*He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask up to his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem very well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passively determining the fate of people he meets, heads for dead or tails for potential victim…*
 
 A mighty assassin. Nobody knows where he will strike. Svoul was recruited into the Bloody Fist at a young age when his parents were killed by the Bloody Fist during a tribal “misunderstanding.” Fueled with grief and Orcish bloodlust, Svoul focused inward and sharpened his skills into razor precision and deadly efficiency. When things require a delicate touch or political coercion, Svoul is sent in. Mastering the art of subterfuge and etiquette to get him in the door but when it’s time to execute the plan he will make it seem like he was never there and leave a trail of carnage in his wake. Sometimes missions are as simple as black bag and grab a target or setup a murder scene and pin the job on someone else. He uses an assortment of weapons based on the job to make sure it fits the description and wounds match the job to avoid suspicion.
 
@@ -262,7 +263,7 @@ Strum is a very highly intelligent Orc. His theories about magic and turning the
 - Staff of the Bloodbane  <!-- (Taint Blood x2, Cause Disease x2, Desecrate x1) -->
 - Amulet of the Bloodbane <!-- (Cloak Chaos x2, Cause Mortal Wound x2, Create Undead x1) -->
 
-“He stands with the power of undeath in and around him. His eyes are a white-ish blue like the undead he commands, the lack of pupils is a very sinister feeling when he gazes at you. His bone is covered in scars and markings of Undeath. He has a Chaos Star on his throat, necklace of bones hanging from his neck, and a Skull Staff in his hand ready to kill your friends and resurrect them for his legions without remorse…”
+*He stands with the power of undeath in and around him. His eyes are a white-ish blue like the undead he commands, the lack of pupils is a very sinister feeling when he gazes at you. His bone is covered in scars and markings of Undeath. He has a Chaos Star on his throat, necklace of bones hanging from his neck, and a Skull Staff in his hand ready to kill your friends and resurrect them for his legions without remorse…*
 
 Nur’gal was a very cruel young Orc. He would kill things just to see how they worked as an undead. People distanced themselves from Nur’gal as his necromantic practices got more intense. As for his practices, he was very good and thorough with his research. His newest ritual is to create a new type of Death Knight infused with the Black Shadows blessing. He is responsible for the current Honor Guard ritual and strength but he isn’t happy with it and thinks he can make it better. If you can be made into a vessel for Undeath, Nur’gal will find a way to make you useful.
 
@@ -286,11 +287,19 @@ You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Y
 
 #### Gnar the Black Fury
 
+
+
 #### Skindancer the Cruel
+
+
 
 #### Wendigo the White Howler
 
+
+
 ### Other Notables
+
+
 
 #### Bonesaw the Jailor
 
@@ -307,7 +316,7 @@ Captives of the Bloody Fist are offered a choice to die or accept the caress of 
 
 #### Orcamedies
 
-The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He attempted to join the Bloody Fist but rather than take him in the Bloody Fibst took the only part they needed of him his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
+The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He had attempted to join the Bloody Fist but rather than take him in, the Bloody Fist took the only part they needed his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
 
 ##### Ballista
 
