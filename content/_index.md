@@ -11,7 +11,7 @@ disableNextPrev:  true
 
 {{% children %}}
 
-## [Google Hangouts - Weekly Writer Check In](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
+## [Weekly Writer Check In - Google Hangouts](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
 - ↑ Up there is a link you can click on it! You can also go to [gloryforthefist.netlify.app/writersroom](https://gloryforthefist.netlify.app/writersroom)
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
@@ -33,11 +33,11 @@ disableNextPrev:  true
   - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
 - All writeups **must** be completed 2 weeks before the event to be reviewed by another plot team. They will check for Nonstandard effects and consistency. Ideally we would do this sooner than that so that feedback could be incorporated before having copies printed but this is the deadline. 
 
-## [Trello - Prop tracking](https://trello.com/b/A6eLvFdV/polar-props)
+## [Prop tracking - Trello ](https://trello.com/b/A6eLvFdV/polar-props)
 
 - Make sure your props are on the list and in the order that you need them. 
 
-## [Dropbox - Module Writeups for feedback](https://www.dropbox.com/scl/fo/xy8dqwc9ozq9bzuzdh3fy/h?dl=0&rlkey=76lz7t41srkz8zj64oxhe6wud)
+## [Module Writeups for Feedback - Dropbox](https://www.dropbox.com/scl/fo/xy8dqwc9ozq9bzuzdh3fy/h?dl=0&rlkey=76lz7t41srkz8zj64oxhe6wud)
 
 - Install the app https://www.dropbox.com/install.  
 - Ask to be invited to the Dropbox folder. This will syncronize all of the Writeups and Resources to your computer. 
