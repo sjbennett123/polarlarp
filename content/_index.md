@@ -15,7 +15,7 @@ disableNextPrev:  true
 
 ---
 
-## [Event Outline]({{< ref "/outline" >}})
+## [Current Event]({{< ref "/current_writeups" >}})
 
 ## [Weekly Writer Check In - Google Hangouts](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
