@@ -32,7 +32,9 @@ description: The time has come for the Ritual of Fire! The Bloody Fist have reso
 
 **Number of Cast Members**: All that are suitable for combat
 
-**Roles**: 2 Corrupted Bloody Fist Shaman, 1 Corrupted Bloody Fist Raid Leader, 3 Corrupted Bloody Fist Grunts, 3 Murumbrian Wizards. 3 Murumbrian Centurions, Bloody Fist Grunts remainder of NPC’s
+**Roles**:  {{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
+
+2 Corrupted Bloody Fist Shaman, 1 Corrupted Bloody Fist Raid Leader, 3 Corrupted Bloody Fist Grunts, 3 Murumbrian Wizards. 3 Murumbrian Centurions, Bloody Fist Grunts remainder of NPC’s
 
 **Props**: Portal Circle Rep, Altar of Power, Murumbrian Wizard and Centurion costumes, Bloody Fist costuming, Skulls for ritual, spellbook/scroll
 
