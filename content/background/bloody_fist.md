@@ -182,7 +182,7 @@ The Generals of the bloody fist have been made powerful through a lesser deal wi
 
 **Carries Magic Items**
 - Glaive of the Skyrender  <!-- (+3 Polearm, Death x2) --> 
-- Necklace of Terror <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
+- Necklace of Destruction<!-- (Destroy x2, Bane Binding x2, Paralysis x1) -->  
 
 *He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker carries a mighty glaive and has 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts shake even the most hardened hearts. His sense of self preservation is low as making the kill is all that matters to this berserker butcher…*
 
