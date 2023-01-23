@@ -11,12 +11,13 @@ disableNextPrev:  true
 
 {{% children %}}
 
+## [Event Outline]({{< ref "/outline" >}})
+
 ## [Weekly Writer Check In - Google Hangouts](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
 - ↑ Up there is a link you can click on it! You can also go to [gloryforthefist.netlify.app/writersroom](https://gloryforthefist.netlify.app/writersroom)
 - Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. 
-- Follow the writers guidelines availible at [https://gloryforthefist.netlify.app/writing]({{< ref "/writing" >}})
-- [outline]({{< ref "/outline" >}})
+- Follow the writers guidelines available at [gloryforthefist.netlify.app/writing]({{< ref "/writing" >}})
 - This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
 - Use a real webcam if possible.
 - Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... <u>it can wait an hour I promise you.</u>
@@ -40,7 +41,7 @@ disableNextPrev:  true
 ## [Module Writeups for Feedback - Dropbox](https://www.dropbox.com/scl/fo/xy8dqwc9ozq9bzuzdh3fy/h?dl=0&rlkey=76lz7t41srkz8zj64oxhe6wud)
 
 - Install the app https://www.dropbox.com/install.  
-- Ask to be invited to the Dropbox folder. This will syncronize all of the Writeups and Resources to your computer. 
+- Ask to be invited to the Dropbox folder. This will synchronize all of the Writeups and Resources to your computer. 
 - This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
 - Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
 
