@@ -253,7 +253,7 @@ You are the spiritual magical force behind the Bloody Fist’s mighty blades. Yo
 - Wand of Skyburner   <!-- (Eldritch Blast x5) -->
 - Amulet of Skyburner <!-- (Dragons Breath x3, Shield Magic x2) -->
 
-“He stands slightly hunched from his age but a grizzled veteran of war with the Bloody Fist. A very well studied wizard from his time in his library. A completely self taught wizard but very deadly in combat. His face is covered in Celestial markings and runes. He has devoted himself, a rarity among Orcish kind but he is a prodigy or Celestial Magic. The air around him has a lingering scent of magic and fire radianting in it. His robes are Dark Red like the setting Sun when it appears like it is on fire…”
+“He stands slightly hunched from his age but a grizzled veteran of war with the Bloody Fist. A very well studied wizard from his time in his library. A completely self taught wizard but very deadly in combat. His face is covered in Celestial markings and runes. He has devoted himself, a rarity among Orcish kind but he is a prodigy or Celestial Magic. The air around him has a lingering scent of magic and fire radiating in it. His robes are Dark Red like the setting Sun when it appears like it is on fire…”
 
 Strum is a very highly intelligent Orc. His theories about magic and turning the very sky into fire are very fascinating and convincing. Most of the Bloody Fist think he is a madman for his ideas of “Sky Magic” but his skill in combat when he unleashes his barrage of elemental attacks is terrifyingly effective so people don’t openly speak out against his “madness” much. He is very willing to converse about magic and magical theories of Celestial and Elemental nature, he has little use for Earth Magic outside of it being used to heal him. His Wand has inspired fear into many foes and nobles over the years. It is made of Bloodstained Bone from a Hippogriff and feathered with rare bird feathers.
 
@@ -275,7 +275,7 @@ Nur’gal was a very cruel young Orc. He would kill things just to see how they 
 
 “He stands shorter than your average Orc but very stout in stature. His arms and shoulders are covered in Wolf White fur with streaks of blood across them. His hands are covered with wolf claws as a proper shaman would, used for ritual and rending the flesh of his foes who try to bring harm to the Bloody Fist. His face and neck with the blood of other Orcs smeared on it to link them spiritually. When he walks among the other Fist members, they part the way out of respect for his ability as a healer and trust when he says how to tend to the wounded”
 
-Uktena was brought into the life of being a healer when he saved his older brother during the last Bloody fist was with his last bit of healing magic before passing out. His whole life he spent mending the wounds of the Bloody Fist. From just basic healing arts to purging spirit effects, Uktena devoted his life to spirit healing and the war effort of the Bloody Fist. While he is an impressive healer, he is also very impressive in combat with his claws in defending those who are wounded amoung the Bloody Fist.
+Uktena was brought into the life of being a healer when he saved his older brother during the last Bloody fist was with his last bit of healing magic before passing out. His whole life he spent mending the wounds of the Bloody Fist. From just basic healing arts to purging spirit effects, Uktena devoted his life to spirit healing and the war effort of the Bloody Fist. While he is an impressive healer, he is also very impressive in combat with his claws in defending those who are wounded among the Bloody Fist.
 
 ### Honor Guard
 
@@ -306,7 +306,7 @@ You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Y
 **Carries Magic Items**
 - Bonesaw <!--  (+3 2H Sword, Confine x2)  --> 
 
-*He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics he can still make you laugh and smile. Just before he bashes someone skull in with his Bonesaw…*
+*He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics, he can still make you laugh and smile. Just before he bashes someone's skull in with his Bonesaw…*
 
 Known for his brutal ways of blood sacrifice. Some don’t care for for his approach but his favor with Ahroun means he cannot be challenged. The warlord favors his methods because they bring results.
 
@@ -316,11 +316,11 @@ Captives of the Bloody Fist are offered a choice to die or accept the caress of 
 
 #### Orcamedies
 
-The spirt of the great orcish inventor that plagued Greyhorn captured in a talking skull. He had attempted to join the Bloody Fist but rather than take him in, the Bloody Fist took the only part they needed his intellect and flayed the flesh from his bones. Now he provides technical assistance but plots his death and an end to this half life. 
+The spirt of the great orcish inventor that plagued Greyhorn has been captured in a talking skull. He had attempted to join the Bloody Fist but rather than take him in, the Bloody Fist took the only part they needed, his intellect, and flayed the flesh from his bones. Now he provides technical assistance to the Bloody Fist while he plots his death to end this half life. 
 
 ##### Ballista
 
-A powerful Ballista made of stonewood that can fire specially made bolts that can penetrate even the most powerful strucutre. 
+A powerful Ballista made of Stonewood that can fire specially made bolts that can penetrate even the most powerful structure. 
 
 ##### Spirit Bomb
 
@@ -338,11 +338,11 @@ You are part of an elite fighting machine and the strongest Orc tribe in Elysia 
 
 #### Grunts
 
-You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet
+You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
 
 #### Shamans
 
-You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage
+You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
 
 
 
