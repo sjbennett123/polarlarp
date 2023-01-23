@@ -15,3 +15,7 @@ draft: false
 - Grinder fight up path fight to Bomb Site
 - Burning of Stonewood Attempt 1 & 2
 - Lord of the Woods Returns at Sundown
+
+---
+
+This event is in a big way a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of stonewood. 
