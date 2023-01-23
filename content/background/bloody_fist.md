@@ -153,7 +153,7 @@ The Bloody Fist are known to use war drums and horns.
 
 ### The Black Shadow
 
-No one has seen or heard the Black Shadow speak but Ahroun when the deal was struck with the Bloody Fist. The full details are only known to Ahroun and the Black Shadow, but not a soul questions the word of Ahroun when he spoke the words of power and granted The Black Shadows blessing to his fellow Bloody Fist. The rumor is he is a shapeless entity who can appear as an elf in black robes when a deal is struck. The power granted to the Bloody Fist was a form of “Draconic Power” but the true nature of its source remains unknown. 
+No one has seen or heard the Black Shadow speak but Ahroun when the deal was struck with the Bloody Fist. The full details are only known to Ahroun and the Black Shadow, but not a soul questions the word of Ahroun when he spoke the words of power and granted The Black Shadow's blessing to his fellow Bloody Fist. The rumor is he is a shapeless entity who can appear as an elf in black robes when a deal is struck. The power granted to the Bloody Fist was a form of “Draconic Power” but the true nature of its source remains unknown. 
 
 ###   Warlord 
 
@@ -265,7 +265,7 @@ Strum is a very highly intelligent Orc. His theories about magic and turning the
 
 *He stands with the power of undeath in and around him. His eyes are a white-ish blue like the undead he commands, the lack of pupils is a very sinister feeling when he gazes at you. His bone is covered in scars and markings of Undeath. He has a Chaos Star on his throat, necklace of bones hanging from his neck, and a Skull Staff in his hand ready to kill your friends and resurrect them for his legions without remorse…*
 
-Nur’gal was a very cruel young Orc. He would kill things just to see how they worked as an undead. People distanced themselves from Nur’gal as his necromantic practices got more intense. As for his practices, he was very good and thorough with his research. His newest ritual is to create a new type of Death Knight infused with the Black Shadows blessing. He is responsible for the current Honor Guard ritual and strength but he isn’t happy with it and thinks he can make it better. If you can be made into a vessel for Undeath, Nur’gal will find a way to make you useful.
+Nur’gal was a very cruel young Orc. He would kill things just to see how they worked as an undead. People distanced themselves from Nur’gal as his necromantic practices got more intense. As for his practices, he was very good and thorough with his research. His newest ritual is to create a new type of Death Knight infused with the Black Shadow's blessing. He is responsible for the current Honor Guard ritual and strength but he isn’t happy with it and thinks he can make it better. If you can be made into a vessel for Undeath, Nur’gal will find a way to make you useful.
 
 #### Uktena Wolvesbane (Earth Spirit Healer)
 
