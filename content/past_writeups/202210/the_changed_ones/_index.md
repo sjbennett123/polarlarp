@@ -3,7 +3,7 @@ title: "The Changed Ones"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: "Passing through the mists"
+description: "The Changed Ones"
 ---
 
 **Written by**: Chris Colland
