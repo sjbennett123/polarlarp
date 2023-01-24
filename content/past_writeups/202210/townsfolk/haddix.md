@@ -1,14 +1,12 @@
 ---
-title: "Mayor Anak “Lil Bristle” Durag"
+title: "Haddix “Brow-splitter” Strongbow"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9
-description: The Installed Mayor of Stonewood
+description: former mercenary and stable hand
 ---
 
 
-
-Haddix “Brow-splitter” Strongbow, former mercenary and stable hand
 
 *You used to be the best damn archer Stonewood had ever seen! You could hit anything as far as the bow could draw and the eye could see. Your legend in battle was sung in the halls of Stonewood as a Master Marksman for decades. But that all changed when the cursed Bloody Fist showed up. You took out a Blood Fist Raid Leader in one shot and they took your Bow String Hand for it! Healers tried to restore it, but it was some Chaos Tainted dagger used in the ritual to severe it, preventing its regrowth. Now you have a humble but depressing job as a Stable Hand.*
 
