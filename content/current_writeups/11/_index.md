@@ -3,7 +3,7 @@ title: "Journey to El'Dorado"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 5
-description: Quest for reforging Foereaver, Faeloin Ironleaf’s weapon for Balor 
+description: "5 Kingdom warriors pass through town on the way to a crypt that they heard about. While they are town, they tell tales of the surrounding countryside before venturing into the crypt. (S) Retaking Stonewood: 10 Module Series detailed on the right"
 ---
 
 **Written by**: 
