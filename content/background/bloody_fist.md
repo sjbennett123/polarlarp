@@ -72,6 +72,26 @@ The Accords of the Fist mandate that the town give an offering every day. This i
 
 *The great orc horde protects us.*
 
+## The Changed ones.
+
+This ritual had been gifted to the Bloody Fist Orcs by the Black Shadow. It requires that 6 sacrifices agree to be changed and bound to the altar. The Alter then roars with the flame of their consumed souls powering a terrible transformation. This transformation changes the sacrifices into horrific monsters consumed by their most base desires but bound to the will of those that conducted the ritual.
+The Scarifies that were made at the Altar in stonewood are a special lot. Powerful Hoylean wizards were tricked into thinking that they were responding to an auction of magical items but instead it was the fearsome bloody fist. The Bloody fist put them to the sword and only 6 of the close to 30 Hoyleans survived but they survived by submitted to be changed. 
+These changed ones assisted the Orcs in taking the city of Stonewood and now they patrol it's environs and annihilate anyone that violates the Accords of the Fist.
+
+## The night of the ritual of the Chosen Ones
+
+I was there the night they made them do it. I hid while the Orcs had six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Flame around a 6 Sided Altar. The alter is still here in the field. Each of my those poor dwarves then had each of their eyes catch fire fire.  Then they started screaming. They screamed and screamed but they didn't move. It was like they were frozen there. Then they began speaking in unison. I wrote down what they said even though I will never forget it. 
+(fumbles through pants.)
+
+    Six Clean Souls you offer me.
+    Free from the taint of necromancy and fire.
+    3 Perfect vessels I offer in return.
+    This struck bargain shall never be unstruck.
+    These souls are mine and these vessels are yours.
+
+Then the screaming started again. That screaming went on for far longer than a dwarf could scream. Then when they all stopped and rose each of them looking around. 
+I don't get it what the heck did he mean by three perfect vessels. All six of those monsters are wandering around mocking us with their presence. I just know that the orcs could not have done this on their own. What is the Black Shadow! 
+
 #### The Appointing of a Puppet Mayor
 
 The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shaved his beard.
@@ -336,6 +356,15 @@ During the occupation of the town of Stonewood the Bloody Fist introduced  an in
 
 You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead.
 
+Orc Intel
+- Who is in charge and giving orders?
+- Who can be bought or blackmailed?
+- Where are magic items, relics, or rumors of lost magic?
+- Is there any opposition or or talk of uprising?
+- Are there surrounding defenses? 
+- Where the money is kept
+- Who isn’t paying up with bribes and tribute? 
+
 #### Grunts
 
 You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
@@ -343,8 +372,3 @@ You are part of an elite fighting machine and the strongest Orc tribe in Elysia 
 #### Shamans
 
 You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
-
-
-
-
-
