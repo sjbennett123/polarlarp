@@ -1,9 +1,9 @@
 ---
-title: "The Ritual Of Fire"
+title: "The Changed Ones"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+description: "Passing through the mists"
 ---
 
 **Written by**: Chris Colland

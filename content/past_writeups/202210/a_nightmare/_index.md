@@ -10,7 +10,6 @@ description: A Nightmare
 
 **Reviewed by**: Scott Bennett
 
-A Nightmare
 (Targeted to the one who is chosen by the morumbrians - The youngest player that seems like they would enjoy being focus of the extra dimensional manhunt that the morumbrians are on) 
 
 Every night for the past few weeks you have been troubled by terrible dreams. 
