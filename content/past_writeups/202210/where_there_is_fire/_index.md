@@ -3,55 +3,91 @@ title: "Where there is fire"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: "Where there is fire"
+description: "A chimera has been planted in a herd of sheep and has  shapeshifted into one of the sheep. It is plucking them off when hungry. "
 ---
 
-**Written by**: Chris Colland
+**Brief:**  A chimera has been planted in a herd of sheep and has  shapeshifted into one of the sheep. It is plucking them off when hungry. 
 
-**Reviewed by**: Scott Bennett
+**Background**: The brothers Repman are both shepards and assholes. They are famous for the quality of their wool but will often "Alter the Deal” when they are about to actually make the sale. Several months ago they were commissioned to make a cloak for a powerful but capricious wizard. Their normal plan of adding "fees" to the sale after the fact did not go well... at all. The wizard paid the price but planted a seed of a young chimera that he knew would terrorize the shepards but he would be long gone by the time it hatched and terrorized them.
+**Synopsis:** Adventure begins as a young shepherd, Bernhart Repman, comes into town. The shepherd is looking to recruit some moderately experienced adventurers to tackle a problem that he had come across. His flock keeps disappearing slowly leaving a bloody mess in the morning where one of his sheep had been. He heard no noise like a wolf would make, so he is perplexed. He will lead the adventurers out to his fields... where his brother, Symon Repman, was watching the sheep, and he will show them a sheep that was torn apart last night. 
 
-**Brief**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+There are sheep milling about. When the adventurers spread out or search for the reason for the sheep’s demise, the sheep will try to be friendly to the PC’s and eventually, a Chimera will lead an adventurer off and transform to attack a weak looking adventurer. When the Chimera shows it's true form, the sheep will be terrified and try to hide by snuggling the adventurers.
+**Hook:**  Bernhart Repman comes into town looking for help with his dismembered sheep.
+**Set:**  field with sheep and a dismembered sheep. Sheep(2-6) milling about. Remnants of Chimera egg with the rune of the wizard on it
+**Roles**: Shepherd Bernhart Repman (brother to Symon), Shepard Symon Repman (brother to Bernhart), 6x Sheep, Chimera 
 
-**Requirements**: 
+***
 
-- Final Module
-- Both attempts to burn the town have failed
+## Symon Repman
 
-**Synopsis**: The Ritual of Fire is a Bloody Fist ritual to rip open the Fire plane. They have used this in the past to great effect. The Flame Drake elementals are very destructive and serve the purpose of the Bloody Fist. But during the ritual, the forces of Darkness has corrupted the ritual and used it as a gateway to attack! When they rift into existence, the Hoylean energy from the Chosen Ones module attracted their mortal enemies, the Murumbrians have arrived, and they seek the “chosen one” to take back to their time.
+Shepherd and 6th level fighter. 
 
-**Outcomes**:
+He used to be an adventurer but tells the players that he “took an arrow to the knee”. He does not like his life being married, and wants to get back to adventuring, but is compelled to help out his older brother with the flock left by father. 
 
-(1) the players survive the onslaught, and the 1 Hour timer expires, the elementals are forcibly rifted back to their realm. There are many ways to “defeat” this module, but they cannot just simply escape the timer of it.
+**Body:** 16
 
-(2) The Murumbrians capture the “Chosen One” or the chosen one comes willingly with them. The assault will stop. The chosen one is then and take them back to their time to make an offer to since he was chosen. Run the module A conversation in Darkness. 
+**Skills:** Read and Write (6) Two hand edge (8) Prof. Two Handed Edge (2) Slay Two Handed Edge (10) Craftsman: Sheep shearing (5)
 
-**Rumors**: “The Ley Lines of Stonewood have shifted dramatically as of recent. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but Sulfur and Pain. Sta Vigilant ance guard your components well”
-  Your Friend in the darkness ~Kane
+**Costume:** Merchant clothes
 
-**Hook**: A terrified townsfolk comes running to the tavern screaming about the Bloody fist have setup a ritual and they are slaughtering people for their blood chanting about “The Flame Drakes must be given proper blood sacrifice to engorge their rage!”
+***
 
-**Number of Cast Members**: All that are suitable for combat
+## Bernhart Repman
 
-**Roles**:  {{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
+Shepherd and 6 level Earth Scholar. 
 
-2 Corrupted Bloody Fist Shaman, 1 Corrupted Bloody Fist Raid Leader, 3 Corrupted Bloody Fist Grunts, 3 Murumbrian Wizards. 3 Murumbrian Centurions, Bloody Fist Grunts remainder of NPC’s
+Took over their father’s sheep herd after his passing. He likes the work, and the quiet life. He is a healer out of necessity, as adventuring life did not suit him well. He is gruff, but knows this problem is beyond his ability to solve. He is willing to pay for adventures to solve this. He will give up to 1 gold a piece for up to 6 adventurers to go and help him.
 
-**Props**: Portal Circle Rep, Altar of Power, Murumbrian Wizard and Centurion costumes, Bloody Fist costuming, Skulls for ritual, spellbook/scroll
+**Body:** 6
 
-**Tags and Treasure**: Gems, Evaluate Items, Coins, Magic Item: 
+**Skills:** Read / Write (3) Healing Arts (2)First Aid (2)Spells: Earth PrimaryE1 X4	(4)E2 X4	(4) E3 X4	(8)E4 X4	(8)E5 X3	(9)E6 X2	(6)E7 X1	(4)
 
-**Scene 1**: (OOG) Altar Site north of Tavern  (IG) Makeshift Ritual Site of the Bloody Fist
+**Costume:** Merchant Clothes
 
-**Flee Point**: This module is site/town wide
+***
 
-**Non-Standard Effects**: 10ft Area of Effect Arcane Fear on Wizards
+## Sheep
 
-**Rules Clarifications**: None 
+A domesticated species that would not be able to survive in the wild. They are raised for their wool that is is spun into warm and reliable garmets. 
 
-**Craftsman Information**: None
+**Body:** 10 
+**Weapons Attacks** Claws (1 Normal) 
+**Domesticated** will only attack if cornered. They will run to a human if scared
+**Loud** the bleating of sheep is surprisingly loud and disruptive. 
 
-**Transformations**: None
+***
 
-**Running Notes**: The Ritual of Fire being corrupted was NOT something the Bloody Fist expected. The Bloody Fist intended to run when the Flame Drake Elementals were summoned but the nature of the Murumbrians tainted the ritual. This forced obedience upon the Bloody Fist. 
+## Chimera
 
-When the Murumbrians enter the field, the “Chosen One” will already have their Glowing Morumbrain Eyes active so the Murumbrians know who they are; and will hunt them for 1 hour. The entire site is active for play during this module. It is completely valid to hide and not fight them, but like a horror movie they will keep coming regardless. 
+The Chimera is a magical creature that roams the landed regions of Tyrra in search of food. It has a nearly insatiable appetite, and will eat virtually anything. It reproduces asexually by laying a single egg once every three years. The egg hatches in a day, and the Chimera grows to full size within a few hours. These creatures are nomadic and extremely solitary. If two Chimeras encounter one another in the wild they will fight to the death.
+
+**Descriptive Phrase:**  Giant Goat With a Lion’s Head and a Serpent’s Tail
+**Type:** Magical Beast
+**Intellect**: Low
+**Society**: Solitary
+**Motivation**: Feed
+**Costume**: Brown face and tabard
+**Monster Level:** 35
+**Weapon Attack:** Bite at 10-Normal
+**Carrier Attack:** None
+**Packet Delivered Attack:** Arcane Fear 5/day
+**Packet Delivered Attack:** Charm /2 day
+**Body Points:** 150
+**Defenses:** Resist Battle Magic 3/day, Resist Poison 3/day, Escape Pin/Bind/Web/Confine
+**Immune To:** Waylay, Charm, Fear, Shun, Vampire Charm
+Weaknesses: None
+**Special Abilities:** Superhuman Strength +8
+**Transformation:** 3 count can assume the form of any creature that it has consumed but retains it's primitive intelligence.** 
+
+***
+
+## Ethor Elden
+
+19th Level Celestial Scholar
+
+*A capricious wizard who is not fucking around. He was taken for a ride by the Brothers for a cloak. He originally agreed on paying 10 gold for the best quality of wool. When he went to pick up the Cloak, the Brothers wanted to charge him 15 Gold due to cost overruns, and changes to the specifications by Ethor. The cloak was supposed to be of the best quality of wool but is starting to wear earlier than he expected. He put a Chimera Egg he got from a fey he knows.
+
+**Body: 15** 
+
+**Skills:** Read / Write (3)Read Magic (4)Healing Arts (2)First Aid (2)Spells: Celestial Primary	Earth SecondaryC6	(6)					E1*4	(8)C2*6	(6) 				E2*4	(8)C3*6	(12)					E3*4	(16)C4*6	(12)					E4*2	(8)C5*4	(12)C6*2	(12)C7*1	(15)C8*4	(15)	C9*4	(24)
+Formal Magic *9 (36)
