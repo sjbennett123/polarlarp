@@ -15,7 +15,7 @@ Standard Modules
 (F) P.24 Don’t Talk to Strangers: A bound willowisp lures adventurers into a trap.
 (F) Where There is Fire: A Shepard enlists the adventurers help in dealing with a threat to his flock. 
 (S) P.34 Horns of War: The time has come for the challengers of Stonewood to meet the Bloody Fist! The Altar of the Changed Ones was destroyed last night upon arrival, so this is the response and investigation by the Bloody Fist. Answers or Blood will be had!
-(S)The Journey to El Dorado: 5 Kingdom warriors pass through town on the way to a crypt that they heard about. While they are town, they tell tales of the surrounding countryside before venturing into the crypt.
+
 (S) Retaking Stonewood: 10 Module Series detailed on the right  
 (S) P.144 Fears by Torchlight: The Bloody Fist have had enough of these damn heroes, so they have decided to just set the town on fire to watch the suffering set in. Small squads of Bloody Fist will strike all over the town with Torches to try and burn down the Town of Stonewood in a very futile way.
 (S) P.150 Fears by Torchlight 2: Torchlight Boogaloo: The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute.
