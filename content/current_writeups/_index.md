@@ -8,11 +8,11 @@ draft: false
 
 {{% children depth="1" description="true"  sort="Weight" style="h2"%}}
 
+- Grinder fight up path fight to Bomb Site
 - 
 - 
 - 
 - 
-- Burning of Stonewood Attempt 1 & 2
 - Lord of the Woods Returns at Sundown
 
 ---
