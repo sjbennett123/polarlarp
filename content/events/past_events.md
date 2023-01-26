@@ -28,6 +28,20 @@ disableNextPrev:  true
 
 **Food**:  Please let us know about any considerations we need to take into account. {{%expand "Feast Menu To Be Determined" %}} 
 
+Good adventuring citizens of Elysia, you are cordially invited by your good King to a feast. 
+
+January 14th 623  from the hours of 9:30am - 7pm
+
+The new year festivities will ring in a new era and a new Duke! Location will be at the estates of Grand Vizier Thermo, just outside of Glavorn, the capital city of Elysia. You are hereby ordered to bring mirth and happiness to this feast. 
+
+Please join us in games of marshal combat, battles of the mind, best dressed and best table decoration, among others. The ducal knights are being asked to hold some of these tournaments and we ask anyone that wants to stand up and host a game or tournament in the honor of the new Duke volunteer themselves here below. 
+
+Games and tournaments will be held before feast food is served and coronation announcement will be revealed just prior to food service. Audience with the Duke will occur after dishes have cleared from the meal. 
+
+Please arrive promptly in your finest celebration attire and prepare yourself to have a fresh start to a prosperous new year of rebirth and rebuilding!
+
+Yours in Honor Sir Auric Farrier of the Kings Orchestra
+
   {{% /expand%}}
 
 **Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
