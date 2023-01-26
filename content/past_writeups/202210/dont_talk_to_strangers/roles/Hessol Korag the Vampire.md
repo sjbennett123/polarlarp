@@ -6,47 +6,35 @@ weight: 3
 description: 
 ---
 
-**Written by**: Chris Colland
 
-**Reviewed by**: Scott Bennett
+You were once a peaceful livestock farmer of Woodhaven near Vindale. The Vampire courts in Vindale demanded “your livestock or your life” and you fled in the middle of the night. Vampiric forces caught up to you that night and slaughtered your livestock and left you with a terrible mark, a bite on your neck.
 
-**Brief**:  A Will-O-Wisp is floating around town gathering people’s attention to take them on a journey they will not soon forget…
+You woke up in a dark cave with a letter explaining your new existence as a Vampire. You fled north in anger and attempted to setup a cult of new “livestock” as your previous Vindale oppressors did, but you began to enjoy the power rush and pleasure you got from stalking the people in Woodhaven. You tried Orc blood and threw it up in disgust, with all the Bloody Fist around it has made your cult making hard but you are going to give it a shot.
 
-**Requirements**: 
+**Impostor**: Hessol is a self-proclaimed “Prince” of The Stonewood Circle of Blood. This is a total lie and meant to spread fear among the town. 
 
-- Late at Night
-- Changed Ones module has been completed
+**Braggard**: You are  very proud and arrogant about your “accomplishments” 
 
-**Synopsis**: A seemingly rogue Will-O-Wisp is wandering around town after players start settling in for the night after dealing with The Changed Ones. This Will-O-Wisp seems to have an agenda unlike most Will-O-Wisps floating around the lands at night. The Will-O-Wisp has magical tree it calls home with its fellow Wisps, but a dark creature has threatened to destroy this tree with a Cold Iron Axe if the Wisps do not do its bidding….
+**Vindale is Occupied**: Mention to the players that Vindale may still be under Vampire control, but the court fell 3 years ago.
 
-**Outcomes**: 
-(1) Players are lured to Hessol Korag and bitten by the Vampire
-(2) The Players are lured to Hessol Korag and defeat him, but the Ghouls must die
+**Reset**:  No
 
-**Rumors**: None:
+**Body**: 150
 
-**Hook**: Will-O-Wisp will enter town to get players to follow them or Arcane Charm “Follow me” 
+**Defensives**: No Metabolism, Phase x5, Dodge X1, Cloak Flame x1 Immune to Pin/Web/Bind/Confine/Imprison, Immune to Ice, Takes Double Damage Flame, Healed By Chaos
 
-**Number of Cast Members**: 8
+**Weapons**: Any 1h and Shield
 
-**Roles**: Hessol Korag the Vampire, Will-O-Wisp x2, 5 Stonewood Ghoul Citizen
+**Damage**: 10 Magic Sleep
 
-**Props**: Vampire Costuming, Traveler/Commoner Costuming, Will-O-Wisp Bottle Prop/Glowsticks, Clothing and Reps to make a fallen devoured adventurer dead on the ground, Marker for being bitten (Marshall or NPC Hessol can mark after encounter is over)
-Tags and Treasure: Gems, Evaluate Items, Coins
-**Scene 1**: (OOG) Whole Camp (IG) Town of Stonewood
+**Magic**: 4/4/4/4/4/4/4/4/4/10 Earth, 100 Elemental Chaos Pool, 30 Elemental Chaos x10
 
-**Scene 2**: (OOG) Unused Cabin Area (IG) Small Shack on the Outskirts of Town
+**Abilities**: Focus, Magic Create Undead x5, Spellstrike Drain Life x1, Spellstrike Taint Blood x3, Spellstrike Sleep x5, Arcane Vampire Charm x5, Gaseous Form on 3 Count
 
-**Flee Point**: This module is site/town wide
+**Killing Blow**: No (Down PCs and Preform a Vampire Bite on them with a 3 count, Move to next victim. Your bite automatically stabilizes PCs)
 
-**Non-Standard Effects**: None
+**Motivations**: You want to build your undead livestock back up, down the PCs the Will-O-Wisp brought back and Bite them, move to the next victim till you have captured 3.
 
-**Rules Clarifications**: None
+**Tactics**: Try to get as many people captured and bitten as you can. You have no interest in killing them. Just biting them and letting Vampiric Infection take its course slowly.
 
-**Craftsman Information**: None
-
-**Transformations**: None
-
-**Running Notes**: The Will-O-Wisps wander around the outskirts and into town trying to gather as many people as possible to lure to Hessol Korag’s blood feast! The self-proclaimed Vampire Prince Hessol has been working on replenishing his feeding stock and with a huge disruption in town with fresh blood he plans to do just that! 
-
-Once the Will-O-Wisps have lured enough people away by their presence or by Arcane Charming them “Follow Me” the Wisps will return to Hessol with his newly converted Ghouls to feast upon them after a fresh bite. Hessol and the 5 Ghouls will be waiting in an ambush near unused cabins down the other side of town for the new arrivals to the blood feast. The players running from this encounter and fleeing to get help is completely valid! If Hessol marks at least 3 people, he will retreat into the night and will return next event
+**Costuming**: Cloak/Hood, Travelers Clothing, Pale Face, 1h Weapon, Shield, Spell Packets, Marker for being bitten (Marshall or NPC Hessol can mark after encounter)

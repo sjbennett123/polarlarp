@@ -6,47 +6,30 @@ weight: 3
 description:
 ---
 
-**Written by**: Chris Colland
 
-**Reviewed by**: Scott Bennett
 
-**Brief**:  A Will-O-Wisp is floating around town gathering people’s attention to take them on a journey they will not soon forget…
+You were once a proud member of the town of Stonewood. You were tricked by the Will-O-Wisp to coming into the darkness. When you arrived, Hessol gave you choice to join or die, you tried to run but he caught you and made you his new Ghoul. Life isn’t so bad under Hessol’s control, he is fairly nice to you and provides you with the basics so you don’t hate him but you don’t remember your previous life in Stonewood.
 
-**Requirements**: 
+**Fanatic**: You will give your life to defend your Master, don’t let anyone touch him! -Your Goal is to take down as many PCs as you can so your Master Hessol can feed on them
 
-- Late at Night
-- Changed Ones module has been completed
+**Reset**: You will fight and reset till Hessol is defeated. Once Hessol is killed you must die still, use your current reset as your final reset. Go mad and start screaming!
 
-**Synopsis**: A seemingly rogue Will-O-Wisp is wandering around town after players start settling in for the night after dealing with The Changed Ones. This Will-O-Wisp seems to have an agenda unlike most Will-O-Wisps floating around the lands at night. The Will-O-Wisp has magical tree it calls home with its fellow Wisps, but a dark creature has threatened to destroy this tree with a Cold Iron Axe if the Wisps do not do its bidding….
+**Body**: 50
 
-**Outcomes**: 
-(1) Players are lured to Hessol Korag and bitten by the Vampire
-(2) The Players are lured to Hessol Korag and defeat him, but the Ghouls must die
+**Defensives**: No Metabolism, Immune to pin/blind/web/confine, Immune to Ice (Double taken from Flame), Healed by Chaos
 
-**Rumors**: None:
+**Weapons**: 2 Claws
 
-**Hook**: Will-O-Wisp will enter town to get players to follow them or Arcane Charm “Follow me” 
+**Damage**: 5 Magic Lesser Drain
 
-**Number of Cast Members**: 8
+**Magic**: 20 Elemental Chaos x5
 
-**Roles**: Hessol Korag the Vampire, Will-O-Wisp x2, 5 Stonewood Ghoul Citizen
+**Abilities**: Spellstrike Wither Limb x1, Magic Pin x3
 
-**Props**: Vampire Costuming, Traveler/Commoner Costuming, Will-O-Wisp Bottle Prop/Glowsticks, Clothing and Reps to make a fallen devoured adventurer dead on the ground, Marker for being bitten (Marshall or NPC Hessol can mark after encounter is over)
-Tags and Treasure: Gems, Evaluate Items, Coins
-**Scene 1**: (OOG) Whole Camp (IG) Town of Stonewood
+**Killing Blow**: No
 
-**Scene 2**: (OOG) Unused Cabin Area (IG) Small Shack on the Outskirts of Town
+**Motivations**: You want to please your new Vampire Prince Hessol Korag with fresh Ghouls to the newly formed “Stonewood Circle of Blood” Move at a normal speed after your foes and chase them if they try to flee. You are a sentient Undead so you play like a PC undead. 
 
-**Flee Point**: This module is site/town wide
+**Tactics**: -Use your Magic Pin to keep people from running to get help. -Use your 20 Elemental Chaos packets to keep them moving and scattered. When people fall into your Lesser Drain carrier attack try to take them down in that 10 seconds to you can leave them for your Prince Hessol and chase the next victim
 
-**Non-Standard Effects**: None
-
-**Rules Clarifications**: None
-
-**Craftsman Information**: None
-
-**Transformations**: None
-
-**Running Notes**: The Will-O-Wisps wander around the outskirts and into town trying to gather as many people as possible to lure to Hessol Korag’s blood feast! The self-proclaimed Vampire Prince Hessol has been working on replenishing his feeding stock and with a huge disruption in town with fresh blood he plans to do just that! 
-
-Once the Will-O-Wisps have lured enough people away by their presence or by Arcane Charming them “Follow Me” the Wisps will return to Hessol with his newly converted Ghouls to feast upon them after a fresh bite. Hessol and the 5 Ghouls will be waiting in an ambush near unused cabins down the other side of town for the new arrivals to the blood feast. The players running from this encounter and fleeing to get help is completely valid! If Hessol marks at least 3 people, he will retreat into the night and will return next event
+**Costuming**: Stonewood Citizen Clothing, Dwarf Beard, Blackened Eyes and bloody marks on face, 2 Claw Reps, Spell Packets
