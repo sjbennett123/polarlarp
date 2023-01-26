@@ -9,7 +9,7 @@ draft: false
 {{% children depth="1" description="true"  sort="Weight" style="h3"%}}
 
 - 
-- P.196 Bonesaw’s Black Site: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
+- 
 
 ---
 

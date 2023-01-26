@@ -13,14 +13,13 @@ description: Town Drunk and Doomsayer
 - This Dwarf cannot see the good in anything not involving Brews or Gambling. He used to be able to identify any gem or ore at a distance but that isn’t a skill he cares for now.
 
 - Make sure you talk about how you think the best thing that has happened to Stonewood is the occupation! It makes shady people like you not so bad in the grand scheme.
+  - If pressed on this topic: explain that it doesn’t matter who “owns” or “runs” the town cause they all are corrupt at the core and selfish.
 
-o  If pressed on this topic: explain that it doesn’t matter who “owns” or “runs” the town cause they all are corrupt at the core and selfish.
 
 - You are about the ONLY person in Stonewood who still fully trusts Mayor Anak Durag. He used to be your best friend when you ran “Thorums Emporium” 10 years ago but that is all down the drain. 
+  - Anak has your back when people try to toss you out or silence you but you know he is a coward with a big title so you will sing his praises to everyone.
+  - To be fair Anak has worked out a “livable” treaty with the Bloody Fist where they don’t kill you, they supply you with basic food and drink, and will protect you from outside threats if you simply follow the Accord of the Fist
 
-o  Anak has your back when people try to toss you out or silence you but you know he is a coward with a big title so you will sing his praises to everyone.
-
-o  To be fair Anak has worked out a “livable” treaty with the Bloody Fist where they don’t kill you, they supply you with basic food and drink, and will protect you from outside threats if you simply follow the Accord of the Fist
 
 - If the PCs try to talk you into rebellion call them crazy and tell them the Bloody Fist will slaughter, you all. Drive home the point that they will start executing people by the dozens if the treaty is broke again
 
@@ -28,10 +27,10 @@ o  To be fair Anak has worked out a “livable” treaty with the Bloody Fist wh
 
 - Tell everyone you will just leave town and doom will set in on them if they fight the Bloody Fist
 
-Body 15
+**Body** 15
 
-Weapons: none
+**Weapons**: none
 
-Race: Stonewood Dwarf
+**Race**: Stonewood Dwarf
 
-Costuming: Dwarf Beard, Mug, Tattered commoners clothing
+**Costuming**: Dwarf Beard, Mug, Tattered commoners clothing

@@ -21,19 +21,17 @@ o  You don’t like how brutal they are when they execute punishments. There is 
 - You CANNOT STAND Mayor Anak’s best friend Thorum! You think he is such and idiot and more of a coward than Anak is. The man was set for life, and he rolled it all away on dice when he could have taken over a jewelry empire in Stonewood. You only tolerate him cause the Mayor loves this man, but if the Bloody Fist cut his tongue out you would buy them a drink on you.
 
 - When the players enter the town on Friday night, meet them with Mayor Anak in the road and try to convince them to leave Stonewood! You don’t want any trouble and the Bloody Fist would surely crush them like they did the last 
+  - Try to convince them that life is good under the Accords of the Fist!
+  - Hand the players a copy of the Accords of the Fist and beg them to read it out to the others to see reason
+  - Whatever offers the mayor makes, up the ante if they PCs don’t accept it. You probably can’t make them come true but by morning the Bloody Fist will be here and can handle the players themselves
 
-o  Try to convince them that life is good under the Accords of the Fist!
-
-o  Hand the players a copy of the Accords of the Fist and beg them to read it out to the others to see reason
-
-o  Whatever offers the mayor makes, up the ante if they PCs don’t accept it. You probably can’t make them come true but by morning the Bloody Fist will be here and can handle the players themselves
 
 - You secretly want the Bloody Fist gone as well but you don’t have the heart to fight them or risk the whole towns lives to go back to being a poor excuse for a Town Guard in Stonewood.
 
 - This NPC can be swayed to either side by the PCs with interactions
 
-Body: 20
+**Body**: 20
 
-Weapons: none
+**Weapons**: none
 
-Costuming: Dwarf Beard, Noble Clothing, a book with feathered Quill to take notes, a sash worn over your shoulder and across your body, Eyepatch or fabric over one eye to show it is gone, copy of the Accords of the Fist
+**Costuming**: Dwarf Beard, Noble Clothing, a book with feathered Quill to take notes, a sash worn over your shoulder and across your body, Eyepatch or fabric over one eye to show it is gone, copy of the Accords of the Fist

@@ -22,16 +22,16 @@ description: former Captain of the Black Anvil Company in Stonewood
 
 Body: 50
 
-Defensives: Resist Poison x3, Resist Sleep x3, Resist Charm x3, Resist Physical x3
+**Defensives**: Resist Poison x3, Resist Sleep x3, Resist Charm x3, Resist Physical x3
 
-Magic: 4/4/4/4/4/4/4/4/4 Earth
+**Magic**: 4/4/4/4/4/4/4/4/4 Earth
 
-Weapons: Any
+**Weapons**: Any
 
-Damage: 7 Silver
+**Damage**: 7 Silver
 
-Abilities: Slay/Parry x2, Healing Arts, First Aid, Read and Write, Read Magic
+**Abilities**: Slay/Parry x2, Healing Arts, First Aid, Read and Write, Read Magic
 
-Killing Blow Active: NO 
+**Killing Blow Active**: NO 
 
-Motivations: All you care about is getting the Town of Stonewood back together again from the Bloody Fist. You age and wounds make it hard to fight and move anymore but you kept this town safe for many moons. You will aid the adventurers with the 10 buildings that must be reclaimed to get the town back in control and away from the Bloody Fists schemes
+**Motivations**: All you care about is getting the Town of Stonewood back together again from the Bloody Fist. You age and wounds make it hard to fight and move anymore but you kept this town safe for many moons. You will aid the adventurers with the 10 buildings that must be reclaimed to get the town back in control and away from the Bloody Fists schemes

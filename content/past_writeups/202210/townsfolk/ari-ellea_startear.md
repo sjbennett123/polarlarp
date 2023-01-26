@@ -29,11 +29,8 @@ description: Town Librarian
 - You feel the Mayor Anak Durag has your best interests at heart but you don’t trust he isn’t corrupted
   - You will admit it is a little funny the Orcs call him “lil Bristle” since he is a coward
 
+**Body**: 10
 
- 
+**Weapons**: none
 
-Body: 10
-
-Weapons: none
-
-Costuming: Elf Ears, Commoners clothing, cloak, book/tomb, glasses
+**Costuming**: Elf Ears, Commoners clothing, cloak, book/tomb, glasses
