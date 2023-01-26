@@ -18,5 +18,5 @@ There are sheep milling about. When the adventurers spread out or search for the
 
 **Set:**  field with sheep and a dismembered sheep. Sheep(2-6) milling about. Remnants of Chimera egg with the rune of the wizard on it
 
-**Roles**: {{% children description="true" depth="1"  sort="Weight" %}}
+**Roles**: {{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
 
