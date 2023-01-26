@@ -14,8 +14,6 @@ Event Registration closes the week before an event on Friday.
 
 ## Upcoming Events:
 
-
-
 ### Februry 10
 
 **Event Type**: [Weekend Event]({{< ref "#weekend-events" >}})
@@ -44,7 +42,7 @@ Event Registration closes the week before an event on Friday.
 
 **Campsite**: [Camp Sequanota]({{< ref "/events/camps/camp_sequanota" >}} "[camp_sequanota")
 
-**Event Director**: Stephen Dupree 
+**Event Director**: Stephen Dupree
 
 ### May 12
 
@@ -114,4 +112,3 @@ Event Registration closes the week before an event on Friday.
 - There is no new player discount. A new player will be awarded a free event at a later time.
 - NPC Cost There is no NPC discount.
 - *We will be collecting cans for the Greater Pittsburgh Community Food Bank. Each can is worth 10 goblin stamps and is greatly appreciated.*
-
