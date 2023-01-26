@@ -29,10 +29,13 @@ description: "A Will-O-Wisp is floating around town gathering people’s attenti
 
 **Number of Cast Members**: 8
 
-**Roles**: Hessol Korag the Vampire, Will-O-Wisp x2, 5 Stonewood Ghoul Citizen
+**Roles**: Hessol Korag the Vampire, Will-O-Wisp x2, 5 Stonewood Ghoul Citizen 
+
+{{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
 
 **Props**: Vampire Costuming, Traveler/Commoner Costuming, Will-O-Wisp Bottle Prop/Glowsticks, Clothing and Reps to make a fallen devoured adventurer dead on the ground, Marker for being bitten (Marshall or NPC Hessol can mark after encounter is over)
 Tags and Treasure: Gems, Evaluate Items, Coins
+
 **Scene 1**: (OOG) Whole Camp (IG) Town of Stonewood
 
 **Scene 2**: (OOG) Unused Cabin Area (IG) Small Shack on the Outskirts of Town
