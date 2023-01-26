@@ -83,11 +83,11 @@ These changed ones assisted the Orcs in taking the city of Stonewood and now the
 I was there the night they made them do it. I hid while the Orcs had six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Flame around a 6 Sided Altar. The alter is still here in the field. Each of my those poor dwarves then had each of their eyes catch fire fire.  Then they started screaming. They screamed and screamed but they didn't move. It was like they were frozen there. Then they began speaking in unison. I wrote down what they said even though I will never forget it. 
 (fumbles through pants.)
 
-    Six Clean Souls you offer me.
-    Free from the taint of necromancy and fire.
-    3 Perfect vessels I offer in return.
-    This struck bargain shall never be unstruck.
-    These souls are mine and these vessels are yours.
+> Six Clean Souls I offer you.
+> Free from the taint of necromancy and fire.
+> 3 Perfect vessels I will gather in return.
+> This bargain shall never be unstruck..
+> These souls are your and these vessels mine.
 
 Then the screaming started again. That screaming went on for far longer than a dwarf could scream. Then when they all stopped and rose each of them looking around. 
 I don't get it what the heck did he mean by three perfect vessels. All six of those monsters are wandering around mocking us with their presence. I just know that the orcs could not have done this on their own. What is the Black Shadow! 
@@ -98,7 +98,8 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ### Occupation of Stonewood
 
-
+- They haven’t been killed or executed since the beginning of the occupation. This past 6 months have been very peaceful and almost normal.
+- A group of adventurers attempted to free the Town of Stonewood 1 year ago alongside Balor Ironleaf using the alias Black Leaf but were ultimately slaughtered and occupation continued.
 
 ### Elysia Reclaims Stonewood
 
