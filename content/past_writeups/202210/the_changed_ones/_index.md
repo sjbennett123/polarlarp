@@ -3,55 +3,45 @@ title: "The Changed Ones"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
-description: "The Changed Ones"
+description: "A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards from Hoyle!"
 ---
 
-**Written by**: Chris Colland
+**Brief**: A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards!
 
-**Reviewed by**: Scott Bennett
+**Requirements**:
 
-**Brief**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+- Opening Module
+- Opening Ceremonies has happened
+- Traverse the Crystal Barrier has happened
 
-**Requirements**: 
+**Synopsis**: The Ritual of the Changed Ones requires the sacrifices of 6 souls who are willing to submit themselves for a promise of power. They are bound to an altar and changed forever. The altar roars in terrible black flame and consumes the soul, warping it into a horrific monster consumed by their most base inner desires but their will is bound to those who enacted the ritual. The Altar can be destroyed by overloading it with 3 or more spirits of the Changed Ones at once.
 
-- Final Module
-- Both attempts to burn the town have failed
+**Outcomes**: 
 
-**Synopsis**: The Ritual of Fire is a Bloody Fist ritual to rip open the Fire plane. They have used this in the past to great effect. The Flame Drake elementals are very destructive and serve the purpose of the Bloody Fist. But during the ritual, the forces of Darkness has corrupted the ritual and used it as a gateway to attack! When they rift into existence, the Hoylean energy from the Chosen Ones module attracted their mortal enemies, the Murumbrians have arrived, and they seek the “chosen one” to take back to their time.
+1. The players enter Stonewood and figure out the mystery of the Altar, defeat 3 or more Changed Ones at once, thus overloading the Altar and ending the ritual.
+2. The players hide from the monsters until the morning in their Wards and cabins to meet the Bloody Fist with the monsters alive still.
+3. The players attempt to make a deal with the Bloody Fist, but it will ultimately fail since the Bloody Fist have zero clue who the adventurers are.
 
-**Outcomes**:
+**Rumors**: “These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood”
 
-(1) the players survive the onslaught, and the 1 Hour timer expires, the elementals are forcibly rifted back to their realm. There are many ways to “defeat” this module, but they cannot just simply escape the timer of it.
+  Your Friend in the darkness   ~Kane
 
-(2) The Murumbrians capture the “Chosen One” or the chosen one comes willingly with them. The assault will stop. The chosen one is then and take them back to their time to make an offer to since he was chosen. Run the module A conversation in Darkness. 
+**Hook**: The players enter the town of Stonewood and discover the Module is already live
 
-**Rumors**: “The Ley Lines of Stonewood have shifted dramatically as of recent. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but Sulfur and Pain. Sta Vigilant ance guard your components well”
-  Your Friend in the darkness ~Kane
+**Number of Cast Members**: 12 If you do not have 12 characters the townspeople are in order of precedence. 
 
-**Hook**: A terrified townsfolk comes running to the tavern screaming about the Bloody fist have setup a ritual and they are slaughtering people for their blood chanting about “The Flame Drakes must be given proper blood sacrifice to engorge their rage!”
+**Roles**: 3 Hoylean Wizards, 3 Hoylean Marauders, Magnus Kane, Mayor Anak Durag, Durmac Leafdancer, Thorum Fairoak, Ari-elle Startear, Haddix Strongbow
 
-**Number of Cast Members**: All that are suitable for combat
+**Props**: Altar of Power, Hoylean costumes, Blue Glowing Eyes, Dwarf Townsfolk costuming, Hoylean Necklaces for Altar, Named NPC Costuming
 
-**Roles**:  {{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
+**Tags and Treasure**: Gems, Evaluate Items, Coins, Magic Item: Sword of Zealous Light (+2 Light Aura Magic Sword)
 
-2 Corrupted Bloody Fist Shaman, 1 Corrupted Bloody Fist Raid Leader, 3 Corrupted Bloody Fist Grunts, 3 Murumbrian Wizards. 3 Murumbrian Centurions, Bloody Fist Grunts remainder of NPC’s
-
-**Props**: Portal Circle Rep, Altar of Power, Murumbrian Wizard and Centurion costumes, Bloody Fist costuming, Skulls for ritual, spellbook/scroll
-
-**Tags and Treasure**: Gems, Evaluate Items, Coins, Magic Item: 
-
-**Scene 1**: (OOG) Altar Site north of Tavern  (IG) Makeshift Ritual Site of the Bloody Fist
+**Scene 1**: (OOG) Whole Camp (IG) Town of Stonewood
 
 **Flee Point**: This module is site/town wide
 
-**Non-Standard Effects**: 10ft Area of Effect Arcane Fear on Wizards
+**Non-Standard Effects**: None
 
-**Rules Clarifications**: None 
+**Running Notes**: The players are met at the road by the NPC Dwarves of Stonewood who explain that while they are living under the rule of the Bloody Fist, there is peace. They plead for the characters to follow the Accords of the Fist. These accords are enforced by supernatural creatures called The Changed Ones. The Changed Ones will not harm you if you follow the Accords of the Fist, but the second they are assaulted or break the accords, they will hunt you down without mercy. They incapacitate their target and let the Bloody Fist collect them. The monsters revive/renew at the Altar after 5 minutes so are effectively invincible. While they are completing the module, the townsfolk try to convince them to lay down arms and not get them all killed telling the players about the last group of adventurers who came through and tried to defeat the Bloody Fist but were ultimately slaughtered.
 
-**Craftsman Information**: None
-
-**Transformations**: None
-
-**Running Notes**: The Ritual of Fire being corrupted was NOT something the Bloody Fist expected. The Bloody Fist intended to run when the Flame Drake Elementals were summoned but the nature of the Murumbrians tainted the ritual. This forced obedience upon the Bloody Fist. 
-
-When the Murumbrians enter the field, the “Chosen One” will already have their Glowing Morumbrain Eyes active so the Murumbrians know who they are; and will hunt them for 1 hour. The entire site is active for play during this module. It is completely valid to hide and not fight them, but like a horror movie they will keep coming regardless. 
+Magnus Kane of the Rygal Order approaches the adventurers and explains that he has discovered a weakness of the Changed Ones. The Altar can be destroyed by having 3 or more of the Changed Ones reforming at the same time. If the Altar is overloaded, the Hoyleans won’t be able to respawn anymore so there will only be 3 remaining monsters to kill. 
