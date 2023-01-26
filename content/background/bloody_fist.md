@@ -72,13 +72,13 @@ The Accords of the Fist mandate that the town give an offering every day. This i
 >
 > *The great orc horde protects us.*
 
-## The Changed ones.
+## The Changed Ones
 
 This ritual had been gifted to the Bloody Fist Orcs by the Black Shadow. It requires that 6 sacrifices agree to be changed and bound to the altar. The Alter then roars with the flame of their consumed souls powering a terrible transformation. This transformation changes the sacrifices into horrific monsters consumed by their most base desires but bound to the will of those that conducted the ritual.
 The Scarifies that were made at the Altar in stonewood are a special lot. Powerful Hoylean wizards were tricked into thinking that they were responding to an auction of magical items but instead it was the fearsome bloody fist. The Bloody fist put them to the sword and only 6 of the close to 30 Hoyleans survived but they survived by submitted to be changed. 
 These changed ones assisted the Orcs in taking the city of Stonewood and now they patrol it's environs and annihilate anyone that violates the Accords of the Fist.
 
-## The night of the ritual of the Chosen Ones
+## The Night of the Ritual of the Changed Ones
 
 I was there the night they made them do it. I hid while the Orcs had six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Flame around a 6 Sided Altar. The alter is still here in the field. Each of my those poor dwarves then had each of their eyes catch fire fire.  Then they started screaming. They screamed and screamed but they didn't move. It was like they were frozen there. Then they began speaking in unison. I wrote down what they said even though I will never forget it. 
 (fumbles through pants.)
