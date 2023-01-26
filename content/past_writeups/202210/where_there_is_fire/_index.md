@@ -6,6 +6,10 @@ weight: 10
 description: "A chimera has been planted in a herd of sheep and has  shapeshifted into one of the sheep. It is plucking them off when hungry. "
 ---
 
+**Written by**: Stephen Dupree
+
+**Reviewed by**: Scott Bennett
+
 **Brief:**  A chimera has been planted in a herd of sheep and has  shapeshifted into one of the sheep. It is plucking them off when hungry. 
 
 **Background**: The brothers Repman are both shepards and assholes. They are famous for the quality of their wool but will often "Alter the Deal” when they are about to actually make the sale. Several months ago they were commissioned to make a cloak for a powerful but capricious wizard. Their normal plan of adding "fees" to the sale after the fact did not go well... at all. The wizard paid the price but planted a seed of a young chimera that he knew would terrorize the shepards but he would be long gone by the time it hatched and terrorized them.
