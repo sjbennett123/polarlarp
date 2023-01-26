@@ -10,4 +10,4 @@ draft: false
 
 ---
 
-This event is in a big way a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. 
+This event is in a big way a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a bloody fist general.
