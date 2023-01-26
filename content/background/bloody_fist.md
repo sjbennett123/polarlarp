@@ -58,19 +58,19 @@ Every day at 10 PM the town of Stonewood gathers to pledge allegiance to the Blo
 
 The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry performs ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
-*The mighty Bloody Fist is benevolent.*
-
-*The mighty Bloody Fist is kind.*
-
-*The mighty Bloody Fist is gentle.*
-
-*We accept our place below the mighty orc.* **{bow}**
-
-*We offer now our meager tribute though we know it will never be enough.*
-
-*The great orc horde watches over us.*
-
-*The great orc horde protects us.*
+> *The mighty Bloody Fist is benevolent.*
+>
+> *The mighty Bloody Fist is kind.*
+>
+> *The mighty Bloody Fist is gentle.*
+>
+> *We accept our place below the mighty orc.* **{bow}**
+>
+> *We offer now our meager tribute though we know it will never be enough.*
+>
+> *The great orc horde watches over us.*
+>
+> *The great orc horde protects us.*
 
 ## The Changed ones.
 
@@ -83,11 +83,15 @@ These changed ones assisted the Orcs in taking the city of Stonewood and now the
 I was there the night they made them do it. I hid while the Orcs had six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Flame around a 6 Sided Altar. The alter is still here in the field. Each of my those poor dwarves then had each of their eyes catch fire fire.  Then they started screaming. They screamed and screamed but they didn't move. It was like they were frozen there. Then they began speaking in unison. I wrote down what they said even though I will never forget it. 
 (fumbles through pants.)
 
-> Six Clean Souls I offer you.
-> Free from the taint of necromancy and fire.
-> 3 Perfect vessels I will gather in return.
-> This bargain shall never be unstruck..
-> These souls are your and these vessels mine.
+> *Six Clean Souls I offer you.*
+>
+> *Free from the taint of necromancy and fire.*
+>
+> *3 Perfect vessels I will gather in return.*
+>
+> *This bargain shall never be unstruck.*
+>
+> *These souls are your and these vessels mine.*
 
 Then the screaming started again. That screaming went on for far longer than a dwarf could scream. Then when they all stopped and rose each of them looking around. 
 I don't get it what the heck did he mean by three perfect vessels. All six of those monsters are wandering around mocking us with their presence. I just know that the orcs could not have done this on their own. What is the Black Shadow! 
