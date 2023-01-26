@@ -3,53 +3,14 @@ title: "Fears by Torchlight 2"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 7
-description: Fears by Torchlight 2
+description: "The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute."
 ---
 
-**Written by**: 
+**Written by**: Chris Colland
 
-**Reviewed by**: 
+**Reviewed by**: Scott Bennett
 
-**Brief**: 
-
-**Requirements**: 
-
-- 
-
-**Synopsis**: 
-
-**Outcomes**:
-
-**Rumors**: 
-
-**Hook**: 
-
-**Number of Cast Members**: 
-
-**Roles**: 
-
-**Props**: 
-
-**Tags and Treasure**: 
-
-**Scene 1**: 
-
-**Flee Point**: 
-
-**Non-Standard Effects**: 
-
-**Rules Clarifications**: None 
-
-**Craftsman Information**: None
-
-**Transformations**: None
-
-**Running Notes**: 
-
-Written by: Chris Colland
-Reviewed by: Scott Bennett
-
-Brief: The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute.
+**Brief**: The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute.
 
 Requirements: Fears by Torchlight has been already run
 Synopsis: The Bloody Fist have taken the Town Librarian Ari-elle and the Mayors best friend also town drunk Thorum captive. They intend to execute them publicly if the PCs don’t surrender immediately. But this is also a distraction for another attempt to burn the town again. So the players are faced with a hard choice: let the town burn or try to save 2 of the townsfolk from permanent death.
