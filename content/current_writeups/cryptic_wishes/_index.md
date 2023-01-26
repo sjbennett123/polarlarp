@@ -12,7 +12,7 @@ description: A treasure hunter has found a crypt of an old Dwarven noble and wis
 
 **Brief**:A treasure hunter has found a crypt of an old Dwarven noble and wishes to bring a group of adventurers with him in case there are any dangers that need cleared. They don't know the crypt holds a secret in it's lowest depths!
 
-***Requirements:** None
+**Requirements:** None
 
 **Synopsis:** With the orcs being pushed back, explorer's have struck out once more from the town. A crypt was found and luckily it was undisturbed. The treasure hunter that found it wishes to bring a group of adventurers with him so he can ransack the treasures within!
 

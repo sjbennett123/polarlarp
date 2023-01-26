@@ -1,5 +1,5 @@
 ---
-title: "**Dwarven Skeleton Guard"
+title: "Dwarven Skeleton Guard"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 8
@@ -9,7 +9,7 @@ description:
 
 You where once a loyal guard to Bolag Barkborer, and where interred into his crypt when he passed away to guard him in his next life as you did while living. Imbued with magical powers to help guard his place of rest, you make sure that nothing will disturb him and his belongings.*
 
-**Body**:** 25
+**Body**: 25
 
 **Defenses:** Undead Immunity, Half damage from non-magic edged weapons.4
 
