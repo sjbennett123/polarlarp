@@ -2,7 +2,7 @@
 title: "A Conversation in Darkness"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 5
+weight: 9.5
 description: "The Chosen one has been captured and is given an offer from the Dark Ones the lords of Morumbria."
 ---
 

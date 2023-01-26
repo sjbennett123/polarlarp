@@ -1,9 +1,9 @@
 ---
-title: "The Magic Bomb blueprints are found and fear spreading shortly after"
+title: "Know Your Enemy"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
-description: The Magic Bomb blueprints are found and fear spreading shortly after
+description: Balan delivers the intelegence that the Black Anvil company has gathered along with The Magic Bomb blueprints. Fear spreads through the town.
 ---
 
 **Written by**: 
