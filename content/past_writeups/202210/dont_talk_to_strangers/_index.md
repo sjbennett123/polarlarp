@@ -2,56 +2,51 @@
 title: "Don't Talk to Strangers"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
-description: "Don't Talk to Strangers"
+weight: 3
+description: "A Will-O-Wisp is floating around town gathering people’s attention to take them on a journey they will not soon forget…"
 ---
 
 **Written by**: Chris Colland
 
 **Reviewed by**: Scott Bennett
 
-**Brief**: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+**Brief**:  A Will-O-Wisp is floating around town gathering people’s attention to take them on a journey they will not soon forget…
 
 **Requirements**: 
 
-- Final Module
-- Both attempts to burn the town have failed
+- Late at Night
+- Changed Ones module has been completed
 
-**Synopsis**: The Ritual of Fire is a Bloody Fist ritual to rip open the Fire plane. They have used this in the past to great effect. The Flame Drake elementals are very destructive and serve the purpose of the Bloody Fist. But during the ritual, the forces of Darkness has corrupted the ritual and used it as a gateway to attack! When they rift into existence, the Hoylean energy from the Chosen Ones module attracted their mortal enemies, the Murumbrians have arrived, and they seek the “chosen one” to take back to their time.
+**Synopsis**: A seemingly rogue Will-O-Wisp is wandering around town after players start settling in for the night after dealing with The Changed Ones. This Will-O-Wisp seems to have an agenda unlike most Will-O-Wisps floating around the lands at night. The Will-O-Wisp has magical tree it calls home with its fellow Wisps, but a dark creature has threatened to destroy this tree with a Cold Iron Axe if the Wisps do not do its bidding….
 
-**Outcomes**:
+**Outcomes**: 
+(1) Players are lured to Hessol Korag and bitten by the Vampire
+(2) The Players are lured to Hessol Korag and defeat him, but the Ghouls must die
 
-(1) the players survive the onslaught, and the 1 Hour timer expires, the elementals are forcibly rifted back to their realm. There are many ways to “defeat” this module, but they cannot just simply escape the timer of it.
+**Rumors**: None:
 
-(2) The Murumbrians capture the “Chosen One” or the chosen one comes willingly with them. The assault will stop. The chosen one is then and take them back to their time to make an offer to since he was chosen. Run the module A conversation in Darkness. 
+**Hook**: Will-O-Wisp will enter town to get players to follow them or Arcane Charm “Follow me” 
 
-**Rumors**: “The Ley Lines of Stonewood have shifted dramatically as of recent. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but Sulfur and Pain. Sta Vigilant ance guard your components well”
-  Your Friend in the darkness ~Kane
+**Number of Cast Members**: 8
 
-**Hook**: A terrified townsfolk comes running to the tavern screaming about the Bloody fist have setup a ritual and they are slaughtering people for their blood chanting about “The Flame Drakes must be given proper blood sacrifice to engorge their rage!”
+**Roles**: Hessol Korag the Vampire, Will-O-Wisp x2, 5 Stonewood Ghoul Citizen
 
-**Number of Cast Members**: All that are suitable for combat
+**Props**: Vampire Costuming, Traveler/Commoner Costuming, Will-O-Wisp Bottle Prop/Glowsticks, Clothing and Reps to make a fallen devoured adventurer dead on the ground, Marker for being bitten (Marshall or NPC Hessol can mark after encounter is over)
+Tags and Treasure: Gems, Evaluate Items, Coins
+**Scene 1**: (OOG) Whole Camp (IG) Town of Stonewood
 
-**Roles**:  {{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
-
-2 Corrupted Bloody Fist Shaman, 1 Corrupted Bloody Fist Raid Leader, 3 Corrupted Bloody Fist Grunts, 3 Murumbrian Wizards. 3 Murumbrian Centurions, Bloody Fist Grunts remainder of NPC’s
-
-**Props**: Portal Circle Rep, Altar of Power, Murumbrian Wizard and Centurion costumes, Bloody Fist costuming, Skulls for ritual, spellbook/scroll
-
-**Tags and Treasure**: Gems, Evaluate Items, Coins, Magic Item: 
-
-**Scene 1**: (OOG) Altar Site north of Tavern  (IG) Makeshift Ritual Site of the Bloody Fist
+**Scene 2**: (OOG) Unused Cabin Area (IG) Small Shack on the Outskirts of Town
 
 **Flee Point**: This module is site/town wide
 
-**Non-Standard Effects**: 10ft Area of Effect Arcane Fear on Wizards
+**Non-Standard Effects**: None
 
-**Rules Clarifications**: None 
+**Rules Clarifications**: None
 
 **Craftsman Information**: None
 
 **Transformations**: None
 
-**Running Notes**: The Ritual of Fire being corrupted was NOT something the Bloody Fist expected. The Bloody Fist intended to run when the Flame Drake Elementals were summoned but the nature of the Murumbrians tainted the ritual. This forced obedience upon the Bloody Fist. 
+**Running Notes**: The Will-O-Wisps wander around the outskirts and into town trying to gather as many people as possible to lure to Hessol Korag’s blood feast! The self-proclaimed Vampire Prince Hessol has been working on replenishing his feeding stock and with a huge disruption in town with fresh blood he plans to do just that! 
 
-When the Murumbrians enter the field, the “Chosen One” will already have their Glowing Morumbrain Eyes active so the Murumbrians know who they are; and will hunt them for 1 hour. The entire site is active for play during this module. It is completely valid to hide and not fight them, but like a horror movie they will keep coming regardless. 
+Once the Will-O-Wisps have lured enough people away by their presence or by Arcane Charming them “Follow Me” the Wisps will return to Hessol with his newly converted Ghouls to feast upon them after a fresh bite. Hessol and the 5 Ghouls will be waiting in an ambush near unused cabins down the other side of town for the new arrivals to the blood feast. The players running from this encounter and fleeing to get help is completely valid! If Hessol marks at least 3 people, he will retreat into the night and will return next event
