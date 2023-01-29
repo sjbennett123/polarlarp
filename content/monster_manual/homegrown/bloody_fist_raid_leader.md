@@ -14,7 +14,7 @@ defenses:
   - Resist Sleep x3
   - Resist Fear x3
   - Dodge x3
-  - Bane Death x3
+  - Immune Death x3
 weapons: Any
 damage: 10 Normal, 12 Normal With 2H Weapon or Polearm
 magic: Vertigo Gas x5, Sleep Gas x5

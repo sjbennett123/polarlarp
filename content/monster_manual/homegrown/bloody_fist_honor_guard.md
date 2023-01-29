@@ -15,7 +15,7 @@ defenses:
   - Resist Fear x5
   - Dodge x5
   - Phase x5
-  - Imune Death
+  - Immune Death
   - 100 Arcane Vengeance when Killing Blowed
   - Threshold 10
 motivation: You are the ELITE of the Bloody Fist!!! Slay Them All! Be an absolute savage! Scream/growl/roar when you get into battle. Out of Combat stand silent unless commanded to fight or attack.  You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. You ONLY Answer to the Warlord Ahroun himself or the Generals, go wild!
