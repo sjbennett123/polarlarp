@@ -3,6 +3,8 @@
 <p><i>{{ .Params.introduction }}</i></p>
 {{ .Content }} 
 
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> {{ end }} 
+
 <p><b>Body:</b> {{ .Params.body }}</p>
 
 <p><b>Weapons:</b> {{ .Params.weapons }}</p>
@@ -17,7 +19,6 @@
 <p><b>Abilities:</b> {{ delimit  .Params.abilities ", " }}</p>
 {{ end }}
 
-{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> {{ end }} 
 
 {{ if .Pages }} 
 <p><b>Roles:</b> 
