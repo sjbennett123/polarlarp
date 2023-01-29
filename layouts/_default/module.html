@@ -11,7 +11,7 @@
     <li>{{ . }}</li>
     {{ end }}
 {{ end }}
-<p><b>Synopsis:</b> {{ .Params.synopsis }}</p>
+<p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p>
 {{ if .Params.outcomes }} 
 <p><b>Outcomes:</b></p><ol>
     {{ range  .Params.outcomes }}

@@ -10,5 +10,5 @@ home = [ "HTML", "RSS", "JSON"]
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark.renderer]
-      hardWraps = false
+      hardWraps = true
       unsafe = true
