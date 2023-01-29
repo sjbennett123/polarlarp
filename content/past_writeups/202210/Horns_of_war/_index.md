@@ -27,6 +27,5 @@ treasure:
  - Evaluate Items
  - Coins
 running_notes: This module is a frightening first impression from the Bloody Fist. The NPCs are snarling and beating on their shield and buildings. This is like the Mafia coming in to intimidate people who owe them money and answers. The Bloody fist will be moving as an organized unit around town and not breaking off into search parties for pure intimidation unless the Raid Leader orders them to. They will be cornering people they catch alone and demanding answers. If they get all the accounts, they can from multiple people out of fear then they can pass their “judgement” on the Town and tell them what will make it “correct” in their eyes. This will very likely turn into a mass battle very quickly. If they players pony up on the components, gold, and humiliation (surrendering weapons and spell, also swearing Fealty to the Accords of the Fist) then the Bloody Fist won’t kill anyone, just rough them up a little. 
-Rumors: The Ley Lines of Stonewood have shifted dramatically recently. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but sulfur and pain. Stay vigilant and guard your components well.  Your Friend in the darkness ~Kane
 ---
 
