@@ -1,0 +1,51 @@
+{{ partial "header.html" . }}
+
+<p><b>Written By:</b> {{ .Params.author }}</p>
+
+<p><b>Reviewed By:</b> {{ .Params.reviewer }}</p>
+
+<p><b>Brief:</b> {{ .Params.description }}</p>
+{{ if .Params.requirements }} 
+<p><b>Requirements:</b></p>
+    {{ range  .Params.requirements }}
+    <li>{{ . }}</li>
+    {{ end }}
+{{ end }}
+<p><b>Synopsis:</b> {{ .Params.synopsis }}</p>
+{{ if .Params.outcomes }} 
+<p><b>Outcomes:</b></p><ol>
+    {{ range  .Params.outcomes }}
+    <li>{{ . }}</li>
+    {{ end }}
+    </ol>
+{{ end }} 
+<p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p>
+
+{{ if .Pages }} 
+<p><b>Roles:</b> 
+    {{ range where .Pages ".Params.Layout" "role" }}
+            <a href="{{.Permalink}}">{{ .Params.quantity | default ""}} {{.Title}} </a>
+    {{ end }}
+</p>
+{{ end }} 
+{{ if  .Params.props }} 
+<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
+{{ end }} 
+{{ if  .Params.treasure }} 
+<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
+{{ end }} 
+{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
+<p><b>Hook:</b> {{ .Params.hook }}</p>
+{{ if  .Params.scenes }} 
+<p><b>Scenes:</b> {{ range .Params.scenes }}
+      <ul><b>In Game:</b> {{ .ig}} 
+      <b>Out of Game:</b> {{ .oog}} 
+      <b>Flee Point:</b> {{ .flee_point}}</ul>
+   {{ end }}
+{{ end}}
+{{ if .Params.non_standard_effects }}<p><b>Non Standard Effects:</b> {{ .Params.non_standard_effects }}</p>{{ end }} 
+{{ if .Params.rules_clarifications }}<p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> {{ end }} 
+{{ if .Params.craftsman_information }}<p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p> {{ end }} 
+{{ if .Params.transformations }}<p><b>Transformations:</b> {{ .Params.transformations }}</p> {{ end }}
+{{ if .Params.running_notes }}<p><b>Running_notes:</b> {{ .Params.running_notes }}</p>{{ end }} 
+{{ .Content }} 
