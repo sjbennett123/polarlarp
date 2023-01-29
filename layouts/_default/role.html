@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+
+<p><i>{{ .Params.introduction }}</i></p>
+{{ .Content }} 
+
+<p><b>Body:</b> {{ .Params.body }}</p>
+
+<p><b>Weapons:</b> {{ .Params.weapons }}</p>
+{{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
+
+{{ if .Params.magic }}<p><b>Magic:</b> {{ .Params.magic }}</p> {{ end }}
+
+{{ if .Params.defenses }} 
+<p><b>Defenses:</b> {{ delimit  .Params.defenses ", " }}</p>
+{{ end }}
+{{ if .Params.abilities }} 
+<p><b>Abilities:</b> {{ delimit  .Params.abilities ", " }}</p>
+{{ end }}
+
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> {{ end }} 
+
+{{ if .Pages }} 
+<p><b>Roles:</b> 
+    {{ range where .Pages ".Params.Layout" "role" }}
+            <a href="{{.Permalink}}">{{ .Params.quantity | default ""}} {{.Title}} </a>
+    {{ end }}
+</p>
+{{ end }} 
+{{ if  .Params.props }} 
+<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
+{{ end }} 
+{{ if  .Params.treasure }} 
+<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
+{{ end }} 
+{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
+
+<p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p>
+{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }} 
+{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics }}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
