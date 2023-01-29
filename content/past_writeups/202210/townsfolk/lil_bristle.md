@@ -3,7 +3,12 @@ title: "Mayor Anak “Lil Bristle” Durag"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9
+Layout: role
 description: The Installed Mayor of Stonewood
+body: 10
+weapons: a Copy of the Accords of the Fist
+race: Stonewood Dwarf
+costuming: NO DWARF BEARD (it was shaved as an insult and sign of your submission), Cane/Walking Stick, Hat, Noble Clothing
 ---
 
 *You have been left in charge by orcs due to your docile nature and your lack of drive. You work to ensure that the populace complies with the Accords of the Fist and work with the orcs take care of any problems. This arrangement has worked out pretty well for you, leading to you having a very nice home outside of town and a position of power that you never would have had under more normal circumstances.*
@@ -25,11 +30,4 @@ description: The Installed Mayor of Stonewood
   - You don’t want any trouble with adventures because of how you sold them out last time to the Bloody Fist and they almost hung you for it.
 
 
-**Body** 10
-
-**Weapons**: a Copy of the Accords of the Fist
-
-**Race**: Stonewood Dwarf
-
-**Costuming**: NO DWARF BEARD (it was shaved as an insult and sign of your submission), Cane/Walking Stick, Hat, Noble Clothing
 

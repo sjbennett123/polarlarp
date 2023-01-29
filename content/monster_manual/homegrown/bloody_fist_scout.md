@@ -14,8 +14,7 @@ defenses:
   - Will to Live (Racial)
   - Resist Fear x3
   - Resist Sleep x3
-  - Bane Death x3
-
+  - Immune Death
 weapons: Any
 damage: 5 Normal, 7 Normal With 2H Weapon or Polearm
 

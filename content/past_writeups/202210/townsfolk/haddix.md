@@ -3,10 +3,17 @@ title: "Haddix “Brow-splitter” Strongbow"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9
+Layout: role
 description: former mercenary and stable hand
+introduction: You used to be the best damn archer Stonewood had ever seen! You could hit anything as far as the bow could draw and the eye could see. Your legend in battle was sung in the halls of Stonewood as a Master Marksman for decades. But that all changed when the cursed Bloody Fist showed up. You took out a Blood Fist Raid Leader in one shot and they took your Bow String Hand for it! Healers tried to restore it, but it was some Chaos Tainted dagger used in the ritual to severe it, preventing its regrowth. Now you have a humble but depressing job as a Stable Hand.
+body: 30
+
+weapons: None, you got 1 hand anyways
+
+costuming: Dwarf beard, wrap your right hand in cloth to show it is severed, Cloak, commoners clothing, a toolbelt, anything related to taking care of a stable
 ---
 
-*You used to be the best damn archer Stonewood had ever seen! You could hit anything as far as the bow could draw and the eye could see. Your legend in battle was sung in the halls of Stonewood as a Master Marksman for decades. But that all changed when the cursed Bloody Fist showed up. You took out a Blood Fist Raid Leader in one shot and they took your Bow String Hand for it! Healers tried to restore it, but it was some Chaos Tainted dagger used in the ritual to severe it, preventing its regrowth. Now you have a humble but depressing job as a Stable Hand.*
+
 
 - You HATE the Bloody Fist with a burning passion. They killed your childhood best friend Sorin LongOak the same day they severed your hand. Your friend died a hero saving people from the Bloody Fist but you were overwhelmed.
 
@@ -24,8 +31,3 @@ description: former mercenary and stable hand
 
 - You HATE Mayor Anak! You want this man gone and beaten for his crimes against your people in Stonewood. Any Dwarf of noble birth would have spit in the face of their oppressors and died on their feet before agreeing to the terms he did
 
-**Body**: 30
-
-**Weapons**: None, you got 1 hand anyways
-
-**Costuming**: Dwarf beard, wrap your right hand in cloth to show it is severed, Cloak, commoners clothing, a toolbelt, anything related to taking care of a stable

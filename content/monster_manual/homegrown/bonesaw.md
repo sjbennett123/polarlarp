@@ -15,7 +15,7 @@ defenses:
   - Resist Fear x3
   - Dodge x3
   - Phase x3
-  - Bane Death x3
+  - Immune Death
   - Dodge x3
   - Resist Physical x5
   - Threshold 5

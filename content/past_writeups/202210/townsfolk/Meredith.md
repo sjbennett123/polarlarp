@@ -3,10 +3,13 @@ title: "Meredith “Veil-Piercer” Wolfsbane"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9
+Layout: role
 description: Seer
+introduction: You were once an avid Adventurer known for your hunting of Werewolves and Vampires. But an injury you sustained on a rather vicious hunt left you unable to continue your life of fighting the creatures of the night. Though with this injury came the gift of prophecy. You now travel Woodhaven attempting to divine the fortunes of adventurers for a coin to make a living. Sometimes the readings are nothing more than filling them with hope, but sometimes they are terrifying possessions from beyond the Veil of this realm and into the unknown…
+body: 20
 ---
 
-*You were once an avid Adventurer known for your hunting of Werewolves and Vampires. But an injury you sustained on a rather vicious hunt left you unable to continue your life of fighting the creatures of the night. Though with this injury came the gift of prophecy. You now travel Woodhaven attempting to divine the fortunes of adventurers for a coin to make a living. Sometimes the readings are nothing more than filling them with hope, but sometimes they are terrifying possessions from beyond the Veil of this realm and into the unknown…*
+
 
 - When reading a PCs fortune, ask lots of questions about their past. The bigger the responses from the player, engage them with a dark prophecy. These will be unique descriptive phrases given by plot to hint at events to come
 
@@ -30,4 +33,3 @@ To the most engaged players who you give readings to, hand out the following Dar
 
 *The dream begins with you being held cradled like a baby by a gigantic figure in dark robes. Held close to it’s chest you cannot see it’s face. You are not comforted by this action despite the apparent kindness of the gesture. The figure’s skin is cold and it’s movement is stiff and emotionless. A cold purple light pervades the room glowing in intensity then you wake up. When you wake up you are covered in sweat and cannot shake the feeling of doom.*
 
-**Body**: 20

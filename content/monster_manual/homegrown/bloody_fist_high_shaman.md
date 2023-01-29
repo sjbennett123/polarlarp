@@ -16,7 +16,7 @@ defenses:
   - Resist Fear x3
   - Dodge x3
   - Phase x3
-  - Bane Death x3
+  - Immune Death
 weapons: None, Shield for defense if you wish
 magic: 4/4/4/4/4/4/4/4/4/10 Formal (Celestial or Earth, One of each in Raiding Parties /w Raid Leader)
 Damage: 10 Elemental Flame Pool Always active upon Respawn

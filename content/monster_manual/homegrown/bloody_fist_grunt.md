@@ -14,7 +14,7 @@ defenses:
   - Will to Live (Racial)
   - Resist Fear x3
   - Resist Sleep x3
-  - Bane Death x3
+  - Immune Death
   - Dodge x1
 weapons: Any
 damage: 10 Normal, 12 Normal With 2H Weapon or Polearm
@@ -35,7 +35,6 @@ movement: Forceful and with purpose. Don't slouch or stoop show your might.
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 
 ---
-
 
 
 

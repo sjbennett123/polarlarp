@@ -3,10 +3,16 @@ title: "Thorum Fairoak"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9
+Layout: role
 description: Town Drunk and Doomsayer
+body: 15
+weapons: none
+race: Stonewood Dwarf
+costuming: Dwarf Beard, Mug, Tattered commoners clothing
+introduction: You are such a miserable and greedy Dwarf it cost you everything. Your inheritance was wasted on gambling and drinking. You were once a great jeweler of the days of old. No one could find a gem and care for it like Thorum Fairoak. One day you bet it all on a game of dice and lost everything. You never found out that the game was rigged from the start but out of fear of blackmail for your failing you were force into silence. Many years have passed by this time, but you don’t care about that life anymore. Only thing that suits you now is a pint of brew and starting at the ladies, maybe a roll of the dice here and there.
 ---
 
-*You are such a miserable and greedy Dwarf it cost you everything. Your inheritance was wasted on gambling and drinking. You were once a great jeweler of the days of old. No one could find a gem and care for it like Thorum Fairoak. One day you bet it all on a game of dice and lost everything. You never found out that the game was rigged from the start but out of fear of blackmail for your failing you were force into silence. Many years have passed by this time, but you don’t care about that life anymore. Only thing that suits you now is a pint of brew and starting at the ladies, maybe a roll of the dice here and there.*
+
 
 - Think of the most negative person you know and make them a Dwarf, that is Thorum Fairoak.
 
@@ -27,10 +33,3 @@ description: Town Drunk and Doomsayer
 
 - Tell everyone you will just leave town and doom will set in on them if they fight the Bloody Fist
 
-**Body** 15
-
-**Weapons**: none
-
-**Race**: Stonewood Dwarf
-
-**Costuming**: Dwarf Beard, Mug, Tattered commoners clothing
