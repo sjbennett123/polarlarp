@@ -30,7 +30,7 @@ description: A treasure hunter has found a crypt of an old Dwarven noble and wis
 
 **Roles:**
 
-{{% children depth="2"  sort="Weight" style="div"page="../roles"%}}
+{{% children depth="1"  sort="Weight" style="div"page="../roles"%}}
 
 **Props:** Tarps for narrow hallways, spear boffers for wall spikes. Tape for marking where traps are (possible trip wires if there are any in shack)
 

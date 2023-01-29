@@ -3,10 +3,13 @@ title: "The Ritual Of Fire"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9.4
-description: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected….
+description: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected…
+author: "Chris Colland"
+
+
 ---
 
-**Written by**: Chris Colland
+**Written by**: {{ .Page.title }}
 
 **Reviewed by**: Scott Bennett
 

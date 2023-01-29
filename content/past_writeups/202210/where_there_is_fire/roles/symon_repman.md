@@ -3,7 +3,8 @@ title: "Symon Repman"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: "A chimera has been planted in a herd of sheep and has  shapeshifted into one of the sheep. It is plucking them off when hungry. "
+Layout: role
+
 ---
 
 ## Symon Repman

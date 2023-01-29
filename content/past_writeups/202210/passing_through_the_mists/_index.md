@@ -6,3 +6,4 @@ weight: 1.1
 description: "Passing through the mists."
 ---
 
+The adventurers pass through the crystal barrier and meet with a Kingdom Knight of Avalon. 

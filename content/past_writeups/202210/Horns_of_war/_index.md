@@ -4,20 +4,18 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 6
 description: "Horns of War"
+Layout: module
+author: Chris Colland
+reviewer: Scott Bennett
+description: "The time has come for the challengers of Stonewood to meet the Bloody Fist! The Altar of the Changed Ones was destroyed last night upon arrival, so this is the response and investigation by the Bloody Fist. Answers or blood will be had!"
+requirements:
+  - The Altar of the Changed Ones has been destroyed by the PCs. 
+  - Saturday morning wakeup call with War Horns of the Bloody Fist. 
 ---
 
-**Written by**: Chris Colland
 
-**Reviewed by**: Scott Bennett
+**Synopsis**: The Horns of War have been blown and the Bloody Fist will have answers. They have come to find out why the Altar of the Changed Ones was destroyed and who is responsible. They won’t settle for less than components, gold, and humiliation from the fools who challenged the mighty Bloody Fist! They will go door to door demanding the ones responsible.
 
-**Brief**: The time has come for the challengers of Stonewood to meet the Bloody Fist! The Altar of the Changed Ones was destroyed last night upon arrival, so this is the response and investigation by the Bloody Fist. Answers or blood will be had!
-
-**Requirements**: 
-
-- The Altar of the Changed Ones has been destroyed by the PCs. 
-- Saturday morning wakeup call with War Horns of the Bloody Fist
-
-**Synopsis**: The Horns of War have been blown, the Bloody Fist will have answers! They have come to find out why the Altar of the Changed Ones was destroyed and who is responsible. They won’t settle for less than Components, Gold, and Humiliation from the fools who challenged the mighty Bloody Fist! They will go door to door demanding the ones responsible.
 **Outcomes**:
 
 1. The PCs are confronted and workout a deal with the Bloody Fist to “pay” for the destroying of the Altar with Components, Gold, and Humiliation before a Raid Leader.

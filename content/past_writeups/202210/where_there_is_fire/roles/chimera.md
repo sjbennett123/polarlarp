@@ -3,7 +3,8 @@ title: "Chimera"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: 
+Layout: role
+
 ---
 
 The Chimera is a magical creature that roams the landed regions of Tyrra in search of food. It has a nearly insatiable appetite, and will eat virtually anything. It reproduces asexually by laying a single egg once every three years. The egg hatches in a day, and the Chimera grows to full size within a few hours. These creatures are nomadic and extremely solitary. If two Chimeras encounter one another in the wild they will fight to the death.
