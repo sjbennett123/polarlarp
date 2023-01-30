@@ -5,6 +5,7 @@ draft: false
 weight: 10
 Layout: role
 introduction: You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Your word is law to the lower ranks, they will die on your command. Every battle you win is another reward closer to a promotion to Honor Guard. The Generals and Warlord rely on your tenacity and tactics to win the war against Woodhaven.
+tactics: Stay back and command the Grunts and Scouts mainly but use gases if directly rushed.
 body: 150
 defenses: 
   - Resist Poison x3
