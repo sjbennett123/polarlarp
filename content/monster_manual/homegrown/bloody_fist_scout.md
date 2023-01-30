@@ -38,23 +38,3 @@ killing_blow: If you down PCs leave them to succumb to their wounds. Kidnap when
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

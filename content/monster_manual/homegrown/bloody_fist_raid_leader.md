@@ -30,4 +30,3 @@ motivation: You command the Bloody Fist raiding parties. Your word is LAW to the
 search: ROB THE PLAYERS!!! You search bodies for magic items and unique items that will be used later against the PCs. 
 ---
 
-Ar’Nox Bloody Fist Raid Leader
