@@ -16,6 +16,8 @@ Abilities:
  - Spellstrike Wither Limb x3, Arcane Imprison x3 (Use this to stop being rushed but don’t killing blow, hide behind the PC imprisoned) 
 killing_blow: No
 motivation: You want to kill anything living and non-Bloody Fist! You were once a proud Dwarf of Stonewood but now you are now its bane. Anything the Blood Fist command you will strike down. Grind the players with spell blasts, Cause Wounds and big blasts are your friends here. Let the Shaman heal and cover you while you light up the PCs. Keep in mind you have ZERO guards in front of you so if someone is dead, Use Crate Undead and order them to defend you.
+reset: Undead Scholars reset 1 time in first room and 2 times in second room.
+tactics: Go to town, protect yourself by any means. Use AS MANY Create Undead if PC die. 
 ---
 
-The Scholars Guild is a mess of a fight, there are no grunts to protect them so it’s a big spell bash. The Undead Scholars pick either Earth or Celestial (divide evenly) and just go to town, protect yourself by any means. Use AS MANY Create Undead if PC die. Undead Scholars reset 1 time in first room and 2 times in second room.
+The Scholars Guild is a mess of a fight, there are no grunts to protect them so it’s a big spell bash. The Undead Scholars pick either Earth or Celestial (divide evenly) and just 

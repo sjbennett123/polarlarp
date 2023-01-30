@@ -42,6 +42,5 @@ costuming:
 
 
 
-- Walk right into town and get people's attention. Get players to follow you  or use Arcane Charm and commands “Follow me” to lead them to the Ghoul Ambush. 
-- Keep going till you have someone each or the module will have no effect. 
+- Walk right into town and get people's attention. Get players to follow you  or use Arcane Charm and commands “Follow me” to lead them to the Ghoul Ambush. Keep going until you have someone each or the module will have no effect. 
 

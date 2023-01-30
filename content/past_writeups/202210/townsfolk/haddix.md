@@ -15,15 +15,13 @@ costuming: Dwarf beard, wrap your right hand in cloth to show it is severed, Clo
 
 
 
-- You HATE the Bloody Fist with a burning passion. They killed your childhood best friend Sorin LongOak the same day they severed your hand. Your friend died a hero saving people from the Bloody Fist but you were overwhelmed.
+- You HATE the Bloody Fist with a burning passion. They killed your childhood best friend Sorin Longoak the same day they severed your hand. Your friend died a hero saving people from the Bloody Fist but you were overwhelmed. You will cling to any hope you can that the Bloody Fist will be toppled! You will offer to help in anyway you can in secret.
 
 - Talk about the “endless horde” the Bloody Fist have at their disposal. No one has ever been able to put a number on it. But these bastards seem to breed like rabbits! 
   - No one has every seen the full Bloody Fist size at once but you saw the best view when you were captured and your hand severed. The number by your count was close to a thousand if you had to guess.
   - You are the only person beside Mayor Anak who has seen their leader “Ahroun the Hope Flayer” otherwise known as Warlord Ahroun
   - The best description you could give them is *“He stands tall like a tree, covered in animal furs and a Wolves head on his, burning Orange Eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what It means to be called a warrior…”*
 
-
-- You will cling to any hope you can that the Bloody Fist will be toppled! You will offer to help in anyway you can in secret.
 
 - You are terribly depressed that your Bow String Hand was taken, and you were left useless to fight. You would have rather died but they left you alive to suffer to their delight. Each time you consider starting a fight to try to end it all at their blades in battle, hope clings to you and your friend Sorin’s memory to stay in this fight and see them defeated.
 

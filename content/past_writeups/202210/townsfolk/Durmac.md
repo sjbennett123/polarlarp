@@ -16,7 +16,7 @@ costuming: Dwarf Beard, Noble Clothing, a book with feathered Quill to take note
 - You don’t hate the Bloody Fist with a burning passion like you used to when the Town Guard was dismantled at first. But you certainly have no real love for them.
   - As a former guard you respect their position as protectors of Stonewood in a way.
   - It is hard to explain but you justify it in your head, and it makes sense to you why it is comfortable. Mostly because you weren’t the best fighter, you preferred words to the blade.
-  - You don’t like how brutal they are when they execute punishments. There is no grey area with the Bloody Fist. You either obey or you pay, normally with your life but they can be reasoned with for components and gold piles
+  - You don’t like how brutal they are when they execute punishments. There is no grey area with the Bloody Fist. You either obey or you pay, normally with your life but they can be reasoned with for components and gold piles.
 
 - You CANNOT STAND Mayor Anak’s best friend Thorum! You think he is such and idiot and more of a coward than Anak is. The man was set for life, and he rolled it all away on dice when he could have taken over a jewelry empire in Stonewood. You only tolerate him cause the Mayor loves this man, but if the Bloody Fist cut his tongue out you would buy them a drink on you.
 

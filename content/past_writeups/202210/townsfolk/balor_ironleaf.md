@@ -29,10 +29,8 @@ abilities:
 
 killing_blow: NO 
 
-motivation: All you care about is getting the Town of Stonewood back together again from the Bloody Fist. You age and wounds make it hard to fight and move anymore but you kept this town safe for many moons. You will aid the adventurers with the 10 buildings that must be reclaimed to get the town back in control and away from the Bloody Fists schemes
+motivation: All you care about is getting the Town of Stonewood back together again from the Bloody Fist. You age and wounds make it hard to fight and move anymore but you kept this town safe for many moons. You will aid the adventurers with the 10 buildings that must be reclaimed to get the town back in control and away from the Bloody Fists schemes.
 ---
-
-
 
 **Storyteller**: Balor is a gruff old grumpy Dwarf but a very honorable one. He has seen more battles with the monsters of Elysia than he cares to remember. You can always get him to talk about his glory days over a nice warm pint. No one knows the town of Stonewood better than Balor, he keeps tabs on everyone for the greater good of the town. Depending how the PCs interact with him, he will start to open up about rebellion or laugh at their dreams of liberating the town of Stonewood.
 
