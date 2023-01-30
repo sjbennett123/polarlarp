@@ -40,4 +40,4 @@
 {{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics }}</p> {{ end }} 
 {{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
 {{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
-{{ if .Params.costuming }}<p><b>Costuming:</b> {{ .Params.costuming }}</p>{{ end }} 
+{{ if .Params.costuming }}<p><b>Costuming, Props and Make Up:</b> {{ delimit .Params.costuming ", " }}</p>{{ end }} 

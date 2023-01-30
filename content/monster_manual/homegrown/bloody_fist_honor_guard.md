@@ -26,4 +26,6 @@ search: ROB THE PLAYERS!!! You search bodies for magic items and unique items th
 killing_blow: Yes Raise dead on the ones who die during an encounter) to incite fear.
 abilities: 
   - Slay/Parry x4 Mighty Slay (Racial, no Parry), Healing Arts, First Aid, Read and Write, Read Magic, Can destroy non-reinforced or magically locked doors on a 5 Count (1 I Shatter This Door....)
+costuming: 
+  - Bloody Fist Makeup
 ---

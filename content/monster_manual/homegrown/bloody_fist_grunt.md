@@ -4,7 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
 Layout: role
-introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet
+introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
 reset: 3 times each.
 body: 70
 defenses: 
@@ -20,10 +20,10 @@ weapons: Any
 damage: 10 Normal, 12 Normal With 2H Weapon or Polearm
 abilities: 
   - Mighty Slay (Racial, no Parry)
-  - Healing Arts, 
-  - First Aid, 
-  - Read and Write, 
-  - Read Magic, 
+  - Healing Arts
+  - First Aid
+  - Read and Write
+  - Read Magic
   - Can destroy non-reinforced or magically locked doors on a 5 Count (1 I Shatter This Door....)
 
 motivation: You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. 
@@ -33,6 +33,8 @@ costume:
   - Red Tabbard
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
+costuming: 
+  - Bloody Fist Makeup
 
 ---
 

@@ -32,7 +32,7 @@ abilities:
 killing_blow_active: No (Capture more to torture)
 motivation: You want more victims for your camp! You get your pleasure from inflicting pain on others. You are very sadistic and laugh at the most inappropriate moments. Find a way to insult the players while you fight to enrage them more. 
 tactics: Stay near your Shaman to stay healed and alive. Down PCs and leave them, the Shamans will take care of them to be tortured.
-costume:
+costuming:
   - executioners hood 
   - chains around your body
   - black clothing

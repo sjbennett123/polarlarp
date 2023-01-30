@@ -28,5 +28,7 @@ abilities:
  - Can destroy non-reinforced or magically locked doors on a 5 Count (1 I Shatter This Door....)
 motivation: You command the Bloody Fist raiding parties. Your word is LAW to the Grunts you are surrounded by normally. Kidnap when you can if the person is of value. You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. 
 search: ROB THE PLAYERS!!! You search bodies for magic items and unique items that will be used later against the PCs. 
+costuming: 
+  - Bloody Fist Makeup
 ---
 

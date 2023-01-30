@@ -33,6 +33,8 @@ costume:
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 killing_blow: If you down PCs leave them to succumb to their wounds. Kidnap when you can if the person is of value.
+costuming: 
+  - Bloody Fist Makeup
 
 ---
 
