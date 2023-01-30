@@ -45,6 +45,8 @@ motivation: The PCs are pawns in a greater game, you are the Knight on this ches
 
 tactics: Form up in a tactical formation with Wizards and other Centurions when you are able to. You move as one to greater effectiveness. 
 Reset: The Murumbrian Centurions will reform after killed in 10 minutes and resume their mission until the 1 hour timer is over or gate is destroyed.
+costuming:
+  - Wings
 
 ---
 

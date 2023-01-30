@@ -56,7 +56,7 @@ costuming:
 
 **Impostor**: Hessol is a self-proclaimed “Prince” of The Stonewood Circle of Blood. This is a total lie and meant to spread fear among the town. 
 
-**Braggard**: You are very proud and arrogant about your “accomplishments” 
+**Braggard**: You are very proud and arrogant about your “accomplishments”.
 
 **Vindale is Occupied**: Mention to the players that Vindale may still be under Vampire control, but the court fell 3 years ago.
 

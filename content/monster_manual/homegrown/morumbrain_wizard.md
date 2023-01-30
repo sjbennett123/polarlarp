@@ -6,7 +6,6 @@ Layout: role
 weight: 10
 introduction: You are a high wizard of Murumbria, legions fear your power and cunning. You are the highest rank under the Dark Ones, even Centurions bow to you. 
 
-
 Reset: The Murumbrian Wizards will reform after killed in 10 minutes and resume their mission until the 1hr timer is over or gate is destroyed.
 
 Body: 300
@@ -32,9 +31,12 @@ motivation: You serve the Dark Ones and execute their will. All are pawns in a g
 
 tactics: Kidnap when you can if the person is of value.
 
-costume:  Black Robes, Costume long fingered claw, Glowing Purple Eyes
+costuming:  
+ - Black Robes
+ - Costume long fingered claw
+ - Glowing Purple Eyes
 
-descriptive_phrase**: A black robed figure with terrifying claws 
+descriptive_phrase: A black robed figure with terrifying claws 
 
 ---
 

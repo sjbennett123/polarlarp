@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<p><i>{{ .Params.introduction }}</i></p>
+<p><i>{{ .Params.introduction | markdownify }}</i></p>
 {{ .Content }} 
 <hr>
 {{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
@@ -36,7 +36,8 @@
 {{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
 
 <p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p>
-{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }} 
+{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }}
+{{ if .Params.speech }}<p><b>Speech:</b> {{ .Params.speech }}</p> {{ end }}
 {{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics }}</p> {{ end }} 
 {{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
 {{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
