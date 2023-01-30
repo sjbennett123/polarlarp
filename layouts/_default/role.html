@@ -2,8 +2,8 @@
 
 <p><i>{{ .Params.introduction }}</i></p>
 {{ .Content }} 
-
-{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> {{ end }} 
+<hr>
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
 
 <p><b>Body:</b> {{ .Params.body }}</p>
 

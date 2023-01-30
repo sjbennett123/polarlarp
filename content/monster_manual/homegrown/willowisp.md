@@ -5,7 +5,6 @@ draft: false
 weight: 3
 description: 
 Layout: role
-quantity: 2
 introduction: You were a simple of Will-O-Wisp of Woodhaven with your magic tree as a home. One day the Vampire Hessol Korag came to your tree under the full moon and discovered its power. You tried to scare him off, but he threatened you with a Cold Iron Axe and cutting down your tree! After you heard his demands, you had no choice but to help his grow his Stonewood Circle of Blood!
 reset: Unlimited
 
