@@ -10,7 +10,8 @@ body: 30
 
 weapons: None, you got 1 hand anyways
 
-costuming: Dwarf beard, wrap your right hand in cloth to show it is severed, Cloak, commoners clothing, a toolbelt, anything related to taking care of a stable
+costuming: 
+ - Dwarf beard, wrap your right hand in cloth to show it is severed, Cloak, commoners clothing, a toolbelt, anything related to taking care of a stable
 ---
 
 
