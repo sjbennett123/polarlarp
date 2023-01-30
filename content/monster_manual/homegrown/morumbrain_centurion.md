@@ -19,8 +19,7 @@ defenses:
  - Double damage taken from Light
  - Threshold 10
 
-speech: Speak with a raspy dissonant voice. Never speak in full sentences, speak in riddles, be very cryptic. -Speak with a raspy dissonant voice. Never speak in full sentences, speak in riddles, be very cryptic.
-
+speech: Speak with a raspy dissonant voice. Never speak in full sentences, speak in riddles, be very cryptic. 
 movement: You have no feet, so you cannot run. You float and gesture dramatically with your swords before you activate Slays and Blade attacks
 
 costuming: 

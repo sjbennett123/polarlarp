@@ -2,7 +2,6 @@
 title: "Jiren “Bonesaw” the Jailor"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
 Layout: role
 introduction: Your reputation as a jailor is legendary among the Bloody Fist. You are known for your brutal ways of blood sacrifice. Most Uruks don’t care for the levels you will go to prove your devotion, but no one will question it or stop you. The warlord favors your methods because they bring results. If anyone questions for will or insults you, then you show them why they call you Bonesaw…
 body: 200

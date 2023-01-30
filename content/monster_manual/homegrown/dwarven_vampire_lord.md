@@ -3,7 +3,6 @@
 title: "Dwarven Vampire Lord"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
 Layout: role
 introduction: You were once a hero of these lands in Stonewood. You time came and passed. But now you rise against your own will enslaved to Chaos by the Bloody Fist. You hate what you are doing but you do it without question as it was willed by creatures more powerful than yourself
 Body: 300 
@@ -19,7 +18,6 @@ Damage: 15 Magic Sleep
 tactics: The Vampire Lord will try to Arcane Vampire Charm PCs so kill their friends.
 reset: The Vampire Lord must be killed with a Stake of Woe or he will take his death count and respawn at Night.
 ---
-
 
 
 
