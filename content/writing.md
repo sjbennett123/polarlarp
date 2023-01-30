@@ -15,9 +15,50 @@ weight: 1
 ## Parts of Writeups
 
 - Overview:
-- Monster Cards:
+- Role:
+
 - Lore:
 - Advice
+
+```
+title: ""
+date: 2022-11-10T10:33:21-05:00
+draft: false
+weight: 3
+description: 
+Layout: role
+introduction: 
+  
+reset: 
+
+body: 
+
+Defensives: 
+ - 
+
+weapons: 
+
+damage: 
+
+# List it all on one line 
+magic: 
+
+abilities: 
+  - 
+
+# Put a description of what the character does with the dead. 
+killing_blow: 
+
+motivation: 
+
+tactics: 
+
+costuming: 
+  - 
+
+```
+
+
 
 ---
 

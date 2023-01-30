@@ -2,6 +2,8 @@
 title: "Return of the Planeswalker"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+Layout: module
+author: Mike Fife
 weight: 2
 description: Adair has returned. He seeks his missing partner and thinks the orcs attacking Stonewood are corrupted by Void magic.
 Background: With orcs attacking the town of Stonewood with new magics and tactics, Adair believes something more sinister is creeping upon the lands he was watched over. His partner went to investigate a few years ago but never came back. Adair now must wade into a war that is not his to find out what is going on.
