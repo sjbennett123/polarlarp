@@ -7,8 +7,6 @@ Layout: role
 introduction: > 
   You are the elite of Murumbria! Your blades of shadow have torn through many Hoyleans in your time. The fears you have accomplished to reach the rank of Centurion are brutal and worthy of song. Your blades will make the “heroes” of this time tremble as you march forward with Darkness as your guide. The mission must be completed at all costs! Failure is not an option!
 
-
-
 body: 400
 
 defenses: 
@@ -25,7 +23,7 @@ speech: Speak with a raspy dissonant voice. Never speak in full sentences, speak
 
 movement: You have no feet, so you cannot run. You float and gesture dramatically with your swords before you activate Slays and Blade attacks
 
-costume:  Black Robes , Costume long fingered claw, Glowing Purple Eyes
+costuming: Black Robes , Costume long fingered claw, Glowing Purple Eyes
 
 weapons: 1h and Shield or 2 Long Claws
 
@@ -45,8 +43,7 @@ motivation: The PCs are pawns in a greater game, you are the Knight on this ches
 
 tactics: Form up in a tactical formation with Wizards and other Centurions when you are able to. You move as one to greater effectiveness. 
 Reset: The Murumbrian Centurions will reform after killed in 10 minutes and resume their mission until the 1 hour timer is over or gate is destroyed.
-costuming:
-  - Wings
+
 
 ---
 
