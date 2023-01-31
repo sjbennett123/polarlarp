@@ -27,8 +27,6 @@
 </ol></div>
 {{ end }}
 
-
-
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 
 <div id="roles"><p><b>Roles:</b>
@@ -40,23 +38,20 @@
 {{ end }}
 </p></div>
 
-
-
 <div id="props"> <p><b>Props, Makeup and Costuming:</b> 
 {{ if  .Params.props }} {{ delimit  .Params.props ", " |  }} {{ end }}
 {{ if .Pages }} 
     {{ range where .Pages ".Params.Layout" "role" }}
            {{ .Params.costuming | default ""}}
-    {{ end }}</p></div> 
+    {{ end }}
 {{ end }}
-
-
+</p></div> 
 
 {{ if  .Params.treasure }} <div id="treasure"> <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div> {{ end }} 
 
 {{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors }}</p></div> {{ end }} 
 
-<div id="hook"> <p ><b>Hook:</b> {{ .Params.hook }}</p></div> 
+<div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 
 
 {{ if  .Params.scenes }} 
 <div id="scenes"><p><b>Scenes:</b> {{ range .Params.scenes }}
@@ -71,6 +66,8 @@
 {{ if .Params.craftsman_information }}<div id="craftsman_information"><p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p></div> {{ end }} 
 {{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
 {{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
+
+
 {{ .Content }} 
 
 
@@ -108,10 +105,6 @@ tippy('#running_notes',{
   content: 'This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.',});
 </script>
 
-<script>
-tippy('#running_notes',{ 
-  content: 'This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.',});
-</script>
 
 <script>
 tippy('#non_standard_effects',{ 
@@ -147,6 +140,8 @@ tippy('#rumors',{
 <script>
 tippy('#hook',{ 
   content: 'This is how the players get on the module. All modules need a hook of some sort even if its the players find an Adventure Card in the woods or the players tell the game master that they are going to the Forgotten City.',
+  arrow: true,
+
   });
    
 </script>
@@ -155,11 +150,14 @@ tippy('#hook',{
 <script>
 tippy('#number_of_cast_members',{ 
   content: 'Give a range. The fewer cast members that CAN run a module the better dont get too ambitious and write a module that requires 10-15 NPCs. Often you will have mooks that will be able to be added to a scene to flesh it out.',
+  arrow: true,
   });
 </script> 
 
 <script>
 tippy('#props',{ 
   content: 'list the props',
+  arrow: true,
+
   });
 </script> 
