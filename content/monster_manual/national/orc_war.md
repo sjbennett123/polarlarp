@@ -5,14 +5,15 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
 
-Name: Ogre, War
-Body_points: 25+
-Strength_bonus: '4'
+​---
+Name: Orc, War
+Body_points: 20+
+Strength_bonus: '2'
 threshold: '2'
 rips_from: Pin/Bind
-Descriptive Phrase: Yellow Skinned Ogroid
-Type: Ogroid
-APL: 4+
+Descriptive Phrase: Huge Green Skinned Humanoid
+Type: Humanoid
+APL: 3+
 Movement: Wandering
 Inteligence: Low
 Society: Tribal
@@ -24,12 +25,10 @@ vulnerabilities: May Not Buy Scholarly Skills
 spells: None
 pyramid: None
 rec_treasure: ''
-notes: None
+notes: ''
 weapon_use: By Skills
 claws: None
-base_damage_call: Small Weapon - 2 Normal Short/Longsword - 3 Normal Two Handed -
-  7 Normal
-'': ''
+base_damage_call: Small Weapon - 2 Normal Short/Longsword - 3 Normal Two Handed - 5 Normal
 at_death: Remains
 healed_by: Healing
 immune_to: Waylay 2

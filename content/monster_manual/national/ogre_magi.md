@@ -27,9 +27,8 @@ rec_treasure: ''
 notes: None
 weapon_use: By Skills
 claws: None
-base_damage_call: Small Weapon - 2 Normal Short/Longsword - 3 Normal Two Handed -
-  5 Normal
-'': ''
+base_damage_call: Small Weapon - 2 Normal Short/Longsword - 3 Normal Two Handed - 5 Normal
+
 at_death: Remains
 healed_by: Healing
 immune_to: Waylay 1

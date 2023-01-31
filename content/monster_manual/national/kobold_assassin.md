@@ -27,7 +27,6 @@ notes: None
 weapon_use: 'Short/Long '
 claws: None
 base_damage_call: Small Weapon - 1 Normal Short/Longsword - 2 Normal Waylay - Waylay  1
-
 at_death: Remains
 healed_by: Healing
 immune_to: None

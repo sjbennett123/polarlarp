@@ -27,7 +27,6 @@ notes: None
 weapon_use: By Skills
 claws: None
 base_damage_call: On Hand Small Weapon - 2 Normal Short/Longsword - 3 Normal Two Handed - 5 Normal
-
 at_death: Remains
 healed_by: Healing
 immune_to: None
