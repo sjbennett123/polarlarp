@@ -18,8 +18,6 @@ weapons: Claws
 
 damage: 12 normal
 
-
-
 abilities: 
   - Rip from Bind/Confine/Pin/Web
 

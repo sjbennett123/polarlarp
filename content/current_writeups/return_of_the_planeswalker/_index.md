@@ -16,15 +16,20 @@ number_of_Cast_Members:  3
 
 Rules_Clarifications: Damage reduction for Dire animals (Bear/Wolf)
 Craftsman_Information:  Anyone with craftsman other in tracking will be able to determine how deep in the forest they are and how to get back to town.
-
+Treasure:
+ -  Components
 Running_Notes: Campfire Use a campfire for this module if the weather is not terrible. We will not do the fire if there is a downpour, but will do it if it is drizzling or just wet after a rain. There is to be no fighting at all near the fire! We will need someone to watch over the fire while it is lit, and there should be a bucket or a container filled with water ready to douse it when the module is over.
 Requirements: 
   - Should be run after Lord of the Woods. Adair will have similar colors as the lights and to confuse some players, but it's just a genuine mistake.
+scenes: 
+  - 
+    oog: ampfire Use a campfire for this module if the weather is not terrible. We will not do the fire if there is a downpour, but will do it if it is drizzling or just wet after a rain. There is to be no fighting at all near the fire! We will need someone to watch over the fire while it is lit, and there should be a bucket or a container filled with water ready to douse it when the module is over.
+    ig: A forest clearing with a Campfire
+    flee_point: Non Combat, Trail leading back to town
 ---
 
-Roles:** White Direwolf, Dire Bear, Adair**
-Props:** Campfire (weather permitting)**
-Tags and Treasure:** Components**
-Scene:** A forest clearing**
-Flee point:** Trail leading back to town**
+
+
+
+
 

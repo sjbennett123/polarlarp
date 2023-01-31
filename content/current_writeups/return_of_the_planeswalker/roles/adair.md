@@ -44,16 +44,6 @@ costuming:
 
 ---
 
-
-
-
-						**Adair
-
-
-
-
-
-
 **Immunities:** Immune to Fire, Life, Chaos and Stone attacks. Rip from Bind/Confine/Web
 **Weapons:** Longsword/shield
 **Damage:** 20 Magic (Chaos/Fire/Life/Stone)
