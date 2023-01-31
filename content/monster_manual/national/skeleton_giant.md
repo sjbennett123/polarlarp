@@ -5,7 +5,6 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
 
----
 Name: Skeleton, Giant
 Body_points: '40'
 Strength_bonus: '4'
