@@ -5,6 +5,7 @@
 <p><b>Reviewed By:</b> {{ .Params.reviewer }}</p>
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description }}</p></div>
+
 {{ if .Params.requirements }} 
 <div id ="requirements"> 
 <p><b>Requirements:</b></p>
@@ -13,6 +14,7 @@
     {{ end }}
 </div>
 {{ end }}
+
 
 <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p></div>
 
@@ -24,6 +26,8 @@
     {{ end }}
 </ol></div>
 {{ end }}
+
+
 
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 
@@ -37,9 +41,16 @@
 </p></div>
 
 
-{{ if  .Params.props }} 
-<div id="props">  <p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p></div> 
+
+<div id="props"> <p><b>Props, Makeup and Costuming:</b> 
+{{ if  .Params.props }} {{ delimit  .Params.props ", " |  }} {{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "role" }}
+           {{ .Params.costuming | default ""}}
+    {{ end }}</p></div> 
 {{ end }}
+
+
 
 {{ if  .Params.treasure }} <div id="treasure"> <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div> {{ end }} 
 
@@ -135,16 +146,20 @@ tippy('#rumors',{
 
 <script>
 tippy('#hook',{ 
-  content: 'This is how the players get on the module. All modules need a hook of some sort even if its the players find an Adventure Card in the woods or the players tell the game master that they are going to the Forgotten City.',});
+  content: 'This is how the players get on the module. All modules need a hook of some sort even if its the players find an Adventure Card in the woods or the players tell the game master that they are going to the Forgotten City.',
+  });
+   
 </script>
 
 
 <script>
 tippy('#number_of_cast_members',{ 
-  content: 'Give a range. The fewer cast members that CAN run a module the better dont get too ambitious and write a module that requires 10-15 NPCs. Often you will have mooks that will be able to be added to a scene to flesh it out.',});
+  content: 'Give a range. The fewer cast members that CAN run a module the better dont get too ambitious and write a module that requires 10-15 NPCs. Often you will have mooks that will be able to be added to a scene to flesh it out.',
+  });
 </script> 
 
 <script>
 tippy('#props',{ 
-  content: 'list the props',});
+  content: 'list the props',
+  });
 </script> 
