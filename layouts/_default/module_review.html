@@ -1,11 +1,8 @@
 {{ partial "header.html" . }}
-FOR REVIEW
 <script src="https://unpkg.com/@popperjs/core@2"></script>
 <script src="https://unpkg.com/tippy.js@6"></script>
 <!--Tooltip Scripts & Settings-->
 
-
-<p class="tooltip" title="Pick a distinctive title for your module. Something that can be talked about around the shack and evokes the feel of your module. " ><b>Written By:</b> {{ .Params.author }}</p>
 
 <p><b>Written By:</b> {{ .Params.author }}</p>
 
@@ -20,11 +17,12 @@ FOR REVIEW
 {{ end }}
 <p title="This is the meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the writeup will make it really shine but you will need to spell it out here. "><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p>
 {{ if .Params.outcomes }} 
-<p title="The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle."><b>Outcomes:</b></p><ol>
+<div title="The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle."><p><b>Outcomes:</b></p>
+<ol >
     {{ range  .Params.outcomes }}
     <li>{{ . }}</li>
     {{ end }}
-    </ol>
+</ol></div>
 {{ end }} 
 <p title="Give a range. The fewer cast members that CAN run a module the better don't get too ambitious and write a module that requires 10-15 NPC's. Often you will have mooks that will be able to be added to a scene to flesh it out."><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p>
 
@@ -39,7 +37,7 @@ FOR REVIEW
 <p title="These are the props that are needed for the module to run. Before the event we will check to make sure that we have all these things in the NPC Shack and if we don't have them we will either make them or change the module. "><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
 {{ end }} 
 {{ if  .Params.treasure }} 
-<p title="Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about."><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
+<div title="Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about."><p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div>
 {{ end }} 
 {{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
 <p title= "This is how the players get on the module. All modules need a hook of some sort even if it's the players find an Adventure Card in the woods or the players tell the game master that they are going to the Forgotten City."><b>Hook:</b> {{ .Params.hook }}</p>

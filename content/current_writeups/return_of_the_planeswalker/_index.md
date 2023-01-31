@@ -2,7 +2,7 @@
 title: "Return of the Planeswalker"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-Layout: module
+Layout: module_review
 author: Mike Fife
 weight: 2
 description: Adair has returned. He seeks his missing partner and thinks the orcs attacking Stonewood are corrupted by Void magic.
@@ -23,7 +23,7 @@ Requirements:
   - Should be run after Lord of the Woods. Adair will have similar colors as the lights and to confuse some players, but it's just a genuine mistake.
 scenes: 
   - 
-    oog: ampfire Use a campfire for this module if the weather is not terrible. We will not do the fire if there is a downpour, but will do it if it is drizzling or just wet after a rain. There is to be no fighting at all near the fire! We will need someone to watch over the fire while it is lit, and there should be a bucket or a container filled with water ready to douse it when the module is over.
+    oog: Campfire Use a campfire for this module if the weather is not terrible. We will not do the fire if there is a downpour, but will do it if it is drizzling or just wet after a rain. There is to be no fighting at all near the fire! We will need someone to watch over the fire while it is lit, and there should be a bucket or a container filled with water ready to douse it when the module is over.
     ig: A forest clearing with a Campfire
     flee_point: Non Combat, Trail leading back to town
 ---
