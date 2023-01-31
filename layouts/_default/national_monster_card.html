@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+
+{{ .Content }} 
+<hr>
+
+<p><b>Body Points:</b> {{ .Params.Body_points }}</p>
+
+{{ if .Params.Strength_bonus }}<p><b>Strength_bonus:</b> {{ .Params.Strength_bonus }}</p> {{ end }}
+{{ if .Params.threshold }}<p><b>threshold:</b> {{ .Params.threshold }}</p> {{ end }}
+{{ if .Params.rips_from }}<p><b>rips_from:</b> {{ .Params.rips_from }}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.Type }}<p><b>Type:</b> {{ .Params.Type }}</p>{{ end }} 
+{{ if .Params.APL }}<p><b>APL:</b> {{ .Params.APL }}</p>{{ end }} 
+{{ if .Params.Inteligence }}<p><b>Inteligence:</b> {{ .Params.Inteligence }}</p>{{ end }} 
+{{ if .Params.Society }}<p><b>Society:</b> {{ .Params.Society }}</p>{{ end }} 
+{{ if .Params.Motivation }}<p><b>Motivation:</b> {{ .Params.Motivation }}</p>{{ end }} 
+{{ if .Params.armor }}<p><b>armor:</b> {{ .Params.armor }}</p>{{ end }} 
+{{ if .Params.offensive_abilities }}<p><b>offensive_abilities:</b> {{ .Params.offensive_abilities }}</p>{{ end }} 
+{{ if .Params.defensive_abilities }}<p><b>defensive_abilities:</b> {{ .Params.defensive_abilities }}</p>{{ end }} 
+{{ if .Params.vulnerabilities }}<p><b>vulnerabilities:</b> {{ .Params.vulnerabilities }}</p>{{ end }} 
+{{ if .Params.spells }}<p><b>spells:</b> {{ .Params.spells }}</p>{{ end }} 
+{{ if .Params.pyramid }}<p><b>pyramid:</b> {{ .Params.pyramid }}</p>{{ end }} 
+{{ if .Params.rec_treasure }}<p><b>rec_treasure:</b> {{ .Params.rec_treasure }}</p>{{ end }} 
+{{ if .Params.notes }}<p><b>notes:</b> {{ .Params.notes }}</p>{{ end }} 
+
+{{ if .Params.weapon_use }}<p><b>weapon_use:</b> {{ .Params.weapon_use }}</p>{{ end }} 
+{{ if .Params.claws }}<p><b>claws:</b> {{ .Params.claws }}</p>{{ end }} 
+
+{{ if .Params.base_damage_call }}<p><b>base_damage_call:</b> {{ .Params.base_damage_call }}</p>{{ end }} 
+{{ if .Params.at_death }}<p><b>at_death:</b> {{ .Params.at_death }}</p>{{ end }} 
+{{ if .Params.healed_by }}<p><b>healed_by:</b> {{ .Params.healed_by }}</p>{{ end }} 
+{{ if .Params.immune_to }}<p><b>immune_to:</b> {{ .Params.immune_to }}</p>{{ end }} 
+{{ if .Params.Protectives }}<p><b>Protectives:</b> {{ .Params.Protectives }}</p>{{ end }} 
+
+
+{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{  .Params.descriptive_phrase  }}</p>{{ end }} 

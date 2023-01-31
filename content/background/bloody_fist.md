@@ -23,6 +23,29 @@ We believe that they can be settled with but terms will be very one sided. The B
 
 ### The Great Orc War and Defeat
 
+```
+Original Warlord was named Olzen, originally an Oaken Wood Elf
+Committed heinous crimes against the Oaken Wood Elf
+Blood Fist Orc were Oaken Wood Elf main enemy
+He was cast out and race changed forcibly to an Orc and joined with the Blood Fist
+Olzen could walk the Winding of the Oaken Woods to move his troops
+Olzen had an artifact when the players killed him (Welders glove with chain mail) that doubled slays and made them massive
+Joined up with a Fae Prince to gain super extra power
+Had 4 generals who he blessed with powers
+All generals were killed at once with a group led by Henet
+Almost 2 year plotline
+Original power structure was very barbaric and nomadic.
+Mostly relied on numbers (15 body swinging 5s)
+Waves and waves of Orcs, 30 NPCS and high amount of waves for resets
+Original Bloody Fist were traditional orc and just wanted to smash anyone who opposed them
+Relentless waves of numbers who came after PCs and didn’t stop till they were dead
+Shamans would try to obliterate Oaken Wood Elves and then move to the next target
+Obliterate became a common practice on enemies of the Fist
+Original Bloody Fist would only take hostages to Obliterate (auto contested dark territory) 
+They would drop you and let you bleed out while they killed the next person
+
+```
+
 The Bloody Fist tribe waged a brutal war 20 some years ago against Stonewood and the heroes of Elysia. The war was very long and bloody, but in the end the Bloody Fist was defeated.
 
 The heroes of Elysia killed their Warlord and put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
