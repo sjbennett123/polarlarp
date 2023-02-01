@@ -20,7 +20,7 @@ Abilities:
   - Arcane Regeneration (as per spell but for Light) x3
 killing_blow: No (Just drop violators of the Accords and leave them for Bloody Fist to collect)
 motivation: You will patrol and enforce the Accords of the Fist with your very being. Nothing is more important than this. You operate like a machine for these laws. It is very simple when someone breaks an Accord, you punish them without mercy and swiftly. They almost programed your mind like a Golem, but they left a sentient mind inside albeit transformed into Hoylean Light Zealot, but your orders are clear, protect the city and uphold the Accords, maybe one day they will release you from this prison…
-Props
+Props:
   - Hoylean Altar of Power
   - Rune Necklace
 Costuming: 
