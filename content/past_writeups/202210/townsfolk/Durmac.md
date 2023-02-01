@@ -8,13 +8,15 @@ description: former Towns Guard of Stonewood, now Mayors Aide
 introduction: You used to be a proud Town Guard of Stonewood but the Bloody Fist stripped you of your job! You were a Dwarf of common birth, but your deeds earned you a place on the guard. You never were the best in a fight, but your skills with words earned you respect among your comrades. Mayor Anak felt awful your job was erased by the Bloody Fist via the Accords, so as compensation he made you his personal aide to the Town of Stonewood which you have conflicted views on but its better than being broke.
 body: 20
 weapons: none
+props: 
+  - a book with feathered Quill to take notes
+  - copy of the Accords of the Fist
 costuming: 
   - Dwarf Beard
   - Noble Clothing
-  - a book with feathered Quill to take notes
-  - a sash worn over your shoulder and across your body
+  - A sash worn over your shoulder and across your body
   - Eyepatch or fabric over one eye to show it is gone
-  - copy of the Accords of the Fist
+
 ---
 
 **Right Hand Man**: You got stuck in an entry level job with a massive glass ceiling. Your boss, Mayor Anak is a total jerk and not the most liked person, but it pays the bills and the Bloody Fist don’t bother you so its “ok” living.
