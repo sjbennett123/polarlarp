@@ -2,7 +2,15 @@
 
 {{ .Content }} 
 
+{{ if .Pages }} 
+<p><b>Modules for Review:</b> 
+{{ range .Pages where .Params.Layout "module_review" }}
 
+
+ <li>{{ .Title }}</li>
+      
+{{ end }}
+{{ end }}
 {{ if .Pages }} 
 <p><b>Costuming:</b> 
 {{ range (.Pages.GroupBy "Section") }}
