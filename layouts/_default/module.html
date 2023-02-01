@@ -49,3 +49,5 @@
 {{ if .Params.transformations }}<p><b>Transformations:</b> {{ .Params.transformations }}</p> {{ end }}
 {{ if .Params.running_notes }}<p><b>Running_notes:</b> {{ .Params.running_notes }}</p>{{ end }} 
 {{ .Content }} 
+
+{{ partial "footer.html" . }}

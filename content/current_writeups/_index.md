@@ -6,6 +6,8 @@ draft: false
 
 ---
 
+The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order. 
+
 {{% children depth="1" description="true"  sort="Weight" style="h3"%}}
 
 ---
