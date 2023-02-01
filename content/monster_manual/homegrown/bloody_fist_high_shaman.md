@@ -30,7 +30,7 @@ abilities:
   - Can Rift on 3 Count
 killing_blow: No (Use Chaos but avoid Death Spell, Save them for Life Spells to keep bloody Fist Alive)
 motivation: You are one of 2 Shaman Casters in a Raiding Party. One is ALWAYS Celestial and the other Earth caster. Feel Free to use Necromancy to Harm/Taint Blood/Wither against the PCs, even raise dead on the ones who die during an encounter) to incite fear. Kidnap when you can if the person is of value.
-costuming: 
+makeup: 
   - Bloody Fist Makeup
 ---
 

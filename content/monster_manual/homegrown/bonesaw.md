@@ -36,6 +36,8 @@ costuming:
   - chains around your body
   - black clothing
   - large imposing armor
+makeup: 
+  - Bloody Fist Makeup
 movement: You are a large imposing Uruk so move slow and don’t run. Make your movements very dramatic and big.
 ---
 

@@ -23,7 +23,9 @@ speech: Speak with a raspy dissonant voice. Never speak in full sentences, speak
 movement: You have no feet, so you cannot run. You float and gesture dramatically with your swords before you activate Slays and Blade attacks
 
 costuming: 
- - Black Robes , Wings , Glowing Purple Eyes
+ - Black Robes
+ - Wings
+ - Glowing Purple Eyes
 
 weapons: 1h and Shield or 2 Long Claws
 

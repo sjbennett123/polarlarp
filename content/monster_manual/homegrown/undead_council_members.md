@@ -9,7 +9,10 @@ introduction: You were once a proud member of the Stonewood Council. For your de
 Body: 50
 
 defenses: 
- - No Metabolism, Immune to pin/blind/web/confine, Immune to Ice (Double taken from Flame), Healed by Chaos
+ - No Metabolism
+ - Immune to pin/blind/web/confine
+ - Immune to Ice (Double taken from Flame)
+ - Healed by Chaos
 
 weapons: 2 Claws
 

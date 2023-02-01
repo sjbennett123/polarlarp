@@ -16,7 +16,9 @@ defenses:
 Magic: Spellstrike Death x5, Spellstrike Confine x5, Spellstrike Imprison x5, Spellstrike Taint Blood x5, Spellstrike Destruction x5, Spellstrike Paralysis x5, Spellstrike 50 Elemental Darkness x10
 
 abilities: 
- - Focus, Rift x5 (3 Count), Arcane Corruption (as per spell but for Darkness) x3)
+ - Focus
+ - Rift x5 (3 Count)
+ - Arcane Corruption (as per spell but for Darkness) x3
 Weapons: 1h Long Claw (off hand Claw rep)
 
 damage: 30 Magic Darkness (Attack slower than normal, the Centurions swing normal speed)

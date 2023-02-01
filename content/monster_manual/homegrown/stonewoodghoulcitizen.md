@@ -22,11 +22,11 @@ killing_blow: No
 
 motivation: You want to please your new Vampire Prince Hessol Korag with fresh Ghouls to the newly formed “Stonewood Circle of Blood” Move at a normal speed after your foes and chase them if they try to flee. You are a sentient Undead so you play like a PC undead. 
 tactics: Use your Magic Pin to keep people from running to get help. -Use your 20 Elemental Chaos packets to keep them moving and scattered. When people fall into your Lesser Drain carrier attack try to take them down in that 10 seconds to you can leave them for your Prince Hessol and chase the next victim
+makeup:
+ - Blackened Eyes and bloody marks on face
 costuming: 
   - Stonewood Citizen Clothing
   - Dwarf Beard
-  - Blackened Eyes and bloody marks on face
-  - 2 Claw Reps
   - Spell Packets
 defenses: 
  - No Metabolism, Immune to pin/blind/web/confine, Immune to Ice (Double taken from Flame), Healed by Chaos

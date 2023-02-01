@@ -33,7 +33,7 @@ costume:
   - Red Tabbard
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
-costuming: 
+makeup: 
   - Bloody Fist Makeup
 
 ---
