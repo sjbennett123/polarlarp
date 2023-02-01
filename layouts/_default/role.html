@@ -27,9 +27,20 @@
     {{ end }}
 </p>
 {{ end }} 
+
 {{ if  .Params.props }} 
 <p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
+{{ end }}
+
+{{ if  .Params.costume }} 
+<p><b>Costume:</b> {{ delimit  .Params.costume ", " |  }}</p>
 {{ end }} 
+
+{{ if  .Params.makeup }} 
+<p><b>Makeup:</b> {{ delimit  .Params.makeup ", " |  }}</p>
+{{ end }} 
+
+
 {{ if  .Params.treasure }} 
 <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
 {{ end }} 

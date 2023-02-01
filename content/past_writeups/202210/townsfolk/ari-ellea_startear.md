@@ -9,8 +9,13 @@ introduction: You were once the adopted daughter of a noble Dwarf in Stonewood, 
 Body: 10
 
 Weapons: none
-Costuming: 
-  - Elf Ears, Commoners clothing, cloak, book/tome, glasses
+props:
+  - book/tome
+  - glasses
+Costume: 
+  - Elf Ears
+  - Commoners clothing
+  - cloak
 ---
 
 **The Orcs Killed Your Adopted Father**: You know firsthand the brutality of the Bloody fist when they cut down Lozzuik Forgehand, your savior, right before you and made you watch. His crime was merely asking why he couldn’t have more food to feed his family. There was a fistfight, and they drug him into the street and beheaded him. This haunts you to this day. You generally keep to yourself but the hopefulness of avenging Lozzuik’s death with these new adventurers can’t be shaken.
