@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+
+{{ .Content }} 
+
+
+{{ if .Pages }} 
+<p><b>Costuming:</b> 
+{{ range (.Pages.GroupBy "Section") }}
+   {{ range .Pages }}
+
+
+                        {{ range (.Pages.GroupBy "Section") }}
+                           {{ range .Pages }}
+                                       {{ range  .Params.costuming }}
+                                            <li>{{ . }}</li>
+                                    {{ end }}
+                           {{ end }}
+                        {{ end }}      
+      
+   {{ end }}
+{{ end }}
+
+</p>
+{{ end }}
+
+{{ if .Pages }} 
+<p><b>Props:</b> 
+{{ range (.Pages.GroupBy "Section") }}
+   {{ range .Pages }}
+
+
+                        {{ range (.Pages.GroupBy "Section") }}
+                           {{ range .Pages }}
+                                       {{ range  .Params.props }}
+                                            <li>{{ . }}</li>
+                                    {{ end }}
+                           {{ end }}
+                        {{ end }}      
+      
+   {{ end }}
+{{ end }}
+
+</p>
+{{ end }}
+
+
+{{ partial "footer.html" . }}
