@@ -9,10 +9,6 @@ introduction: A domesticated species that would not be able to survive in the wi
 Body: 10 
 ---
 
-
-
-
-
 **Weapons Attacks** Claws (1 Normal) 
 
 **Domesticated** will only attack if cornered. They will run to a human if scared
