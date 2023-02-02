@@ -1,9 +1,12 @@
 ---
-title: "Rage for Order"
+title: "Holy Thunderforce "
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
+day: saturday
+layout: module
+
+description: The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
 ---
 
 P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….

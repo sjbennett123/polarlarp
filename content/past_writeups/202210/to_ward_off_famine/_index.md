@@ -1,9 +1,12 @@
 ---
-title: "Unholy Warcry"
+title: "To Ward off Famine"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+day: saturday
+layout: module
+
+description: The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
 ---
 
 P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….

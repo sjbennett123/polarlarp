@@ -1,9 +1,12 @@
 ---
-title: "Gilded Halls of Stonewood"
+title: "The Lumber Job"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
-description: A disagreement over the Guild Halls treaty is stumbled in upon by the PCs, as they arrive, they hear the scream of a dwarf who has just been killed. The treaty has been broken and the Guild Hall will be ransacked.
+day: saturday
+layout: module
+
+description: The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood.
 ---
 
 P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
