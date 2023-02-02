@@ -12,7 +12,6 @@ The modules below are in the order that we intend to run them in. Many of them a
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 
-{{ .Content }} 
 
 <h3>Modules for Review</h3> 
 {{ range (where .Pages "Layout" "module_review") }}
@@ -21,8 +20,11 @@ The modules below are in the order that we intend to run them in. Many of them a
 
 
 {{ if .Pages }} 
+{{ .Content }} 
 
 <h2>City Information</h2>
+
+<h2>Magic Items</h2> 
 
 <h2>Costuming</h2> 
 {{ range (.Pages.GroupBy "Section") }}
