@@ -2,10 +2,12 @@
 title: "Don't Talk to Strangers"
 Layout: module
 date: 2022-11-10T10:33:21-05:00
-author: Chris Colland
-reviewer: Scott Bennett
 draft: false
 weight: 3
+day: friday
+
+author: Chris Colland
+reviewer: Scott Bennett
 description: "A Will-O-Wisp is floating around town gathering people’s attention to take them on a journey they will not soon forget…"
 synopsis:   >
   A seemingly rogue Will-O-Wisp is wandering around town after players start settling in for the night after dealing with The Changed Ones. This Will-O-Wisp has an agenda unlike most Will-O-Wisps floating around the lands at night. The Will-O-Wisp has a magical tree it calls home with its fellow Wisps, but Hessol Korag the Vampire has threatened to destroy this tree with a Cold Iron Axe if the Wisps do not do its bidding. 

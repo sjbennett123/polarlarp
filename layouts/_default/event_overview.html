@@ -1,18 +1,30 @@
 {{ partial "header.html" . }}
 
+The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order.
+<p><h2>Modules To Run</h2> 
+<h2>Friday</h2>
+{{ range sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+{{ end }}
+
+<h3>Saturday</h3>
+{{ range where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "saturday" }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+{{ end }}
+
 {{ .Content }} 
 
-{{ if .Pages }} 
-<p><b>Modules for Review:</b> 
-{{ range .Pages where .Params.Layout "module_review" }}
+<h3>Modules for Review</h3> 
+{{ range (where .Pages "Layout" "module_review") }}
+      <p><a href="{{.Permalink}}"><p><b>{{ .Title }}</b> Written by {{ .Params.author }} </p></a>
+{{ end }}
 
 
- <li>{{ .Title }}</li>
-      
-{{ end }}
-{{ end }}
 {{ if .Pages }} 
-<p><b>Costuming:</b> 
+
+<h2>City Information</h2>
+
+<h2>Costuming</h2> 
 {{ range (.Pages.GroupBy "Section") }}
    {{ range .Pages }}
 
@@ -28,11 +40,11 @@
    {{ end }}
 {{ end }}
 
-</p>
+
 {{ end }}
 
 {{ if .Pages }} 
-<p><b>Props:</b> 
+<h2>Props</h2> 
 {{ range (.Pages.GroupBy "Section") }}
    {{ range .Pages }}
 
@@ -48,7 +60,6 @@
    {{ end }}
 {{ end }}
 
-</p>
 {{ end }}
 
 

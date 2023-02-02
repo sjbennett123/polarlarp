@@ -7,5 +7,5 @@ description: The bloody fist occupied Stonewood. BRUTAL.
 Layout: event_overview
 ---
 
-{{% children description="true" depth="1"  sort="Weight" %}}
+
 

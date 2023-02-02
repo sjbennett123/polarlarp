@@ -2,7 +2,9 @@
 title: "Horns of War"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 6
+day: saturday
+weight: 1
+
 description: "Horns of War"
 Layout: module
 author: Chris Colland
