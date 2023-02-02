@@ -17,8 +17,10 @@ Outcomes:
 Hook: Module- HELP WANTED
 Number of Cast Members: 1
 Roles: Charles “Charlie” Glynhall
-Props: Chest of the Felhand
-Treasure: Gold, Silver, Components, jewelry, Granny Glynhall's Recipe Book
+Props: 
+ - Chest of the Felhand
+Treasure: 
+  - Gold, Silver, Components, jewelry, Granny Glynhall's Recipe Book
 Running_Notes: Craftsman Other skill Tracking level 1 needed to find Charlie
 
 ---
