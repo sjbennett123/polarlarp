@@ -38,8 +38,26 @@
 {{ end }}
 </p></div>
 
-<div id="props"> <p><b>Props, Makeup and Costuming:</b> 
+<div id="props"> <p><b>Props: </b> 
 {{ if  .Params.props }} {{ delimit  .Params.props ", " |  }} {{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "role" }}
+           {{ .Params.costuming | default ""}}
+    {{ end }}
+{{ end }}
+</p></div> 
+
+<div id="makeup"> <p><b>Makeup: </b> 
+{{ if  .Params.makeup }} {{ delimit  .Params.makeup ", " |  }} {{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "role" }}
+           {{ .Params.props | default ""}}
+    {{ end }}
+{{ end }}
+</p></div> 
+
+<div id="costuming"> <p><b>Costuming: </b> 
+{{ if  .Params.costuming }} {{ delimit  .Params.costuming ", " |  }} {{ end }}
 {{ if .Pages }} 
     {{ range where .Pages ".Params.Layout" "role" }}
            {{ .Params.costuming | default ""}}
@@ -69,8 +87,6 @@
 
 
 {{ .Content }} 
-
-
 
 
 
