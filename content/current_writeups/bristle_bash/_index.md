@@ -6,7 +6,7 @@ weight: 1
 day: friday
 
 description: A party to celebrate the untapping of the bristle bock is interrupted by the Bloody Fist. 
-layout: module_review
+layout: module
 author: Scott Bennett
 Requirements: 
   - Opening Module 

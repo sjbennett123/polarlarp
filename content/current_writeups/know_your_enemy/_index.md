@@ -5,7 +5,7 @@ draft: false
 weight: 2
 day: friday
 
-Layout: module_review
+Layout: module
 description: Balar delivers the intelligence that the Black Anvil company has gathered along with The Magic Bomb blueprints. Fear spreads through the town.
 author: Scott Bennett
 Requirements:
