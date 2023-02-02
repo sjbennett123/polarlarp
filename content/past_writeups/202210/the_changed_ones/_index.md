@@ -4,8 +4,9 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
 day: friday
-description: "A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards from Hoyle!"
+description: "A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards."
 Layout: module
+
 author: Chris Colland
 reviewer: Scott Bennett
 requirements:
@@ -24,8 +25,6 @@ hook: The players enter the town of Stonewood and discover the Module is already
 number_of_cast_members: 12 If you do not have 12 characters the townspeople are in order of precedence. 
 props: 
   - Altar of Power
-  - Hoylean costumes
-  - Blue Glowing Eyes
   - Dwarf Townsfolk costuming
   - Hoylean Necklaces for Altar
   - Named NPC Costuming
@@ -33,11 +32,12 @@ treasure:
  - Gems
  - Evaluate Items
  - Coins
- - Magic Item Sword of Zealous Light (+2 Light Aura Magic Sword)
+magic_item:
+ - Sword of Zealous Light (+2 Light Aura Magic Sword)
 running_notes:
 
 rumors: These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood
 
   Your Friend in the darkness   ~Kane
+roles: 3 Hoylean Wizards, 3 Hoylean Marauders, Magnus Kane, Mayor Anak Durag, Durmac Leafdancer, Thorum Fairoak, Ari-elle Startear, Haddix Strongbow
 ---
-**Roles**: 3 Hoylean Wizards, 3 Hoylean Marauders, Magnus Kane, Mayor Anak Durag, Durmac Leafdancer, Thorum Fairoak, Ari-elle Startear, Haddix Strongbow

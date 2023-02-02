@@ -4,50 +4,74 @@
 
 <p><b>Reviewed By:</b> {{ .Params.reviewer }}</p>
 
-<p><b>Brief:</b> {{ .Params.description }}</p>
+<div id="brief"> <p><b>Brief:</b> {{ .Params.description }}</p></div>
+
 {{ if .Params.requirements }} 
+<div id ="requirements"> 
 <p><b>Requirements:</b></p>
     {{ range  .Params.requirements }}
     <li>{{ . }}</li>
     {{ end }}
+</div>
 {{ end }}
-<p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p>
+
+
+<div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p></div>
+
 {{ if .Params.outcomes }} 
-<p><b>Outcomes:</b></p><ol>
+<div id= "outcomes" ><p><b>Outcomes:</b></p>
+<ol >
     {{ range  .Params.outcomes }}
     <li>{{ . }}</li>
     {{ end }}
-    </ol>
-{{ end }} 
-<p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p>
+</ol></div>
+{{ end }}
 
+<div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
+
+<div id="roles"><p><b>Roles:</b>
+{{ if .Params.roles }}{{ .Params.roles }}{{ end }} 
 {{ if .Pages }} 
-<p><b>Roles:</b> 
     {{ range where .Pages ".Params.Layout" "role" }}
             <a href="{{.Permalink}}">{{ .Params.quantity | default ""}} {{.Title}} </a>
     {{ end }}
-</p>
-{{ end }} 
-{{ if  .Params.props }} 
-<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
-{{ end }} 
-{{ if  .Params.treasure }} 
-<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
-{{ end }} 
-{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
-<p><b>Hook:</b> {{ .Params.hook }}</p>
+{{ end }}
+</p></div>
+
+<div id="props"> <p><b>Props, Makeup and Costuming:</b> 
+{{ if  .Params.props }} {{ delimit  .Params.props ", " |  }} {{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "role" }}
+           {{ .Params.costuming | default ""}}
+    {{ end }}
+{{ end }}
+</p></div> 
+
+{{ if  .Params.treasure }} <div id="treasure"> <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div> {{ end }} 
+
+{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors }}</p></div> {{ end }} 
+
+<div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 
+
 {{ if  .Params.scenes }} 
-<p><b>Scenes:</b> {{ range .Params.scenes }}
+<div id="scenes"><p><b>Scenes:</b> {{ range .Params.scenes }}
       <ul><b>In Game:</b> {{ .ig}} 
       <b>Out of Game:</b> {{ .oog}} 
       <b>Flee Point:</b> {{ .flee_point}}</ul>
-   {{ end }}
+   {{ end }}</div>
 {{ end}}
-{{ if .Params.non_standard_effects }}<p><b>Non Standard Effects:</b> {{ .Params.non_standard_effects }}</p>{{ end }} 
-{{ if .Params.rules_clarifications }}<p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> {{ end }} 
-{{ if .Params.craftsman_information }}<p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p> {{ end }} 
-{{ if .Params.transformations }}<p><b>Transformations:</b> {{ .Params.transformations }}</p> {{ end }}
-{{ if .Params.running_notes }}<p><b>Running_notes:</b> {{ .Params.running_notes }}</p>{{ end }} 
+
+{{ if .Params.non_standard_effects }}<div id="non_standard_effects"> <p><b>Non Standard Effects:</b> {{ .Params.non_standard_effects }}</p> </div> {{ end }} 
+{{ if .Params.rules_clarifications }}<div id="rules_clarifications"> <p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> </div> {{ end }} 
+{{ if .Params.craftsman_information }}<div id="craftsman_information"><p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p></div> {{ end }} 
+{{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
+{{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
+
+
 {{ .Content }} 
+
+
+
+
 
 {{ partial "footer.html" . }}

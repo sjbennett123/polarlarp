@@ -5,6 +5,9 @@
 <p><h2>Modules To Run</h2> 
 The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order.
 
+<p><h2>Modules To Run</h2> 
+The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order.
+
 <h3>Friday</h3>
 {{ range sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
@@ -22,7 +25,7 @@ The modules below are in the order that we intend to run them in. Many of them a
 
 <h3>Modules for Review</h3>
 {{ range (where .Pages "Layout" "module_review") }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b>   Written by {{ .Params.author }} </a></p>
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end }}
 
 
@@ -53,6 +56,9 @@ The modules below are in the order that we intend to run them in. Many of them a
 
 {{ if .Pages }} 
 <h2>Props</h2> 
+
+<b>Add props that are not on roles. Right now we only get the props on the role cards.</b>
+
 {{ range (.Pages.GroupBy "Section") }}
    {{ range .Pages }}
 
