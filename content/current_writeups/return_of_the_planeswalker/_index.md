@@ -3,6 +3,7 @@ title: "Return of the Planeswalker"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 Layout: module_review
+day: friday
 author: Mike Fife
 weight: 2
 description: Adair has returned. He seeks his missing partner and thinks the orcs attacking Stonewood are corrupted by Void magic.
@@ -27,7 +28,6 @@ scenes:
     ig: A forest clearing with a Campfire
     flee_point: Non Combat, Trail leading back to town
 ---
-
 
 
 

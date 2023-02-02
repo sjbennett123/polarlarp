@@ -3,6 +3,7 @@ title: "Cryptic Wishes"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 8
+day: friday
 layout: module_review
 author: Michael Fife
 
@@ -42,7 +43,6 @@ scenes:
 ---
 
 **Flee point:** (OOG) Door to mod shack/ (IG) Back to the entrance of the crypt
-
 
 
 

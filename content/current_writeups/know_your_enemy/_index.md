@@ -3,6 +3,8 @@ title: "Know Your Enemy"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
+day: friday
+
 Layout: module_review
 description: Balar delivers the intelligence that the Black Anvil company has gathered along with The Magic Bomb blueprints. Fear spreads through the town.
 author: Scott Bennett

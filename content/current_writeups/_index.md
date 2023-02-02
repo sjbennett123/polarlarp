@@ -3,13 +3,11 @@ title: "Current Writeups"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 4.1
-layout_event_overview
+layout: event_overview
 
 ---
 
-The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order. 
 
-{{% children depth="1" description="true"  sort="Weight" style="h3"%}}
 
 ---
 

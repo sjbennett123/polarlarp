@@ -3,8 +3,10 @@ title: "A Conversation in Darkness"
 date: 2022-11-10T10:33:21-05:00
 Layout: module
 draft: false
+day: saturday
 weight: 9.5
 layout: module_review
+
 description: "The Chosen one has been captured and is given an offer from the Dark Ones the lords of Morumbria."
 author: Chris Colland
 reviewer: Scott Bennett

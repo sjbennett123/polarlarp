@@ -3,6 +3,7 @@ title: "Fatal Warning"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 8
+day: saturday
 description: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading Surrender or Burn.
 ---
 

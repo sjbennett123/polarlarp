@@ -3,6 +3,8 @@ title: "The Ritual Of Fire"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9.0
+day: saturday
+Layout: module
 description: The time has come for the Ritual of Fire! The Bloody Fist have resorted to burning down the town of Stonewood after failed attempts to do to by hand. But during the ritual, something goes terribly unexpected…
 author: "Chris Colland"
 layout: module_review
@@ -40,5 +42,4 @@ scenes:
     ig: Makeshift Ritual Site of the Bloody Fist
     flee_point: This module is site/town wide
 ---
-
 

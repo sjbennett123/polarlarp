@@ -3,6 +3,7 @@ title: "Fears by Torchlight 2"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 7
+day: saturday
 description: "The Bloody Fist are becoming very desperate to burn this town ashes! If nothing works this time then they will invoke the Ritual of Fire, preparations have already begun but this is a chaotic ditch effort. Unlike last time, they already came into town with prisoners they intend to execute."
 ---
 
