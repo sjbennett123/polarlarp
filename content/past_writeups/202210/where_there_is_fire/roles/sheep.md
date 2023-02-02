@@ -5,12 +5,13 @@ draft: false
 weight: 10
 Layout: role
 quantity: 5
-
+introduction: A domesticated species that would not be able to survive in the wild. They are raised for their wool that is is spun into warm and reliable garments. 
+Body: 10 
 ---
 
-A domesticated species that would not be able to survive in the wild. They are raised for their wool that is is spun into warm and reliable garments. 
 
-**Body:** 10 
+
+
 
 **Weapons Attacks** Claws (1 Normal) 
 

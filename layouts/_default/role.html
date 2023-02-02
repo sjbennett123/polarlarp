@@ -1,4 +1,9 @@
 {{ partial "header.html" . }}
+{{ if .Params.description }}
+
+<div class="notices note"><p> {{ .Params.description  }}</p>
+</div>
+{{ end }} 
 
 <p><i>{{ .Params.introduction | markdownify }}</i></p>
 {{ .Content }} 
