@@ -1,7 +1,8 @@
 {{ partial "header.html" . }}
 
-The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order.
 <p><h2>Modules To Run</h2> 
+The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order.
+
 <h2>Friday</h2>
 {{ range sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
