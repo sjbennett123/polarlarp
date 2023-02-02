@@ -11,19 +11,22 @@ description: "The Chosen one has been captured and is given an offer from the Da
 author: Chris Colland
 reviewer: Scott Bennett
 requirements:
-  - The Chosen one has been captured or came willingly with the morumbrians during the ritual of fire
+  - The Chosen one has been captured or came willingly with the Morumbrians during the Ritual of Fire.
 Outcomes:
  - The Chosen one takes the deal and is given the Blessing of Morumbria
  - The Chosen one refuses the deal and is given the brand of Morumbria
-Hook: The Chosen one has been captured by the morumbrains. 
+Hook: The Chosen one has been captured by the Morumbrains. 
+Props: 
+- Scoll of the Blessing of Morumbria
+- metronone
+- rope lights for lighting
+
+Number_of_Cast_Members: 3
+
+Roles: The Dark One 3x 
 ---
 
-**Number of Cast Members**: 3
 
-**Roles**: The Dark One 3x 
-
-**Props**: Scoll of the Blessing of Morumbria, metronone
-
-**Scene 1**:  (OOG) Mod Shack or all cabin with only rope lights for lighting, Murumbrian Glowing Eyes and robes /w no weapons. Before the players is a table with a slowly ticking metronome and the scroll of the blessing of morumbria in front of them. 
+**Scene 1**:  (OOG) Mod Shack or all cabin with only , Murumbrian Glowing Eyes and robes /w no weapons. Before the players is a table with a slowly ticking metronome and the scroll of the blessing of morumbria in front of them. 
 
 **Flee Point**: The only way to escape is death or to accept the deal. 
