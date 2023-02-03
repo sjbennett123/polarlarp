@@ -37,7 +37,7 @@ If you wish to help, I can be found at my home at most times [directions]
 
 -Granny Linda Glynhall
 
-​	If the PCs decide to go to Granny's house **[module HELP WANTED]**, Granny will greet them in a friendly manner. Granny has never met a stranger, and loves everyone. Conversation can include anything written in her history, information about her grandson that she would know, the orc occupation and how she did through it, hobbies, her baking, her book, her home, etc. When all information has been relayed and/or the PCs wish to leave, Granny will see them to the door and wish them a lovely day!
+​	If the PCs decide to go to Granny's house  [HELP WANTED]({{< ref "../help_wanted" >}} "[help_wanted"), Granny will greet them in a friendly manner. Granny has never met a stranger, and loves everyone. Conversation can include anything written in her history, information about her grandson that she would know, the orc occupation and how she did through it, hobbies, her baking, her book, her home, etc. When all information has been relayed and/or the PCs wish to leave, Granny will see them to the door and wish them a lovely day!
 
 ​	If the PCs track Charlie using CRAFTSMAN SKILL: OTHER [Level 1] , they will track him back to the cache of the Felhand, where he is standing guard. **[module YOU FOUND CHARLIE]** If the PCs don't seek to find him, or if the module HELP WANTED isn't completed, [within 2 hours of visiting Granny or after 12pm Saturday] Charlie will turn up in the tavern with his bottle being an asshole. **[module OPERATION FIND CHARLIE]** He is unarmed. He taunts the PCs to the point of confrontation, but before it comes to blows or duels, Charlie makes a deal. He'll give the group a map to a treasure cache if they pay his tab and let him go. He hands a crude map to the group, and he runs off before anyone can change their mind. If it does come to a fight, and he is beaten down, the map is the only thing found on his person.
 
@@ -68,7 +68,6 @@ They need to stay out of this if you know what's good for you.
 ​	If the PCs allow Charlie to take the gold to the spot, alone, Granny will be seen wandering into town unharmed, minus the finger, after the mod is completed. 
 
 ​	If the PCs allow Charlie to take the gold but follow, set up an ambush, set up a trap, try to negotiate, make a trade, just refuse to pay, or in anyway make themselves known to the waiting Felhand, they will attack. They will fight until there are three left, and the rest will run. If any are able to run, and any make it back to Granny they will kill her. If none make it back, and Granny is tracked, she is returned unharmed. Charlie will suggest someone track her if no Felhand make it back and the Felhand were not questioned before killing them. If a Felhand member is questioned, they will give up the location of Granny under threat of death or torture. Once, and if, Granny is found, she returns to her home with Charlie.
-
 
 
 
