@@ -60,20 +60,22 @@ The modules below are in the order that we intend to run them in. Many of them a
 {{ end }}
 
 <h3>Saturday</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "saturday" }}
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "saturday" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 
 <h3>Reaction</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "reaction" }}
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "reaction" }}
       <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 
 <h3>Modules for Review</h3>
 {{ range (where .Pages "Layout" "module_review") }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end }}
 
+{{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
+{{ end  }}
 
 {{ if .Pages }} 
 {{ .Content }} 

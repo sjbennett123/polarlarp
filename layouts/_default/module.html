@@ -88,6 +88,108 @@
 
 {{ .Content }} 
 
+{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors }}</p></div> {{ end }} 
 
+{{ if .Params.reviewer  }} 
+{{ else }} 
+<!--Tooltip Scripts & Settings-->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+
+<script>
+tippy('#brief',{ 
+  content: 'This is a one or two sentence description of the module. Don’t put any mystery in here be as simple and direct as possible.',});
+</script>
+
+<script>
+tippy('#requirements',{ 
+  content: 'The conditions that need met for the module to be ran. If the module needs run at night or must be ran after another module.',});
+</script>
+
+<script>
+tippy('#synopsis',{ 
+  content: 'This is the meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the writeup will make it really shine but you will need to spell it out here. "',});
+</script>
+
+<script>
+tippy('#outcomes',{ 
+  content: 'The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle.',});
+</script>
+
+<script>
+tippy('#roles',{ 
+  content: 'These are the different roles that the cast members will be playing for the encounter. Each role will be given the module sheet and the role card. Remember that the Hook needs a role card too.',});
+</script>
+
+<script>
+tippy('#running_notes',{ 
+  content: 'This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.',});
+</script>
+
+
+<script>
+tippy('#non_standard_effects',{ 
+  content: 'Anything that does not conform to the NERO rules will go here. These deviations will be detailed at the start of the module.',});
+</script>
+
+<script>
+tippy('#rules_clarifications',{ 
+  content: 'What rules are heavily used on the encounter that would do with some clarification.',});
+</script>
+
+
+<script>
+tippy('#treasure',{ 
+  content: 'Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about.',});
+</script>
+
+<script>
+tippy('#transforms',{ 
+  content: '"Do transforms go up? Which ones?',});
+</script>
+
+<script>
+tippy('#scenes',{ 
+  content: 'List out all of the scenes that will be used in the module. If there is a cave with 5 rooms write out 5 scenes. Detail any setup that is needed. Detail both the Out of Game setup that is needed as well as what the scene is in the game. Possibly give a description that the runner can read as box Text. Don’t detail the Tavern or The Town as a scene. It is assumed that part of the module will interact with the players that are away from the module area due',});
+</script>
+
+<script>
+tippy('#rumors',{ 
+  content: 'the key to a good story',});
+</script>
+
+<script>
+tippy('#hook',{ 
+  content: 'This is how the players get on the module. All modules need a hook of some sort even if its the players find an Adventure Card in the woods or the players tell the game master that they are going to the Forgotten City.',
+  arrow: true,
+
+  });
+   
+</script>
+
+
+<script>
+tippy('#number_of_cast_members',{ 
+  content: 'Give a range. The fewer cast members that CAN run a module the better dont get too ambitious and write a module that requires 10-15 NPCs. Often you will have mooks that will be able to be added to a scene to flesh it out.',
+  arrow: true,
+  });
+</script> 
+
+<script>
+tippy('#craftsman_information',{ 
+  content: 'Craftsman Information',
+  arrow: true,
+  });
+</script> 
+
+<script>
+tippy('#props',{ 
+  content: 'list the props',
+  arrow: true,
+
+  });
+</script> 
+
+{{ end }} 
 
 {{ partial "footer.html" . }}

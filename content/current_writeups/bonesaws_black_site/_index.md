@@ -5,6 +5,7 @@ draft: false
 day: reaction
 layout: module
 author: Chris Colland
+reviewer: Scott Bennett
 description: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
 Outcomes: 
  - PCs come rescue the captured and defeat Bonesaw or flee from him.   
