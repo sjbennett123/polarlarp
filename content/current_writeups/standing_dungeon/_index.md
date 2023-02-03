@@ -3,6 +3,7 @@ title: "Stonewood Standing Dungeon"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 5
+layout: module
 day: saturday
 
 description: Opening of Mausoleum of Fallen Heroes Living Dungeon

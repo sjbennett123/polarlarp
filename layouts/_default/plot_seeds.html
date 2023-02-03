@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+
+<h2>THE SEEDS</h2> 
+<hr>
+{{ range  .Params.plot_seeds |shuffle }}
+  <p> {{ . }}</p>
+{{ end }}
+
+{{ partial "footer.html" . }}
