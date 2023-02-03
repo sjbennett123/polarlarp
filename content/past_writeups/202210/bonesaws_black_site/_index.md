@@ -2,7 +2,7 @@
 title: "Bonesaw’s Black Site"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-layout: module_review
+layout: module
 day: reaction
 
 author: Chris Colland

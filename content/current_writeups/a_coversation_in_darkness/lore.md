@@ -1,3 +1,7 @@
+---
+title: "The Need for the Chosen One"
+---
+
 Ritual of Fire: [Lore} The Need for the Chosen One
 
 They inform the Chosen One they need a tie here for the Hoyleans might win in the future and come back to this point in time as corrupted Light zealots (this is the reason that Hoyle here was destroyed so easily, the war in the future summoned them all away 3 years ago)

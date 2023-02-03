@@ -2,7 +2,7 @@
 title: "Return of the Planeswalker"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-Layout: module_review
+Layout: module
 day: friday
 author: Mike Fife
 weight: 2

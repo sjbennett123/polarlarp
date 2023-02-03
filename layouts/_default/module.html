@@ -38,6 +38,15 @@
 {{ end }}
 </p></div>
 
+<div id="misc"><p><b>Misc:</b>
+{{ if .Params.misc }}{{ .Params.misc }}{{ end }} 
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "!=" "role" }}
+            <a href="{{.Permalink}}">{{.Title}} </a>
+    {{ end }}
+{{ end }}
+</p></div>
+
 <div id="props"> <p><b>Props: </b> 
 {{ if  .Params.props }} {{ delimit  .Params.props ", " |  }} {{ end }}
 {{ if .Pages }} 

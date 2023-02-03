@@ -5,7 +5,7 @@ Layout: module
 draft: false
 day: reaction
 weight: 9
-layout: module_review
+layout: module
 
 description: "The Chosen one has been captured and is given an offer from the Dark Ones the lords of Morumbria."
 author: Chris Colland

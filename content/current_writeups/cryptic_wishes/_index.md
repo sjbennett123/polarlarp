@@ -4,7 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 8
 day: friday
-layout: module_review
+layout: module
 author: Michael Fife
 
 description: A treasure hunter has found a crypt of an old Dwarven noble and wishes to bring a group of adventurers with him in case there are any dangers that need cleared. They don't know the crypt holds a secret in it's lowest depths!
