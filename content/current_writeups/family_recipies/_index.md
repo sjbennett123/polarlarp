@@ -16,6 +16,8 @@ The grandson of Granny Glynhall, has always had his problems. He's not to bright
 
 ### The Felhand
 
+![/fellhand.jpg](/fellhand.jpg)
+
 The **Felhand** follow the adventurers like rats, feeding off of the scraps left behind when they leave a place. The loot is less, but the chances of being caught are slim in the chaos that happens after a Market Day. And if someone turns up dead, well, maybe they were killed during the Market? Who's to say? 
 
 ## Overview
