@@ -51,7 +51,7 @@
 {{ if  .Params.props }} {{ delimit  .Params.props ", " |  }} {{ end }}
 {{ if .Pages }} 
     {{ range where .Pages ".Params.Layout" "role" }}
-           {{ .Params.costuming | default ""}}
+           {{ .Params.props | default ""}}
     {{ end }}
 {{ end }}
 </p></div> 
@@ -60,7 +60,7 @@
 {{ if  .Params.makeup }} {{ delimit  .Params.makeup ", " |  }} {{ end }}
 {{ if .Pages }} 
     {{ range where .Pages ".Params.Layout" "role" }}
-           {{ .Params.props | default ""}}
+           {{ .Params.makeup | default ""}}
     {{ end }}
 {{ end }}
 </p></div> 
