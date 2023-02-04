@@ -2,29 +2,42 @@
 title: "To Ward off Famine"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
+weight: 2
 day: saturday
 layout: module
-
+author: Chris Colland
+reviewer: Scott Bennett
 description: The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
+Requirements: 
+ - Saturday Afternoon
+ - Bloody Fist have come to town in the morning
+Synopsis: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again. The Granary wont feed Bloody Fist Uruks but it will make for a good place to poison the townfolk from. The Bloody Fist are trying to poison the grain supply in Stonewood so they will have nothing to eat by winter. The Scouts aren’t particularly invested in dying here so if things get out of hand they can all just flee if overwhelmed. If fleeing occurs, they mod will continue in the streets of Stonewood till Scouts are all killed. 
+Outcomes: 
+ - The Granary is cleared out of Bloody Fist Scouts and the poisoned food is not released to the Town of Stonewood. The poison is not particularly lethal but is rather an addictive substance that would make it hard to stop eating Grain until there is none left.
+ - The grain reserves of the town of Stonewood are poisoned, the populace they will starve themselves this winter. This is detailed in the section “Binge and Purge” 
+Rumors: > 
+  The monsters have been seen around the Granary at night. They don’t take anything with them when they leave but I have not a clue what they are doing. Could be hiding something or just hungry. Very weird behaviors for what I assume to be an Orc of some type.
+
+  ~ Black Leaf, The Anvil Remembers Stonewood
+Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
+Number_of_Cast_Members: 5
+
+Props: 
+ - Anything food related
+Treasure: 
+ - Gems
+ - Evaluate Items
+ - Coins
+scenes: 
+  - 
+    oog: Mod Shack setup like a warehouse. the first room has 4 Bloody Fist Scouts sitting around
+    ig:  Granary of Stonewood
+    flee_point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
+  - 
+    oog: Mod Shack setup like a warehouse. the second room won’t be triggered till the PCs open the door. Room 2 is more of an ambush; PC will exit mod shack and “loop” around the door to the back room where they will face another 4 Bloody Fist Scouts.
+    ig:  Granary of Stonewood
+    flee_point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
 ---
 
-P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
 
-P.52 Forged by Broken Hands (Forge): The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
 
-P.60 The Lumber Job: (Lumbermill): The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood
-
-P.68 Gilded Halls of Stonewood (Guild Hall): A disagreement over the Guild Halls treaty is stumbled in upon by the PCs, as they arrive, they hear the scream of a dwarf who has just been killed. The treaty has been broken and the Guild Hall will be ransacked.
-
-P.78 A Stout for Legends (Brewery): The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
-
-P.90 Broken, Beaten and Scarred (Barracks): The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
-
-P.102 Rage for Order (Town Hall): The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
-
-P.114 Strange Alchemy (Alchemist Lab): The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
-
-P.124 Holy Thunderforce (Scholars Guild): The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
-
-P.132 Unholy Warcry (Mausoleum): The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.

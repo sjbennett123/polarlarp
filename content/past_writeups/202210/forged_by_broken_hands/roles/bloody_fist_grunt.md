@@ -4,6 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
 Layout: role
+quantity: 2
 introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee in terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
 reset: 3 times each.
 body: 70
@@ -36,8 +37,10 @@ movement: Forceful and with purpose. Don't slouch or stoop show your might.
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 makeup: 
   - Bloody Fist Makeup
-
+reset: Once all enemies are killed in the main room of the Forge, they will regroup outside and come back in as a group to investigate the “noises” as their 1 reset to simulate another wave.
 ---
+
+The 2 Bloody Fist Grunts are attempting to forge something to take back.
 
 
 

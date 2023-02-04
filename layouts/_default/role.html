@@ -54,7 +54,7 @@
 <p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p>
 {{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }}
 {{ if .Params.speech }}<p><b>Speech:</b> {{ .Params.speech }}</p> {{ end }}
-{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics }}</p> {{ end }} 
+{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics |markdownify}}</p> {{ end }} 
 {{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
 {{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
 {{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{ delimit .Params.descriptive_phrase ", " }}</p>{{ end }} 

@@ -36,7 +36,7 @@ movement: Forceful and with purpose. Don't slouch or stoop show your might.
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 makeup: 
   - Bloody Fist Makeup
-
+reset: The NPCs will rest 2 times upon death and come from other parts of the Lumbermill to defend. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. 
 ---
 
 

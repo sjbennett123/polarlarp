@@ -15,6 +15,8 @@
 </div>
 {{ end }}
 
+<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify }}</p></div>
+
 
 <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p></div>
 
@@ -76,7 +78,7 @@
 
 {{ if  .Params.treasure }} <div id="treasure"> <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div> {{ end }} 
 
-{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors }}</p></div> {{ end }} 
+{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify}}</p></div> {{ end }} 
 
 <div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 
 
