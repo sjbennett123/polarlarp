@@ -10,11 +10,10 @@ author: Stephen Dupree
 reviewer: Scott Bennett
 
 description: "A chimera has been planted in a herd of sheep and has  shapeshifted into one of the sheep. It is plucking them off when hungry. "
-
+Background: The brothers Repman are both shepards and assholes. They are famous for the quality of their wool but will often "Alter the Deal” when they are about to actually make the sale. Several months ago they were commissioned to make a cloak for a powerful but capricious wizard. Their normal plan of adding "fees" to the sale after the fact did not go well... at all. The wizard paid the price but planted a seed of a young chimera that he knew would terrorize the shepards but he would be long gone by the time it hatched and terrorized them.
 synopsis:   >
-  A seemingly rogue Will-O-Wisp is wandering around town after players start settling in for the night after dealing with The Changed Ones. This Will-O-Wisp has an agenda unlike most Will-O-Wisps floating around the lands at night. The Will-O-Wisp has a magical tree it calls home with its fellow Wisps, but Hessol Korag the Vampire has threatened to destroy this tree with a Cold Iron Axe if the Wisps do not do its bidding. 
-  The Will-O-Wisps wander around the outskirts and into town trying to gather as many people as possible to lure to Hessol Korag’s blood feast. The self-proclaimed Vampire Prince Hessol has been working on replenishing his feeding stock and with a huge disruption in town with fresh blood he plans to do just that!  
-  Once the Will-O-Wisps have lured enough people away by their presence or by Arcane Charming them and commanding them to “Follow Me” the Wisps will return to Hessol with his newly converted Ghouls to feast upon them after a fresh bite. Hessol and the 5 Ghouls are waiting in an ambush near unused cabins down the other side of town for the new arrivals to the blood feast. 
+  Adventure begins as a young shepherd, Bernhart Repman, comes into town. The shepherd is looking to recruit some moderately experienced adventurers to tackle a problem that he had come across. His flock keeps disappearing slowly leaving a bloody mess in the morning where one of his sheep had been. He heard no noise like a wolf would make, so he is perplexed. He will lead the adventurers out to his fields... where his brother, Symon Repman, was watching the sheep, and he will show them a sheep that was torn apart last night. 
+There are sheep milling about. When the adventurers spread out or search for the reason for the sheep’s demise, the sheep will try to be friendly to the PC’s and eventually, a Chimera will lead an adventurer off and transform to attack a weak looking adventurer. When the Chimera shows it's true form, the sheep will be terrified and try to hide by snuggling the adventurers.
 number_of_cast_members: 8
 props: 
   -  Remnants of Chimera egg with the rune of the wizard on it

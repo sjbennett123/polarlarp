@@ -12,7 +12,7 @@ reviewer: Scott Bennett
 Requirements: 
  - Saturday Afternoon 
  - Broken Beaten Scarred module has been run
-Synopsis: The Bloody Fist have slaughtered the Town Hall council of Stonewood! The Mayor is no where to be found, that sniveling coward fled as his Council was butchered for now bowing down. The Raid Leader Ar’nox claims to be the new Mayor of Stonewood when the players approach. If word gets out this happened panic will be incited into the town and fear will spread quickly. To make worse they brought the Council back from the dead!!!!
+Synopsis: The Bloody Fist have slaughtered the Town Hall council of Stonewood! The Mayor is no where to be found, that sniveling coward fled as his Council was butchered for not bowing down. The Raid Leader Ar’nox claims to be the new Mayor of Stonewood when the players approach. If word gets out this happened panic will be incited into the town and fear will spread quickly. To make worse they brought the Council back from the dead!!!!
 Outcomes: 
  - The Bloody Fist are defeated and cleared from the Town Hall. More importantly, the Townsfolk of Stonewood don’t hear a Bloody Fist was appointed Mayor of their town! This is about covering up false rumors.
  - The Bloody Fist Parade through the town claiming the long reign of Ar’Nox, the new Mayor of Stonewood. The citizens will come out of hiding after the Bloody Fist leave mad at the PCs for letting this happen and blame the Mayor for appointing them, total chaos in the town.
