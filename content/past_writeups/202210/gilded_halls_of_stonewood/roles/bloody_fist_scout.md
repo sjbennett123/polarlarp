@@ -4,6 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
 Layout: role
+quantity: 2
 introduction: >
   You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead. 
 

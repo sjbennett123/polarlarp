@@ -6,6 +6,7 @@ layout: module
 day: reaction
 
 author: Chris Colland
+reviewer: Scott Bennett
 description: Captured adventurers have been taken to a Bloody Fist Black Site with a cruel taskmaster, Jiren “Bonesaw” the Jailor for torture and possible sacrifice depending on the jailor’s mood.
 Outcomes: 
  - PCs come rescue the captured and defeat Bonesaw or flee from him.   
@@ -31,7 +32,6 @@ scenes:
     oog: Outside Camp Rep or Mod Shack (IG) Site
     ig: Bloody Fist Black 
     flee_point: Exit of Black Site or Door of mod shack (IG) Road back to Town
-Roles: Jiren “Bonesaw” the Jailor, Bloody Fist Grunt x4, Bloody Fist Shaman x2
 Number_of_Cast_Members: 7
 ---
 

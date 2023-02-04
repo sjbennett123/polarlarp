@@ -22,7 +22,6 @@ Rumors: >
   ~ Black Leaf, The Anvil Remembers Stonewood
 Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of lower to mid seasoned adventures.
 Number_of_cast_Members: 8
-Roles: Bloody Fist Scout x2, Bloody Fist Grunt x4, Balor Ironleaf, Corpse of Marin
 Props: 
  - Anything to represent a Guild Hall, Workstations, Crafts, Potions, Corpse of Marin
 Treasure: 

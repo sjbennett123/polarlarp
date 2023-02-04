@@ -4,6 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
 Layout: role
+quantity: 4
 introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee in terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
 reset: 3 times each.
 body: 70
