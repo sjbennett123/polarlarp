@@ -86,9 +86,9 @@ The modules below are in the order that we intend to run them in. Many of them a
 <h2>Treasure</h2> 
 <h3>Magic Items</h3> 
 <h4>Quotas</h4> 
-<p>two_year_up_to_five_effect_magic_item_total/two_year_up_to_five_effect_magic_item_limit  -- up to Two Year up to Five Effect Magic Items One per 25 Players</p>
-<p>one_year_up_to_five_effect_magic_item_total/one_year_up_to_five_effect_magic_item_limit   -- up to One Year up to Five Effect Magic Items------ One per 10 Players </p>  
-<p>one_year_two_time_ver_effect_magic_items_delimited_to_15th_level_or_below_total/one_year_two_time_ver_effect_magic_items_delimited_to_15th_level_or_below_limit -- up to One Year Two Time Ever Effect Magic Items Delimited to 15th level or below </p>
+<p>{{ .Params.two_year_up_to_five_effect_magic_item_total | default ""}} /{{ .Params.two_year_up_to_five_effect_magic_item_limit | default ""}}  -- up to Two Year up to Five Effect Magic Items One per 25 Players</p>
+<p>{{ .Params.one_year_up_to_five_effect_magic_item_total  | default ""}}/{{ .Params.one_year_up_to_five_effect_magic_item_limit | default ""}}   -- up to One Year up to Five Effect Magic Items------ One per 10 Players </p>  
+<p>{{ .Params.one_year_two_time_ver_effect_magic_items_delimited_to_15th_level_or_below_total  |default ""}}/{{ .Params.one_year_two_time_ver_effect_magic_items_delimited_to_15th_level_or_below_limit | default ""}} -- up to One Year Two Time Ever Effect Magic Items Delimited to 15th level or below </p>
 <h4>2 Year Item (x1)</h4>
 <p>One per 10 Players </p>
 <h4>Sword of Zealous Light</h4>
@@ -107,7 +107,9 @@ The modules below are in the order that we intend to run them in. Many of them a
 <h2>Makeup</h2> 
 
 
-<h2>Costuming</h2> 
+<h2>Costuming</h2>
+<b>Deduplicate the list</b>
+
 {{ range (.Pages.GroupBy "Section") }}
    {{ range .Pages }}
 
@@ -128,6 +130,7 @@ The modules below are in the order that we intend to run them in. Many of them a
 <h2>Props</h2> 
 
 <b>Add props that are not on roles. Right now we only get the props on the role cards.</b>
+<b>Deduplicate the list</b>
 
 {{ range (.Pages.GroupBy "Section") }}
    {{ range .Pages }}

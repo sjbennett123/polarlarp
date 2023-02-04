@@ -2,29 +2,66 @@
 title: "Unholy Warcry"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
+weight: 11
 day: saturday
 layout: module
 
+
 description: The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+author: Chris Colland
+Reviewer: Scott Bennett
+Running_Notes:  The Mausoleum is the final module in the Reclaiming Stonewood Arc. This module will be very challenging for the players. The Vampire Lord must be killed with a Stake of Woe or he will take his death count and respawn at Night. The status effects will be brutal on this module. The Death Knights will be Killing Blow Active should they have a chance to raise more Undead. The Vampire Lord will try to Arcane Vampire Charm PCs so kill their friends. The Abominations are shock troops, they will rush and try to kill who they can. The Death Knights Will rest 2 times and the Undead Abominations will reset 4 times. This module is designed for seasoned adventurers or the town to help. 
+Requirements: 
+ - Saturday Afternoon
+ - Holy Thunderforce module has been run
+Synopsis: The Bloody Fist have raised all forms of Undead Abominations for the PCs to deal. Balor Ironleaf comes stumbling into ground beat up and with Tainted Blood from trying to stop them himself. The Bloody Fist have completely abandoned the Mausoleum, Balor’s magic will only hold them in for a short while so the PCs must act quickly to hit them before they overflow to the city
+Outcomes: 
+- The Undead Abominations are defeated, and the corpses are returned to rest in their tombs. No citizens are harmed 
+- The Undead Abominations overflow from the Mausoleum and start infecting the Townsfolk who remain. The Townsfolk will start changing into Undead at Sunset and attack the town till they are killed. This is detailed in the section “A Terrible Night to Have a Curse”
+Rumors: > 
+  The Mausoleum of Fallen Heroes in Stonewood has seen too many visitors for my liking as of late. They appear to be Dwarves but some larger cloaked figures are among them. I could just be paranoid but something in my years or service to Stonewood tells me something is afoot. Stones help us if it is what I think is happening comes true
+
+  ~ Black Leaf, The Anvil Remembers Stonewood
+Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of powerful adventures.
+Number_of_Cast_Members: 11
+Roles: Dwarven Vampire Lord, Dwarven Death Knight x4, Dwarven Undead Abominations x5, Balor Ironleaf
+Props: 
+ - Anything to represent a Mausoleum
+ - graves
+ - bones
+ - skeletons
+ - Fog (if available)
+ - Low ambient lighting and Rope Lights
+Treasure: 
+ - Gems
+ - Evaluate Items
+ - Coins
+ - Potions of Cure Light Damage
+ - Potions of Purify Blood
+ - Components
+ - Magic Item Amulet of Destroy Undead 2/day x1
+scenes: 
+  - 
+    oog:  Mod Shack setup like a Mausoleum (IG)
+    ig:  Mausoleum of Fallen Heroes in Stonewood
+    flee_point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
 ---
 
-P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
 
-P.52 Forged by Broken Hands (Forge): The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
 
-P.60 The Lumber Job: (Lumbermill): The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood
 
-P.68 Gilded Halls of Stonewood (Guild Hall): A disagreement over the Guild Halls treaty is stumbled in upon by the PCs, as they arrive, they hear the scream of a dwarf who has just been killed. The treaty has been broken and the Guild Hall will be ransacked.
 
-P.78 A Stout for Legends (Brewery): The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
 
-P.90 Broken, Beaten and Scarred (Barracks): The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
 
-P.102 Rage for Order (Town Hall): The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
 
-P.114 Strange Alchemy (Alchemist Lab): The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
 
-P.124 Holy Thunderforce (Scholars Guild): The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
 
-P.132 Unholy Warcry (Mausoleum): The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+
+
+
+
+
+
+
+
+

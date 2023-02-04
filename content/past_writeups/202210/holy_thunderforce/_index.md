@@ -5,26 +5,60 @@ draft: false
 weight: 10
 day: saturday
 layout: module
+author: Chris Colland
+reviewer: Scott Bennett
 
 description: The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
+Requirements: 
+ - Saturday Afternoon
+ - Strange Alchemy module has been run
+Synopsis: The Bloody Fist have control of the Stonewood Scholars Guild. This was the biggest setback in terms of casaulties the Bloody Fist suffered thus far. Most of the troops in here now are casters and the undead scholars who fell during the fighting. The Bloody Fist is desperate, they have created a horde of undead since only their Shamans remain.
+Outcomes: 
+ - The Bloody Fist are defeated and cleared from the Scholars Guild. Stopping them allows the remaining Scholars to return and care for the dead
+ - The Bloody Fist butcher any survivors and take all the formal magic scrolls/tomes/books/magic items they can find back to camp to redistribute.
+Rumors: > 
+  The Scholars Guild of Stonewood has seemed to be doing the best they have in months; surprising considering our situation here. They are working under the table to heal wounded soldiers and travelers. The celestial scholars have been offering protectives for the citizens if they have been attacked lately. They must be close to kicking the keg. I don’t know how they are doing so well with so few.
+
+  ~ Black Leaf, The Anvil Remembers Stonewood
+Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
+Number_of_Cast_Members: 10
+Roles: Bloody Fist Shaman x4 (2 Celestial, 2 Earth), Undead Scholars x5, Balor Ironleaf
+treasure: 
+ - Gems
+ - Evaluate Items
+ - Coins
+ - Potions of Cure Light Damage
+ - Potions of Poison Shield
+ - Components
+ - Magic Item: Gem of Circle of Power 1/day x1
+Props: 
+  - Anything to represent Scholars Guild, 
+  - books
+  - scrolls
+  - feathers
+  - spell components 
+  - broken trinkets
+  - wands
+  - robes
+Running_Notes: The Scholars Guild is a mess of a fight, there are no grunts to protect the scholars so it’s a big spell bash. The Undead Scholars pick either Earth or Celestial (divide evenly) and just go to town, protecting themselves by any means. Use AS MANY Create Undead if PC die. Undead Scholars reset 1 time in first room and 2 times in second room. The Shamans will reset ONCE in second room. Second room uses the “loop around” mechanic. Shaman should focus on healing and disabling PCs with status effects. Celestial shaman should blow the players up with blasts. Remember Shamans can Rift on 3 count. Keep the Undead up at all costs because they are your only protection since the Scholars guild killed the Grunts. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for more seasoned adventurers
+scenes: 
+  - 
+    oog: Mod Shack setup like a Alchemy Lab represents several rooms and uses the loop around
+    ig: Alchemy Lab of Stonewood
+    flee_point: (OOG) Door of mod shack (IG) Back to the streets of Stonewood
 ---
 
-P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
 
-P.52 Forged by Broken Hands (Forge): The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
 
-P.60 The Lumber Job: (Lumbermill): The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood
 
-P.68 Gilded Halls of Stonewood (Guild Hall): A disagreement over the Guild Halls treaty is stumbled in upon by the PCs, as they arrive, they hear the scream of a dwarf who has just been killed. The treaty has been broken and the Guild Hall will be ransacked.
 
-P.78 A Stout for Legends (Brewery): The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
 
-P.90 Broken, Beaten and Scarred (Barracks): The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
 
-P.102 Rage for Order (Town Hall): The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
 
-P.114 Strange Alchemy (Alchemist Lab): The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
 
-P.124 Holy Thunderforce (Scholars Guild): The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
 
-P.132 Unholy Warcry (Mausoleum): The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+
+
+
+
+

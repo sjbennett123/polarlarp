@@ -11,7 +11,7 @@ race: Stonewood Dwarf
 props:
  - Mug
 costuming: 
- - Dwarf Beard, 
+ - Dwarf Beard
  - Tattered commoners clothing
 introduction: You are such a miserable and greedy Dwarf it cost you everything. Your inheritance was wasted on gambling and drinking. You were once a great jeweler of the days of old. No one could find a gem and care for it like Thorum Fairoak. One day you bet it all on a game of dice and lost everything. You never found out that the game was rigged from the start but out of fear of blackmail for your failing you were force into silence. Many years have passed by this time, but you don’t care about that life anymore. Only thing that suits you now is a pint of brew and starting at the ladies, maybe a roll of the dice here and there.
 ---

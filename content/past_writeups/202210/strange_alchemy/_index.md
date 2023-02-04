@@ -2,29 +2,45 @@
 title: "Strange Alchemy"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
+weight: 9
 day: saturday
 layout: module
 
 description: The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
+Running_Notes: The Alchemy Lab of Stonewood is a crucial part of its defense against the hordes of night creatures. This module is a LITERAL bullet hell! When they are engaged and the Revenants rise from the ground, Orange packets will fly in mass! The NPCS are waiting on them for this one in ambush style. Grunts and Undead Alchemist reset 3 times each. The Shamans will reset ONCE. Grunts should form a wall to take PC packets and protect the NPC casters. Shaman should focus on healing and disabling PCs with status effects. Celestial shaman should blow the players up with blasts. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for more seasoned adventurers or mid-range adventurers with veterans tagging along.
+author: Chris Colland
+reviewer: Scott Bennett
+Requirements: 
+ - Saturday Afternoon 
+ - Broken Beaten Scarred module has been run
+Synopsis: The Bloody Fist have control of the Stonewood Alchemy lab and trouble is literally brewing. The Shamans have resurrected the 5 top Guild Alchemists as Undead Revenants. They died protecting the secrets so now they will serve in undeath more loyally.
+Outcomes: 
+ - The Bloody Fist are defeated and cleared from the Alchemy Lab, the Bloody Fist are not resupplied with new Alchemy potions and gases 
+ - The Bloody Fist take as much Alchemy and Gases as they can carry! The remainder of the weekend, random Blood Fist will be able to throw Gas Globes and drink potions to boost their stat cards. This is detailed in the section “Orcish Alchemy"
+Rumors: > 
+  The Alchemists of Stonewood have been under duress with gathering and production for a month now. This has the people on edge as Winter rapidly approaches. They complain about their supplies going missing or being assaulted for their herbal pickings in the woods. I hope this is from brigands, but they seem to be something not human from the scars they return with.
+
+  ~ Black Leaf, The Anvil Remembers Stonewood
+Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
+Number_of_Cast_members: 11
+Roles: Bloody Fist Grunt x3, Bloody Fist Shaman x2 (1 Cel 1 Earth), Undead Alchemist x5, Balor Ironleaf
+Props: 
+ - Anything to represent an Alchemy Lab, bottles, potions, liquids, vials, herbs, flipped over tables for cover to throw from
+Treasure: 
+  - Gems, Evaluate Items, Coins, Potions of Purify Blood, Components
 ---
 
-P.44 To Ward off Famine (Granary): The Granary of Stonewood has been besieged by Bloody Fist scouts! They don’t seem terribly interested in the Grain but something else is happening in that building besides just eating….
 
-P.52 Forged by Broken Hands (Forge): The Forge is a central part of Stonewood, without the metalworking of this town would vanish and an art would be lost. If the Bloody Fist learn the secrets of Stonewood Metallurgy, it will very dangerous indeed for the townsfolk
 
-P.60 The Lumber Job: (Lumbermill): The Bloody Fist are loading up the carts with Stonewood cut Lumber to take back to their masters. They started demanding this after they tortured enough of the Cutters guild and found its true properties. Whispers of Ballista’s made from Stonewood
 
-P.68 Gilded Halls of Stonewood (Guild Hall): A disagreement over the Guild Halls treaty is stumbled in upon by the PCs, as they arrive, they hear the scream of a dwarf who has just been killed. The treaty has been broken and the Guild Hall will be ransacked.
 
-P.78 A Stout for Legends (Brewery): The Bloody Fist have taken the main brewery of Stonewood! Without it the townsfolk won’t be able to suffer the occupation without strong brews and spirits. A Raid Leader took a group of Bloody Fist into the Brewery to drink it dry!
 
-P.90 Broken, Beaten and Scarred (Barracks): The Bloody Fist have taken the Stonewood Barracks by storm! The remaining soldiers have been killed, surrendered, or fled the Barracks. The few who stood and fought now lay dead on the floor around them awaiting final death’s judgement at the gates of the Graveyard.
 
-P.102 Rage for Order (Town Hall): The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.
 
-P.114 Strange Alchemy (Alchemist Lab): The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.
 
-P.124 Holy Thunderforce (Scholars Guild): The Bloody Fist have taken the Scholars Guild. Bodies lie among the halls of the Scholars guild from a fierce battle but in the end the Bloody Fist were too much.
 
-P.132 Unholy Warcry (Mausoleum): The Bloody Fist have taken Mausoleum of Fallen Heroes in Stonewood. They have left a mess of Undead abominations behind to fight as a final insult to the Stonewood citizens.
+
+
+Magic Item: Ring of Poison Shield 2/day x1
+Scene 1: (OOG) Mod Shack setup like a Alchemy Lab (IG) Alchemy Lab of Stonewood
+Flee Point: (OOG) Door of mod shack (IG) Back to the streets of Stonewood

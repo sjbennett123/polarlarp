@@ -2,7 +2,7 @@
 title: "A Stout for Legends"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
+weight: 6
 day: saturday
 layout: module
 
