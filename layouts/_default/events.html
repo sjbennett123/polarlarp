@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+
+<p>We want to provide the best LARPing experience possible, as often as possible. Please register now…. It’s going to be a great event!!!!</p>
+
+<p>Event Registration closes the week before an event on Friday.</p>
+<h2>Upcoming Events</h2>
+{{ range  .Params.events  }}
+<h4> {{ .date }} </h4>
+<p><b>Event Type:</b> {{ .type }} </p>
+<p><b>In Game Location:</b> {{ .ig_location }}    </p>
+<p><b>Campsite:</b> {{ .oog_location }}    </p>
+<p><b>Event Director:</b> {{ .event_director }}    </p>
+<p><b>Registration Deadline:</b> </p><!--January 1 Every person must prepay there is no option to pay on site. -->
+<p><b>PC Onsite:</b>   </p><!--January 14 , 10 AM-->
+<p><b>Game Start:</b>   </p><!--January 14, 12 PM-->
+<p><b>Game End:</b>   </p><!--January 14, 5 PM-->
+<p><b>PC Offsite:</b>    </p><!--January 14, 7 PM-->
+
+
+{{ end }} 
+{{ .Content }} 
+
+<h2>Fees</h2>
+
+<h2>Weekend Events</h3>
+
+<li>$60.00 for the weekend for players 18 and older to PC.</li>
+<li>$40.00 for the weekend for players 14 to 17 years old to PC.</li>
+<li>New players play for free but must PC their first event.</li>
+<li>NPC's play for free!
+
+<h3>Feast Events</h3>
+
+<li>$45.00 for the day. </li>
+<li>There is no new player discount. A new player will be awarded a free event at a later time.</li>
+<li>NPC Cost There is no NPC discount.</li>
+<li><b>We will be collecting cans for the Greater Pittsburgh Community Food Bank. Each can is worth 10 goblin stamps and is greatly appreciated.</b></li>
+
+{{ partial "footer.html" . }}
