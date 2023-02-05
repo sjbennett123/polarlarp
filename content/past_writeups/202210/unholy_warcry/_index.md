@@ -48,7 +48,7 @@ magic_items:
       - Destroy Undead 2x
 scenes: 
   - 
-    oog:  Mod Shack setup like a Mausoleum (IG)
+    oog: Mod Shack setup like a Mausoleum
     ig:  Mausoleum of Fallen Heroes in Stonewood
     flee_point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
 ---
