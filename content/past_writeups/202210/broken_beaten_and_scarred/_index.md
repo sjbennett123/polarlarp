@@ -18,8 +18,9 @@ Outcomes:
  - The Bloody Fist slaughter the remaining Stonewood Soldiers and raid the armory in the Barracks leaving Stonewood completely defenseless to the Bloody Fist, the attacks will increase in frequency with no resistance. This is detailed in the section “Bodies fill the fields I see”
 Rumors: > 
   These poor souls have been through very rough conditions. With healing supplies running low as is, the Barracks of Stonewood is waving in their resolve. The newly imposed Accords have left them hiding their movements and is making them question their honor. Something must give for these brave souls to be restored to former glory.
+    ~ Black Leaf, The Anvil Remembers Stonewood
 Roles: Bloody Fist Grunt x4, Bloody Fist Raid Leader, Bloody Fist Shaman x2 (1 Cel 1 Earth), Balor Ironleaf
-  ~ Black Leaf, The Anvil Remembers Stonewood
+
 Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 
 Props: 
  - Anything to represent a Barracks

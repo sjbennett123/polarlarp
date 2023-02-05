@@ -19,7 +19,7 @@ Outcomes:
 - The Undead Abominations are defeated, and the corpses are returned to rest in their tombs. No citizens are harmed 
 - The Undead Abominations overflow from the Mausoleum and start infecting the Townsfolk who remain. The Townsfolk will start changing into Undead at Sunset and attack the town till they are killed. This is detailed in the section “A Terrible Night to Have a Curse”
 Rumors: > 
-  The Mausoleum of Fallen Heroes in Stonewood has seen too many visitors for my liking as of late. They appear to be Dwarves but some larger cloaked figures are among them. I could just be paranoid but something in my years or service to Stonewood tells me something is afoot. Stones help us if it is what I think is happening comes true
+  The Mausoleum of Fallen Heroes in Stonewood has seen too many visitors for my liking as of late. They appear to be Dwarves but some larger cloaked figures are among them. I could just be paranoid but something in my years or service to Stonewood tells me something is afoot. Stones help us if it is what I think is happening comes true.
 
   ~ Black Leaf, The Anvil Remembers Stonewood
 Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of powerful adventures.
