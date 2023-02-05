@@ -8,7 +8,15 @@ description: This event is a continuation of the plot that was ran in October wi
 event_date: "04/14/2023 09:1 PM"
 ---
 
-TODO:
+## Current Work
+
+Stephen is reviewing and editing Cryptic Wishes.
+
+Scott is finishing up the website updates and starting to fill in details from his notes. 
+
+Brittany is finishing Family Recipes series of modules.
+
+## TODO:
 
 - Fire Drake Card
 - Invasive Bug Card
