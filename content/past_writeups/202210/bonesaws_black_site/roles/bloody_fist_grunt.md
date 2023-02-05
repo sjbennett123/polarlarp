@@ -30,12 +30,11 @@ abilities:
 motivation: You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. 
 tactics:  Down and let PCs bleed out. Kidnap when you can if the person is of value. Stay with you Raid Leader unless ordered to do something else. Protect your Shamans as they keep you in the fight. Don’t wildly charge a group one by one. Make sure you go with your brothers to battle as your tactical training is strength in numbers. If a General is on the field then you form up around him in a Phalanx and don’t break rank unless he commands.
 costume:
-  - Bloody Fist Makeup
   - Red Tabbard
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 makeup: 
-  - Bloody Fist Makeup
+  - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 
 ---
 

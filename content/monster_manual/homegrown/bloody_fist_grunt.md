@@ -34,9 +34,7 @@ makeup:
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
-makeup: 
-  - Bloody Fist Makeup
-
+makeup
 ---
 
 
