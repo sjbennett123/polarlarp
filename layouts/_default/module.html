@@ -31,6 +31,7 @@
 
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 
+{{ if or (where .Pages ".Params.Layout" "=" "role")  (.Params.roles) }} 
 <div id="roles"><p><b>Roles:</b>
 {{ if .Params.roles }}{{ .Params.roles }}{{ end }} 
 {{ if .Pages }} 
@@ -38,17 +39,17 @@
             <a href="{{.Permalink}}">{{ .Params.quantity | default ""}} {{.Title}} </a>
     {{ end }}
 {{ end }}
-
 </p></div>
+{{ end }}
 
+{{ if where .Pages ".Params.Layout" "!=" "role" }} 
 <div id="misc"><p><b>Misc:</b>
-{{ if .Params.misc }}{{ .Params.misc }}{{ end }} 
-{{ if .Pages }} 
+
     {{ range where .Pages ".Params.Layout" "!=" "role" }}
             <a href="{{.Permalink}}">{{.Title}} </a>
     {{ end }}
-{{ end }}
 </p></div>
+{{ end }}
 
 {{ $props := (slice ) }}
 {{ if  .Params.props }} 
@@ -75,7 +76,7 @@
     {{ end }}
 {{ end }}
 {{ $makeup = $makeup |uniq }} 
-{{ if (gt ($props | len) 0) }}
+{{ if (gt ($makeup | len) 0) }}
 <div id="makeup"> <p><b>Makeup: </b>
 {{ delimit $makeup ", "}}
 </p></div> 
@@ -96,8 +97,23 @@
 {{ delimit $costuming  ", "}}
 </p></div> 
 {{ end }}
-{{ if  .Params.treasure }} <div id="treasure"> <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div> {{ end }} 
 
+<div id="treasure"> <p><b>Treasure:</b>
+{{ if  .Params.treasure }}  {{ delimit  .Params.treasure ", " }} {{ end }} 
+{{ $magic_items := (slice )  }}
+{{ if .Params.magic_items }}
+    {{ $magic_items = append $magic_items .Params.magic_items }}
+{{ end }}
+{{ if (gt ($magic_items | len) 0) }}
+
+{{ range  $magic_items  }}
+<b><i> {{ .name }} </b></i>
+<b>Description:</b> {{ .description }}
+<b>Duration:</b> {{ .duration }}
+<b>Effects:</b> {{ delimit .effects ", " }}
+{{ end }} 
+{{ end }}
+</p></div>
 {{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify }}</p></div> {{ end }} 
 
 <div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 

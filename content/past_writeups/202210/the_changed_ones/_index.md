@@ -6,6 +6,14 @@ weight: 2
 day: friday
 description: "A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards."
 Layout: module
+magic_items:
+  - 
+    name:  Sword of Zelous Light
+    description:  A sword from a fallen Hoylean Knight, ebbing with the pain of a thousand wars fought
+    duration: 1 Year
+    effects: 
+      - Purify Blood x2
+      - Poison Shield x2
 
 author: Chris Colland
 reviewer: Scott Bennett
@@ -39,5 +47,4 @@ running_notes:
 rumors: These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood
 
   Your Friend in the darkness   ~Kane
-roles: 3 Hoylean Wizards, 3 Hoylean Marauders, Magnus Kane, Mayor Anak Durag, Durmac Leafdancer, Thorum Fairoak, Ari-elle Startear, Haddix Strongbow
 ---
