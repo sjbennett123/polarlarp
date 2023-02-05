@@ -24,6 +24,8 @@ Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small b
 Number_of_cast_Members: 8
 Props: 
  - Anything to represent a Guild Hall, Workstations, Crafts, Potions, Corpse of Marin
+costuming:
+ - test
 Treasure: 
  - Gems, Evaluate Items, Coins, Alchemy Gas Globes, Potions
 scenes: 

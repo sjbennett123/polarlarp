@@ -7,7 +7,8 @@ Layout: role
 description: former Captain of the Black Anvil Company in Stonewood
 introduction: You were once the protector of this town. Now in your olden age you are not the Dwarf you once were. Before you would have died before these filthy Bloody Fist scum plagued your walls. But your life has been hard since the occupation set in and the execution of the Black Anvil Company, more importantly the grim executions of you friends.
 Body: 50
-
+costuming:
+ - dwarf shit
 defenses: 
   - Resist Poison x3
   - Resist Sleep x3
