@@ -17,7 +17,10 @@ Rumors: “The patrols have been increasing at night as of late. Something march
 Number_of_Cast_Members: All
 Roles: 3 Bloody Fist Scouts and 7 Bloody Fist Grunts (1 Scout to carry torches and 2 Grunts to guard them per team), Ari-elle Startear, Throum Fairoak
 Props: 
- - Bloody Fist Banners, Bloody Fist Costuming & Makeup (Red Scales on left side of face and 4 finger mark warpaint on right side of face), War Horn, Torch (Glow stick around weapons) and “Oil” Jugs for fuel
+ - Bloody Fist Banners
+ - War Horn
+ - Torch (Glow stick around weapons)
+ - “Oil” Jugs for fuel
 treasure: 
  - Gems, Evaluate Items, Coins
 Outcomes:

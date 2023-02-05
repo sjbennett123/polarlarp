@@ -26,7 +26,7 @@ Props:
   - Bloody Fist Costuming & Makeup (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
   - War Horn
   - Torch (Glow stick around weapons)
-  - “Oil” Jugs for fuel.
+  - “Oil” Jugs for fuel
 Roles: 3 Bloody Fist Scouts and 9 Bloody Fist Grunts (1 Scout to carry torches and 3 Grunts to guard them per team)	
 ---
 

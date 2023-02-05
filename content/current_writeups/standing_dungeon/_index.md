@@ -5,6 +5,7 @@ draft: false
 weight: 5
 layout: module
 day: saturday
+author: Chris Colland
 
 description: Opening of Mausoleum of Fallen Heroes Living Dungeon
 ---

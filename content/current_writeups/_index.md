@@ -8,3 +8,10 @@ description: This event is a continuation of the plot that was ran in October wi
 event_date: "04/14/2023 09:1 PM"
 ---
 
+TODO:
+
+- Fire Drake Card
+- Invasive Bug Card
+- Bomb Modules overview
+- Caves of Terror Overview
+

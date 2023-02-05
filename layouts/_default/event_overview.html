@@ -1,10 +1,13 @@
 {{ partial "header.html" . }}
 
-{{ .Params.description }}
+<p>{{ .Params.description }}</p>
 
 {{ if .Params.event_date }}
-
-{{ .Content }} 
+{{ if .Content }} 
+<hr>
+{{ .Content }}
+<hr>
+{{ end }} 
 
 <script>
     CountDownTimer('{{ .Params.event_date }}', 'countdown');

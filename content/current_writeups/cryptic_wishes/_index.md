@@ -20,7 +20,9 @@ Treasure:
  - Coins(few hundred if possible) Formal Components Magic Items: +0 Magic Polearm or Indestructible Magic Armor or Shield (depends on outcome, see card for details) Gem that can bring forth Djinn when called for (again, depends on outcome see card for details)
 Non-Standard Effects: The skeletons will yell out **STONE BONES** and will become impervious to five attacks. They can only do this once. The Djinn also grants wishes, but they are not so easily fulfilled. The Djinn card will have all of it's effects.
 Props: 
- - Tarps for narrow hallways, spear boffers for wall spikes. Tape for marking where traps are (possible trip wires if there are any in shack)
+ - Tarps for narrow hallways
+ - spear boffers for wall spikes
+ - Tape for marking where traps are (possible trip wires if there are any in shack)
 Number_of_Cast_Members: 10-12
 scenes: 
   - 

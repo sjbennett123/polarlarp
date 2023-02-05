@@ -5,6 +5,7 @@ draft: false
 Layout: module
 weight: 5
 description: Introduction of the new Guilds System as they have returned during Winter
+author: Chris Colland
 ---
 
 **Written by**: 
