@@ -51,13 +51,12 @@
 </p></div>
 
 {{ $props := (slice ) }}
-
 {{ if  .Params.props }} 
 {{ $props = $props  | append .Params.props }}
 {{ end }}
 {{ if .Pages }} 
     {{ range where .Pages ".Params.Layout" "role" }}
-           {{ .Params.props | default ""}}
+                      {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
     {{ end }}
 {{ end }}
 {{ if (gt ($props | len) 0) }}
@@ -91,10 +90,12 @@
              {{ if .Params.costuming }}  {{ $costuming =  $costuming |append .Params.costuming }} {{ end }}
     {{ end }}
 {{ end }}
+
+{{ if (gt ($costuming | len) 0) }}
 <div id="costuming"> <p><b>Costuming:</b>
 {{ delimit $costuming  ", "}}
 </p></div> 
-
+{{ end }}
 {{ if  .Params.treasure }} <div id="treasure"> <p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p></div> {{ end }} 
 
 {{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify }}</p></div> {{ end }} 
