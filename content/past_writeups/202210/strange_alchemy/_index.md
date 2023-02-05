@@ -28,6 +28,18 @@ Props:
  - Anything to represent an Alchemy Lab, bottles, potions, liquids, vials, herbs, flipped over tables for cover to throw from
 Treasure: 
   - Gems, Evaluate Items, Coins, Potions of Purify Blood, Components
+magic_items: 
+  - 
+    name:  Ring of Poison Shield
+    description:  Battered with acid it seems to clear things up. 
+    duration: 1 Year
+    effects: 
+      - Poison Shield 2/day
+scenes: 
+  - 
+    oog: Mod Shack setup like a Alchemy Lab
+    ig: Alchemy Lab of Stonewood
+    flee_point: (OOG) Door of mod shack (IG) Back to the streets of Stonewood
 ---
 
 
@@ -36,11 +48,3 @@ Treasure:
 
 
 
-
-
-
-
-
-Magic Item: Ring of Poison Shield 2/day x1
-Scene 1: (OOG) Mod Shack setup like a Alchemy Lab (IG) Alchemy Lab of Stonewood
-Flee Point: (OOG) Door of mod shack (IG) Back to the streets of Stonewood
