@@ -54,7 +54,7 @@
 {{ end }}
 
 <p><h2>Modules To Run</h2> 
-The modules below are in the order that we intend to run them in. Many of them are in an unfinished state while we get our affairs in order.
+The modules below are in the order that we intend to run them in.
 
 <h3>Friday</h3>
 {{ range sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
@@ -72,17 +72,19 @@ The modules below are in the order that we intend to run them in. Many of them a
 {{ end }}
 
 <h3>Modules for Review</h3>
-
+<!--Make this not display if you don't have any to reveiew-->
 
 {{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end  }}
+<h3>Randoms</h3>
 
-
-<h2>City Information</h2>
 <h3>Townsfolk</h3>
 
+<h3>Unsorted</h3>
+
 <h2>Treasure</h2>
+<!--get magic items from modules. Add a link to the module in the magic item.-->
 
 {{ $magic_items := (slice )  }}
 {{ if .Params.magic_items }}
@@ -100,11 +102,6 @@ The modules below are in the order that we intend to run them in. Many of them a
 
 
 
-
-
-
-
-
 {{ $makeup := (slice ) }}
 {{ if  .Params.makeup }} 
     {{ $makeup = $makeup  | append .Params.makeup }} 
@@ -115,7 +112,6 @@ The modules below are in the order that we intend to run them in. Many of them a
            {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
     {{ end }}
 {{ end }}
-
 
 {{ range .Pages }}
 
@@ -128,7 +124,6 @@ The modules below are in the order that we intend to run them in. Many of them a
                         {{ end }}      
       
 {{ end }}
-
 
 {{ $makeup = $makeup | uniq }} 
 {{ $makeup = $makeup | sort }} 
