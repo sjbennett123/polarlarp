@@ -4,6 +4,8 @@
 
 {{ if .Params.event_date }}
 
+{{ .Content }} 
+
 <script>
     CountDownTimer('{{ .Params.event_date }}', 'countdown');
 
@@ -70,83 +72,112 @@ The modules below are in the order that we intend to run them in. Many of them a
 {{ end }}
 
 <h3>Modules for Review</h3>
-{{ range (where .Pages "Layout" "module_review") }}
-{{ end }}
+
 
 {{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end  }}
 
-{{ if .Pages }} 
-{{ .Content }} 
 
 <h2>City Information</h2>
 <h3>Townsfolk</h3>
 
-<h2>Treasure</h2> 
-<h3>Magic Items</h3> 
-<h4>Quotas</h4> 
-<p>{{ .Params.two_year_up_to_five_effect_magic_item_total | default ""}} /{{ .Params.two_year_up_to_five_effect_magic_item_limit | default ""}}  -- up to Two Year up to Five Effect Magic Items One per 25 Players</p>
-<p>{{ .Params.one_year_up_to_five_effect_magic_item_total  | default ""}}/{{ .Params.one_year_up_to_five_effect_magic_item_limit | default ""}}   -- up to One Year up to Five Effect Magic Items------ One per 10 Players </p>  
-<p>{{ .Params.one_year_two_time_ver_effect_magic_items_delimited_to_15th_level_or_below_total  |default ""}}/{{ .Params.one_year_two_time_ver_effect_magic_items_delimited_to_15th_level_or_below_limit | default ""}} -- up to One Year Two Time Ever Effect Magic Items Delimited to 15th level or below </p>
-<h4>2 Year Item (x1)</h4>
-<p>One per 10 Players </p>
-<h4>Sword of Zealous Light</h4>
-<p><b>Description:</b>  A sword from a fallen Hoylean Knight, ebbing with the pain of a thousand wars fought.  </p>
-<p><b>Duration:</b> 1 Year </p>
-<p><b>Module:</b>The Changed Ones</p>
-<p><b>Effects:</b> </p>
-<li>+3 Damage</li>
-<li> Imprison x2</li>
+<h2>Treasure</h2>
 
-<h4>1 Year Item (x4)</h4>
-<h4>1 Year Two Times Ever Delimited to 15th Level of Below  (11)</h4> 
-
-
-
-<h2>Makeup</h2> 
-
-
-<h2>Costuming</h2>
-<b>Deduplicate the list</b>
-
-{{ range (.Pages.GroupBy "Section") }}
-   {{ range .Pages }}
-
-
-                        {{ range (.Pages.GroupBy "Section") }}
-                           {{ range .Pages }}
-                                       {{ range  .Params.costuming }}
-                                            <li>{{ . }}</li>
-                                    {{ end }}
-                           {{ end }}
-                        {{ end }}      
-      
-   {{ end }}
+{{ $magic_items := (slice )  }}
+{{ if .Params.magic_items }}
+    {{ $magic_items = append $magic_items .Params.magic_items }}
 {{ end }}
+
+{{ range  $magic_items  }}
+<h4> {{ .name }} </h4>
+<p><b>Description:</b> {{ .description }} </p>
+<p><b>Duration:</b> {{ .duration }}    </p>
+{{ if .module }} <p><b>Module:</b> {{ .module }}   </p> {{ end }}
+<p><b>Effects:</b> {{ delimit .effects ", " }}  </p>
+{{ end }} 
+
+
+
+
+
+
+
+
+
+{{ $makeup := (slice ) }}
+{{ if  .Params.makeup }} 
+    {{ $makeup = $makeup  | append .Params.makeup }} 
 {{ end }}
 
 {{ if .Pages }} 
-<h2>Props</h2> 
+    {{ range  .Pages  }}
+           {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
+    {{ end }}
+{{ end }}
 
-<b>Add props that are not on roles. Right now we only get the props on the role cards.</b>
-<b>Deduplicate the list</b>
 
-{{ range (.Pages.GroupBy "Section") }}
-   {{ range .Pages }}
+{{ range .Pages }}
 
 
                         {{ range (.Pages.GroupBy "Section") }}
                            {{ range .Pages }}
-                                       {{ range  .Params.props }}
-                                            <li>{{ . }}</li>
-                                    {{ end }}
+                                {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
+
                            {{ end }}
                         {{ end }}      
       
-   {{ end }}
 {{ end }}
+
+
+{{ $makeup = $makeup | uniq }} 
+{{ $makeup = $makeup | sort }} 
+{{ if (gt ($makeup | len) 0) }}
+<div id="makeup"> <h2>Makeup </h2>
+{{ range $makeup }}
+<li>{{ . }} </li>
+{{ end }} 
+</p></div> 
 {{ end }}
+
+
+
+{{ $props := (slice ) }}
+{{ if  .Params.props }} 
+    {{ $props = $props  | append .Params.props }} 
+{{ end }}
+
+{{ if .Pages }} 
+    {{ range  .Pages  }}
+           {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range .Pages }}
+
+
+                        {{ range (.Pages.GroupBy "Section") }}
+                           {{ range .Pages }}
+                                {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+
+                           {{ end }}
+                        {{ end }}      
+      
+{{ end }}
+
+{{ $props = $props | uniq }} 
+{{ $props = $props | sort }} 
+
+
+{{ if (gt ($props | len) 0) }}
+<div id="props"> <h2>Props </h2>
+{{ range $props }}
+<li>{{ . }} </li>
+{{ end }} 
+</p></div> 
+{{ end }}
+
+
 
 
 {{ partial "footer.html" . }}
