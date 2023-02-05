@@ -94,6 +94,8 @@ Non-Standard Effects: Anything that does not conform to the NERO rules will go h
 
 **Rules Clarifications**: Most people that play NERO haven’t' read the rules. They are just playing it by what they see and they reference the PDF when they get home. To help keep the game from being anarchy we go over the rules that are immediately important when they come up on our encounters. For instance if you are going to be using a bunch of monsters with waylay go over the waylay rules at the start of the encounter. Calling a hold for odd effects pre module if done every module would be standard and would feel less like a verbal bashing if done consistently. 
 
+---
+
 If you think that a bit of information might be useful, put it in the write-up. -- One of the things that I often see if people stopping me when I do the read through of the write-up to give some information about the setting or the encounter. Put that in the write-up.
 
 When writing a module try to ensure that the basics are handled well before you get "Crazy" monsters all have cards and are costumed etc.
@@ -154,17 +156,17 @@ Try to give the cast some guidance on making the characters come alive. What do 
 
 Always remember that the cast is playing too. -- This goes contrary to the adage that the only the Player Characters are "customers" and the npc's are there to entertain the customers. The truth of it is that both parties are customers, and the runner needs to structure the encounter so everyone is playing. I think the core of this is clearly defining the boundaries of the encounter and giving many of the characters in the backend "Agency" to do things. 
 
+## Reviewing Tips
 
+- You don't need to correct anything if it's not broken. 
+- First priority is spelling / grammer 
+- are there any props that are mentioned in the writeup but not in the list
+- Can you visualize the module. 
+- Say nice things too
 
+## POLAR Event directors requirements
 
-
-
-
-
-
-## POLAR Event directors requirements:  
-
-1. You must work with you Review. 
+1. You must work with your Review. 
 2. No non-standard effects. Anything you want to try to do that could be non-standard please reach out to Clinton Snyder or Donnie Leight and they will find a way to make it standard. 
 3. Your full event must be reviewed 2 weeks in advance before your event. Your event must have a minimum of 30 encounters. An encounter can be can be as simple as an NPC that Entertains multiple PCs at a time.
 4. Events should include 
