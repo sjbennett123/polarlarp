@@ -24,8 +24,16 @@ Rumors: >
 Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of lower to mid seasoned adventures. 
 Number_of_Cast_Members: 7
 Roles: Bloody Fist Scout x3, Bloody Fist Grunt x3, Balor Ironleaf
-Props: Anything to represent a a Lumber Mill or Woodworking, tools, axes, saws
-Tags and Treasure: Gems, Evaluate Items, Coins, New Stonewood Town Sign
+Props: 
+ - Anything to represent a Lumber Mill or Woodworking
+ - tools
+ - axes
+ - saws
+Treasure: 
+  - Gems
+  - Evaluate Items
+  - Coins
+  - New Stonewood Town Sign
 running_notes: The Bloody Fist will defend this place very fiercely. 
 scenes: 
   - 
