@@ -172,7 +172,7 @@ The modules below are in the order that we intend to run them in. Many of them a
 {{ if (gt ($props | len) 0) }}
 <div id="props"> <h2>Props </h2>
 {{ range $props }}
-<li>{{ . }} </li>
+<li>{{ title . }} </li>
 {{ end }} 
 </p></div> 
 {{ end }}
