@@ -39,7 +39,13 @@ Treasure:
  - Potions of Cure Light Damage
  - Potions of Purify Blood
  - Components
- - Magic Item Amulet of Destroy Undead 2/day x1
+magic_items: 
+  - 
+    name:  Amulet of Destroy Undead 
+    description:  Amulet of Destroy Undead 
+    duration: 1 Year
+    effects: 
+      - Destroy Undead 2x
 scenes: 
   - 
     oog:  Mod Shack setup like a Mausoleum (IG)
