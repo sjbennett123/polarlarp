@@ -29,36 +29,26 @@ Props:
  - mugs, barrels
  -  crafting tools
  -  hammers
-
 Treasure: 
- - Gems, Evaluate Items, Coins, 
-Magic Item: Ring of Purify Blood x2 /day
+ - Gems
+ - Evaluate Items
+ - Coins
+magic_items: 
+  - 
+    name:  Alchemist's Ring
+    description:  Battered with acid it seems to clear things up. 
+    duration: 1 Year
+    effects: 
+      - Purify Blood x2
+scenes: 
+  - 
+    oog: Mod Shack setup like a Brewery
+    ig: Brewery of Stonewood 
+    flee_point:  (OOG) Door of mod shack (IG) Back to the streets of Stonewood
+Running_Notes: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again. 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Running Notes: The PCs are given a list of buildings to reclaim if Stonewood is to be theirs again. 
-
-
-
 **This is the midway point in the 10 module series where it starts to become challenging.** 
-
-
-Scene 1: (OOG) Mod Shack setup like a Brewery (IG) Brewery of Stonewood
-Flee Point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
 
 
 Tactics: The Raid Leader should stay back and command the Grunts and Scouts mainly but use gases if directly rushed. They are master of tactics and organization of thes brutes The NPCs will rest 2 times upon death and come from other parts of the Brewery to defend. THE RAID LEADER DOES NOT RESET. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for mid seasoned adventurers 
