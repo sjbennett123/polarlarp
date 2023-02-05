@@ -6,7 +6,7 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 ---
 
-![/bloodyfist.svg](/bloodyfist.svg)
+![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
 
 These notes have been collected at great personal cost by the reformed Black Anvil Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
 

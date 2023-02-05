@@ -18,7 +18,7 @@
  {{ if .Params.background  }}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify }}</p></div>{{ end }}
 
 
-<div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p></div>
+{{ if .Params.synopsis }} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p></div> {{ end }}
 
 {{ if .Params.outcomes }} 
 <div id= "outcomes" ><p><b>Outcomes:</b></p>
@@ -98,6 +98,7 @@
 </p></div> 
 {{ end }}
 
+{{ if or (.Params.treasure)  (.Params.magic_items) }}
 <div id="treasure"> <p><b>Treasure:</b>
 {{ if  .Params.treasure }}  {{ delimit  .Params.treasure ", " }} {{ end }} 
 {{ $magic_items := (slice )  }}
@@ -114,6 +115,8 @@
 {{ end }} 
 {{ end }}
 </p></div>
+{{ end }}
+
 {{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify }}</p></div> {{ end }} 
 
 <div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 

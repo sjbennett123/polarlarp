@@ -74,16 +74,18 @@ The modules below are in the order that we intend to run them in.
       <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 
+
 <h3>Modules for Review</h3>
 <!--Make this not display if you don't have any to reveiew-->
-
 {{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end  }}
 <h3>Randoms</h3>
 
 <h3>Townsfolk</h3>
-
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "townsfolk" }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+{{ end }}
 <h3>Unsorted</h3>
 
 <h2>Treasure</h2>
