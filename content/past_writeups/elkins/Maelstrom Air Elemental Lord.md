@@ -1,6 +1,13 @@
-Mystery of the Bottle : Maelstrom Air Elemental Lord
+---
+title: Maelstrom Air Elemental Lord
+introduction: A no-nonsense Air lord that wishes to stop at nothing to win the war against the plane of Earth and crush all those that attempt to stop him. The cube was given to the Air Lords as means of truce and now the people of Tyrra are trying to break the truce between the realms. 
+Costume: 
+  - Blue and grey face paint, blue and/or grey tabard (one used as a belt)
+---
 
-**Description:** A no-nonsense Air lord that wishes to stop at nothing to win the war against the plane of Earth and crush all those that attempt to stop him. The cube was given to the Air Lords as means of truce and now the people of Tyrra are trying to break the truce between the realms. 
+
+
+
 
 
 
@@ -9,18 +16,18 @@ Mystery of the Bottle : Maelstrom Air Elemental Lord
 **Irrational:** No matter how much the adventurers wish to speak with you, they are thieves, and they need to be dealt with
 
 **General:** You utilize your forces to their full effectiveness; you will only attack if you find an opening.
- 
 
 
 
-Air Elemental Lord
+
+
 
 
 
 **Treasure**: 1 Platinum coin and 1 random magic item
  **Number of resets: one unless banished**
 
-**Costume:** Blue and grey face paint, blue and/or grey tabard (one used as a belt)
+
 
 **Cool down:** N/A
 
@@ -36,9 +43,7 @@ Air Elemental Lord
 
 **Carrier Attack**: Lightning
 
-**Packet Delivered Attack**: 10 Elemental Lightning x5, 20
-
-Elemental Lightning x3, 30 Elemental Lightning x1Magic Lightning Bolt x5, Magic Lightning Storm x5, Magic Lightning Blast x5Elemental Lightning Stormx3 (5 Elemental Lightning as Magic Storm)
+**Packet Delivered Attack**: 10 Elemental Lightning x5, 20 Elemental Lightning x3, 30 Elemental Lightning x1Magic Lightning Bolt x5, Magic Lightning Storm x5, Magic Lightning Blast x5Elemental Lightning Stormx3 (5 Elemental Lightning as Magic Storm)
 
 **Body Points**: 100
 

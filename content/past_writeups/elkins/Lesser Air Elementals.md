@@ -1,6 +1,13 @@
-Mystery of the Bottle: **Lesser Air Elementals**
+---
+title: Lesser Air Elementals
+introduction: You follow Maelstrom to fight the interlopers that have disrupted the treaty of the planes. Now you will show the creatures made of flesh the fury of the Storm Lords.
+Costume: 
+  - Blue or grey face paint
+---
 
-**Description:** You follow Maelstrom to fight the interlopers that have disrupted the treaty of the planes. Now you will show the creatures made of flesh the fury of the Storm Lords.
+
+
+
 
 
 
@@ -18,7 +25,7 @@ Mystery of the Bottle: **Lesser Air Elementals**
 
 **Number of resets: five**
 
-**Costume:** Blue or grey face paint
+
 
 **Cool down:** 10 seconds
 

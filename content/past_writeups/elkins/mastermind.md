@@ -1,68 +1,11 @@
-**Mastermind**
+---
+title: Mastermind
+author: Scott Bennett 
+description: the players solve a series of puzzles and unlock one of the levels of ludavico's imprionment. 
+Synopsis: A blend of puzzle and beatdown. You need to keep hunting for items from monsters to try to solve the puzzle but you will also need to keep alive! In front of you are 5 hinged boxes about the size of a coffee cup in front of you each open and glowing with a faint light from inside.To your left there is a skull. You have a pouch of gems in various colors, Red, Blue, Black, Red, Orange, gathered from battles with the golems on the way to the gate. You have 5 of each kind of gem. They are worth varying amounts but the most valuable, the Black gems are worth 4 gold each. You were told that the gems could be fed to the skull and you would recive hints as to how to open the gate. You can leave or do you solve the puzzle?
+---
 
-
-
-**Written by:** Scott Bennett         **Reviewed by:**  
-
-
-
-
- **Brief**: the players solve a series of puzzles and unlock one of the levels of ludavico's imprionment. 
-
-
-
-
- **Pre-requisites:** None
-
-**Background :** 
-
-**Synopsis**: 
-
-A blend of puzzle and beatdown. You need to keep hunting for items from monsters to try to solve the puzzle but you will also 
-
- 
-
-In front of you are 5 hinged boxes about the size of a coffee cup in front of you each open and glowing with a faint light from inside.To your left there is a skull. You have a pouch of gems in various colors, Red,Blue,Black,Red,Orange,gathered from battles with the golems on the way to the gate. You have 5 of each kind of gem. They are worth varying amounts but the most valuable, the Black gems are worth 4 gold each. You were told that the gems could be fed to the skull and you would recive hints as to how to open the gate. You can leave or do you solve the puzzle?
-
-
-
-**Outcomes**:   
-
-
-
-**Mastermind**
-
-
-
-
- **Hook**: 
-
-**Page**: 
-
-**Number of Cast Members**: 
-
-**Roles**: 
-
-**Props**: 
-
-**Tags and Treasure**: 
-
-**Scene 1**: (OOG) ___ (IG) ___ 
-
-**Flee Point**: None
-
-**Non-Standard Effects**: None
-
-**Rules Clarifications**: None
-
-**Craftsman Information**: 
-
-**Transformations**: No
-
-
-
-
- **Running Notes**: 
+****
 
 
 
