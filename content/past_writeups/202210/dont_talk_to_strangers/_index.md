@@ -33,7 +33,7 @@ outcomes:
   - Players are lured to Hessol Korag and bitten by the Vampire. If Hessol marks at least 3 people, he will retreat into the night and will return next event. 
   - The Players are lured to Hessol Korag and defeat him and the Ghouls. 
   - The players running from this encounter and fleeing to get help is completely valid.
-rumors: None
+
 hook: Will-O-Wisp enters town to get players to follow them or or uses Arcane Charm and commands Follow me.
 scenes: 
   - 
@@ -44,10 +44,6 @@ scenes:
     oog: Unused Cabin Area
     ig: Small Shack on the Outskirts of Town
     flee_point: 
-non_standard_effects: None
-rules_clarifications: None
-craftsman_information: None
-transformations: None
-running_notes: 
+
 ---
 

@@ -18,6 +18,7 @@ Outcomes:
  - The Bloody Fist Parade through the town claiming the long reign of Ar’Nox, the new Mayor of Stonewood. The citizens will come out of hiding after the Bloody Fist leave mad at the PCs for letting this happen and blame the Mayor for appointing them, total chaos in the town.
 Rumors:  > 
   The mayor has made some kind of deal with the enemy. I am not sure if it was out of preservation, or he is in league with them. Regardless, his actions have seemed craven as of recent. I do expect him to make a statement soon but I don’t think his words will ring the tone they are intended too. The Town Hall has been a court of unease these past weeks. What is to come from it, remains unseen. I hope for the Mayors sake he has a plan up his noble sleeves and I am wrong.   
+
   ~ Black Leaf, The Anvil Remembers Stonewood
 Roles: Bloody Fist Grunt x3, Ar’Nox the Bloody Fist Raid Leader, Bloody Fist Shaman x2 (1 Cel 1 Earth), Undead Dwarf Council Members x3, Balor Ironleaf
 Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of low adventures 

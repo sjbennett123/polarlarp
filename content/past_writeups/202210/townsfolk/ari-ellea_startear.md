@@ -8,7 +8,7 @@ description: Town Librarian
 introduction: You were once the adopted daughter of a noble Dwarf in Stonewood, Lozzuik Forgehand. Lozzuik was killed before your eyes when the Bloody Fist came the first time. You were so young then and couldn’t believe the act. You were rescued from the streets after being orphaned 10 years ago. The only comfort you find left in the world is reading the books you write and collect. You typically keep your head down and avoid conflict but this time you are hopeful for a change but fearful of the massacre.
 Body: 10
 
-Weapons: none
+
 props:
   - book/tome
   - glasses
