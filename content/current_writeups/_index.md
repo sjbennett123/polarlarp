@@ -23,3 +23,14 @@ Brittany is finishing Family Recipes series of modules.
 - Bomb Modules overview
 - Caves of Terror Overview
 
+## NPC Counts
+
+Create a google sheet for this and link it here. Update the totals for quick reference. 
+
+**Yes**: 7 
+
+**Maybe**: 9
+
+**No**: 
+
+**Staff**: 8 
