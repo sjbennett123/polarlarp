@@ -31,8 +31,7 @@ Props:
  - bones
  - skeletons
  - Fog (if available)
- - Low ambient lighting
- - Rope Lights
+ - Low ambient lighting and Rope Lights
 Treasure: 
  - Gems
  - Evaluate Items
