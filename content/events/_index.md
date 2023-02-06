@@ -10,7 +10,7 @@ events:
     date: Februry 10
     title: The road to Adron
     ig_location:  To Be Determined
-    ig_barony: 
+    ig_barony: Adron
     ig_town: 
     oog_location: To Be Determined
     event_director: Devin Pusateri
@@ -59,23 +59,6 @@ events:
     oog_location: To Be Determined
     event_director: Danielle Regula 
     type: Weekend Event
-  - 
-    date: March 10
-    ig_location:  To Be Determined
-    oog_location: To Be Determined
-    event_director: Clinton Russell Snyder
-    type: Weekend Event
-  - 
-    date: November 10
-    ig_location:  To Be Determined
-    oog_location: To Be Determined
-    event_director: Clinton Russell Snyder
-    type: Weekend Event
-  - 
-    date: December 8
-    ig_location:  To Be Determined
-    oog_location: To Be Determined
-    event_director: Clinton Russell Snyder
-    type: Weekend Event
+
 ---
 
