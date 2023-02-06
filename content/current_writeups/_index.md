@@ -16,7 +16,7 @@ Scott is finishing up the website updates and starting to fill in details from h
 
 Brittany is finishing Family Recipes series of modules.
 
-## TODO:
+## To Do
 
 - Fire Drake Card
 - Invasive Bug Card

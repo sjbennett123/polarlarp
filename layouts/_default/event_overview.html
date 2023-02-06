@@ -75,18 +75,22 @@ The modules below are in the order that we intend to run them in.
 {{ end }}
 
 
-<h3>Modules for Review</h3>
-<!--Make this not display if you don't have any to reveiew-->
-{{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
-{{ end  }}
-<h3>Randoms</h3>
+
 
 <h3>Townsfolk</h3>
 {{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "townsfolk" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 <h3>Unsorted</h3>
+
+<h3>Randoms</h3>
+
+
+<h3>Modules for Review</h3>
+<!--Make this not display if you don't have any to reveiew-->
+{{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
+{{ end  }}
 
 <h2>Treasure</h2>
 
@@ -156,7 +160,7 @@ The modules below are in the order that we intend to run them in.
 {{ $rumors = $rumors | uniq }} 
 {{ $rumors = $rumors | shuffle }} 
 {{ if (gt ($rumors | len) 0) }}
-<div id="rumors"> <h2>rumors </h2>
+<div id="rumors"> <h2>Rumors </h2>
 {{ range $rumors }}
 <p>{{ . | markdownify }} </p>
 {{ end }} 
@@ -220,7 +224,6 @@ The modules below are in the order that we intend to run them in.
 
 {{ $props = $props | uniq }} 
 {{ $props = $props | sort }} 
-
 
 {{ if (gt ($props | len) 0) }}
 <div id="props"> <h2>Props </h2>
