@@ -7,7 +7,7 @@ layout: role
 description: 
 Body: 100
 Defenses: No Metabolism
-Immunities: Healing, Life, Sleep, Charm, Poison, Death, Paralyze, Waylay, Necromancy, Drain, Feeble Mind, Vertigo, Pin, Bind, Web, Confine, Shatter
+
 Weapons: Polearm (weapon) One-handed weapon (Armor/Shield)
 Damage: 1H edge 10 Magic, Polearm 15 Magic
 Weakness: None
@@ -16,7 +16,7 @@ Treasure:
  - +0 Magic Polearm, Indestructible or Armor or Shield with magic aura and indestructible
 ---
 
-
+Immunities: Healing, Life, Sleep, Charm, Poison, Death, Paralyze, Waylay, Necromancy, Drain, Feeble Mind, Vertigo, Pin, Bind, Web, Confine, Shatter
 
 
 

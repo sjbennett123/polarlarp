@@ -2,15 +2,14 @@
 
 <p><b>Written By:</b> {{ .Params.author }}</p>
 
-<p><b>Reviewed By:</b> {{ .Params.reviewer }} 
+<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} 
 {{ if where .Pages ".Params.Layout" "IN"  (slice "feedback" ) }} 
     {{ range where .Pages ".Params.Layout" "IN"  (slice "feedback" )  }}
             <a href="{{.Permalink}}"> {{ .Params.author }} </a>
     {{ end }}
-</p></div>
 {{ end }}
 </p>
-
+</div>
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description }}</p></div>
 
 {{ if .Params.requirements }} 

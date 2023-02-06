@@ -15,12 +15,11 @@ Weapons: Fists (claws)
 
 Damage: 15 normal
 
-Motivation: \*DON'T TOUCH MY STUFF!!!**
+Motivation: DON'T TOUCH MY STUFF!!!
 
 Treasure: 
   - Platinum and Formal components
 ---
-
 
 
 

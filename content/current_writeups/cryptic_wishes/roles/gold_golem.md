@@ -8,13 +8,13 @@ Body: 100
 
 Defenses: No Metabolism, Half Damage from non-magic edged weapons.
 
-Immunities: Healing, Life, Sleep, Charm, Poison, Death, Paralyze, Waylay, Drain, Feeble Mind, Vertigo, Pin, Bind, Web.
+
 Magic: None
 Weapons: Fists
 
 Damage: 10 Massive!
 
-Weaknesses: Normal Damage from Blunt weapons of any source, double damage from Shatter
+
 
 Motivations: None
 
@@ -22,3 +22,6 @@ Treasure:
  -  Large amount of gold
 ---
 
+Immunities: Healing, Life, Sleep, Charm, Poison, Death, Paralyze, Waylay, Drain, Feeble Mind, Vertigo, Pin, Bind, Web
+
+Weaknesses: Normal Damage from Blunt weapons of any source, double damage from Shatter

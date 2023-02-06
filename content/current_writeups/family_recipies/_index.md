@@ -2,6 +2,8 @@
 
 Layout: plotline_overview
 title: Family Recipes
+author: Brittany Perry
+
 
 ---
 ## The Players
