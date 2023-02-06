@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
 
-<p>We want to provide the best LARPing experience possible, as often as possible. Please register now…. It’s going to be a great event!!!!</p>
+<p>We want to provide the best LARPing experience possible, <b>as often as possible</b>. Please register now. It’s going to be a great event!</p>
 
 <p>Event Registration closes the week before an event on Friday.</p>
 <h2>Upcoming Events</h2>
 {{ range  .Params.events  }}
-<h4> {{ .date }} </h4>
+<h4> {{ .date }}  ~  {{ .title | title }} </h4>
 <p><b>Event Type:</b> {{ .type }} </p>
 <p><b>In Game Location:</b> {{ .ig_location }}    </p>
 <p><b>Campsite:</b> {{ .oog_location }}    </p>
@@ -15,8 +15,6 @@
 <p><b>Game Start:</b>   </p><!--January 14, 12 PM-->
 <p><b>Game End:</b>   </p><!--January 14, 5 PM-->
 <p><b>PC Offsite:</b>    </p><!--January 14, 7 PM-->
-
-
 {{ end }} 
 {{ .Content }} 
 
