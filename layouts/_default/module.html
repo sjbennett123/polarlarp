@@ -2,7 +2,14 @@
 
 <p><b>Written By:</b> {{ .Params.author }}</p>
 
-<p><b>Reviewed By:</b> {{ .Params.reviewer }}</p>
+<p><b>Reviewed By:</b> {{ .Params.reviewer }} 
+{{ if where .Pages ".Params.Layout" "IN"  (slice "feedback" ) }} 
+    {{ range where .Pages ".Params.Layout" "IN"  (slice "feedback" )  }}
+            <a href="{{.Permalink}}"> {{ .Params.author }} </a>
+    {{ end }}
+</p></div>
+{{ end }}
+</p>
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description }}</p></div>
 
@@ -42,10 +49,10 @@
 </p></div>
 {{ end }}
 
-{{ if where .Pages ".Params.Layout" "!=" "role" }} 
+{{ if where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" ) }} 
 <div id="misc"><p><b>Misc:</b>
 
-    {{ range where .Pages ".Params.Layout" "!=" "role" }}
+    {{ range where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" )  }}
             <a href="{{.Permalink}}">{{.Title}} </a>
     {{ end }}
 </p></div>

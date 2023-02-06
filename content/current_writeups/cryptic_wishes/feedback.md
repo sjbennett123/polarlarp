@@ -2,15 +2,11 @@
 title: "Feedback: Cryptic Wishes"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 8
-day: friday
 layout: feedback
-
+author: Stephen Dupree
 
 
 ---
-
--- Stephen Dupree
 
 - I like the idea of traps being utilized by the dwarves protecting their loot.
 - I like the idea of hanging tarps better for us to create different spaces. Perhaps using chairs tables, and ladders with the tarps will accomplish this effect?
@@ -36,7 +32,6 @@ layout: feedback
   - “I am sure this is not worth your time”
 
   - “ if these guys run into trouble they will send word.”
-
 
 
 
