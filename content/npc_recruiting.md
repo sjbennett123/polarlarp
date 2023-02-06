@@ -10,15 +10,10 @@ weight: 1
 ## Merch
 
 - Zines
-
 - Shirt
-
-- - If you are interested send me your address and shirt size and if you want a black or grey shirt. I'll send you out a shirt. 
-
+  - If you are interested send me your address and shirt size and if you want a black or grey shirt. I'll send you out a shirt. 
 - Coffee mug
-
 - Hydro flask
-
 - Game maps
 
 ## Amenities 
@@ -31,9 +26,7 @@ weight: 1
 
 You are not going to get anywhere unless you ask. Be direct but let them say no. 
 
-*Would you be interested in coming to NPC a NERO event that Chris Colland and I are running on April 7’th? We are running an orc invasion and I want to have 20 NPC's. I would love to get to game with you again. This is the campsite information.*  [*https://gloryforthefist.netlify.app/camps/camp_sequanota/*](https://gloryforthefist.netlify.app/camps/camp_sequanota/)
-
-
+*Would you be interested in coming to NPC a NERO event that Chris Colland and I are running on April 7’th? We are running an orc invasion and I want to have 20 NPC's. I would love to get to game with you again. This is the campsite information.*  [*https://gloryforthefist.netlify.app/events/camps/camp_sequanota/*](https://gloryforthefist.netlify.app/events/camps/camp_sequanota/)
 
 ## No
 
@@ -43,15 +36,10 @@ You are not going to get anywhere unless you ask. Be direct but let them say no.
 
 **Confirmed people get a call the day of the event.** 
 
-- Send a shirt.
-
-- Send a link to the website with writeups.
-
-- Send writeup book if they want one.
-
-- Keep up the excitement. It only counts when they are there at the site. No investment means it's easy to flake.  
-
-  
+ - Send a shirt.
+ - Send a link to the website with writeups.
+ - Send writeup book if they want one.
+ - Keep up the excitement. It only counts when they are there at the site. No investment means it's easy to flake.  
 
 ## Maybe
 
@@ -61,10 +49,10 @@ You are not going to get anywhere unless you ask. Be direct but let them say no.
 
 Run a meeting 
 
-- - introduce the plot
-  - get feedback 
-  - casting call for big roles
-  - npc submisison
+ - introduce the plot
+ - get feedback 
+ - casting call for big roles
+ - npc submisison
 
 ## At the Event 
 
@@ -75,4 +63,5 @@ Run a meeting
 
 ## After the Event
 
-- Invite to postmortem meeting 
+- Invite to postmortem meeting
+- Go out to breakfast with the crew. 

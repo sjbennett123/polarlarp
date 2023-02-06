@@ -27,6 +27,8 @@ Brittany is finishing Family Recipes series of modules.
 
 Create a google sheet for this and link it here. Update the totals for quick reference. 
 
+[NPC Recruiting]({{< ref "/npc_recruiting" >}})
+
 **Yes**: 7 
 
 **Maybe**: 9
