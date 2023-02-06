@@ -7,9 +7,7 @@ weight: 1
 
 - If you have an idea that you just want to get off your chest submit it [here](https://forms.gle/j3n8CiwL9dvjQNsL9). 
 - Use the standard writeup format that we all are using for your writeups. 
-- When reviewing someone's work remember they tried their best. 
 - Once you are confident with your work we will ingest it into the website get it printed up. 
-- Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/)  
 
 ## Parts of Writeups
 
@@ -148,6 +146,8 @@ Often there are bits where the cast need to add their own little something to a 
 
 Try to give the cast some guidance on making the characters come alive. What do you say exactly how do you say it. What mannerisms will make the characters work. 
 
+Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/)  
+
 
 ### Lore
 ### Advice
@@ -156,13 +156,15 @@ Try to give the cast some guidance on making the characters come alive. What do 
 
 Always remember that the cast is playing too. -- This goes contrary to the adage that the only the Player Characters are "customers" and the npc's are there to entertain the customers. The truth of it is that both parties are customers, and the runner needs to structure the encounter so everyone is playing. I think the core of this is clearly defining the boundaries of the encounter and giving many of the characters in the backend "Agency" to do things. 
 
+Use the setting that exists if at all possible. Don't create new setting if an existing bit will do. We must build on each other's work. 
+
 ## Reviewing Tips
 
 - You don't need to correct anything if it's not broken. 
-- First priority is spelling / grammer 
-- are there any props that are mentioned in the writeup but not in the list
+- First priority is spelling / grammar. 
+- Are there any props that are mentioned in the writeup but not in the list.
 - Can you visualize the module. 
-- Say nice things too
+- Say nice things too remember they tried their best. 
 
 ## POLAR Event directors requirements
 

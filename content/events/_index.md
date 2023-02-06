@@ -10,6 +10,8 @@ events:
     date: Februry 10
     title: The road to Adron
     ig_location:  To Be Determined
+    ig_barony: 
+    ig_town: 
     oog_location: To Be Determined
     event_director: Devin Pusateri
     type: Weekend Event
@@ -22,14 +24,16 @@ events:
     type: Weekend Event
   - 
     date: April 14
-    title: Stonewood March to war
+    title: Stonewood March to War
     ig_location:  To Be Determined
+    ig_barony: Woodhaven
+    ig_town: Stonewood
     oog_location: To Be Determined
     event_director: Stephen Dupree
     type: Weekend Event
   - 
     date: May 12
-    title: Rebirth of the lost
+    title: Rebirth of the Lost
     ig_location:  To Be Determined
     oog_location: To Be Determined
     event_director: Erin Albert Jamison & Donnie Leight
@@ -50,7 +54,7 @@ events:
     type: Weekend Event
   - 
     date: September 22
-    title: The Winter harvest of Vindale
+    title: The Winter Harvest of Vindale
     ig_location:  To Be Determined
     oog_location: To Be Determined
     event_director: Danielle Regula 
