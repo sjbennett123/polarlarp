@@ -11,7 +11,6 @@ events:
     title: The road to Adron
     ig_location:  To Be Determined
     ig_barony: Adron
-    ig_town: 
     oog_location: To Be Determined
     event_director: Devin Pusateri
     type: Weekend Event

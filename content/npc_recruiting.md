@@ -55,4 +55,24 @@ You are not going to get anywhere unless you ask. Be direct but let them say no.
 
 ## Maybe
 
-  - Keep up the pressure. Don’t let them escape
+  - Keep up the pressure. Don’t let them escape.
+
+## Before the Event
+
+Run a meeting 
+
+- - introduce the plot
+  - get feedback 
+  - casting call for big roles
+  - npc submisison
+
+## At the Event 
+
+- Get a posed photo of the crew
+- Say thank you. At game on introduce each NPC one at a time and everyone claps for them.  
+- Do a check-in mid event. See how people are feeling. 
+- A goodie bag with stuff that people would actually want. RPG books for example. 
+
+## After the Event
+
+- Invite to postmortem meeting 
