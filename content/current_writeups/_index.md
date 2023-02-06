@@ -27,7 +27,9 @@ Brittany is finishing Family Recipes series of modules.
 
 Create a google sheet for this and link it here. Update the totals for quick reference. 
 
-[NPC Recruiting]({{< ref "/npc_recruiting" >}})
+[NPC Recruiting Tips]({{< ref "/npc_recruiting" >}})
+
+[NPC List](https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0)
 
 **Yes**: 7 
 
