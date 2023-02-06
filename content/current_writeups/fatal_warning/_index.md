@@ -14,6 +14,7 @@ Outcomes:
  - The players are given the pamphlets by other NPCs or roaming Scouts with no weapons. They aren’t here to fight; they have come to deliver a message.
 Rumors: >
   The patrols have been increasing at night as of late. Something marches in under the cover of darkness. For what purpose, only a sinister feel behind it. Why use torches at night when the moon provides a perfect veil for criminal activities. I have noticed more trees missing branches around the town lately, freshly cut too. I thought only the Dwarves of Stonewood understood the way to harvest them. But this seems crude and hasty.
+
   ~Black Leaf, The Anvil Remembers Stonewood
 Hook: All Named townsfolk come to the Tavern with these pamphlets in hand, Scouts follow them to distribute them.
 Number_of_Cast_Members: 7
