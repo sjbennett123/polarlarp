@@ -3,36 +3,4 @@
     console.log("running some javascript");
 </script>
 -->
-  <link rel="stylesheet" href="/css/dark.css">
-<a id="dark-mode-toggle" class="fal fa-moon-o">Toggle Dark Mode</a>
-<script>
-var toggle = document.getElementById("dark-mode-toggle");
-var darkTheme = document.getElementById("dark-mode-theme");
-
-toggle.addEventListener("click", () => {
-    if (toggle.className === "fal fa-moon-o") {
-        setTheme("dark");
-    } else if (toggle.className === "fal fa-sun-o") {
-        setTheme("light");
-    }
-});
-
-function setTheme(mode) {
-    if (mode === "dark") {
-        darkTheme.disabled = false;
-        toggle.className = "fal fa-sun-o";
-    } else if (mode === "light") {
-        darkTheme.disabled = true;
-        toggle.className = "fal fa-moon-o";
-    }
-}
-
-var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
-setTheme(savedTheme);
-
-function setTheme(mode) {
-    localStorage.setItem("dark-mode-storage", mode);
-
-    // same as above
-}
-</script>
+<link rel="stylesheet" href="/css/dark.css">
