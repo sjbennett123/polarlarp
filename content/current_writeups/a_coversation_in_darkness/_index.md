@@ -7,7 +7,7 @@ day: reaction
 weight: 9
 layout: module
 
-description: "The Chosen one has been captured and is given an offer from the Dark Ones the lords of Morumbria."
+description: "The Chosen One has been captured and is given an offer from the Dark Ones, the lords of Morumbria."
 author: Chris Colland
 reviewer: Scott Bennett
 requirements:
@@ -24,9 +24,10 @@ Props:
 Number_of_Cast_Members: 3
 
 Roles: The Dark One 3x 
+scenes: 
+  - 
+    oog: mod Shack or all cabin with only , Murumbrian Glowing Eyes and robes /w no weapons. Before the players is a table with a slowly ticking metronome and the scroll of the blessing of morumbria in front of them. 
+    ig: 
+    flee_point:  The only way to escape is death or to accept the deal. 
 ---
 
-
-**Scene 1**:  (OOG) Mod Shack or all cabin with only , Murumbrian Glowing Eyes and robes /w no weapons. Before the players is a table with a slowly ticking metronome and the scroll of the blessing of morumbria in front of them. 
-
-**Flee Point**: The only way to escape is death or to accept the deal. 

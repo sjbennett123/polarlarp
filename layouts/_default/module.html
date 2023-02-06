@@ -108,10 +108,10 @@
 {{ if (gt ($magic_items | len) 0) }}
 
 {{ range  $magic_items  }}
-<b><i> {{ .name }} </b></i>
+<b><i> {{ .name }} (</b></i>
 <b>Description:</b> {{ .description }}
 <b>Duration:</b> {{ .duration }}
-<b>Effects:</b> {{ delimit .effects ", " }}
+<b>Effects:</b> {{ delimit .effects ", " }})
 {{ end }} 
 {{ end }}
 </p></div>

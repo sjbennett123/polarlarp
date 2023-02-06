@@ -97,11 +97,11 @@ The modules below are in the order that we intend to run them in.
 {{ end }}
 
 {{ range  $magic_items  }}
-<h4> {{ .name }} </h4>
+<h4>{{ .name }}</h4>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
 {{ if .module }} <p><b>Module:</b> {{ .module }}   </p> {{ end }}
-<p><b>Effects:</b> {{ delimit .effects ", " }}  </p>
+<p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
 
 
