@@ -17,7 +17,9 @@ Rumors: Ever since the orcs have been pushed back and the guilds started to retu
 Hook:  Dorag Barkborer wishes to gather a small group of adventurers to help explorer one of his families crypts.
 Running notes: Dorag is to die immediately upon entering the crypt from the skeletons. There is no card for him. If he is attacked or waylaid at town, presume he only has 10 body and swings 5 normal with whatever weapon he has. The Skeletons do no reset. There are to be four for when they attack at each scene. The Djinn does not move away from it's “bottle” or whatever is used to house it and does not attack unless provoked or attacked itself. This should be for newer players or those who are lvl 20 or under. Try to bring a rogue and emphasize traps so new rogue players can use their skills.
 Treasure: 
- - Coins(few hundred if possible) Formal Components Magic Items: +0 Magic Polearm or Indestructible Magic Armor or Shield (depends on outcome, see card for details) Gem that can bring forth Djinn when called for (again, depends on outcome see card for details)
+ - Coins(few hundred if possible) 
+ - Formal Components 
+ - Magic Items +0 Magic Polearm or Indestructible Magic Armor or Shield (depends on outcome, see card for details) Gem that can bring forth Djinn when called for (again, depends on outcome see card for details)
 Non-Standard Effects: The skeletons will yell out **STONE BONES** and will become impervious to five attacks. They can only do this once. The Djinn also grants wishes, but they are not so easily fulfilled. The Djinn card will have all of it's effects.
 Props: 
  - Tarps for narrow hallways
@@ -26,25 +28,25 @@ Props:
 Number_of_Cast_Members: 10-12
 scenes: 
   - 
-    oog: The main room will be an open space for the first floor with skeletons, 
-    ig: 
-    flee_point: 
+    oog: The main room an open space with skeletons
+    ig: first floor
+    flee_point: (OOG) Door to mod shack/ (IG) Back to the entrance of the crypt
   - 
-    oog: the second floor will have a narrow hallways with wall spikes and a possible floor spike trap
-    ig: 
-    flee_point: 
+    oog: a narrow hallways with wall spikes and a floor spike trap
+    ig: the second floor 
+    flee_point: (OOG) Door to mod shack/ (IG) Back to the entrance of the crypt
   - 
-    oog: Third floor will be narrow hallway once more but will have skeletons as well. 
-    ig: 
-    flee_point: 
+    oog: A narrow hallway with skeletons. 
+    ig: Third floor 
+    flee_point: (OOG) Door to mod shack/ (IG) Back to the entrance of the crypt
   - 
-    oog: .  Fourth floor will be an open area with skeletons and the angry ghost of Bolag Barkborer. Djinn will appear when they dissapear.
-    ig: 
-    flee_point: 
+    oog: will be an open area with skeletons and the angry ghost of Bolag Barkborer. Djinn will appear when Bolag dissapears.
+    ig: Fourth floor 
+    flee_point: (OOG) Door to mod shack/ (IG) Back to the entrance of the crypt
 
 ---
 
-**Flee point:** (OOG) Door to mod shack/ (IG) Back to the entrance of the crypt
+
 
 
 

@@ -29,13 +29,15 @@ Props:
  - Skulls for ritual
  - spellbook/scroll
 Number_of_Cast_Members: All that are suitable for combat
-rumors: “The Ley Lines of Stonewood have shifted dramatically as of recent. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but Sulfur and Pain. Stay Vigilant guard your components well” Your Friend in the darkness ~Kane
+rumors: >
+  The Ley Lines of Stonewood have shifted dramatically as of recent. This, in my experience is the sign before a great ritual. To say what is to come is unknown. But the feeling on the wind is nothing but Sulfur and Pain. Stay Vigilant guard your components well
+
+  Your Friend in the darkness ~Kane
 treasure: 
  - Gems
  - Evaluate Items
  - Coins
-Magic_Item: 
-  - 
+
 scenes: 
   - 
     oog: Altar Site north of Tavern
