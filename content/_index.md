@@ -49,6 +49,36 @@ disableNextPrev:  true
 - This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
 - Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
 
+<a id="dark-mode-toggle" class="fal fa-moon-o">Toggle Dark Mode</a>
+
+toggle.addEventListener("click", () => {
+    if (toggle.className === "fal fa-moon-o") {
+        setTheme("dark");
+    } else if (toggle.className === "fal fa-sun-o") {
+        setTheme("light");
+    }
+});
+
+function setTheme(mode) {
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        toggle.className = "fal fa-sun-o";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        toggle.className = "fal fa-moon-o";
+    }
+}
+
+var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
+setTheme(savedTheme);
+
+function setTheme(mode) {
+    localStorage.setItem("dark-mode-storage", mode);
+
+    // same as above
+}
+</script>
+
 
 ---
 # NPC Speech
