@@ -15,20 +15,14 @@ Stephen is reviewing and editing Cryptic Wishes.
 Scott is finishing up the website updates and starting to fill in details from his notes. 
 
 - add to national monster manual.  https://github.com/filamentgroup/tablesaw
-
 - add played by to role cards
-
 - add link from rumor to module
-
 - add link to module from magic items
-
 - change "day" to schedule in config. Rename all variables to schedule rather than day. Update overview page to not display headings with no values. 
-
 - configure csv output for magic items. 
-
 - add calendar output for event page.
-
 - add facebook link to event page.
+- hide on role card if not populated.  **Body:** **Weapons:** **Killing Blow:** no
 
 Brittany is finishing Family Recipes series of modules.
 
