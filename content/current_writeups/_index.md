@@ -18,6 +18,12 @@ Scott is finishing up the website updates and starting to fill in details from h
 
 - add played by to role cards
 
+- add link from rumor to module
+
+- add link to module from magic items
+
+- change "day" to schedule in config. Rename all variables to schedule rather than day. Update overview page to not display headings with no values. 
+
 Brittany is finishing Family Recipes series of modules.
 
 ## To Do
