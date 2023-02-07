@@ -26,6 +26,10 @@ Scott is finishing up the website updates and starting to fill in details from h
 
 - configure csv output for magic items. 
 
+- add calendar output for event page.
+
+- add facebook link to event page.
+
 Brittany is finishing Family Recipes series of modules.
 
 ## To Do
