@@ -14,6 +14,10 @@ Stephen is reviewing and editing Cryptic Wishes.
 
 Scott is finishing up the website updates and starting to fill in details from his notes. 
 
+- add to national monster manual.  https://github.com/filamentgroup/tablesaw
+
+- add played by to role cards
+
 Brittany is finishing Family Recipes series of modules.
 
 ## To Do
