@@ -24,6 +24,8 @@ Scott is finishing up the website updates and starting to fill in details from h
 
 - change "day" to schedule in config. Rename all variables to schedule rather than day. Update overview page to not display headings with no values. 
 
+- configure csv output for magic items. 
+
 Brittany is finishing Family Recipes series of modules.
 
 ## To Do
