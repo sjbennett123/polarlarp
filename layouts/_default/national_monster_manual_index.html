@@ -9,8 +9,16 @@
 <thead>
   <tr>
     <th scope="col" data-tablesaw-priority="persist" data-tablesaw-sortable-col >Name</th>
-    <th scope="col"  data-tablesaw-sortable-col  >Type</th>
-    <th scope="col"  data-tablesaw-sortable-col >APL</th>
+    <th scope="col"  data-tablesaw-sortable-col >Type</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >APL</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Motivation</th>
+        <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Movement</th>
+        <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Inteligence</th>
+
+        <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Monster Manual</th>
+
+
+
   </tr>
 </thead>
 <tbody>
@@ -20,6 +28,11 @@
     <td><a href="{{.Permalink}}"> {{ .Params.title }} </a></td>
     <td> {{ .Params.type }}</td>
     <td>{{ .Params.apl }}</td>
+    <td>{{ .Params.motivation }}</td>
+    <td>{{ .Params.movement }}</td>
+    <td>{{ .Params.Inteligence }}</td>
+    <td>{{ .Params.monster_manual }}</td>
+
   </tr>
 {{ end }}
 </tbody>
