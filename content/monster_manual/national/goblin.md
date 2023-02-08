@@ -3,6 +3,8 @@ title: Goblin
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
+monster_manual: basic
+
 Body_points: 8+
 Strength_bonus: '0'
 threshold: '0'
