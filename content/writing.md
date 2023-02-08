@@ -13,10 +13,10 @@ weight: 1
 
 ### Module Overview
 
-```
+```yaml
 title: "Don't Talk to Strangers"
 Layout: module
-date: 2022-11-10T10:33:21-05:00
+
 author: 
 reviewer: 
 draft: false
@@ -39,7 +39,6 @@ scenes:
     oog: 
     ig: 
     flee_point: 
-
 non_standard_effects: 
 rules_clarifications: 
 craftsman_information: 
@@ -102,10 +101,11 @@ When you are doing a writeup many small details that seem superfluous are just t
 
 Read the write-up aloud before giving it the thumbs up. The cast will be reading it aloud you don't want to look like an asshole. 
 
+### Role
 
-### Role:
+[Monster Manual]({{< ref "/monster_manual/homegrown/" >}})
 
-```
+```yaml
 title: ""
 date: 2022-11-10T10:33:21-05:00
 draft: false
@@ -113,34 +113,22 @@ weight: 3
 description: 
 Layout: role
 introduction: 
-  
-reset: 
-
 body: 
-
 Defensives: 
  - 
-
 weapons: 
-
 damage: 
-
 # List it all on one line 
 magic: 
-
 abilities: 
   - 
-
 # Put a description of what the character does with the dead. 
 killing_blow: 
-
 motivation: 
-
 tactics: 
-
 costuming: 
   - 
-
+reset: 
 ```
 Often there are bits where the cast need to add their own little something to a role. Give some guidance for this so that they can be more confident in their play.
 
@@ -150,7 +138,9 @@ Remember to give your characters names. Use name lists such as the [Storygames N
 
 ### National Monster Card
 
-```
+[Monster Manual]({{< ref "/monster_manual/national/" >}})
+
+```yaml
 title: "Bear"
 date: 2022-11-10T10:33:21-05:00
 draft: false
@@ -183,12 +173,6 @@ immune_to: Waylay 1
 Protectives: None to Start
 Zone: A
 ```
-
-
-
-
-### Lore
-### Advice
 
 ## Writing Tips
 
