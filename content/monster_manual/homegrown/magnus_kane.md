@@ -4,6 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
 Layout: role
+played_by: Chris Colland
 introduction: You are the Rygal Orders head Celestial Arch Wizard and Golem researcher. You work is often overshadowed by the Rygal Orders lack of understanding of Celestial Magic, but you continue to prove them wrong. One day you will have your Celestial Golem perfected and they will eat their words. You have a very good heart, sometimes you are asked to do questionable things for the cause, but you generally can stomach them. The ones you can’t stomach you find some way to make it right or help the people out against orders sometimes. Therefore, Master Dakos doesn’t fully trust you always, but he understands he needs you regardless of what your methods are to the madness in your laboratory.
 body: 200
 magic: 10/10/10/10/10/10/10/10/10/30 Celestial, Arcane Imprison x10, Arcane Eldritch (Fire, Ice, Lightning, Stone) Blast 90 x10, 50 Elemental Lightning x10, 50 Elemental Flame x10, 50 Elemental Stone x10, 50 Elemental Ice, Arcane Destroy Undead 70 x10, Arcane Destroy (For Golems if they malfunction) x10, Magic Life x5 (Spirit Locked Magic Items), Magic Cure Serious Wounds 20 x5 (Spirit Locked Magic Items)
@@ -26,8 +27,6 @@ abilities:
   - Craftsman Other: Golem Research 30 Levels
   - Craftsman Other: Planes Lore 30 Levels
 
-motivation: You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. 
-
 costume:
   - Mystic Wood Elf Horns
   - Long Coat
@@ -38,7 +37,7 @@ props:
 
 ---
 
-**Played by Chris Colland (Major Rygal Order Plot and Lore Character)**
+
 
 Magnus is a Archwizard of Celestial Magic, his likes have not been seen before in recent memory without being absolutely insane.
 He is the most outgoing member of the Rygal Order and most friendly. Typically, they send him in as the face of the Order to make relations good. He will assist the players. His will to help adventurers is very admirable. Magnus was once an adventurer before joining the Order.
