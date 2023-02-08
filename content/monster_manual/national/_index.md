@@ -5,4 +5,4 @@ draft: false
 layout: national_monster_manual_index
 ---
 
-{{% children %}}
+[How to Read a Monter Card]({{< ref "/monster_manual/national/read_a_card" >}})
