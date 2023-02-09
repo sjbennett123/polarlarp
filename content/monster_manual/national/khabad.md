@@ -19,9 +19,11 @@ Society: Pack
 Motivation: 
   - To Grow
 armor: None
-offensive_abilities: ''
-defensive_abilities: Lightning Adds to Body
-vulnerabilities: Double Damage from Flame and Ice
+offensive_abilities:
+defensive_abilities: 
+  - Lightning Adds to Body
+vulnerabilities: 
+  - Double Damage from Flame and Ice
 spells: None
 pyramid: None
 rec_treasure: ''

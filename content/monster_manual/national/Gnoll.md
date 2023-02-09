@@ -22,8 +22,10 @@ Motivation:
 armor: By Class
 offensive_abilities: 
   - May Possess Skills as PC
-defensive_abilities: Add Character Body
-vulnerabilities: May Not Use Blunt Weapons
+defensive_abilities: 
+  - Add Character Body
+vulnerabilities:
+  - May Not Use Blunt Weapons
 spells: By Skills
 pyramid: None
 rec_treasure: ''

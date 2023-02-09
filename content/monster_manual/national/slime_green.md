@@ -23,8 +23,10 @@ offensive_abilities:
   - Arcane Shatter x3
   - Arcane Destroy x2 
   - Engulf x1
-defensive_abilities: Acidic Skin
-vulnerabilities: Double Damage from Flame
+defensive_abilities: 
+  - Acidic Skin
+vulnerabilities: 
+  - Double Damage from Flame
 spells: None
 pyramid: None
 rec_treasure: ''

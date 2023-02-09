@@ -25,8 +25,10 @@ offensive_abilities:
   - "20 Elemental Acid x3"
   - "30 Elemental Acid x2"
   - "Control Vegetable and Ooze 10 foot Radius"
-defensive_abilities: 'Acidic Skin '
-vulnerabilities: Double Damage from Flame
+defensive_abilities: 
+  - 'Acidic Skin '
+vulnerabilities: 
+  - Double Damage from Flame
 spells: None
 pyramid: None
 rec_treasure: ''
