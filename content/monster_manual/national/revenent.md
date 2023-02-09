@@ -17,7 +17,8 @@ APL: '5'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: Rend the Living
+Motivation: 
+  - Rend the Living
 armor: None
 offensive_abilities: May Use Any Weapon Skill or Style
 defensive_abilities: No Metabolism Half Damage from Weapons

@@ -21,11 +21,13 @@
 <tbody>
 
 {{ range where .Pages ".Params.Layout" "IN"  (slice "national_monster_card" ) }} 
+{{ $motivation := (slice ) }}
+
   <tr>
-    <td><a href="{{.Permalink}}"> {{ .Params.title }}</a></td>
+    <td><a href="{{.Permalink}}"> {{ .Params.name }}</a></td>
     <td>{{ .Params.type }}</td>
     <td>{{ .Params.apl }}</td>
-    <td>{{ .Params.motivation }}</td>
+    <td>{{ $motivation = .Params.motivation }}  {{$motivation = delimit  $motivation ", "  }} {{ $motivation | title  }}</td>
     <td>{{ .Params.movement }}</td>
     <td>{{ .Params.Inteligence }}</td>
     <td>{{ .Params.monster_manual }}</td>

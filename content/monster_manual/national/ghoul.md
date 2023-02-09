@@ -10,7 +10,8 @@ APL: '2'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: Feast Upon the Living
+Motivation: 
+  - Feast Upon the Living
 armor: None
 offensive_abilities: 'Carrier Attack: Paralysis  Duration of Paralysis: 10 Minutes'
 defensive_abilities: No Metabolism

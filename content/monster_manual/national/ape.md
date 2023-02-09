@@ -16,7 +16,8 @@ APL: '3'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Food
+Motivation: 
+  - Food
 armor: None
 offensive_abilities: ''
 defensive_abilities: Resist Poison x1

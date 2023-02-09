@@ -17,7 +17,8 @@ APL: '3'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: Drain essence from the living
+Motivation: 
+  - Drain essence from the living
 armor: None
 offensive_abilities: 'Carrier Attack: Drain  Duration of Drain: 10 Minutes'
 defensive_abilities: No Metabolism

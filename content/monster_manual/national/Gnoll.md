@@ -16,7 +16,9 @@ APL: 2+
 Movement: Wandering
 Inteligence: Normal
 Society: Pack
-Motivation: Hates Sarr (Gorbe), conquest
+Motivation: 
+  - Hates Sarr (Gorbe)
+  - conquest
 armor: By Class
 offensive_abilities: May Possess Skills as PC
 defensive_abilities: Add Character Body

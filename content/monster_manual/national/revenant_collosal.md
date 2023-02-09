@@ -16,20 +16,23 @@ APL: '10'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: Rend the Living
+Motivation: 
+  - Rend the Living
 armor: None
 offensive_abilities: May Use Any Weapon Skill or Style
-defensive_abilities: No Metabolism Half Damage from Weapons
-vulnerabilities: Double Damage from Healing Immune to Life spells
+defensive_abilities: 
+  - No Metabolism 
+  - Half Damage from Weapons
+vulnerabilities: 
+  - Double Damage from Healing 
+  - Immune to Life spells
 spells: None
 pyramid: None
 rec_treasure: ''
 notes: Pin/Bind
 weapon_use: 'Two Handed '
 claws: 'Short/Long '
-base_damage_call: Small Weapon - 5 Normal Short/Longsword - 6 Normal Two Handed -
-  11 Normal
-'': ''
+base_damage_call: Small Weapon - 5 Normal Short/Longsword - 6 Normal Two Handed - 11 Normal
 at_death: Crumbles
 healed_by: Necromancy (Double)
 immune_to: Sleep, Charm, Poison, Death, Paralyze, Waylay, Ice, Drain

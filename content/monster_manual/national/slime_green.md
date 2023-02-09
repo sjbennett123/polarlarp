@@ -1,5 +1,5 @@
 ---
-title: Slime, Green
+title: Green Slime
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
@@ -16,9 +16,13 @@ APL: '3'
 Movement: Wandering
 Inteligence: Mindless
 Society: Solitairy
-Motivation: Food
+Motivation: 
+  - Food
 armor: None
-offensive_abilities: Arcane Shatter x3, Arcane Destroy x2 Engulf x1
+offensive_abilities: 
+  - Arcane Shatter x3
+  - Arcane Destroy x2 
+  - Engulf x1
 defensive_abilities: Acidic Skin
 vulnerabilities: Double Damage from Flame
 spells: None

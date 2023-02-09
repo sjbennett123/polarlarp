@@ -16,7 +16,8 @@ APL: '3'
 Movement: Restricted
 Inteligence: Low
 Society: Tribal
-Motivation: Hunger
+Motivation: 
+  - Hunger
 armor: Natural (10)
 offensive_abilities: ''
 defensive_abilities: May Act Normally Underwater

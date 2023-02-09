@@ -1,11 +1,11 @@
 ---
-Title: Snake, Giant
-
+Title: Giant Snake
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
 monster_manual: basic
 
+name: Snake, Giant
 Body_points: '25'
 Strength_bonus: '2'
 threshold: '0'
@@ -16,9 +16,15 @@ APL: '2'
 Movement: Wandering
 Inteligence: Animal
 Society: Solitairy
-Motivation: Survival Hunger, and Spawning
+Motivation: 
+  - Survival 
+  - Hunger 
+  - Spawning
 armor: None
-offensive_abilities: 'Carrier Attack: Nausea Engulf x1  Duration of Nausea: 10 Minutes'
+offensive_abilities: 
+  - Carrier Attack: Nausea 
+  - Engulf x1  
+  - Duration of Nausea: 10 Minutes
 defensive_abilities: ''
 vulnerabilities: ''
 spells: None

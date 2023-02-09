@@ -17,7 +17,8 @@ APL: 2+
 Movement: Wandering
 Inteligence: Normal
 Society: Tribal
-Motivation: Survival and Advancement of the Tribe
+Motivation: 
+  - Survival and Advancement of the Tribe
 armor: By Class
 offensive_abilities: May Possess Skills as PC (Templar)
 defensive_abilities: Add Character Body

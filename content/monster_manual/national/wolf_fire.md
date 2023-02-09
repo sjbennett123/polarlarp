@@ -16,7 +16,10 @@ APL: '6'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Survival, Protection of Cubs, Advancement of Pack
+Motivation: 
+  - Survival
+  - Protection of Cubs
+  - Advancement of Pack
 armor: None
 offensive_abilities: 
   - "16 Elemental Flame x5"

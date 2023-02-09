@@ -16,7 +16,8 @@ APL: 3+
 Movement: Wandering
 Inteligence: Normal
 Society: Tribal
-Motivation: Like contests and dares
+Motivation: 
+  - Like contests and dares
 armor: By Class
 offensive_abilities: May Possess Skills as PC
 defensive_abilities: Add Character Body May Buy Resist Poison as Dwarf

@@ -1,5 +1,5 @@
 ---
-title: Spider, Emerald
+title: Emerald Spider
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
@@ -16,7 +16,8 @@ APL: '2'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Capture Food Sources
+Motivation: 
+  - Capture Food Sources
 armor: Natural (20)
 offensive_abilities: ''
 defensive_abilities: ''

@@ -12,9 +12,9 @@
 {{ if .Params.APL }}<p><b>APL:</b> {{ .Params.APL }}</p>{{ end }} 
 {{ if .Params.Inteligence }}<p><b>Inteligence:</b> {{ .Params.Inteligence }}</p>{{ end }} 
 {{ if .Params.Society }}<p><b>Society:</b> {{ .Params.Society }}</p>{{ end }} 
-{{ if .Params.Motivation }}<p><b>Motivation:</b> {{ .Params.Motivation }}</p>{{ end }} 
+{{ if .Params.Motivation }}<p><b>Motivation:</b> {{ $motivation := (slice ) }} {{ $motivation = .Params.motivation }}  {{$motivation = delimit  $motivation ", "  }} {{ $motivation | title  }}</p>{{ end }} 
 {{ if .Params.armor }}<p><b>Armor:</b> {{ .Params.armor }}</p>{{ end }} 
-{{ if .Params.offensive_abilities }}<p><b>Offensive Abilities:</b> {{ .Params.offensive_abilities }}</p>{{ end }} 
+{{ if .Params.offensive_abilities }}<p><b>Offensive Abilities:</b>{{ $offensive_abilities := (slice ) }} {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }}</p>{{ end }} 
 {{ if .Params.defensive_abilities }}<p><b>Defensive Abilities:</b> {{ .Params.defensive_abilities }}</p>{{ end }} 
 {{ if .Params.vulnerabilities }}<p><b>Vulnerabilities:</b> {{ .Params.vulnerabilities }}</p>{{ end }} 
 {{ if .Params.spells }}<p><b>Spells:</b> {{ .Params.spells }}</p>{{ end }} 

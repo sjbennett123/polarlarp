@@ -16,9 +16,13 @@ APL: 6+
 Movement: Wandering
 Inteligence: Normal
 Society: Tribal
-Motivation: Survival and Advancement of the Tribe
+Motivation: 
+  - Survival and Advancement of the Tribe
 armor: "By Class"
-offensive_abilities: "May Posssess Skills as PC Nausea Poison x2  Duration of Nausea: 10 Minutes"
+offensive_abilities: 
+  - May Posssess Skills as PC 
+  - Nausea Poison x2  
+  - Duration of Nausea: 10 Minutes
 defensive_abilities: Add Character Body May Act Normally Underwater for 10 minutes
 vulnerabilities: Double Damage from Ice
 spells: None

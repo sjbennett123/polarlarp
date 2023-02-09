@@ -16,7 +16,8 @@ APL: '10'
 Movement: Wandering
 Inteligence: Mindless
 Society: Solitary
-Motivation: Hunger of the dead
+Motivation: 
+  - Hunger of the dead
 armor: None
 offensive_abilities: 'May Use Any Weapon Skill or Style '
 defensive_abilities: May Not Be Killing Blowed

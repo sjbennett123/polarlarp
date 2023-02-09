@@ -1,5 +1,5 @@
 ---
-title:  Ape, Crazy
+title: Crazy Ape
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
@@ -16,7 +16,8 @@ APL: '5'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Food
+Motivation: 
+  - Food
 armor: None
 offensive_abilities: 
   - "Thrown Weapon +5 Damage With Thrown Weapon"

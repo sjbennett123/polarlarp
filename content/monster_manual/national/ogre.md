@@ -17,7 +17,8 @@ APL: 3+
 Movement: Wandering
 Inteligence: Low
 Society: Tribal
-Motivation: Survival  and Advancement of the tribe
+Motivation: 
+  - Survival and Advancement of the tribe
 armor: By Class
 offensive_abilities: May Possess Skills as PC (Fighter or Rogue)
 defensive_abilities: Add Character Body

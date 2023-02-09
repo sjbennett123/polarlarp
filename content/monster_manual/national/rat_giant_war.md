@@ -16,9 +16,12 @@ APL: '3'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Hunger
+Motivation: 
+  - Hunger
 armor: None
-offensive_abilities: 'Carrier Attack: Disease  Duration of Disease: Until Cured '
+offensive_abilities: 
+  - Carrier Attack: Disease  
+  - Duration of Disease: Until Cured
 defensive_abilities: ''
 vulnerabilities: ''
 spells: None

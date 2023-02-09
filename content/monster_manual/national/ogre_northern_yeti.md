@@ -16,9 +16,12 @@ APL: 4+
 Movement: Wandering
 Inteligence: Normal
 Society: Tribal
-Motivation: Survival and Advancement of the tribe
+Motivation: 
+  - Survival and Advancement of the tribe
 armor: By Class
-offensive_abilities: 'May Possess Skills as PC Magic Icebolt x2  '
+offensive_abilities: 
+  - May Possess Skills as PC 
+  - Magic Icebolt x2
 defensive_abilities: Add Character Body
 vulnerabilities: Double Damage from Flame
 spells: None

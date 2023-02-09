@@ -1,5 +1,5 @@
 ---
-title: Giant, Hill
+title: Hill Giant
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
@@ -16,9 +16,12 @@ APL: 5+
 Movement: Wandering
 Inteligence: Normal
 Society: Tribal
-Motivation: Preserve the tribe
+Motivation: 
+  - Preserve the tribe
 armor: By Class
-offensive_abilities: 'May Possess Skills as PC Thrown Weapon '
+offensive_abilities: 
+  - May Possess Skills as PC 
+  - Thrown Weapon
 defensive_abilities: Add Character Body
 vulnerabilities: ''
 spells: By Skills

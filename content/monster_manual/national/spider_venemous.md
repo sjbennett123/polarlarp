@@ -1,11 +1,11 @@
 ---
-title: Spider, Venemous
+title: Venomous Spider
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
 monster_manual: basic
 
-Name: Spider, Venemous
+Name: Spider, Venomous
 Body_points: '15'
 Strength_bonus: '2'
 threshold: '0'
@@ -16,10 +16,14 @@ APL: '6'
 Movement: Wandering
 Inteligence: Animal
 Society: Solitary
-Motivation: Capture Food Sources
+Motivation: 
+  - Capture Food Sources
 armor: None
-offensive_abilities: 'Carrier Attack: Nausea Paralysis Poison x4  Duration of Nausea:
-  10 Minutes Duration of Paralysis: 10 Minutes'
+offensive_abilities: 
+  - Carrier Attack: Nausea 
+  - Paralysis Poison x4  
+  - Duration of Nausea: 10 Minutes 
+  - Duration of Paralysis: 10 Minutes
 defensive_abilities: ''
 vulnerabilities: ''
 spells: None

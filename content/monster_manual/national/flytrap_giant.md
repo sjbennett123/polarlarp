@@ -16,7 +16,8 @@ APL: '8'
 Movement: Stationary
 Inteligence: Animal
 Society: Solitairy
-Motivation: To digest and grow
+Motivation: 
+  - To digest and grow
 armor: None
 offensive_abilities: 
   - "Carrier Attack: Paralysis" 

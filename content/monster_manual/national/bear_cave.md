@@ -16,7 +16,8 @@ APL: '4'
 Movement: Wandering
 Inteligence: Normal
 Society: Family
-Motivation: 'Hunger '
+Motivation: 
+  - Hunger
 armor: None
 offensive_abilities: ''
 defensive_abilities: ''

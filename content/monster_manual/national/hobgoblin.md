@@ -5,6 +5,7 @@ draft: false
 layout: national_monster_card
 monster_manual: basic
 
+name: Hobgoblin
 Body_points: 16+
 Strength_bonus: '0'
 threshold: '0'
@@ -15,7 +16,8 @@ APL: 1+
 Movement: Wandering
 Inteligence: Low
 Society: Tribal
-Motivation: Greed
+Motivation: 
+  - Greed
 armor: By Class
 offensive_abilities: May Possess Skills as PC (To 5th Level)
 defensive_abilities: Add Character Body

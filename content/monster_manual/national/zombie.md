@@ -17,7 +17,8 @@ APL: '1'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: Kill the living
+Motivation: 
+  - Kill the living
 armor: None
 offensive_abilities: May Use Any Weapon Skill
 defensive_abilities: No Metabolism

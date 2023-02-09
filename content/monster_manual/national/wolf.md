@@ -16,7 +16,11 @@ APL: '1'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Maintain the Pack, Support the Alpha, Hunger, Avoid Mankind
+Motivation: 
+  - Maintain the Pack
+  - Support the Alpha
+  - Hunger
+  - Avoid Mankind
 armor: None
 offensive_abilities: ''
 defensive_abilities: ''

@@ -17,11 +17,16 @@ APL: '1'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: Punish the Living
+Motivation: 
+  - Punish the Living
 armor: None
 offensive_abilities: May Use Any Weapon Skill
-defensive_abilities: No Metabolism Half Damage from Weapons
-vulnerabilities: Double Damage from Healing Immune to Life
+defensive_abilities: 
+  - No Metabolism 
+  - Half Damage from Weapons
+vulnerabilities: 
+  - Double Damage from Healing 
+  - Immune to Life
 spells: None
 pyramid: None
 rec_treasure: ''

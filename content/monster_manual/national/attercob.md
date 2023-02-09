@@ -16,10 +16,15 @@ APL: 5+
 Movement: Wandering
 Inteligence: Normal
 Society: Hive Queen
-Motivation: Build the Web, Support the Queen,  kill Bullywugs
+Motivation: 
+  - Build the Web
+  - Support the Queen
+  - kill Bullywugs
 armor: Natural (12)
-offensive_abilities: 'May Possess Skills as PC Physical Web x3 (May Use as Paste of
-  Stickiness)  Duration of Physical Web: 10 Minutes '
+offensive_abilities: 
+  - "May Possess Skills as PC"
+  - "Physical Web x3 (May Use as Paste of Stickiness)"
+  - "Duration of Physical Web: 10 Minutes"
 defensive_abilities: 'Add Character Body '
 vulnerabilities: ''
 spells: By Skills
@@ -28,9 +33,7 @@ rec_treasure: ''
 notes: Immune to Pin/Bind/Web
 weapon_use: By Skills
 claws: 'Short/Long '
-base_damage_call: Small Weapon - 3 Normal Short/Longsword - 4 Normal Two Handed -
-  7 Normal
-'': ''
+base_damage_call: Small Weapon - 3 Normal Short/Longsword - 4 Normal Two Handed - 7 Normal
 at_death: Remains
 healed_by: Healing
 immune_to: Sleep, Charm, Binding

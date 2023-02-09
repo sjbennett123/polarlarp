@@ -17,10 +17,13 @@ APL: '5'
 Movement: Wandering
 Inteligence: Animal
 Society: Solitairy
-Motivation: Survival and Hunger
+Motivation: 
+  - Survival and Hunger
 armor: Natural (10)
-offensive_abilities: 'Carrier Attack: Paralysis  Paralysis Poison x3  Duration of
-  Paralysis: 10 Minutes'
+offensive_abilities: 
+  - Carrier Attack: Paralysis  
+  - Paralysis Poison x3  
+  - Duration of Paralysis: 10 Minutes
 defensive_abilities: 
 vulnerabilities: 
 spells: None

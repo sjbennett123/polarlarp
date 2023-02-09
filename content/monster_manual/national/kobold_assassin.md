@@ -6,6 +6,7 @@ draft: false
 layout: national_monster_card
 monster_manual: basic
 
+name: Kobold Assassin
 Body_points: 12+
 Strength_bonus: '0'
 threshold: '0'
@@ -16,7 +17,8 @@ APL: 1+
 Movement: Wandering
 Inteligence: Low
 Society: Pack
-Motivation: Theft of shiny objects
+Motivation: 
+  - Theft of shiny objects
 armor: None
 offensive_abilities: 'Will Possess Skills as PC (Rogue To 6th Level) '
 defensive_abilities: Add Character Body

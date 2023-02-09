@@ -16,7 +16,9 @@ APL: '4'
 Movement: Wandering
 Inteligence: Low
 Society: Group Mind
-Motivation: Support the Hive Serve the royal Yellowjacket
+Motivation: 
+  - Support the Hive 
+  - Serve the royal Yellowjacket
 armor: Natural (12)
 offensive_abilities: 
   - "Carrier Attack: Paralyze with Stinger Only"

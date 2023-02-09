@@ -16,7 +16,8 @@ APL: '3'
 Movement: Wandering
 Inteligence: Animal
 Society: Pack
-Motivation: Devour the Living
+Motivation: 
+  - Devour the Living
 armor: None
 offensive_abilities: 
   - Spellstrike Cause Critical Wounds x2

@@ -18,10 +18,14 @@ APL: '4'
 Movement: Wandering
 Inteligence: Low
 Society: Pack
-Motivation: Feast Upon the Living
+Motivation: 
+  - Feast Upon the Living
 armor: None
-offensive_abilities: 'Carrier Attack Paralysis Nausea Poison x2  Duration of Paralysis:
-  10 Minutes Duration of Nausea: 10 Minutes'
+offensive_abilities: 
+  - Carrier Attack Paralysis 
+  - Nausea Poison x2  
+  - Duration of Paralysis: 10 Minutes 
+  - Duration of Nausea: 10 Minutes
 defensive_abilities: No Metabolism
 vulnerabilities: 'Double Damage from Healing Immune to Life '
 spells: None

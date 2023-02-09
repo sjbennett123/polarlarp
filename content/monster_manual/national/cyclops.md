@@ -16,7 +16,8 @@ APL: 6+
 Movement: Wandering
 Inteligence: Normal
 Society: Solitairy
-Motivation: Personal Goals
+Motivation: 
+  - Personal Goals
 armor: By Class
 offensive_abilities: May Possess Skills as PC
 defensive_abilities: Add Character Body

@@ -16,9 +16,12 @@ APL: '5'
 Movement: Wandering
 Inteligence: Low
 Society: Pack
-Motivation: Food
+Motivation: 
+  - Food
 armor: None
-offensive_abilities: Add Flame Blade to Each Swing (+4 Flame) 16 Elemental Flame x3
+offensive_abilities: 
+  - Add Flame Blade to Each Swing (+4 Flame) 
+  - 16 Elemental Flame x3
 defensive_abilities: ''
 vulnerabilities: Double Damage from Ice
 spells: None

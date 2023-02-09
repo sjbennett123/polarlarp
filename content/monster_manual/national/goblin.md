@@ -5,6 +5,7 @@ draft: false
 layout: national_monster_card
 monster_manual: basic
 
+name: Goblin
 Body_points: 8+
 Strength_bonus: '0'
 threshold: '0'
@@ -15,7 +16,9 @@ APL: 1+
 Movement: Wandering
 Inteligence: Low
 Society: Tribal
-Motivation: hunger and Greed
+Motivation: 
+  - hunger
+  - Greed
 armor: None
 offensive_abilities: May Possess Skills as PC (To 2nd Level)
 defensive_abilities: Add Character Body

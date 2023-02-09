@@ -5,6 +5,7 @@ draft: false
 layout: national_monster_card
 monster_manual: basic
 
+name: "Bear"
 Body_points: '20'
 Strength_bonus: '4'
 threshold: '1'
@@ -15,7 +16,9 @@ APL: '2'
 Movement: Wandering
 Inteligence: Normal
 Society: Family
-Motivation: Hunger, Likes Honey and Meat
+Motivation: 
+  - Hunger
+  - Likes Honey and Meat
 armor: None
 offensive_abilities: ''
 defensive_abilities: ''

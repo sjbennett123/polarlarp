@@ -16,10 +16,11 @@ APL: '8'
 Movement: Wandering
 Inteligence: Normal
 Society: Pack
-Motivation: Death to Vegetarians
+Motivation: 
+  - Death to Vegetarians
 armor: None
 offensive_abilities: 
-  - "Carrirer Attack: Acid"
+  - "Carrier Attack: Acid"
   - "10 Elemental Acid x4"
   - "20 Elemental Acid x3"
   - "30 Elemental Acid x2"
@@ -38,4 +39,4 @@ healed_by: Healing
 immune_to: Sleep, Charm, Poison, Waylay, Acid
 Protectives: None to Start
 Zone: B
-----
+---

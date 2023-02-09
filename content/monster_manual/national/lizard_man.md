@@ -16,10 +16,13 @@ APL: 2+
 Movement: Wandering
 Inteligence: Normal
 Society: Tribal
-Motivation: Survival and Advancement of the tribe
+Motivation: 
+  - Survival and Advancement of the tribe
 armor: None
 offensive_abilities: May Possess Skills as PC
-defensive_abilities: Add Character Body May Act Normally Underwater for 10 Minutes
+defensive_abilities: 
+  - Add Character Body 
+  - May Act Normally Underwater for 10 Minutes
 vulnerabilities: Double Damage from Ice
 spells: By Skills
 pyramid: None

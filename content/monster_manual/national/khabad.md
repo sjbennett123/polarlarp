@@ -16,7 +16,8 @@ APL: '1'
 Movement: Wandering
 Inteligence: Mindless
 Society: Pack
-Motivation: To Grow
+Motivation: 
+  - To Grow
 armor: None
 offensive_abilities: ''
 defensive_abilities: Lightning Adds to Body

@@ -16,7 +16,11 @@ APL: 1+
 Movement: Wandering
 Inteligence: Low
 Society: Tribal
-Motivation: Survival, Food, Hate Lizardmen,  Hate Attercob
+Motivation: 
+  - Survival
+  - Food
+  - Hate Lizardmen,  
+  - Hate Attercob
 armor: None
 offensive_abilities: May Possess Skills as PC (to 2nd Level)
 defensive_abilities: Add Character Body May Act Normally Underwater
