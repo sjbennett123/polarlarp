@@ -19,7 +19,7 @@ Society: Pack
 Motivation: 
   - To Grow
 armor: None
-offensive_abilities:
+
 defensive_abilities: 
   - Lightning Adds to Body
 vulnerabilities: 

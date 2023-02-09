@@ -33,7 +33,7 @@
     <td>{{ $motivation = .Params.motivation }}  {{$motivation = delimit  $motivation ", "  }} {{ $motivation | title  }}</td>
     <td>{{ .Params.movement }}</td>
     <td>{{ .Params.Inteligence }}</td>
-    <td>{{ $offensive_abilities := (slice ) }} {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }}</td>
+    <td>{{ $offensive_abilities := (slice ) }} {{ if .Params.offensive_abilities}}  {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }} {{ end }} </td>
     <td>{{ .Params.defensive_abilities }}</td>
     <td>{{ .Params.vulnerabilities }}</td>
     

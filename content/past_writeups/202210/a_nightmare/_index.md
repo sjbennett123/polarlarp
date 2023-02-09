@@ -14,9 +14,6 @@ hook: Targeted to the one who is chosen by the Morumbrians. The youngest player 
 synopsis: >
   Every night for the past few weeks you have been troubled by terrible dreams. When you wake up you are covered in sweat and cannot shake a feeling of doom.
 
-  You are being held close. Cradled like a baby by a gigantic figure in dark robes. Held tight to it’s chest you cannot see it’s face. You are not comforted by this action despite the apparent kindness of the gesture. The figure's skin is cold and the it’s movement is stiff and emotionless. 
-
-  A harsh purple light pervades the room growing in intensity… then you wake up. 
 
 
 ---
