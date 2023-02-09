@@ -19,7 +19,8 @@ Society: Pack
 Motivation: 
   - Rend the Living
 armor: None
-offensive_abilities: May Use Any Weapon Skill or Style
+offensive_abilities: 
+  - May Use Any Weapon Skill or Style
 defensive_abilities: 
   - No Metabolism 
   - Half Damage from Weapons

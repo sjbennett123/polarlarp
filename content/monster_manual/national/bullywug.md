@@ -22,9 +22,13 @@ Motivation:
   - Hate Lizardmen,  
   - Hate Attercob
 armor: None
-offensive_abilities: May Possess Skills as PC (to 2nd Level)
-defensive_abilities: Add Character Body May Act Normally Underwater
-vulnerabilities: May Not Use Two Handed Weapons
+offensive_abilities: 
+  - May Possess Skills as PC (to 2nd Level)
+defensive_abilities: 
+  - Add Character Body 
+  - May Act Normally Underwater
+vulnerabilities: 
+  - May Not Use Two Handed Weapons
 spells: By Skills
 pyramid: None
 rec_treasure: ''

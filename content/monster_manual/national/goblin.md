@@ -20,9 +20,12 @@ Motivation:
   - hunger
   - Greed
 armor: None
-offensive_abilities: May Possess Skills as PC (To 2nd Level)
-defensive_abilities: Add Character Body
-vulnerabilities: May Not Use Two Handed Weapons
+offensive_abilities: 
+  - May Possess Skills as PC (To 2nd Level)
+defensive_abilities: 
+  - Add Character Body
+vulnerabilities: 
+  - May Not Use Two Handed Weapons
 spells: By Skills
 pyramid: None
 rec_treasure: ''

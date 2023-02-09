@@ -20,9 +20,12 @@ Society: Tribal
 Motivation: 
   - Survival and Advancement of the Tribe
 armor: By Class
-offensive_abilities: May Possess Skills as PC (Fighter)
-defensive_abilities: Add Character Body
-vulnerabilities: May Not Buy Scholarly Skills
+offensive_abilities: 
+  - May Possess Skills as PC (Fighter)
+defensive_abilities: 
+  - Add Character Body
+vulnerabilities: 
+  - May Not Buy Scholarly Skills
 spells: None
 pyramid: None
 rec_treasure: ''

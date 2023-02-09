@@ -19,7 +19,8 @@ Society: Tribal
 Motivation: 
   - Survival and Advancement of the tribe
 armor: None
-offensive_abilities: May Possess Skills as PC
+offensive_abilities: 
+  - May Possess Skills as PC
 defensive_abilities: 
   - Add Character Body 
   - May Act Normally Underwater for 10 Minutes

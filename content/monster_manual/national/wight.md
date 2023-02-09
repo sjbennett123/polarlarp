@@ -20,7 +20,9 @@ Society: Pack
 Motivation: 
   - Drain essence from the living
 armor: None
-offensive_abilities: 'Carrier Attack: Drain  Duration of Drain: 10 Minutes'
+offensive_abilities:
+  - "Carrier Attack: Drain"
+  - "Duration of Drain: 10 Minutes"
 defensive_abilities: No Metabolism
 vulnerabilities: Double Damage from Healing. Immune to Life
 spells: None

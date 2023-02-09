@@ -15,6 +15,8 @@
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Motivation</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Movement</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Inteligence</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Offensive Abilities</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Defensive Abilities</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Monster Manual</th>
   </tr>
 </thead>
@@ -25,11 +27,13 @@
 
   <tr>
     <td><a href="{{.Permalink}}"> {{ .Params.name }}</a></td>
-    <td>{{ .Params.type }}</td>
+    <td>{{ .Params.type | title }}</td>
     <td>{{ .Params.apl }}</td>
     <td>{{ $motivation = .Params.motivation }}  {{$motivation = delimit  $motivation ", "  }} {{ $motivation | title  }}</td>
     <td>{{ .Params.movement }}</td>
     <td>{{ .Params.Inteligence }}</td>
+    <td>{{ $offensive_abilities := (slice ) }} {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }}</td>
+    <td>{{ .Params.defensive_abilities }}</td>
     <td>{{ .Params.monster_manual }}</td>
   </tr>
 {{ end }}

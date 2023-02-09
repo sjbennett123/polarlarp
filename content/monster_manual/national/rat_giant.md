@@ -19,7 +19,9 @@ Society: Pack
 Motivation: 
   - Hunger
 armor: None
-offensive_abilities: 'Carrier Attack: Disease  Duration of Disease: Until Cured'
+offensive_abilities: 
+  - "Carrier Attack: Disease"
+  - "Duration of Disease: Until Cured"
 defensive_abilities: ''
 vulnerabilities: ''
 spells: None

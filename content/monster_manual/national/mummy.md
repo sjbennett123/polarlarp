@@ -21,12 +21,15 @@ Motivation:
   - Send the Living to their graves
 armor: None
 offensive_abilities: 
-  - Carrier Attack: Disease 
-  - Spellstrike Wither Limb x2  
-  - Duration of Disease: Until Cured 
-  - Duration of Wither: Until Restored
-defensive_abilities: No Metabolism
-vulnerabilities: Double Damage from Healing and Flame Immune to Life
+  - "Carrier Attack: Disease"
+  - "Spellstrike Wither Limb x2"
+  - "Duration of Disease: Until Cured"
+  - "Duration of Wither: Until Restored"
+defensive_abilities: 
+  - No Metabolism
+vulnerabilities: 
+  - Double Damage from Healing and Flame 
+  - Immune to Life
 spells: None
 pyramid: None
 rec_treasure: ''

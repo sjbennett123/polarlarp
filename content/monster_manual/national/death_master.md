@@ -20,7 +20,8 @@ Society: Pack
 Motivation: 
   - Lead Lesser Undead to Ravage the Living
 armor: None
-offensive_abilities: Control Lesser Undead by Voice
+offensive_abilities: 
+  - Control Lesser Undead by Voice
 defensive_abilities: No Metabolism
 vulnerabilities: 'Double Damage from  Healing Immune to Life '
 spells: None

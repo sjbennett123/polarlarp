@@ -19,7 +19,8 @@ Society: Solitary
 Motivation: 
   - Hunger of the dead
 armor: None
-offensive_abilities: 'May Use Any Weapon Skill or Style '
+offensive_abilities: 
+  - May Use Any Weapon Skill or Style
 defensive_abilities: May Not Be Killing Blowed
 vulnerabilities: Double Damage from Healing Immune to Life
 spells: None

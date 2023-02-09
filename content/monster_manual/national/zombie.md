@@ -20,9 +20,14 @@ Society: Pack
 Motivation: 
   - Kill the living
 armor: None
-offensive_abilities: May Use Any Weapon Skill
-defensive_abilities: No Metabolism
-vulnerabilities: Double Damage from Healing Immune to Life Cannot Defend Against Attacks
+offensive_abilities: 
+  - May Use Any Weapon Skill
+defensive_abilities:
+  -  No Metabolism
+vulnerabilities: 
+  - Double Damage from Healing 
+  - Immune to Life 
+  - Cannot Defend Against Attacks
 spells: None
 pyramid: None
 rec_treasure: ''

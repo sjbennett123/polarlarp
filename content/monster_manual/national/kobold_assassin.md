@@ -20,7 +20,8 @@ Society: Pack
 Motivation: 
   - Theft of shiny objects
 armor: None
-offensive_abilities: 'Will Possess Skills as PC (Rogue To 6th Level) '
+offensive_abilities: 
+  - "Will Possess Skills as PC (Rogue To 6th Level)"
 defensive_abilities: Add Character Body
 vulnerabilities: Must Puchase One Handed Weapon and Waylay
 spells: None

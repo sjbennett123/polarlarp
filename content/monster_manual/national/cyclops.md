@@ -19,7 +19,8 @@ Society: Solitairy
 Motivation: 
   - Personal Goals
 armor: By Class
-offensive_abilities: May Possess Skills as PC
+offensive_abilities: 
+  - "May Possess Skills as PC"
 defensive_abilities: Add Character Body
 vulnerabilities: ''
 spells: By Skills

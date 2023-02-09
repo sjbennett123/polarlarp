@@ -20,7 +20,8 @@ Motivation:
   - Hates Sarr (Gorbe)
   - conquest
 armor: By Class
-offensive_abilities: May Possess Skills as PC
+offensive_abilities: 
+  - May Possess Skills as PC
 defensive_abilities: Add Character Body
 vulnerabilities: May Not Use Blunt Weapons
 spells: By Skills

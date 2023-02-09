@@ -20,7 +20,8 @@ Society: Tribal
 Motivation: 
   - Survival and Advancement of the Tribe
 armor: By Class
-offensive_abilities: May Possess Skills as PC
+offensive_abilities: 
+  - May Possess Skills as PC
 defensive_abilities: Add Character Body
 vulnerabilities: Pay Double for Scholarly Skills and Ritual Magic
 spells: By Skills

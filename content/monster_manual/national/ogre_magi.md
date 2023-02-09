@@ -20,8 +20,10 @@ Society: Tribal
 Motivation: 
   - Survival and Advancement of the Tribe
 armor: By Class
-offensive_abilities: May Possess Skills as PC (Templar)
-defensive_abilities: Add Character Body
+offensive_abilities: 
+  - May Possess Skills as PC (Templar)
+defensive_abilities: 
+  - Add Character Body
 vulnerabilities: ''
 spells: By Skills
 pyramid: None

@@ -19,8 +19,10 @@ Society: Tribal
 Motivation: 
   - Greed
 armor: By Class
-offensive_abilities: May Possess Skills as PC (To 5th Level)
-defensive_abilities: Add Character Body
+offensive_abilities: 
+  - May Possess Skills as PC (To 5th Level)
+defensive_abilities: 
+  - Add Character Body
 vulnerabilities: ''
 spells: By Skills
 pyramid: None

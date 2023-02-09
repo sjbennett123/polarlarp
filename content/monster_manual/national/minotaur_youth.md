@@ -19,7 +19,8 @@ Society: Tribal
 Motivation: 
   - Like contests and dares
 armor: By Class
-offensive_abilities: May Possess Skills as PC
+offensive_abilities: 
+  - May Possess Skills as PC
 defensive_abilities: Add Character Body May Buy Resist Poison as Dwarf
 vulnerabilities: ''
 spells: By Skills

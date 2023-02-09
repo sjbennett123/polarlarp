@@ -20,9 +20,14 @@ Society: Pack
 Motivation: 
   - Ravage the living
 armor: As Fighter (20)
-offensive_abilities: May Use Any Weapon
-defensive_abilities: No Metabolism Half Damage from Weapons
-vulnerabilities: 'Double Damage from Healing Immune to Life '
+offensive_abilities: 
+  - May Use Any Weapon
+defensive_abilities: 
+  - No Metabolism 
+  - Half Damage from Weapons
+vulnerabilities: 
+   - Double Damage from Healing 
+   - Immune to Life
 spells: None
 pyramid: None
 rec_treasure: ''

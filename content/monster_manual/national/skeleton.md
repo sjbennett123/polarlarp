@@ -20,7 +20,8 @@ Society: Pack
 Motivation: 
   - Punish the Living
 armor: None
-offensive_abilities: May Use Any Weapon Skill
+offensive_abilities: 
+  - May Use Any Weapon Skill
 defensive_abilities: 
   - No Metabolism 
   - Half Damage from Weapons
