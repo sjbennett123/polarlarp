@@ -6,19 +6,19 @@ layout: national_monster_card
 monster_manual: 
 
 Name: Unicorn, Black
-Body_points: 
-Strength_bonus:
+Body_points: 100
+Strength_bonus: 6
 threshold: 
-rips_from:
+rips_from: Pin/Bind/Web
 Descriptive Phrase: A Black Stallion with a horn in it’s Forehead
-Type:
+Type: Animal
 APL: 12
-Movement: 
-Inteligence: 
-Society: 
+Movement: Wandering
+Inteligence: Normal
+Society: Solitary
 Motivation: 
   - Corrupt The Woodlands
-armor: 
+armor: None
 offensive_abilities: 
   - Spellstrike Cause Mortal Wounds  x6
   - Spellstrike Death x3
@@ -39,7 +39,7 @@ weapon_use:
 claws: Short/Long
 base_damage_call: Small Weapon - “4  Normal”Short/Longsword - “5 Normal”
 at_death: Remains
-healed_by: 
+healed_by: Necromancy
 immune_to: 
 Protectives: May Have
 Zone: 

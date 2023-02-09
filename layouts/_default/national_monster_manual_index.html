@@ -17,6 +17,7 @@
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Inteligence</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Offensive Abilities</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Defensive Abilities</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Vulnerabilities</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Monster Manual</th>
   </tr>
 </thead>
@@ -34,6 +35,8 @@
     <td>{{ .Params.Inteligence }}</td>
     <td>{{ $offensive_abilities := (slice ) }} {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }}</td>
     <td>{{ .Params.defensive_abilities }}</td>
+    <td>{{ .Params.vulnerabilities }}</td>
+    
     <td>{{ .Params.monster_manual }}</td>
   </tr>
 {{ end }}
