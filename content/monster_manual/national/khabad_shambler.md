@@ -20,9 +20,9 @@ Motivation:
   - Food
 armor: None
 offensive_abilities: 
-  - Engulf x3 
-  - Physical Web x3  
-  - Duration of Physical Web: 10 Minutes
+  - "Engulf x3"
+  - "Physical Web x3"
+  - "Duration of Physical Web: 10 Minutes"
 defensive_abilities: 'Lightning Adds to Body '
 vulnerabilities: ''
 spells: None

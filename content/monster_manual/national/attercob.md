@@ -25,7 +25,8 @@ offensive_abilities:
   - "May Possess Skills as PC"
   - "Physical Web x3 (May Use as Paste of Stickiness)"
   - "Duration of Physical Web: 10 Minutes"
-defensive_abilities: 'Add Character Body '
+defensive_abilities: 
+  - 'Add Character Body '
 vulnerabilities: ''
 spells: By Skills
 pyramid: None

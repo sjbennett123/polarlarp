@@ -20,12 +20,12 @@ Motivation:
   - Capture Food Sources
 armor: None
 offensive_abilities: 
-  - Carrier Attack: Nausea 
-  - Paralysis Poison x4  
-  - Duration of Nausea: 10 Minutes 
-  - Duration of Paralysis: 10 Minutes
-defensive_abilities: ''
-vulnerabilities: ''
+  - "Carrier Attack: Nausea"
+  - "Paralysis Poison x4"
+  - "Duration of Nausea: 10 Minutes"
+  - "Duration of Paralysis: 10 Minutes"
+defensive_abilities: 
+vulnerabilities: 
 spells: None
 pyramid: None
 rec_treasure: ''

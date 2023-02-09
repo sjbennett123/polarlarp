@@ -20,10 +20,10 @@ Motivation:
   - To Fertilize its roots
 armor: None
 offensive_abilities: 
-  - Instant Death Poison x4 
-  - Physical Web x3  
-  - Duration of Physical Web: 10 Minutes
-defensive_abilities: ''
+  - "Instant Death Poison x4"
+  - "Physical Web x3"
+  - "Duration of Physical Web: 10 Minutes"
+defensive_abilities:
 vulnerabilities: Double Damage from Flame
 spells: None
 pyramid: None

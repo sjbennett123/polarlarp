@@ -22,9 +22,9 @@ Motivation:
   - Spawning
 armor: None
 offensive_abilities: 
-  - Carrier Attack: Nausea 
-  - Engulf x1  
-  - Duration of Nausea: 10 Minutes
+  - "Carrier Attack: Nausea"
+  - "Engulf x1"
+  - "Duration of Nausea: 10 Minutes"
 defensive_abilities: ''
 vulnerabilities: ''
 spells: None

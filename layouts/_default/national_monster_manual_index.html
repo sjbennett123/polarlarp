@@ -18,6 +18,8 @@
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Offensive Abilities</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Defensive Abilities</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Vulnerabilities</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Healed By</th>
+    <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >immune to</th>
     <th scope="col"  data-tablesaw-sortable-col data-tablesaw-priority="0" >Monster Manual</th>
   </tr>
 </thead>
@@ -36,7 +38,8 @@
     <td>{{ $offensive_abilities := (slice ) }} {{ if .Params.offensive_abilities}}  {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }} {{ end }} </td>
     <td>{{ .Params.defensive_abilities }}</td>
     <td>{{ .Params.vulnerabilities }}</td>
-    
+    <td>{{ .Params.healed_by }}</td>
+    <td>{{ .Params.immune_to }}</td>
     <td>{{ .Params.monster_manual }}</td>
   </tr>
 {{ end }}

@@ -41,6 +41,11 @@ base_damage_call: Small Weapon - “4  Normal”Short/Longsword - “5 Normal”
 at_death: Remains
 healed_by: Necromancy
 immune_to: 
+  - Sleep
+  - Charm
+  - Poison
+  - Feeblemind
+  - Vertigo
 Protectives: May Have
 Zone: 
 
