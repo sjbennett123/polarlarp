@@ -1,6 +1,6 @@
 ---
 Name: Ghoul
-Body_points: '15'
+Body_points: 15
 Strength_bonus: '2'
 threshold: '0'
 rips_from: Pin
@@ -22,9 +22,9 @@ notes: None
 weapon_use: None
 claws: 'Short/Long '
 base_damage_call: Small Weapon - 2 Paralyze Short/Longsword - 3 Paralyze
-'': ''
 at_death: Crumbles
 healed_by: Necromancy (Double)
 immune_to: Sleep, Charm, Poison, Death, Paralyze, Waylay, Ice, Drain
 Protectives: None to Start
 Zone: A
+---

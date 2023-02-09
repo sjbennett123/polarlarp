@@ -1,4 +1,10 @@
 ---
+title: Spider, Venemous
+date: 2022-11-10T10:33:21-05:00
+draft: false
+layout: national_monster_card
+monster_manual: basic
+
 Name: Spider, Venemous
 Body_points: '15'
 Strength_bonus: '2'
@@ -29,3 +35,4 @@ healed_by: Healing
 immune_to: Poison, Binding
 Protectives: None to Start
 Zone: B
+---

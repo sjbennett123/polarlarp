@@ -1,4 +1,10 @@
 ---
+title: Lizard Man
+date: 2022-11-10T10:33:21-05:00
+draft: false
+layout: national_monster_card
+monster_manual: basic
+
 Name: Lizard Man
 Body_points: 20+
 Strength_bonus: '4'
@@ -21,11 +27,11 @@ rec_treasure: ''
 notes: ''
 weapon_use: By Skills
 claws: 'Short/Long '
-base_damage_call: Small Weapon - 3 Normal Short/Longsword - 4 Normal Two Handed -
-  7 Normal
-'': ''
+base_damage_call: Small Weapon - 3 Normal Short/Longsword - 4 Normal Two Handed - 7 Normal
+
 at_death: Remains
 healed_by: Healing
 immune_to: Waylay 2
 Protectives: None to Start
 Zone: B
+---

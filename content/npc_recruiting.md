@@ -65,3 +65,9 @@ Run a meeting
 
 - Invite to postmortem meeting
 - Go out to breakfast with the crew. 
+
+## Ask for advice 
+
+### Recruiting 
+
+I'm working on doing  NPC recruiting for a NERO event that I get to run in a few months. Could I pick your brain sometime and get your tips for how to get more NPC's?
