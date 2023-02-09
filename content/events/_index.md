@@ -14,6 +14,7 @@ events:
     oog_location: To Be Determined
     event_director: Devin Pusateri
     type: Weekend Event
+    facebook_link: https://www.facebook.com/events/1317732195737709
   - 
     date: March 10
     title: The wilds of Arda Yanna
@@ -30,6 +31,7 @@ events:
     oog_location: To Be Determined
     event_director: Stephen Dupree
     type: Weekend Event
+    facebook_link: https://www.facebook.com/events/1439762673216106
   - 
     date: May 12
     title: Rebirth of the Lost
@@ -37,6 +39,7 @@ events:
     oog_location: To Be Determined
     event_director: Erin Albert Jamison & Donnie Leight
     type: Weekend Event
+    facebook_link: https://www.facebook.com/events/497964965608073
   - 
     date: June 2
     title: Lost in the Work

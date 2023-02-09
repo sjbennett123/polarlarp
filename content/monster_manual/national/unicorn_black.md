@@ -35,7 +35,7 @@ spells: Earth
 pyramid: 4,4,4,4,4,4,4,4,4
 rec_treasure: 
 notes: 
-weapon_use: 
+weapon_use: None
 claws: Short/Long
 base_damage_call: Small Weapon - “4  Normal”Short/Longsword - “5 Normal”
 at_death: Remains
@@ -47,52 +47,6 @@ immune_to:
   - Feeblemind
   - Vertigo
 Protectives: May Have
-Zone: 
+Zone: C
 
 ---
-
-
-
-
-| Name                   | Unicorn, Black                                               |
-| ---------------------- | ------------------------------------------------------------ |
-| APL                    | 12                                                           |
-| Body  Points           | 100                                                          |
-| Strength  Bon          | 6                                                            |
-| Threshold              | 0                                                            |
-| Rips From              | Pin/Bind/Web                                                 |
-| Descriptive  Phrase    | A Black Stallion with a horn in  it’s Forehead               |
-| Type                   | Animal                                                       |
-|                        |                                                              |
-| Movement               | Wandering                                                    |
-| Intelligence           | Normal                                                       |
-| Society                | Solitary                                                     |
-| Motivation             | Corrupt The Woodlands                                        |
-| Armor                  | None                                                         |
-| Offensive  Abilities   | Spellstrike Cause Mortal Wounds  x6Spellstrike Death x3Magic Curse x3Pyramid Delivered as “Magic” |
-| Defensive  Abilities   | Return Magic x3, Dodge x5, Return  Waylay x2                 |
-| Vulnerabilities        | Double Damage from HealingMay Not  Cast Healing              |
-| Spells                 | Earth                                                        |
-| Pyramid                | 4,4,4,4,4,4,4,4,4                                            |
-| Recomended  Treasure   |                                                              |
-| Notes                  |                                                              |
-| Weapon Use             | None                                                         |
-| Claw Use               | Short/Long                                                   |
-| Damage  Call           | Small Weapon - “4  Normal”Short/Longsword - “5 Normal”       |
-| Affected  By           | Magic                                                        |
-| Restrictions           | Plot Only                                                    |
-| At Zero                | Remains                                                      |
-| Healed By              | Necromancy                                                   |
-| Immunities             | Sleep, Charm, Poison, Feeblemind,  Vertigo                   |
-| Protectives            | May Have                                                     |
-| Zone                   | C                                                            |
-| Spiritstore            | Locked In                                                    |
-| Print                  |                                                              |
-| Summon                 |                                                              |
-| Government             |                                                              |
-| Plotline  Attachment   |                                                              |
-| Plot  Effect           |                                                              |
-| Plot  Member In Charge |                                                              |
-| Use of  Necromancy     |                                                              |
-| In Game  Information   |                                                              |
-| Location               |                                                              |
