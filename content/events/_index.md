@@ -47,6 +47,7 @@ events:
     oog_location: Tomlinson Run State Park
     event_director: Devin Pusateri
     type: Weekend Event
+    facebook_link: https://www.facebook.com/events/6254619004562407
   - 
     date: August 25
     title: Road to Glavorn
@@ -54,13 +55,23 @@ events:
     oog_location: To Be Determined
     event_director: Devin Pusateri
     type: Weekend Event
+    facebook_link: https://www.facebook.com/events/716261203465902
   - 
     date: September 22
     title: The Winter Harvest of Vindale
     ig_location:  To Be Determined
     oog_location: To Be Determined
+    event_director: Chris Colland
+    type: Weekend Event
+    facebook_link: https://www.facebook.com/events/727514045442080
+  - 
+    date: November 10
+    title: For whom the bells toll
+    ig_location:  To Be Determined
+    oog_location: To Be Determined
     event_director: Danielle Regula 
     type: Weekend Event
+    facebook_link: https://www.facebook.com/events/1346513415920618
 
 ---
 
