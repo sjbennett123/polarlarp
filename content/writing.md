@@ -141,37 +141,49 @@ Remember to give your characters names. Use name lists such as the [Storygames N
 [Monster Manual]({{< ref "/monster_manual/national/" >}})
 
 ```yaml
-title: "Bear"
+---
+title: 
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: national_monster_card
-Body_points: '20'
-Strength_bonus: '4'
-threshold: '1'
-rips_from: Pin/Bind
-Descriptive_Phrase: "A big bear with thick brown fur"
-Type: Animal
-APL: '2'
-Movement: Wandering
-Inteligence: Normal
-Society: Family
-Motivation: Hunger, Likes Honey and Meat
-armor: None
-offensive_abilities: ''
-defensive_abilities: ''
-vulnerabilities: ''
-spells: None
-pyramid: None
-rec_treasure: ''
-notes: None
-weapon_use: None
-claws: 'Short/Long '
-base_damage_call: "Small Weapon - 3 Normal Short/Longsword - 4 Normal"
-at_death: Remains
-healed_by: Healing
-immune_to: Waylay 1
-Protectives: None to Start
-Zone: A
+monster_manual: 
+
+Name: 
+Body_points: 
+Strength_bonus:
+threshold: 
+rips_from:
+Descriptive Phrase:
+Type:
+APL:
+Movement: 
+Inteligence: 
+Society: 
+Motivation: 
+  - 
+armor: 
+offensive_abilities: 
+  - 
+defensive_abilities: 
+  - 
+vulnerabilities: 
+   - 
+spells: 
+pyramid: 
+rec_treasure: 
+notes: 
+weapon_use: 
+claws: 
+base_damage_call: 
+at_death: 
+healed_by: 
+immune_to: 
+Protectives: 
+Zone: 
+
+---
+
+
 ```
 
 ## Writing Tips
