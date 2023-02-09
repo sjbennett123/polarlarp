@@ -25,7 +25,7 @@ offensive_abilities:
   - "Sting Attack: Slay x1 Yellowjacket Dies When Used Only Usable as Slay with Base 3 Weapon May Not be Used as Parry"
   - "Duration of Paralysis: 10 Minutes"
 defensive_abilities: None
-vulnerabilities: If Opponent Does Not Move The Yellowjacket  Will Ignore Them Provided They Are Not Already Engaged In Battle
+vulnerabilities: If Opponent Does Not Move The Yellowjacket Will Ignore Them Provided They Are Not Already Engaged In Battle
 spells: None
 pyramid: None
 rec_treasure: ''
