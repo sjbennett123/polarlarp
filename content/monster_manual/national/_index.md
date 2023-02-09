@@ -6,3 +6,5 @@ layout: national_monster_manual_index
 ---
 
 [How to Read a Monter Card]({{< ref "/monster_manual/national/read_a_card" >}})
+
+[Todo]({{< ref "/monster_manual/national/todo" >}})
