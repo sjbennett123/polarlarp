@@ -19,15 +19,16 @@ Society: Pack
 Motivation: 
   - Food
 armor: None
-offensive_abilities: ''
-defensive_abilities: Resist Poison x1
-vulnerabilities: ''
+offensive_abilities: 
+defensive_abilities: 
+  - Resist Poison x1
+vulnerabilities: 
 spells: None
 pyramid: None
-rec_treasure: ''
-notes: ''
+rec_treasure: 
+notes:
 weapon_use: None
-claws: 'Short/Long '
+claws: 'Short/Long'
 base_damage_call: Small Weapon - 3 Normal Short/Longsword - 4 Normal
 
 at_death: Remains

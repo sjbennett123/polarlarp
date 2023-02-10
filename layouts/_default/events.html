@@ -5,18 +5,18 @@
 <p>Event Registration closes the week before an event on Friday.</p>
 <h2>Upcoming Events</h2>
 {{ range  .Params.events  }}
-<h4> {{ .date }}  ~  {{ .title | title }} </h4>
-<p><b>Event Type:</b> {{ .type }} </p>
-<p><b>In Game Location:</b> The city of {{ .ig_city }} in the barony of {{ .ig_barony }}</p>
-<p><b>Campsite:</b> {{ .oog_location }}    </p>
-<p><b>Event Director:</b> {{ .event_director }}    </p>
-<p><b>Registration Deadline:</b> </p><!--January 1 Every person must prepay there is no option to pay on site. -->
-<p><b>PC Onsite:</b>   </p><!--January 14 , 10 AM-->
-<p><b>Game Start:</b>   </p><!--January 14, 12 PM-->
-<p><b>Game End:</b>   </p><!--January 14, 5 PM-->
-<p><b>PC Offsite:</b>    </p><!--January 14, 7 PM-->
-<p><b>{{ .notes }}</b>    </p>
-<p>{{ if .facebook_link }} <a href="https://www.facebook.com/events/1317732195737709"><i class="fab fa-facebook"></i></a> {{ end }}</p>
+<h4>{{ .date }}  ~  {{ .title | title }}    {{ if .facebook_link }}<a href="https://www.facebook.com/events/1317732195737709"><i class="fab fa-facebook"></i></a>{{ end }}</h4>
+<p><b>Event Type: </b> {{ .type }} </p>
+<p><b>In Game Location: </b> The city of {{ .ig_city }} in the barony of {{ .ig_barony }}</p>
+<p><b>Campsite: </b> {{ .oog_location }}    </p>
+<p><b>Event Director: </b> {{ .event_director }}    </p>
+<p><b>Registration Deadline: </b> </p><!--January 1 Every person must prepay there is no option to pay on site. -->
+<p><b>PC Onsite: </b>   </p><!--January 14 , 10 AM-->
+<p><b>Game Start: </b>   </p><!--January 14, 12 PM-->
+<p><b>Game End: </b>   </p><!--January 14, 5 PM-->
+<p><b>PC Offsite: </b>    </p><!--January 14, 7 PM-->
+<p><b>Notes: </b>{{ .notes }}</p>
+<p></p>
 {{ end }} 
 {{ .Content }} 
 

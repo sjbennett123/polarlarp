@@ -34,7 +34,7 @@ pyramid: None
 rec_treasure: ''
 notes: ''
 weapon_use: None
-claws: 'Short/Long '
+claws: 'Short/Long'
 base_damage_call: 'Small Weapon - 2 Acid Short/Longsword - 3 Acid '
 at_death: Remains
 healed_by: Healing

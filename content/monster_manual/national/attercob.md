@@ -37,7 +37,11 @@ claws: 'Short/Long '
 base_damage_call: Small Weapon - 3 Normal Short/Longsword - 4 Normal Two Handed - 7 Normal
 at_death: Remains
 healed_by: Healing
-immune_to: Sleep, Charm, Binding
+immune_to: 
+  - Sleep
+  - Charm
+  - Binding
+  - Pin/Bind/Web
 Protectives: None to Start
 Zone: B
 ---

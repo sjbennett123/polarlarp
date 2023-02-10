@@ -21,7 +21,7 @@ Motivation:
 armor: None
 offensive_abilities: 
   - "Thrown Weapon +5 Damage With Thrown Weapon"
-  -  "1 Innate Slay With Thrown Weapon"
+  - "1 Innate Slay With Thrown Weapon"
 defensive_abilities: ''
 vulnerabilities: ''
 spells: None
