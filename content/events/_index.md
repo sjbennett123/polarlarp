@@ -9,16 +9,17 @@ events:
   - 
     date: Februry 10
     title: The road to Adron
-    ig_location:  To Be Determined
+    ig_city: Hag Hill
     ig_barony: Adron
     oog_location: To Be Determined
     event_director: Devin Pusateri
     type: Weekend Event
     facebook_link: https://www.facebook.com/events/1317732195737709
+    notes: This will be an overhead lights off event. Bring lights! it will be hard to see indoors! 
   - 
     date: March 10
     title: The wilds of Arda Yanna
-    ig_location:  To Be Determined
+    ig_location: To Be Determined
     oog_location: To Be Determined
     event_director: Clinton Russell Snyder
     type: Weekend Event
