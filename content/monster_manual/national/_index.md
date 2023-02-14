@@ -5,6 +5,10 @@ draft: false
 layout: national_monster_manual_index
 ---
 
-[How to Read a Monster Card]({{< ref "/monster_manual/national/_read_a_card" >}})
 
-[Todo]({{< ref "/monster_manual/national/todo" >}})   ~   [Monster Manual Excel](/nero_monsters.xlsx)
+{{% button href="../monster_manual/national/_read_a_card"   %}}How to Read a Monster Card{{% /button %}}
+
+{{% button href="/nero_monsters.xlsx" %}}Excel{{% /button %}} {{% button href="../monster_manual/national/csv" %}}CSV{{% /button %}} {{% button href="../monster_manual/national/json" %}}JSON{{% /button %}}
+
+{{% button href="../monster_manual/national/todo" %}}Todo{{% /button %}}
+
