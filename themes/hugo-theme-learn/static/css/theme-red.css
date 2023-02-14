@@ -1,7 +1,7 @@
 
 :root{
 
-    --MAIN-TEXT-color:#323232; /* Color of text by default */
+    --MAIN-TEXT-color:white; /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
     --MAIN-LINK-color:#f31c1c; /* Color of links */
     --MAIN-LINK-HOVER-color:#d01616; /* Color of hovered links */
@@ -31,6 +31,12 @@
 
 body {
     color: var(--MAIN-TEXT-color) !important;
+    background-color: #00000 !important;
+}
+
+h1 {
+    color: white !important;
+    background-color: #00000 !important;
 }
 
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
@@ -126,3 +132,4 @@ a:hover {
 #homelinks a:hover {
   color: var(--MENU-HOME-LINK-HOVERED-color);
 }
+body {background-color: black;  !important;}

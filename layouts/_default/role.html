@@ -5,13 +5,17 @@
 </div>
 {{ end }} 
 
+<p>
+<a href="{{ .RelPermalink }}/index.json" class = "noprint"><i class="fab fa-facebook"></i></a>{
+</p>
+
+
 <p><i>{{ .Params.introduction | markdownify }}</i></p>
 {{ .Content }} 
 <hr>
 {{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
 
 <p><b>Body:</b> {{ .Params.body }}</p>
-
 <p><b>Weapons:</b> {{ .Params.weapons }}</p>
 {{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
 

@@ -20,7 +20,7 @@
   border-radius: .25em;
   background: none;
   box-shadow: 0 1px 0 rgba(255,255,255,1);
-  color: #4a4a4a;
+  color: black;
   cursor: pointer;
   display: inline-block;
   margin: 0;
@@ -35,7 +35,7 @@
 }
 
 a.tablesaw-btn {
-  color: #1c95d4;
+  color: black;
 }
 
 .tablesaw-btn:hover {
@@ -50,7 +50,7 @@ a.tablesaw-btn {
 
 @supports (box-shadow: none ) {
   .tablesaw-btn:focus {
-    background-color: #fff;
+    background-color: black;
     outline: none;
   }
 
@@ -306,7 +306,9 @@ a.tablesaw-btn {
     display: inline;
   }
 }
-
+th {
+  color: black !important; 
+}
 .tablesaw th,
 .tablesaw td {
   padding: .5em .7em;
