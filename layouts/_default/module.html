@@ -3,7 +3,7 @@
 <p><b>Written By:</b> {{ .Params.author }}</p>
 
 <div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} 
-{{ if where .Pages ".Params.Layout" "IN"  (slice "feedback" ) }} 
+{{ if where .Pages ".Params.Layout" "=" "feedback"  }} 
     {{ range where .Pages ".Params.Layout" "IN"  (slice "feedback" )  }}
             <a href="{{.Permalink}}"> {{ .Params.author }} </a>
     {{ end }}
@@ -37,24 +37,22 @@
 
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 
-{{ if or (where .Pages ".Params.Layout" "=" "role")  (.Params.roles) }} 
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) )  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b>
-{{ if .Params.roles }}{{ .Params.roles }}{{ end }} 
-{{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "role" }}
-            <a href="{{.Permalink}}">{{ .Params.quantity | default ""}} {{.Title}} </a>
-    {{ end }}
+{{ if .Params.roles -}}{{- .Params.roles -}}{{- end -}} 
+{{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+    {{- range  $index, $value := where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}}
+{{- if (ne $index 0) -}}, {{ end -}}
+<a href="{{.Permalink}}">{{ .Params.quantity | default ""}}{{ if .Params.quantity }}X {{ end }} {{.Title}} </a>
+    {{- end -}}
 {{ end }}
 </p></div>
 {{ end }}
 
-{{ if where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" ) }} 
+{{ if where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) }} 
 <div id="misc"><p><b>Misc:</b>
-
-    {{ range where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" )  }}
-            <a href="{{.Permalink}}">{{.Title}} </a>
-    {{ end }}
-</p></div>
+{{ range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+{{- if (ne $index 0) -}}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
 {{ end }}
 
 {{ $props := (slice ) }}
@@ -62,7 +60,7 @@
 {{ $props = $props  | append .Params.props }}
 {{ end }}
 {{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "role" }}
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
                       {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
     {{ end }}
 {{ end }}
@@ -77,7 +75,7 @@
 {{ if  .Params.makeup }} 
 {{ $makeup = $makeup  | append .Params.makeup }} {{ end }}
 {{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "role" }}
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
            {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
     {{ end }}
 {{ end }}
@@ -93,7 +91,7 @@
 {{ $costuming =  $costuming |append .Params.costuming }}
 {{ end }}
 {{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "role" }}
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" )  }}
              {{ if .Params.costuming }}  {{ $costuming =  $costuming |append .Params.costuming }} {{ end }}
     {{ end }}
 {{ end }}

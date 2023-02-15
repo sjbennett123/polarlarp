@@ -3,6 +3,7 @@ title: "Tomlinson Run State Park"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1
+description: "A Rustic State Park with similar accommodations to Racoon Creek."
 ---
 
 - **Address**: 84 Osage Road, New Manchester, WV 26056

@@ -18,5 +18,5 @@ synopsis: >
 
 ---
 
-{{< audio src="/audio/a_nightmare.mp3" class="something" >}}
+
 

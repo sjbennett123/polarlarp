@@ -31,7 +31,6 @@ scenes:
     oog: Outside Camp Rep or Mod Shack (IG) Site
     ig: Bloody Fist Black 
     flee_point: Exit of Black Site or Door of mod shack (IG) Road back to Town
-Roles: Jiren “Bonesaw” the Jailor, Bloody Fist Grunt x4, Bloody Fist Shaman x2
 Number_of_Cast_Members: 7
 ---
 
