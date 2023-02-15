@@ -15,10 +15,10 @@ magic_items:
   - 
     name:  Sword of Zelous Light
     description:  A sword from a fallen Hoylean Knight, ebbing with the pain of a thousand wars fought
-    duration: 1 Year
+    duration: 2 Year
     effects: 
-      - Purify Blood x2
-      - Poison Shield x2
+      - Purify Blood x2/Day
+      - Poison Shield x2/Day
 
 author: Chris Colland
 reviewer: Scott Bennett
@@ -37,7 +37,7 @@ outcomes:
 hook: The players enter the town of Stonewood and discover the Module is already live
 number_of_cast_members: 12 If you do not have 12 characters the townspeople are in order of precedence. 
 props: 
-  - Altar of Power
+  - Hoylean Altar of Power
   - Dwarf Townsfolk costuming
   - Hoylean Necklaces for Altar
   - Named NPC Costuming

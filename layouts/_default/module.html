@@ -64,6 +64,8 @@
                       {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
     {{ end }}
 {{ end }}
+{{ $props = $props  | uniq }}
+
 {{ if (gt ($props | len) 0) }}
 <div id="props"> <p><b>Props: </b> 
 {{ delimit $props ", "}}
@@ -104,18 +106,19 @@
 
 {{ if or (.Params.treasure)  (.Params.magic_items) }}
 <div id="treasure"> <p><b>Treasure:</b>
-{{ if  .Params.treasure }}  {{ delimit  .Params.treasure ", " }} {{ end }} 
+{{ if  .Params.treasure }}{{ delimit  .Params.treasure ", " -}}{{- end -}} 
 {{ $magic_items := (slice )  }}
-{{ if .Params.magic_items }}
-    {{ $magic_items = append $magic_items .Params.magic_items }}
-{{ end }}
-{{ if (gt ($magic_items | len) 0) }}
+{{- if .Params.magic_items -}}
+    {{- $magic_items = append $magic_items .Params.magic_items -}}
+{{- end -}}
+{{- if (gt ($magic_items | len) 0) -}}
 
-{{ range  $magic_items  }}
-<b><i> {{ .name }} (</b></i>
+{{- range  $index,$magic_items  -}}
+,
+<b><i>{{- .name -}}(</b></i>
 <b>Description:</b> {{ .description }}
 <b>Duration:</b> {{ .duration }}
-<b>Effects:</b> {{ delimit .effects ", " }})
+<b>Effects:</b> {{ delimit .effects ", " }}<b>)</b>
 {{ end }} 
 {{ end }}
 </p></div>

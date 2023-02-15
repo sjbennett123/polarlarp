@@ -14,6 +14,7 @@ costuming:
  - Noble Clothing
 props: 
  - Cane/Walking Stick
+ - Copy of the Accords of the Fist
 introduction: You have been left in charge by orcs due to your docile nature and your lack of drive. You work to ensure that the populace complies with the Accords of the Fist and work with the orcs take care of any problems. This arrangement has worked out pretty well for you, leading to you having a very nice home outside of town and a position of power that you never would have had under more normal circumstances.
 
 ---

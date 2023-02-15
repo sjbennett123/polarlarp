@@ -32,7 +32,8 @@ costume:
   - Mystic Wood Elf Horns
   - Long Coat
 props:
-  - Potions and Vials
+  - Potions
+  - Vials
   - Rygal Order Pendant
 
 

@@ -100,10 +100,16 @@ The modules below are in the order that we intend to run them in.
     {{ $magic_items = append $magic_items .Params.magic_items }}
 {{ end }}
 
-    {{ range  .Pages }}
-           {{ if  .Params.magic_items }}
+ {{ range  where .Pages ".Params.magic_items" "!=" nil}}
+  {{ $permalink := .Permalink }} 
+    {{ $module_name := .Title }} 
+
+           {{ range .Params.magic_items }} 
            <!-- range over the magic items and add the title and the permalink to them so you can use the down below. --->
-           {{ $magic_items = $magic_items  | append .Params.magic_items  }}{{ end }}
+                {{ $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit}}
+           
+                {{ $magic_items = append $magic_items (slice $magic_item_to_add) }}
+           {{ end }}
     {{ end }}
 
 <h4>Two Year</h4>
@@ -112,7 +118,7 @@ The modules below are in the order that we intend to run them in.
 <h4>{{ .name }}</h4>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module }} <p><b>Module:</b> {{ .module }}   </p> {{ end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{.link}}">{{ .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -124,12 +130,11 @@ The modules below are in the order that we intend to run them in.
 <h4>{{ .name }}</h4>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module }} <p><b>Module:</b> {{ .module }}   </p> {{ end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{.link}}">{{ .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
 {{ end }}
-
 
 <h4>One Year Delimited to under 15'th Level</h4>
 
@@ -138,7 +143,7 @@ The modules below are in the order that we intend to run them in.
 <h4>{{ .name }}</h4>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module }} <p><b>Module:</b> {{ .module }}   </p> {{ end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{.link}}">{{ .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -215,7 +220,11 @@ The modules below are in the order that we intend to run them in.
 
                         {{ range (.Pages.GroupBy "Section") }}
                            {{ range .Pages }}
-                                {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+                                {{ $props_to_add := (slice ) }}
+                                {{ range .Params.props }}
+                                    {{ $latest_prop := . | title }} 
+                                    {{ $props_to_add := $props_to_add |append  $latest_prop }} 
+                                {{ $props = $props  | append $props_to_add }}{{ end }}
 
                            {{ end }}
                         {{ end }}      

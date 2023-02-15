@@ -39,7 +39,7 @@ magic_items:
     description:  Battered with acid it seems to clear things up. 
     duration: 1 Year
     effects: 
-      - Purify Blood x2
+      - Purify Blood x2/Day
 scenes: 
   - 
     oog: Mod Shack setup like a Brewery

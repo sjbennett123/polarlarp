@@ -46,7 +46,7 @@ magic_items:
     description:  Amulet of Destroy Undead 
     duration: 1 Year
     effects: 
-      - Destroy Undead 2x
+      - Destroy Undead 2x/Day
 scenes: 
   - 
     oog: Mod Shack setup like a Mausoleum

@@ -16,13 +16,6 @@ magic_items:
       - Eldritch Blast x2/Day
       - Elemental Blade x2/Day
   - 
-    name:  Sword of Zelous Light
-    description:  A sword from a fallen Hoylean Knight, ebbing with the pain of a thousand wars fought
-    duration: 2 Year
-    effects: 
-      - Purify Blood x2/Day
-      - Poison Shield x2/Day
-  - 
     name:  Sword of Creeping Shadow
     description:  A time displaced blade, wielded by an honorable knight who fell to his inner avarice in pursuit of power
     duration: 1 Year

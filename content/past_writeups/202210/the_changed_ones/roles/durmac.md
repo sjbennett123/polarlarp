@@ -10,7 +10,7 @@ body: 20
 weapons: none
 props: 
   - a book with feathered Quill to take notes
-  - copy of the Accords of the Fist
+  - Copy of the Accords of the Fist
 costuming: 
   - Dwarf Beard
   - Noble Clothing

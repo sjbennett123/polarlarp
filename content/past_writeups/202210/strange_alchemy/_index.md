@@ -34,7 +34,7 @@ magic_items:
     description:  Battered with acid it seems to clear things up. 
     duration: 1 Year
     effects: 
-      - Poison Shield 2/day
+      - Poison Shield 2/Day
 scenes: 
   - 
     oog: Mod Shack setup like a Alchemy Lab
