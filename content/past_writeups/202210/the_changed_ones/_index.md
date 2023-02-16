@@ -14,17 +14,14 @@ Layout: module
 magic_items:
   - 
     name:  Sword of Zelous Light
-    description:  A sword from a fallen Hoylean Knight, ebbing with the pain of a thousand wars fought
+    description:  A sword from a fallen Hoylean Knight, ebbing with the pain of a thousand wars fought.
     duration: 2 Year
     effects: 
       - Purify Blood x2/Day
       - Poison Shield x2/Day
-
 author: Chris Colland
 reviewer: Scott Bennett
 requirements:
-  - Opening Module
-  - Opening Ceremonies has happened
   - Traverse the Crystal Barrier has happened
 background: The Ritual of the Changed Ones requires the sacrifices of 6 souls who are willing to submit themselves for a promise of power. They are bound to an altar and changed forever. The altar roars in terrible black flame and consumes the soul, warping it into a horrific monster consumed by their most base inner desires but their will is bound to those who enacted the ritual. The Altar can be destroyed by overloading it with 3 or more spirits of the Changed Ones at once.
 synopsis: > 
@@ -45,8 +42,6 @@ treasure:
  - Gems
  - Evaluate Items
  - Coins
-magic_item:
- - Sword of Zealous Light (+2 Light Aura Magic Sword)
 running_notes:
 
 rumors: These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood

@@ -48,8 +48,7 @@
 {{ end }}
 </p></div>
 {{ end }}
-
-{{ if where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) }} 
+{{ if where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" ) }} 
 <div id="misc"><p><b>Misc:</b>
 {{ range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
 {{- if (ne $index 0) -}}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
@@ -64,8 +63,8 @@
                       {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
     {{ end }}
 {{ end }}
-{{ $props = $props  | uniq }}
 
+{{ $props = $props  | uniq }}
 {{ if (gt ($props | len) 0) }}
 <div id="props"> <p><b>Props: </b> 
 {{ delimit $props ", "}}
@@ -81,7 +80,7 @@
            {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
     {{ end }}
 {{ end }}
-{{ $makeup = $makeup |uniq }} 
+{{ $makeup := $makeup | uniq }} 
 {{ if (gt ($makeup | len) 0) }}
 <div id="makeup"> <p><b>Makeup: </b>
 {{ delimit $makeup ", "}}
@@ -97,9 +96,9 @@
              {{ if .Params.costuming }}  {{ $costuming =  $costuming |append .Params.costuming }} {{ end }}
     {{ end }}
 {{ end }}
-
+{{ $costuming := $costuming | uniq }}
 {{ if (gt ($costuming | len) 0) }}
-<div id="costuming"> <p><b>Costuming:</b>
+<div id="costuming"><p><b>Costuming:</b>
 {{ delimit $costuming  ", "}}
 </p></div> 
 {{ end }}

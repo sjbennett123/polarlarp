@@ -20,13 +20,12 @@ Brittany is finishing Family Recipes series of modules.
 
 Scott is finishing up the website updates and starting to fill in details from his notes. 
 
-- add to national monster manual.  https://github.com/filamentgroup/tablesaw
+- Defend against NON array data in national monster cards and role cards. 
+- ADD A CONDITION FOR LAYOUT BIENG NIL for MISC Logic
 - add link from rumor to module
-- add link to module from magic items
 - change "day" to schedule in config. Rename all variables to schedule rather than day. Update overview page to not display headings with no values. 
 - configure csv output for magic items. 
 - add calendar output for event page.
-- add facebook link to event page.
 - hide on role card if not populated.  **Body:** **Weapons:** **Killing Blow:** no
 - Background add buttons for PDF single pages / spreads / lulu cover/ affinity source file
 - add filter for needs reviewed to require a synopsis before populating down there. 

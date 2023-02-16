@@ -29,7 +29,7 @@ Props:
   - Hoylean Altar of Power
   - Rune Necklace
 Costuming: 
-  - White Sorcerer Robes, 
+  - White Sorcerer Robes
   - Blue glowing eyes
   - Dwarf Beard
   - Cowl/Hood
