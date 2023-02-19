@@ -2,6 +2,9 @@
 
 {{ .Content }}
 
+
+
+
 <link rel="stylesheet" href="/tablesaw.css">
 <script src="/tablesaw.js"></script>
 <script src="/tablesaw-init.js"></script>
@@ -26,20 +29,62 @@
 <tbody>
 
 {{ range where .Pages ".Params.Layout" "IN"  (slice "national_monster_card" ) }} 
-{{ $motivation := (slice ) }}
+
+
+{{ $immune_to := (slice ) }} 
+{{ if .Params.immune_to }}
+{{ if not (reflect.IsSlice .Params.immune_to) }}{{ $immune_to = (slice .Params.immune_to ) }}
+{{ else  }} {{ $immune_to = append $immune_to .Params.immune_to }}
+{{ end }}
+{{ end }}
+
+{{ $vulnerabilities := (slice ) }} 
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities) }}{{ $vulnerabilities = (slice .Params.vulnerabilities ) }}
+{{ else  }} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}
+{{ end }}
+{{ end }}
+
+{{ $defensive_abilities := (slice ) }} 
+{{ if .Params.defensive_abilities }}
+{{ if not (reflect.IsSlice .Params.defensive_abilities) }}{{ $defensive_abilities = (slice .Params.defensive_abilities ) }}
+{{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
+{{ end }}
+{{ end }}
+
+{{ $offensive_abilities := (slice ) }} 
+{{ if .Params.offensive_abilities }}
+{{ if not (reflect.IsSlice .Params.offensive_abilities) }}{{ $offensive_abilities = (slice .Params.offensive_abilities ) }}
+{{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
+{{ end }}
+{{ end }}
+
+
+{{ $motivation := (slice ) }} 
+{{ if .Params.motivation }}
+{{ if not (reflect.IsSlice .Params.motivation) }}{{ $motivation = (slice (.Params.motivation | title)) }}
+{{ else  }} {{ $motivation = append $motivation .Params.motivation}}
+          {{ $motivations_to_title_case := (slice ) }}
+                                {{ range $motivation }}
+                                    {{ $latest_motivation := . | title }} 
+                                    {{ $motivations_to_title_case := $motivations_to_title_case |append  $latest_motivation }} 
+                                {{ $motivation = $motivations_to_title_case }}{{ end }}
+{{ end }}
+{{ end }}
+
 
   <tr>
     <td><a href="{{.Permalink}}"> {{ .Params.name }}</a></td>
     <td>{{ .Params.type | title }}</td>
     <td>{{ .Params.apl }}</td>
-    <td>{{ $motivation = .Params.motivation }}  {{$motivation = delimit  $motivation ", "  }} {{ $motivation | title  }}</td>
+    <td>{{ delimit  $motivation ", "  }} </td>
     <td>{{ .Params.movement }}</td>
     <td>{{ .Params.Inteligence }}</td>
-    <td>{{ $offensive_abilities := (slice ) }} {{ if .Params.offensive_abilities}}  {{ $offensive_abilities = .Params.offensive_abilities }}  {{$offensive_abilities = delimit  $offensive_abilities ", "  }} {{ $offensive_abilities | title  }} {{ end }} </td>
-    <td>{{ .Params.defensive_abilities }}</td>
-    <td>{{ .Params.vulnerabilities }}</td>
+    <td>{{ delimit $offensive_abilities ", " }}</td>
+    <td>{{ delimit $defensive_abilities ", " }}</td>
+    <td>{{ delimit $vulnerabilities ", " }}</td>
     <td>{{ .Params.healed_by }}</td>
-    <td>{{ .Params.immune_to }}</td>
+    <td>{{ delimit $immune_to ", "}}</td>
     <td>{{ .Params.monster_manual }}</td>
   </tr>
 {{ end }}
