@@ -35,11 +35,11 @@ props:
   - Potions
   - Vials
   - Rygal Order Pendant
-
+played_by: Chris Colland (Major Rygal Order Plot and Lore Character)
 
 ---
 
-**Played by Chris Colland (Major Rygal Order Plot and Lore Character)**
+
 
 Magnus is a Archwizard of Celestial Magic, his likes have not been seen before in recent memory without being absolutely insane.
 He is the most outgoing member of the Rygal Order and most friendly. Typically, they send him in as the face of the Order to make relations good. He will assist the players. His will to help adventurers is very admirable. Magnus was once an adventurer before joining the Order.

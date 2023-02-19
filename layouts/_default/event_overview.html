@@ -88,7 +88,7 @@ The modules below are in the order that we intend to run them in.
 
 <h3>Modules for Review</h3>
 <!--Make this not display if you don't have any to reveiew-->
-{{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil }}
+{{ range where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end  }}
 
@@ -105,7 +105,6 @@ The modules below are in the order that we intend to run them in.
     {{ $module_name := .Title }} 
 
            {{ range .Params.magic_items }} 
-           <!-- range over the magic items and add the title and the permalink to them so you can use the down below. --->
                 {{ $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit}}
            
                 {{ $magic_items = append $magic_items (slice $magic_item_to_add) }}

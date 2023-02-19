@@ -106,23 +106,25 @@ Read the write-up aloud before giving it the thumbs up. The cast will be reading
 [Monster Manual]({{< ref "/monster_manual/homegrown/" >}})
 
 ```yaml
-title: ""
+title: 
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 3
 description: 
 Layout: role
+
 introduction: 
-body: 
-Defensives: 
+body:
+# Will accept an array
+defenses: 
  - 
 weapons: 
 damage: 
-# List it all on one line 
+# Will accept an array
 magic: 
+# Will accept an array
 abilities: 
   - 
-# Put a description of what the character does with the dead. 
 killing_blow: 
 motivation: 
 tactics: 

@@ -13,7 +13,7 @@ reset:  No
 
 body: 150
 
-Defensives: 
+defenses: 
  - No Metabolism
  - Phase x5
  - Dodge X1
@@ -27,7 +27,7 @@ weapons: Any 1h and Shield
 
 damage: 10 Magic Sleep
 
-magic: 4/4/4/4/4/4/4/4/4/10 Earth, 100 Elemental Chaos Pool, 30 Elemental Chaos x10
+magic: "4/4/4/4/4/4/4/4/4/10 Earth, 100 Elemental Chaos Pool, 30 Elemental Chaos x10"
 
 abilities: 
   - Focus
