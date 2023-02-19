@@ -50,48 +50,62 @@
 <h2>Time Until Event</h2><p><div id="countdown"></div></p>
 {{ end }} 
 
-
+{{ if (where .Pages "Layout" "plotline_overview") }}
 <h2>Plotline Overview</h2>
 {{ range (where .Pages "Layout" "plotline_overview") }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
+{{ end }}
+
 
 <p><h2>Modules To Run</h2> 
 The modules below are in the order that we intend to run them in.
 
+{{ if sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
 <h3>Friday</h3>
 {{ range sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
-
+{{ end }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "saturday" }}
 <h3>Saturday</h3>
 {{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "saturday" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
+{{ end }}
 
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "reaction" }}
 <h3>Reaction</h3>
 {{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "reaction" }}
       <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
+{{ end }}
 
 
 
-
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "townsfolk" }}
 <h3>Townsfolk</h3>
 {{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "townsfolk" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
-<h3>Unsorted</h3>
+{{ end }}
 
+{{ if  true }}
+<!-- <h3>Unsorted</h3>
+ -->{{ end }} 
+
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "randoms" }}
 <h3>Randoms</h3>
+{{ end }}
 
+{{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
 
 <h3>Modules for Review</h3>
 <!--Make this not display if you don't have any to reveiew-->
 {{ range where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end  }}
-
+{{ end }} 
 <h2>Treasure</h2>
 
 {{ $magic_items := (slice )  }}
@@ -114,10 +128,10 @@ The modules below are in the order that we intend to run them in.
 <h4>Two Year</h4>
 {{ range  $magic_items  }}
 {{ if ( eq .duration "2 Year" )   }} 
-<h4>{{ .name }}</h4>
+<h5>{{ .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{.link}}">{{ .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -126,10 +140,10 @@ The modules below are in the order that we intend to run them in.
 <h4>One Year</h4>
 {{ range  $magic_items  }}
 {{ if and ( eq .duration "1 Year" ) ( ne .delimit "Delimited to 15th Level or Below")  }} 
-<h4>{{ .name }}</h4>
+<h5>{{ .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{.link}}">{{ .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -139,10 +153,10 @@ The modules below are in the order that we intend to run them in.
 
 {{ range  $magic_items  }}
 {{ if and ( eq .duration "1 Year" ) ( eq .delimit "Delimited to 15th Level or Below")  }} 
-<h4>{{ .name }}</h4>
+<h5>{{ .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{.link}}">{{ .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -170,37 +184,6 @@ The modules below are in the order that we intend to run them in.
 {{ end }} 
 </p></div> 
 {{ end }} 
-
-{{ $makeup := (slice ) }}
-
-{{ if .Pages }} 
-    {{ range  .Pages  }}
-           {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
-    {{ end }}
-{{ end }}
-
-{{ range .Pages }}
-
-
-                        {{ range (.Pages.GroupBy "Section") }}
-                           {{ range .Pages }}
-                                {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
-
-                           {{ end }}
-                        {{ end }}      
-      
-{{ end }}
-
-{{ $makeup = $makeup | uniq }} 
-{{ $makeup = $makeup | sort }} 
-{{ if (gt ($makeup | len) 0) }}
-<div id="makeup"> <h2>Makeup </h2>
-{{ range $makeup }}
-<li>{{ . }} </li>
-{{ end }} 
-</p></div> 
-{{ end }}
-
 
 
 {{ $props := (slice ) }}
@@ -242,6 +225,82 @@ The modules below are in the order that we intend to run them in.
 {{ end }}
 
 
+{{ $makeup := (slice ) }}
+{{ if  .Params.makeup }} 
+    {{ $makeup = $makeup  | append .Params.makeup }} 
+{{ end }}
+
+{{ if .Pages }} 
+    {{ range  .Pages  }}
+           {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range .Pages }}
+
+
+                        {{ range (.Pages.GroupBy "Section") }}
+                           {{ range .Pages }}
+                                {{ $makeup_to_add := (slice ) }}
+                                {{ range .Params.makeup }}
+                                    {{ $latest_prop := . | title }} 
+                                    {{ $makeup_to_add := $makeup_to_add |append  $latest_prop }} 
+                                {{ $makeup = $makeup  | append $makeup_to_add }}{{ end }}
+
+                           {{ end }}
+                        {{ end }}      
+      
+{{ end }}
+
+{{ $makeup = $makeup | uniq }} 
+{{ $makeup = $makeup | sort }} 
+
+{{ if (gt ($makeup | len) 0) }}
+<div id="makeup"> <h2>Makeup </h2>
+{{ range $makeup }}
+<li>{{ title . }} </li>
+{{ end }} 
+</p></div> 
+{{ end }}
+
+
+{{ $costuming := (slice ) }}
+{{ if  .Params.costuming }} 
+    {{ $costuming = $costuming  | append .Params.costuming }} 
+{{ end }}
+
+{{ if .Pages }} 
+    {{ range  .Pages  }}
+           {{ if  .Params.costuming }}{{ $costuming = $costuming  | append .Params.costuming }}{{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range .Pages }}
+
+
+                        {{ range (.Pages.GroupBy "Section") }}
+                           {{ range .Pages }}
+                                {{ $costuming_to_add := (slice ) }}
+                                {{ range .Params.costuming }}
+                                    {{ $latest_prop := . | title }} 
+                                    {{ $costuming_to_add := $costuming_to_add |append  $latest_prop }} 
+                                {{ $costuming = $costuming  | append $costuming_to_add }}{{ end }}
+
+                           {{ end }}
+                        {{ end }}      
+      
+{{ end }}
+
+{{ $costuming = $costuming | uniq }} 
+{{ $costuming = $costuming | sort }} 
+
+{{ if (gt ($costuming | len) 0) }}
+<div id="costuming"> <h2>Costuming </h2>
+{{ range $costuming }}
+<li>{{ title . }} </li>
+{{ end }} 
+</p></div> 
+{{ end }}
 
 
 {{ partial "footer.html" . }}
