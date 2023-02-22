@@ -109,7 +109,6 @@ Any formal or cantrip effects that are present in the skill list will not requir
 ### All Characters with an Elemental Transform
 
 - 150 Elemental Pool of Chosen Element
-- 30 Elemental (insert element) x3
 - Innate Elemental Aura 
 <!-- - Double Damage Opposite Type --> 
 <!-- - 70 Damage from Banish (Like Destroy to Golem) -->
@@ -121,6 +120,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 - +30 body
 - +3 Superhuman Strength
+- 30 Elemental (insert element) x3
 
 ### High(8th)
 
@@ -128,6 +128,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 - +60 body
 - +6 Superhuman Strength
+- 60 Elemental (insert element) x3
 
 ### Master(9th)
 
@@ -135,6 +136,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 - +90 body
 - +9 Superhuman Strength
+- 90 Elemental (insert element) x3
 
 ### Elemental Skill Pool
 
@@ -206,7 +208,7 @@ Any formal or cantrip effects that are present in the skill list will not requir
 
 ### All Characters with an Naturalist Transform
 
-- Magic Purify Blood x1
+- Magic Purify Blood x3
 - Magic Banish x3
 - Cloak Chaos x3
 <!-- - Double Damage from Chaos -->

@@ -14,24 +14,20 @@ weight: 1
 ### Module Overview
 
 ```yaml
-title: "Don't Talk to Strangers"
+---
+title: 
 Layout: module
 
 author: 
 reviewer: 
-draft: false
-weight: 
+
 description: 
 synopsis:   
 number_of_cast_members: 
-props: 
-  - 
-requirements:
-  - 
-treasure: 
-  - 
-outcomes: 
-  - 
+props: # Will accept an array
+requirements: # Will accept an array
+treasure: # Will accept an array
+outcomes: # Will accept a list
 rumors: 
 hook: 
 scenes: 
@@ -44,52 +40,91 @@ rules_clarifications:
 craftsman_information: 
 transformations: 
 running_notes: 
-
+---
 ```
-**Title** -- A distinctive title for your module. Something that can be talked about around the shack that evokes the feel of your module. 
+#### Title
+
+A distinctive title for your module. Something that can be talked about around the shack that evokes the feel of your module. 
 
 This is bad "Crab People 3" or "Sneaking Module". 
 
-**Brief** -- This is a one or two sentence description of the module. Don't put any mystery in here be as simple and direct as possible. 
+#### Brief
+
+This is a one or two sentence description of the module. Don't put any mystery in here be as simple and direct as possible. 
 
 This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved". This is good. "The adventurers try to find a buried treasure but are attacked by the Crab People"
 
-**Requirements** - The conditions that need met for the module to be ran. If the module needs run at night or must be ran after another module.
+#### Requirements
 
-**Background** -- Stuff that leads up to the module. Often you will have bits of lore that the runner should know and would get tripped up on. 
+The conditions that need met for the module to be ran. If the module needs run at night or must be ran after another module.
 
-**Synopsis** -- The meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the writeup will make it really shine but you will need to spell it out here. 
+#### Background
 
-**Outcomes** -- The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle.
+Stuff that leads up to the module. Often you will have bits of lore that the runner should know and would get tripped up on. 
 
-**Hook**: This is how the players get on the module. All modules need a hook of some sort even if it's the players find an "Adventure Card" in the woods or the players tell the game master that they are going to "The Forgotten City".
+#### Synopsis
 
-**Page**: If the module doesn't outwardly contain any combat then marking as a "Page" module is a good idea. Put some notes on where violence can break out so that the NPC's know how to deal with it.
+The meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the writeup will make it really shine but you will need to spell it out here. 
 
-**Number of Cast Members** -- Give a range. The fewer cast members that CAN run a module the better don't get too ambitious and write a module that requires 10-15 NPC's. Often you will have "mooks" that will be able to be added to a scene to flesh it out. Do the work before the event and optimize your design so that it uses less resources from the backend 
+#### Outcomes
 
-**Roles** -- These are the different roles that the cast members will be playing for the encounter. Each role will be given the module sheet and the role card. Remember that the Hook needs a role card too.
+The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle.
 
-**Props** -- These are the props that are needed for the module to run. Before the event we will check to make sure that we have all these things in the NPC Shack and if we don't have them we will either make them or change the module.  If special props are needed for the encounter, make it as easy as possible to use them. Have checklists to make sure you get all the props with a description of the props. Also have notes about what props are essential and which props are optional for the encounter to do down successfully.
+#### Hook
 
+This is how the players get on the module. All modules need a hook of some sort even if it's the players find an "Adventure Card" in the woods or the players tell the game master that they are going to "The Forgotten City".
 
-**Tags and Treasure** Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about.
+#### Page
 
-**Scenes**: List out all of the scenes that will be used in the module. If there is a cave with 5 rooms write out 5 scenes. Detail any setup that is needed. Detail both the Out of Game setup that is needed as well as what the scene is in the game. Possibly give a description that the runner can read as "Box Text". Don’t detail “the Tavern” or “The Town” as a scene. It is assumed that part of the module will interact with the players that are away from the module area due. Set the scene and be clear about boundaries. Often you will be using things that don't mean what they say they mean. 
+If the module doesn't outwardly contain any combat then marking as a "Page" module is a good idea. Put some notes on where violence can break out so that the NPC's know how to deal with it.
 
-**Flee Point**: Every module will need a way for someone to get out and get back to town. Detail both what the way out is Out of Game ie "The Door to the Module Shack" and in game "The entrance to the cave that leads back to the surface". If there is not a way out then you will want to make it very clear that there is no escape. 
+#### Number of Cast Members
 
-Non-Standard Effects: Anything that does not conform to the NERO rules will go here. These deviations will be detailed at the start of the module.
+Give a range. The fewer cast members that CAN run a module the better don't get too ambitious and write a module that requires 10-15 NPC's. Often you will have "mooks" that will be able to be added to a scene to flesh it out. Do the work before the event and optimize your design so that it uses less resources from the backend 
 
-**Rules Clarifications**: What rules are heavily used on the encounter that would do with some clarification. 
+#### Roles
 
-**Craftsman Information**: What information do you give to people that have craftsman skills. 
+These are the different roles that the cast members will be playing for the encounter. Each role will be given the module sheet and the role card. Remember that the Hook needs a role card too.
 
-**Transformations**: Do transforms go up? Which ones?
+#### Props
 
-**Running Notes**: This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.
+These are the props that are needed for the module to run. Before the event we will check to make sure that we have all these things in the NPC Shack and if we don't have them we will either make them or change the module.  If special props are needed for the encounter, make it as easy as possible to use them. Have checklists to make sure you get all the props with a description of the props. Also have notes about what props are essential and which props are optional for the encounter to do down successfully.
 
-**Rules Clarifications**: Most people that play NERO haven’t' read the rules. They are just playing it by what they see and they reference the PDF when they get home. To help keep the game from being anarchy we go over the rules that are immediately important when they come up on our encounters. For instance if you are going to be using a bunch of monsters with waylay go over the waylay rules at the start of the encounter. Calling a hold for odd effects pre module if done every module would be standard and would feel less like a verbal bashing if done consistently. 
+#### Tags and Treasure 
+
+Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about.
+
+#### Scenes
+
+List out all of the scenes that will be used in the module. If there is a cave with 5 rooms write out 5 scenes. Detail any setup that is needed. Detail both the Out of Game setup that is needed as well as what the scene is in the game. Possibly give a description that the runner can read as "Box Text". Don’t detail “the Tavern” or “The Town” as a scene. It is assumed that part of the module will interact with the players that are away from the module area due. Set the scene and be clear about boundaries. Often you will be using things that don't mean what they say they mean. 
+
+#### Flee Point
+
+Every module will need a way for someone to get out and get back to town. Detail both what the way out is Out of Game ie "The Door to the Module Shack" and in game "The entrance to the cave that leads back to the surface". If there is not a way out then you will want to make it very clear that there is no escape. 
+
+#### Non-Standard Effects
+
+Anything that does not conform to the NERO rules will go here. These deviations will be detailed at the start of the module.
+
+#### Rules Clarifications
+
+What rules are heavily used on the encounter that would do with some clarification. 
+
+#### Craftsman Information
+
+What information do you give to people that have craftsman skills. 
+
+#### Transformations
+
+Do transforms go up? Which ones?
+
+#### Running Notes
+
+This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.
+
+#### Rules Clarifications
+
+Most people that play NERO haven’t' read the rules. They are just playing it by what they see and they reference the PDF when they get home. To help keep the game from being anarchy we go over the rules that are immediately important when they come up on our encounters. For instance if you are going to be using a bunch of monsters with waylay go over the waylay rules at the start of the encounter. Calling a hold for odd effects pre module if done every module would be standard and would feel less like a verbal bashing if done consistently. 
 
 ---
 
@@ -106,6 +141,7 @@ Read the write-up aloud before giving it the thumbs up. The cast will be reading
 [Monster Manual]({{< ref "/monster_manual/homegrown/" >}})
 
 ```yaml
+---
 title: 
 date: 2022-11-10T10:33:21-05:00
 draft: false
@@ -115,22 +151,17 @@ Layout: role
 
 introduction: 
 body:
-# Will accept an array
-defenses: 
- - 
+defenses: # Will accept an array
 weapons: 
-damage: 
-# Will accept an array
-magic: 
-# Will accept an array
-abilities: 
-  - 
+damage: # Will accept an array
+magic: # Will accept an array
+abilities: # Will accept an array
 killing_blow: 
 motivation: 
 tactics: 
-costuming: 
-  - 
-reset: 
+costuming: # Will accept an array
+reset:
+---
 ```
 Often there are bits where the cast need to add their own little something to a role. Give some guidance for this so that they can be more confident in their play.
 
@@ -161,15 +192,11 @@ APL:
 Movement: 
 Inteligence: 
 Society: 
-Motivation: 
-  - 
+Motivation: # Will accept an array
 armor: 
-offensive_abilities: 
-  - 
-defensive_abilities: 
-  - 
-vulnerabilities: 
-   - 
+offensive_abilities: # Will accept an array
+defensive_abilities: # Will accept an array
+vulnerabilities: # Will accept an array
 spells: 
 pyramid: 
 rec_treasure: 
@@ -182,10 +209,7 @@ healed_by:
 immune_to: 
 Protectives: 
 Zone: 
-
 ---
-
-
 ```
 
 ## Writing Tips
@@ -202,7 +226,7 @@ Use the setting that exists if at all possible. Don't create new setting if an e
 - Can you visualize the module. 
 - Say nice things too remember they tried their best. 
 
-## POLAR Event directors requirements
+## POLAR Event Directors Requirements
 
 1. You must work with your Review. 
 2. No non-standard effects. Anything you want to try to do that could be non-standard please reach out to Clinton Snyder or Donnie Leight and they will find a way to make it standard. 
