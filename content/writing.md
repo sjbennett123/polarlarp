@@ -46,13 +46,15 @@ running_notes:
 
 A distinctive title for your module. Something that can be talked about around the shack that evokes the feel of your module. 
 
-This is bad "Crab People 3" or "Sneaking Module". 
+*This is bad "Crab People 3" or "Sneaking Module".* 
 
 #### Brief
 
 This is a one or two sentence description of the module. Don't put any mystery in here be as simple and direct as possible. 
 
-This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved". This is good. "The adventurers try to find a buried treasure but are attacked by the Crab People"
+*This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved".* 
+
+*This is good. "The adventurers try to find a buried treasure but are attacked by the Crab People"*
 
 #### Requirements
 

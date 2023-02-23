@@ -8,7 +8,7 @@ introduction: You are the Rygal Orders head Celestial Arch Wizard and Golem rese
 body: 200
 magic: 10/10/10/10/10/10/10/10/10/30 Celestial, Arcane Imprison x10, Arcane Eldritch (Fire, Ice, Lightning, Stone) Blast 90 x10, 50 Elemental Lightning x10, 50 Elemental Flame x10, 50 Elemental Stone x10, 50 Elemental Ice, Arcane Destroy Undead 70 x10, Arcane Destroy (For Golems if they malfunction) x10, Magic Life x5 (Spirit Locked Magic Items), Magic Cure Serious Wounds 20 x5 (Spirit Locked Magic Items)
 defenses: 
-  - Non-Corporeal Form (Immune to Normal, Immune Pin/Bind/Web/Confine), 
+  - Non-Corporeal Form (Immune to Normal, Immune Pin/Bind/Web/Confine)
   - threshold 10
   - Phase x10
   - Dodge x5
@@ -23,10 +23,10 @@ abilities:
   - Rift x5
   - Arcane Regenerate x5
   - Alchemy 30 Levels
-  - Craftsman Other: Golem Research 30 Levels
-  - Craftsman Other: Planes Lore 30 Levels
+  - "Craftsman Other: Golem Research 30 Levels"
+  - "Craftsman Other: Planes Lore 30 Levels"
 
-motivation: You are fueled by nothing more than vengeance, so BE RELENTLESS unless commanded by your Raid Leader of above command in the Bloody Fist. 
+motivation: The Rygal Order will provide support for the Players for their respect on later favors in moving more into Woodhaven via support of the nobility.
 
 costume:
   - Mystic Wood Elf Horns
@@ -39,16 +39,15 @@ played_by: Chris Colland (Major Rygal Order Plot and Lore Character)
 
 ---
 
+Magnus is a Archwizard of Celestial Magic, his likes have not been seen in recent memory without being absolutely insane.
 
-
-Magnus is a Archwizard of Celestial Magic, his likes have not been seen before in recent memory without being absolutely insane.
 He is the most outgoing member of the Rygal Order and most friendly. Typically, they send him in as the face of the Order to make relations good. He will assist the players. His will to help adventurers is very admirable. Magnus was once an adventurer before joining the Order.
 
 Magnus has spent weeks studying this Altar and discovered how to defeat it through extensive trial and error. He even pulled out prototype Celestial Golems to battle them and that is how he got enough destroyed at once to push the Altar to cracking the first time, but he nearly died discovering this and his Golems were destroyed.
 
 Magnus will stay in town for the first part of the Module to make sure they understand how to defeat them before he returns to the Rygal Order forward camp.
 
-The Rygal Order will provide support for the Players for their respect on later favors in moving more into Woodhaven via support of the nobility.
+
 
 
 
