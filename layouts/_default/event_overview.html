@@ -58,8 +58,8 @@
 {{ end }}
 
 
-<p><h2>Modules To Run</h2> 
-The modules below are in the order that we intend to run them in.
+<p><h2>Modules To Run</h2></p>
+<p>The modules below are in the order that we intend to run them in. Wedo not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
 
 {{ if sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
 <h3>Friday</h3>

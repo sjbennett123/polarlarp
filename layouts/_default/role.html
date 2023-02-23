@@ -30,8 +30,6 @@
 
 
 {{ $defenses := (slice ) }} 
-
-
 {{ if .Params.defenses }}
 {{ if not (reflect.IsSlice .Params.defenses) }}{{ $defenses = (slice .Params.defenses ) }}
 {{ else  }} {{ $defenses = append $defenses .Params.defenses }}
@@ -47,7 +45,7 @@
 {{ else }} {{ $abilities = append $abilities .Params.abilities }}
 {{ end }} 
 
-<p><b>Abilities:</b> {{ $abilities }}</p>
+<p><b>Abilities:</b> {{ delimit $abilities ", "}}</p>
 {{ end }}
 
 {{ if  .Params.props }} 
