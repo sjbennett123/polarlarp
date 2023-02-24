@@ -1,18 +1,18 @@
 {{ partial "header.html" . }}
 
-<p><b>Written By:</b> {{ .Params.author }}</p>
+<p><b>Written By:</b> {{ .Params.author -}}</p>
 
-<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} 
+<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer -}} 
 {{ if where .Pages ".Params.Layout" "=" "feedback"  }} 
-    {{ range where .Pages ".Params.Layout" "IN"  (slice "feedback" )  }}
-            <a href="{{.Permalink}}"> {{ .Params.author }} </a>
+    {{ range where .Pages ".Params.Layout" "IN"  (slice "feedback" ) }}
+            <a href="{{- .Permalink} -}"> {{ .Params.author }} </a>
     {{ end }}
 {{ end }}
 </p>
 </div>
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description }}</p></div>
 
-{{ if .Params.requirements }} 
+{{ if .Params.requirements }}
 <div id ="requirements"> 
 <p><b>Requirements:</b></p>
     {{ range  .Params.requirements }}
@@ -21,15 +21,15 @@
 </div>
 {{ end }}
 
- {{ if .Params.background  }}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify }}</p></div>{{ end }}
+ {{- if .Params.background -}}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify -}}</p></div>{{- end -}}
 
 
-{{ if .Params.synopsis }} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify }}</p></div> {{ end }}
+{{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
 
 {{ if .Params.outcomes }} 
 <div id= "outcomes" ><p><b>Outcomes:</b></p>
-<ol >
-    {{ range  .Params.outcomes }}
+<ol>
+    {{ range .Params.outcomes }}
     <li>{{ . }}</li>
     {{ end }}
 </ol></div>
@@ -37,7 +37,7 @@
 
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 
-{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) )  (.Params.roles) -}} 
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b>
 {{ if .Params.roles -}}{{- .Params.roles -}}{{- end -}} 
 {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
@@ -47,7 +47,7 @@
     {{- end -}}
 {{ end }}
 </p></div>
-{{ end }}
+{{- end }}
 {{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
 <div id="misc"><p><b>Misc: </b>
 {{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
@@ -144,12 +144,11 @@
 {{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
 {{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
 
-
 {{ .Content }} 
 
-
-{{ if .Params.reviewer  }} 
+{{ if .Params.reviewer }} 
 {{ else }} 
+
 <!--Tooltip Scripts & Settings-->
 <script src="https://unpkg.com/@popperjs/core@2"></script>
 <script src="https://unpkg.com/tippy.js@6"></script>
@@ -252,5 +251,6 @@ tippy('#props',{
 </script> 
 
 {{ end }} 
+
 
 {{ partial "footer.html" . }}
