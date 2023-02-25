@@ -30,7 +30,7 @@ treasure:
  - Potions of Cure Light Damage
  - Potions of Poison Shield
  - Components
- - Magic Item: Gem of Circle of Power 1/day x1
+
 Props: 
   - Anything to represent Scholars Guild, 
   - books
@@ -40,7 +40,14 @@ Props:
   - broken trinkets
   - wands
   - robes
-Running_Notes: The Scholars Guild is a mess of a fight, there are no grunts to protect the scholars so it’s a big spell bash. The Undead Scholars pick either Earth or Celestial (divide evenly) and just go to town, protecting themselves by any means. Use AS MANY Create Undead if PC die. Undead Scholars reset 1 time in first room and 2 times in second room. The Shamans will reset ONCE in second room. Second room uses the “loop around” mechanic. Shaman should focus on healing and disabling PCs with status effects. Celestial shaman should blow the players up with blasts. Remember Shamans can Rift on 3 count. Keep the Undead up at all costs because they are your only protection since the Scholars guild killed the Grunts. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for more seasoned adventurers
+Running_Notes: The Scholars Guild is a mess of a fight, there are no grunts to protect the scholars so it’s a big spell bash. The Undead Scholars pick either Earth or Celestial (divide evenly) and just go to town, protecting themselves by any means. Use AS MANY Create Undead if PC die. Undead Scholars reset 1 time in first room and 2 times in second room. The Shamans will reset ONCE in second room. Second room uses the “loop around” mechanic. Shaman should focus on healing and disabling PCs with status effects. Celestial shaman should blow the players up with blasts. Remember Shamans can Rift on 3 count. Keep the Undead up at all costs because they are your only protection since the Scholars guild killed the Grunts. The NPCs may appear behind the players and start from outside the mod shack where they players entered to simulate being surrounded. This module is designed for more seasoned adventurers.
+magic_items:
+  - 
+    name: Gem of Circle of Power
+    description:  Circle of Power
+    duration: 1 year
+    effects: 
+      -  Circle of Power 1x/day
 scenes: 
   - 
     oog: Mod Shack setup like a Alchemy Lab represents several rooms and uses the loop around

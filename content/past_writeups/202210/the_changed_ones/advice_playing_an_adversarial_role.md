@@ -9,7 +9,7 @@ An adversarial role is one where you play to achieve the character's goals witho
 
 The game has other parts that will make it fair for the players and will clue them into the background. The players will enjoy themselves because they will feel the genuineness of the play. Don't worry about giving them a performance or to stage whisper any secrets, it will feel less honest. Achieve your goals without showing mercy, hesitation or backing off.
 
-## Players are sore losers
+## Players Are Sore Losers
 
 People are forgiving when they win but they are not forgiving when they lose. Be sure to follow all of the rules even things that feel like a formality. The players will be looking for any sort of out to avoid defeat. Avoid ambiguous situations that can lead to claims of confusion such as breaking character. Don’t gloat keep, the best sportsmanship.
 

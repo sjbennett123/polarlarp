@@ -41,7 +41,7 @@ scenes:
   - 
     oog: Mod Shack setup like a Barracks
     ig:  Barracks of Stonewood
-    flee_point:  (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
+    flee_point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
 
 ---
 

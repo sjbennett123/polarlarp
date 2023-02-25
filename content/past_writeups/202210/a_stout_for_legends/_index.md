@@ -26,9 +26,10 @@ number_of_cast_members: 7
 Roles: Bloody Fist Scout x2, Bloody Fist Grunt x4, Bloody Fist Raid Leader, Balor Ironleaf
 Props: 
  - Anything to represent a Brewery
- - mugs, barrels
- -  crafting tools
- -  hammers
+ - mugs
+ - barrels
+ - crafting tools
+ - hammers
 Treasure: 
  - Gems
  - Evaluate Items

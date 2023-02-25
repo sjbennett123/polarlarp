@@ -1,4 +1,8 @@
-Drunken Master
+---
+title: Drunken Master
+---
+
+
 
 The brewery has been ransacked b orcs and they are hammered
 

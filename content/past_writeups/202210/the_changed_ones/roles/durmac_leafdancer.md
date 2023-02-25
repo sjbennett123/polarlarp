@@ -28,6 +28,3 @@ costuming:
 - You don’t hate the Bloody Fist with a burning passion like you used to when the Town Guard was dismantled at first. But you certainly have no real love for them. You secretly want the Bloody Fist gone but you don’t have the heart to fight them or risk the whole town's lives to go back to being a poor excuse for a Town Guard in Stonewood. You can be swayed to either side by the PCs.
   - As a former guard you respect their position as protectors of Stonewood in a way. It is hard to explain but you justify it in your head, and it makes sense to you why it is comfortable. Mostly because you weren’t the best fighter, you preferred words to the blade. You don’t like how brutal they are when they execute punishments. There is no grey area with the Bloody Fist. You either obey or you pay, normally with your life but they can be reasoned with for components and gold piles.
 - When the players enter the town on Friday night, meet them with Mayor Anak in the road and try to convince them to leave Stonewood! You don’t want any trouble and the Bloody Fist would surely crush them like they did the last.  Try to convince them that life is good under the Accords of the Fist! Hand the players a copy of the Accords of the Fist and beg them to read it out to the others to see reason.
-
-- 
-

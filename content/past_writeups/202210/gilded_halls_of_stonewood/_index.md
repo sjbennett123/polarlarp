@@ -23,11 +23,19 @@ Rumors: >
 Hook: Balor Ironleaf, captain of the former guard in Stonewood gathers a small band of lower to mid seasoned adventures.
 Number_of_cast_Members: 8
 Props: 
- - Anything to represent a Guild Hall, Workstations, Crafts, Potions, Corpse of Marin
+ - Anything to represent a Guild Hall
+ - Workstations
+ - Crafts
+ - Potions
+ - Corpse of Marin
 costuming:
  - test
 Treasure: 
- - Gems, Evaluate Items, Coins, Alchemy Gas Globes, Potions
+ - Gems
+ - Evaluate Items
+ - Coins
+ - Alchemy Gas Globes
+ - Potions
 scenes: 
   - 
     oog: The players are told of a scream or loud yell just before opening the mod shack door.

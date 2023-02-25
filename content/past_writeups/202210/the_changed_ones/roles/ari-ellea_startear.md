@@ -24,9 +24,9 @@ Costume:
 
 **Skittish**: People with weapons make you nervous, so if PCs approach you with weapons in hand back away from them.  Having no real ability to defend yourself, you will flee at the first sight of conflict. You don’t like loud people so avoid talking to large groups or loud PCs, insist you move somewhere quiet.
 
-- If asked, you will tell people that it isn’t so bad living under the Bloody Fists rule now. Traumatized from Lozzuik’s death, but you have gained strength in your pain over time. You can normally advocate for the occupation to continue since you prefer not to carry a weapon and have the Bloody Fist defend you. 
-  - The Chosen Ones fascinate you. They were once Hoylean Dwarves who traded books with you, but they were consumed by greed like most are. You feel bad for them and will try and convince the players to not kill them as they are great guardians who don’t require sleep. They patrol 24/7. You feel they are fulfilling a destiny with Hoyle they always wanted to and should be left to do so.
+**Tolerate the Occupation**: If asked, you will tell people that it isn’t so bad living under the Bloody Fists rule now. Traumatized from Lozzuik’s death, but you have gained strength in your pain over time. You can normally advocate for the occupation to continue since you prefer not to carry a weapon and have the Bloody Fist defend you. 
 
-- You feel the Mayor Anak Durag has your best interests at heart but you don’t trust he isn’t corrupted. 
-  - You will admit it is a little funny the Orcs call him “lil Bristle” since he is a coward.
+**The Chosen Ones Fascinate You**: They were once Hoylean Dwarves who traded books with you, but they were consumed by greed like most are. You feel bad for them and will try and convince the players to not kill them as they are great guardians who don’t require sleep. They patrol 24/7. You feel they are fulfilling a destiny with Hoyle they always wanted to and should be left to do so.
+
+You feel the Mayor Anak Durag has your best interests at heart but you don’t trust he isn’t corrupted. You will admit it is a little funny the Orcs call him “lil Bristle” since he is a coward.
 
