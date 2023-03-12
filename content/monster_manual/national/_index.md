@@ -10,5 +10,5 @@ layout: national_monster_manual_index
 
 {{% button href="/nero_monsters.xlsx" %}}Excel{{% /button %}} {{% button href="../monster_manual/national/csv" %}}CSV{{% /button %}} {{% button href="../monster_manual/national/json" %}}JSON{{% /button %}}
 
-{{% button href="../monster_manual/national/todo" %}}Todo{{% /button %}}
+{{% button href="./todo" %}}Todo{{% /button %}}
 
