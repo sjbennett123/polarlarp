@@ -18,8 +18,8 @@ hook: The Master comes into the tavern
 
 scenes: 
   - 
-    oog: 
-    ig: 
+    oog: Tavern
+    ig: Tavern
     flee_point: 
 non_standard_effects: 
 rules_clarifications: 
@@ -30,91 +30,10 @@ Running_Notes:
   - The Master should be super easy to like. A guy you would want to hang out with. A good ol' boy.
   - He should gamble, and be a good sport. Throw a hand or two if necessary to keep people happy.
   - The prices set for goods are kingdom standard +3. In negotiation, you shouldn't go less than 3 of whatever value. For example, you are selling a potion. Kingdom standard is 5 gold. You have them listed for 8 gold, and will negotiate down to 5 gold. Going lower than kingdom is discouraged.
+Roles: The Master
+
 ---
 
+**Props:** Merchant Bag filled with items
 
-
-
-
-# *Tarrasch Module- The Master in Disguise* 
-
-
-
-
-
-
-**Rumors:**
-
-- 
-
-
-
-**Hook:**
-
-
-
-
-**Number of Cast Members:**
-
-​	1
-
-
-
-**Roles:**
-
-​	The Master
-
-
-
-**Props:**
-
-​	Merchant Bag filled with items
-
-​	
-
-**Tags and Treasure:** 
-
-​	All of it
-
-
-
-**Scene 1:** 
-
-​	Tavern
-
-
-
-**Flee Point:**
-
-​	None
-
-
-
-
-
-**Non-Standard Effects:**
-
-​	None
-
-
-
-
-
-**Rules Clarification:**
-
-​	None
-
-
-
-**Craftsman Information:**
-
-​	None
-
-
-
-**Transformations:**
-
-​	None
-
-
-
+**Tags and Treasure:**  All of it
