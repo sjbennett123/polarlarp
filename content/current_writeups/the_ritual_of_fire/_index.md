@@ -39,8 +39,7 @@ treasure:
  - Coins
 
 scenes: 
-  - 
-    oog: Altar Site north of Tavern
+  - oog: Altar Site north of Tavern
     ig: Makeshift Ritual Site of the Bloody Fist
     flee_point: This module is site/town wide
 ---

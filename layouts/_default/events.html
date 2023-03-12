@@ -1,12 +1,25 @@
 {{ partial "header.html" . }}
+
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#january-14">January 14</a></li>
+        <li><a href="#december-2-2022">December 2, 2022</a></li>
+        <li><a href="#october-21-2022">October 21, 2022</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
 <p>We want to provide the best LARPing experience possible, <b>as often as possible</b>. Please register now. It’s going to be a great event!</p>
 <p>You need to sign up for the database before you can register for an event. <a href="http://nerolarponline.com">nerolarponline.com</a></p>
 
 <p>Event Registration closes the week before an event on Friday.</p>
-<h2>Upcoming Events</h2>
+<h2 id="upcoming_events">Upcoming Events</h2>
 {{ range  .Params.events  }}
 <h4>{{ .date }}  ~  {{ .title | title }}    {{ if .facebook_link }}<a href="https://www.facebook.com/events/1317732195737709"><i class="fab fa-facebook"></i></a>{{ end }}</h4>
-<p><b>Event Type: </b> {{ .type }} </p>
+<p id="in_game_location"><b>Event Type: </b> {{ .type }} </p>
 <p><b>In Game Location: </b> The city of {{ .ig_city }} in the barony of {{ .ig_barony }}</p>
 <p><b>Campsite: </b> {{ .oog_location }}    </p>
 <p><b>Event Director: </b> {{ .event_director }}    </p>

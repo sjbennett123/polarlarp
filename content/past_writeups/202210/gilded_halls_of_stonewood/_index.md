@@ -28,8 +28,6 @@ Props:
  - Crafts
  - Potions
  - Corpse of Marin
-costuming:
- - test
 Treasure: 
  - Gems
  - Evaluate Items
@@ -43,9 +41,9 @@ scenes:
     flee_point: (OOG) Door of mod shack  (IG) Back to the streets of Stonewood
 ---
 
-The Scouts have 2 Paranoia gas globes each reset, make sure they use these per reset to set the players on edge for the module. The Scouts just found them in the guild hall and started throwing them
+The Scouts have 2 Paranoia gas globes each reset,  they use to set the players on edge. The Scouts just found them in the guild hall and started throwing them.
 
- The NPCs will rest 2 times upon death and may enter from anywhere they choose to simulate the size of the Guild Hall. 
+The NPCs will reset 2 times upon death and may enter from anywhere they choose to simulate the size of the Guild Hall. 
 
 
 

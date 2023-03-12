@@ -1,9 +1,4 @@
 ---
-outputs:
-- html
-- amp
-- json
-
 title: "The Changed Ones"
 date: 2022-11-10T10:33:21-05:00
 draft: false
@@ -44,7 +39,8 @@ treasure:
  - Coins
 running_notes:
 
-rumors: These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood
+rumors: >
+  These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood.
 
-  Your Friend in the darkness   ~Kane
+  Your Friend in the Darkness ~ Kane
 ---

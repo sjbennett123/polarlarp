@@ -64,7 +64,7 @@
 {{ if sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
 <h3>Friday</h3>
 {{ range sort (where (where .Pages "Layout" "IN" (slice "module" "module_review") ) "Params.day" "=="  "friday") "Params.weight"}}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> <i class="fa fa-file-pdf"></i> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 {{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.day" "=="  "saturday" }}
