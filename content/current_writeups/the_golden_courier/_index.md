@@ -13,8 +13,9 @@ props: # Will accept an array
 requirements: # Will accept an array
 treasure: # Will accept an array
 outcomes: # Will accept a list
+  - Hopefully, things get delivered.
 rumors: 
-hook: 
+hook: An announcement is hung in the tavern
 scenes: 
   - 
     oog: 
@@ -27,78 +28,14 @@ transformations:
 running_notes: 
 ---
 
-
-
-**Outcomes:**
- - Hopefully, things get delivered.
-
 **Rumors**
 
 - **[Announced]** There is a new courier service in the city! Please come to the Golden Courier service center to send your letters and small parcels.
-
-**Hook:**
-
-​	An announcement is hung in the tavern
-
-
-
-**Number of Cast Members:**
-
-​	1 at a time
-
-
-
-**Roles:**
-
-​	Stonewood Courier
-
-
-
-**Props:**
-
-​	None
-
-
-
-**Tags and Treasure:** 
-
-​	None
-
-
-
-**Scene 1:** 
-
-​	Everywhere
-
-
-
-**Flee Point:**
-
-​	None
-
-**Non-Standard Effects:**
-
-​	None
-
-
-
-**Rules Clairification:**
-
-​	None
 
 **Craftsman Information:**
 
 ​	Couriers cannot be tracked
 
-
-
-**Transformations:**
-
-​	None
-
-
-
-**Running Notes:**
 
 
 
