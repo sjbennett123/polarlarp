@@ -25,6 +25,6 @@ running_notes:  |
   They are a jovial bunch and are kind and decent to the PCs. Use this as a chance for NPC’s to take a break from fighting and get some food, and socialize. 
   The Knights are spending time in the town and need to give out a lot of lore about the setting. This is a chance to really describe the area beyond the town. 
 
-schedule: saturday
+day: saturday
 weight: 1
 ---
