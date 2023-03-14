@@ -38,6 +38,10 @@ Roles:
  - Tarrasch Black Pawn, Chaos Caster
  - Tarrasch White Pawn, Revenate
  - Tarrasch Bishop, Unnamed Litch
+Props: Rat Tails
+Costume: 
+ - Rat Mask
+ - Townsperson tabard UNDER brown or gray tabard
 ---
 
 ## Rumors:
@@ -46,9 +50,7 @@ Roles:
 [COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
 [COMMON] Large packs of giant rats have been seen roaming around the city. They are drawn by garbage and decay, and are large enough colonies to cause a problem for lone or small groups of travelers.
 
-## Props:
 
-​	Rat Tails
 ​	
 
 Non-Standard Effects: GIANT FIELD RAT can heal to full body TWICE on a TEN count [One I feed, Two I feed, etc.]
@@ -57,10 +59,7 @@ Non-Standard Effects: GIANT FIELD RAT can heal to full body TWICE on a TEN count
 
 Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
 
-## Costume: 
 
-Rat Mask
-Townsperson tabard UNDER brown or gray tabard
 
 
 

@@ -15,12 +15,6 @@ outcomes: # Will accept a list
   - The Master comes in and gathers information, gold, silver, rat tails, and other goods.  
 rumors: 
 hook: The Master comes into the tavern
-
-scenes: 
-  - 
-    oog: Tavern
-    ig: Tavern
-    flee_point: 
 non_standard_effects: 
 rules_clarifications: 
 craftsman_information: 
@@ -31,9 +25,6 @@ Running_Notes:
   - He should gamble, and be a good sport. Throw a hand or two if necessary to keep people happy.
   - The prices set for goods are kingdom standard +3. In negotiation, you shouldn't go less than 3 of whatever value. For example, you are selling a potion. Kingdom standard is 5 gold. You have them listed for 8 gold, and will negotiate down to 5 gold. Going lower than kingdom is discouraged.
 Roles: The Master
+props: Merchant Bag filled with items
 
 ---
-
-**Props:** Merchant Bag filled with items
-
-**Tags and Treasure:**  All of it

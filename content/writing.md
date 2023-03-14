@@ -24,10 +24,10 @@ reviewer:
 description: 
 synopsis:   
 number_of_cast_members: 
-props: # Will accept an array
-requirements: # Will accept an array
-treasure: # Will accept an array
-outcomes: # Will accept a list
+props: 
+requirements: 
+treasure: 
+outcomes: 
 rumors: 
 hook: 
 scenes: 
@@ -40,6 +40,7 @@ rules_clarifications:
 craftsman_information: 
 transformations: 
 running_notes: 
+schedule:
 ---
 ```
 #### Title

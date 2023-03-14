@@ -33,9 +33,6 @@ Props:
 ---
 
 
-
-
-
 ## Rumors:
 
 [COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
