@@ -1,49 +1,24 @@
 ---
-title: ""
+title: Reforging Foereaver
 date: 2022-11-10T10:33:21-05:00
 draft: false
-Layout: module
+Layout: plotline_overview
 weight: 5
-day: saturday
 description: Quest for reforging Foereaver, Faeloin Ironleaf’s weapon for Balor 
 ---
 
-**Written by**: 
+Faeloin Ironleaf, a legendary hero of Stonewood, his dying act was slaying a Greater Undead True Giant in a last Hope battle for Stonewood. Faeolin, succumbed to his wounds as he drove his family heirloom axe “Foereaver” into the heart of the beast. The shards of Foereaver were stolen from Balor during the Bloody Fist occupation, his personal quest is to reclaim the shards of Foereaver and drive it into the heart of their leader “The Hope Flayer.” The spot Faeolin died was where the Mausoleum of Fallen Heroes was built in his honor. Balor Ironleaf is his strongest living descendant and the only one who can reforge Foereaver to its true power. Balor works to restore Stonewood to the glory of his ancestor Faeolin’s vision and honor. 7 pieces of Foeraver are needed to be able to reforge it to its status. They will be located in the Mausoleum and other side quests 
 
-**Reviewed by**: 
+- There is a piece of Foereaver in the Mausoleum of Fallen Heroes after clearing Floor 3 in a hidden alcove behind a room of Giants
 
-**Brief**: 
+- **Val’Kaz the Ruthless (The Drinker of Fear)** carries a piece of Foereaver
 
-**Requirements**: 
+- **Mal-Valoance the Devourer (The Tactician)** carries a piece of Foereaver
 
-- 
+- **Wendigo the White Howler** found a piece of Foereaver raiding a small village
 
-**Synopsis**: 
+- **Grimfang the Skyrender** **(The Berserker Butcher)** carries a piece of Foereaver
 
-**Outcomes**:
+- **Svoul the Silent Strider (The Face and Dagger)** carries a piece of Foereaver
 
-**Rumors**: 
-
-**Hook**: 
-
-**Number of Cast Members**: 
-
-**Roles**: 
-
-**Props**: 
-
-**Tags and Treasure**: 
-
-**Scene 1**: 
-
-**Flee Point**: 
-
-**Non-Standard Effects**: 
-
-**Rules Clarifications**: None 
-
-**Craftsman Information**: None
-
-**Transformations**: None
-
-**Running Notes**: 
+- **Nur’Gul Bloodbane** has the final piece of Foereaver needed to reforge (Very Hard Fight)

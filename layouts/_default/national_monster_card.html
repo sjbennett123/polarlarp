@@ -3,8 +3,6 @@
 {{ .Content }} 
 <hr>
 
-
-
 {{ $immune_to := (slice ) }} 
 {{ if .Params.immune_to }}
 {{ if not (reflect.IsSlice .Params.immune_to) }}{{ $immune_to = (slice .Params.immune_to ) }}

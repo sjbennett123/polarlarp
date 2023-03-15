@@ -8,42 +8,20 @@ description: Introduction of the new Guilds System as they have returned during 
 author: Chris Colland
 ---
 
-**Written by**: 
+*Guilds return to Stonewood (Chapter average 24, game ACL 37 but build Guild Casters as lvl 30, 3rd event lvl 40)
 
-**Reviewed by**: 
+Guild Council led by a Triumvirate “Circle of Runes Hammer” 
 
-**Brief**: 
+- Gamlin Fairoak (Rangers/Scouts/Mercenary), 
+- Anoul Bowerbane (Cutters, Harvesters, Brewers), 
+- Thrum Oakrider (Alchemists, Healers, Celestial)
 
-**Requirements**: 
-
-- 
-
-**Synopsis**: 
-
-**Outcomes**:
-
-**Rumors**: 
-
-**Hook**: 
-
-**Number of Cast Members**: 
-
-**Roles**: 
-
-**Props**: 
-
-**Tags and Treasure**: 
-
-**Scene 1**: 
-
-**Flee Point**: 
-
-**Non-Standard Effects**: 
-
-**Rules Clarifications**: None 
-
-**Craftsman Information**: None
-
-**Transformations**: None
-
-**Running Notes**: 
+- Gelth Treehawk, Alchemists Guild
+- Wurim “Bonemender” Leafdancer, Healers Guild
+- Fuli Oakrider, Rangers Guild
+- Glaen Barkborer, Cutters Guild
+- Humri Silverlode, Scouts Guild
+- Balor Ironleaf, the Black Anvil Company, Mercenary Guild 
+- Sorin “Thunderhawk” Leafdancer Celestial Guild
+- Luiki Strongbow, Harvesters Guild (Harvesters cover Grain and Mining)
+- Gilg “Firebrew” Bowerbane, Brewers Guild

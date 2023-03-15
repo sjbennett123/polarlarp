@@ -7,9 +7,12 @@ weight: 1
 
 - If you have an idea that you just want to get off your chest submit it [here](https://forms.gle/j3n8CiwL9dvjQNsL9). 
 - Use the standard writeup format that we all are using for your writeups. 
+- Don't submit too much at once for review finish one thing at a time. 
 - Once you are confident with your work we will ingest it into the website get it printed up. 
 
 ## Parts of Writeups
+
+All of the writups need to be written in a similar way to this. If there is a change to the formats that we need to make we can discuss it but all modules will need to adapt to use that. When writing your modules the 
 
 ### Module Overview
 
@@ -21,13 +24,23 @@ Layout: module
 author: 
 reviewer: 
 
-description: 
-synopsis:   
-number_of_cast_members: 
-props: 
+schedule:
+weight: 
 requirements: 
-treasure: 
+
+description:
+synopsis:   
 outcomes: 
+
+
+number_of_cast_members: 
+Roles: 
+
+props: 
+makeup: 
+treasure: 
+
+
 rumors: 
 hook: 
 scenes: 
@@ -35,12 +48,14 @@ scenes:
     oog: 
     ig: 
     flee_point: 
+
 non_standard_effects: 
 rules_clarifications: 
 craftsman_information: 
 transformations: 
 running_notes: 
-schedule:
+
+
 ---
 ```
 #### Title
@@ -49,13 +64,23 @@ A distinctive title for your module. Something that can be talked about around t
 
 *This is bad "Crab People 3" or "Sneaking Module".* 
 
-#### Brief
+#### Brief/Description
+
+**Enter this as description in your code.** 
 
 This is a one or two sentence description of the module. Don't put any mystery in here be as simple and direct as possible. 
 
 *This is bad "The adventurers discover that all that glitters is not gold when the Crab People are involved".* 
 
 *This is good. "The adventurers try to find a buried treasure but are attacked by the Crab People"*
+
+### Schedule
+
+Friday, Saturday Random or unsorted
+
+### Weight
+
+will need tinkered with so that it shows up in the list in a reasonable place. Higher weights go to the bottom. 
 
 #### Requirements
 
@@ -153,16 +178,21 @@ description:
 Layout: role
 
 introduction: 
-body:
-defenses: # Will accept an array
-weapons: 
-damage: # Will accept an array
-magic: # Will accept an array
-abilities: # Will accept an array
-killing_blow: 
 motivation: 
 tactics: 
-costuming: # Will accept an array
+
+body:
+defenses: 
+weapons: 
+damage:
+magic: 
+abilities:
+killing_blow: 
+
+costuming: 
+makeup:
+props: 
+
 reset:
 ---
 ```
@@ -179,8 +209,6 @@ Remember to give your characters names. Use name lists such as the [Storygames N
 ```yaml
 ---
 title: 
-date: 2022-11-10T10:33:21-05:00
-draft: false
 layout: national_monster_card
 monster_manual: 
 
@@ -195,11 +223,11 @@ APL:
 Movement: 
 Inteligence: 
 Society: 
-Motivation: # Will accept an array
+Motivation: 
 armor: 
-offensive_abilities: # Will accept an array
-defensive_abilities: # Will accept an array
-vulnerabilities: # Will accept an array
+offensive_abilities: 
+defensive_abilities: 
+vulnerabilities: 
 spells: 
 pyramid: 
 rec_treasure: 

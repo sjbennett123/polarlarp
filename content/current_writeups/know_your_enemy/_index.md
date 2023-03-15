@@ -11,6 +11,7 @@ author: Scott Bennett
 Requirements:
   - The orcs have shown the town that they are not defeated. The need for heroes is obvious. 
 synopsis: Balar distributes the notes that he and the Black Anvil Company have collected. He also reviews the notes that he has on the Spirit Bomb that the Orcs are preparing. He is worried that the orcs will complete their work soon. 
+roles: Balar Ironleaf
 ---
 
 
