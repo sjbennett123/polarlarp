@@ -9,7 +9,19 @@ introduction: You were once an avid Adventurer known for your hunting of Werewol
 body: 20
 ---
 
-- When reading a PCs fortune, ask lots of questions about their past. The bigger the responses from the player, engage them with a dark prophecy. These will be unique descriptive phrases given by plot to hint at events to come
+When Reading a PCs Fortune
+
+Ask lots of questions about their past. The bigger the responses from the player, engage them with a dark prophecy. These will be unique descriptive phrases given by plot to hint at events to come.
+
+- Where were you born?
+- What is your greatest fear.
+- Who are you running from?
+- What are you hoping for?
+- What do you think happens after we permanently die?
+- When you have surrendered.
+- When have you ran away
+- When have you stolen?
+- When have you lie?
 
  **When the dark prophecies take over:**
 
