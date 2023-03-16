@@ -30,13 +30,9 @@ running_notes:
 Props:
   - Dismembered body
   - Dismembered Head
+Rumors: | 
+  - [COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
+  - [UNCOMMON] There are always bodies being found, but lately the bodies bare signs of immense torture before being returned to their families.
+  - [UNCOMMON] People are randomly disappearing, from their beds, the streets, in front of their families... People fear the night and what stalks it
 ---
-
-
-## Rumors:
-
-[COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
-[UNCOMMON] There are always bodies being found, but lately the bodies bare signs of immense torture before being returned to their families.
-[UNCOMMON] People are randomly disappearing, from their beds, the streets, in front of their families... People fear the night and what stalks it
-
 
