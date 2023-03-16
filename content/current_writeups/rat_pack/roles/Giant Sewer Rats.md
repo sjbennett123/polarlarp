@@ -1,8 +1,32 @@
-## Character Sheet- Giant Sewer Rats
+---
+title:  Giant Sewer Rats
+
+description: 
+Layout: role
+
+introduction: *Squeak squeak squeak, squeak!*
+
+motivation: 
+tactics: 
+
+body:
+defenses: 
+weapons: 
+damage:
+magic: 
+abilities:
+killing_blow: 
+
+costuming: 
+makeup:
+props: 
+
+reset:
+---
+
 
 ***Introduction***
 
-*Squeak squeak squeak, squeak!*
 
 ***Traits:***
 
@@ -60,7 +84,6 @@
 
 
 **Motivations:** Feed on trash and decay
-
 
 
 **Tactics:** Will tend to stay grouped together and fight as a group rather than individuals, will attack if something gets within 10 feet.

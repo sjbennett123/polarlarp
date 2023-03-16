@@ -180,9 +180,7 @@ Read the write-up aloud before giving it the thumbs up. The cast will be reading
 ```yaml
 ---
 title: 
-date: 2022-11-10T10:33:21-05:00
-draft: false
-weight: 3
+
 description: 
 Layout: role
 
