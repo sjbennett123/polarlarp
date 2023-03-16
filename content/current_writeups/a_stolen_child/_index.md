@@ -36,79 +36,26 @@ running_notes:
 - The Pawn's goal is to beat down the PCs.  
 - The Bishop will come in and rob the PCs of magic items, which will go into the Tarrasch cashe.
 - If wanted, the Bishop will abduct a PC to take to the Bloody Fist Black Site
----
-
-
-
-
-
-**Number of Cast Members:**
-- 2 plus 5 or more -
+roles:
+  - Varyn Giljek
+  - Tarrasch Bishop, Unnamed
+  - Tarrasch Black Pawn, Revenant
+  - Tarrasch Black Pawn, Death Master
+  - Tarrasch White Pawn, Chaos Caster
+  - Tarrasch White Pawn, Fighter
+number_of_cast_members: 
+  - 2 plus 5 or more -
   - 1-Varyn
   - 1+ 	Bishop
   - 1+ 	Revenate
   - 1+ 	Death Master
   - 1+ 	Fighter
   - 1+ 	Chaos Caster
+Props:
+  - Dead Child Body
 
-**Roles:**
-- Varyn Giljek
-- Tarrasch Bishop, Unnamed
-- Tarrasch Black Pawn, Revenant
-- Tarrasch Black Pawn, Death Master
-- Tarrasch White Pawn, Chaos Caster
-- Tarrasch White Pawn, Fighter
+	
+---
 
 
-
-**Props:**
-
-​	Dead Child Body
-
-​	
-
-**Tags and Treasure:** 
-
-​	Silver
-​	Gold
-
- 
-
-**Scene 1:** 
-
-​	
-
-
-
-**Flee Point:**
-
-​	None
-
-
-
-**Non-Standard Effects:**
-
-​	None
-
-
-
-**Rules Clarification:**
-
-​	None
-
-
-
-**Craftsman Information:**
-
-​	None
-
-
-
-**Transformations:**
-
-​	None
-
-
-
-**Running Notes:**
 
