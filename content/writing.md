@@ -26,6 +26,7 @@ reviewer:
 
 schedule:
 weight: 
+plotline: 
 requirements: 
 
 description:
@@ -40,8 +41,8 @@ props:
 makeup: 
 treasure: 
 
-
 rumors: 
+
 hook: 
 scenes: 
   - 
@@ -58,6 +59,10 @@ running_notes:
 
 ---
 ```
+If there is something that you are not using don't populate it the system will handle it. 
+
+
+
 #### Title
 
 A distinctive title for your module. Something that can be talked about around the shack that evokes the feel of your module. 
@@ -74,13 +79,17 @@ This is a one or two sentence description of the module. Don't put any mystery i
 
 *This is good. "The adventurers try to find a buried treasure but are attacked by the Crab People"*
 
-### Schedule
+#### Schedule
 
-Friday, Saturday Random or unsorted
+Friday, Saturday Random or unsorted. If this is left blank it will go to unsorted. 
 
-### Weight
+#### Weight
 
 will need tinkered with so that it shows up in the list in a reasonable place. Higher weights go to the bottom. 
+
+#### Plotline
+
+The name of the plotline that this relates to. 
 
 #### Requirements
 
@@ -180,6 +189,8 @@ Layout: role
 introduction: 
 motivation: 
 tactics: 
+movement:
+speech:
 
 body:
 defenses: 
@@ -196,11 +207,17 @@ props:
 reset:
 ---
 ```
+If there is something that you are not using don't populate it the system will handle it. 
+
+---
+
 Often there are bits where the cast need to add their own little something to a role. Give some guidance for this so that they can be more confident in their play.
 
 Try to give the cast some guidance on making the characters come alive. What do you say exactly how do you say it. What mannerisms will make the characters work. 
 
 Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/)  
+
+
 
 ### National Monster Card
 

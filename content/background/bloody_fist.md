@@ -189,7 +189,7 @@ Green and red Fire Drakes from the Fire Plane. They are morphed into Draconic lo
 
 ### Fear of the Black Shadow
 
-It is unknown how this can be performed but we have found as part of the ritual that gives the Urakhai thier power they have a fear of the true form of the Black Shadow. 
+It is unknown how this can be performed but we have found as part of the ritual that gives the Urakhai thier power they have a fear of the true form of the Black Shadow.
 
 ### War Drums and War Horns
 

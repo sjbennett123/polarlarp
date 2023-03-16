@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<!-- treasuere,requirement and outcomes need to accept a string or array -->
+<!-- treasuere,requirement and outcomes need to accept a string OR array -->
 
 
 <p><b>Written By:</b> {{ .Params.author -}}</p>
@@ -15,9 +15,11 @@
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
 
 {{ if .Params.requirements }}
+{{ $requirements := (slice ) }} {{ if not (reflect.IsSlice .Params.requirements) }}{{ $requirements = (slice .Params.requirements ) }}
+{{ else  }} {{ $requirements = append $requirements .Params.requirements }}{{ end }} 
 <div id ="requirements"> 
 <p><b>Requirements:</b></p>
-    {{ range  .Params.requirements }}
+    {{ range  $requirements }}
     <li>{{ . }}</li>
     {{ end }}
 </div>
@@ -29,9 +31,11 @@
 {{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
 
 {{ if .Params.outcomes }} 
+{{ $outcomes := (slice ) }} {{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
+{{ else  }} {{ $outcomes = append $outcomes .Params.outcomes }}{{ end }} 
 <div id= "outcomes" ><p><b>Outcomes:</b></p>
 <ol>
-    {{ range .Params.outcomes }}
+    {{ range $outcomes }}
     <li>{{ . }}</li>
     {{ end }}
 </ol></div>
@@ -108,9 +112,17 @@
 </p></div> 
 {{ end }}
 
+
+
+
+
+
+
+
 {{ if or (.Params.treasure)  (.Params.magic_items) }}
 <div id="treasure"> <p><b>Treasure:</b>
-{{ if  .Params.treasure }}{{ delimit  .Params.treasure ", " -}}{{- end -}} 
+{{- $treasure := (slice ) -}} {{ if not (reflect.IsSlice .Params.treasure) }}{{ $treasure = (slice .Params.treasure ) }}
+{{ else  }} {{ $treasure = append $treasure .Params.treasure }} {{- end -}} {{ delimit  $treasure ", " -}}
 {{ $magic_items := (slice )  }}
 {{- if .Params.magic_items -}}
     {{- $magic_items = append $magic_items .Params.magic_items -}}

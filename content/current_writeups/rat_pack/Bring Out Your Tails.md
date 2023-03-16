@@ -11,7 +11,12 @@ outcomes:
   - The PCs sell their rat tails
 rumors: 
 hook: Courier comes into town
-
+Rumors: |
+  - **[ANNOUNCED]** There is a bounty on rats in the city, and the city will pay one silver for every  rat tail harvested.
+number_of_cast_members: 2
+roles: 
+  - Paid Courier of Stonewood
+  - Stonewood Guard
 ---
 
 
@@ -23,29 +28,14 @@ hook: Courier comes into town
 
 
 
-**Rumors:**
-
-- **[ANNOUNCED]** There is a bounty on rats in the city, and the city will pay one silver for every  rat tail harvested.
 
 
-
-**Hook:**
-
-​	
-
-
-
-**Number of Cast Members:**
-
-​	2
 
 
 
 **Roles:**
 
-​	Paid Courier of Stonewood
 
-​	Stonewood Guard
 
 **Props:**
 

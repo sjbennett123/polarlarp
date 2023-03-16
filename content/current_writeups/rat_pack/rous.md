@@ -1,4 +1,4 @@
-# *The Rat Pack- R.O.U.S. [Repeatable]*
+# R.O.U.S. 
 
 **Written By:** Brittney Perry
 
@@ -104,7 +104,7 @@
 
 **Running Notes:**
 
-- ​	The Rats shouldn't be aggressive, but defensive. Their main motivations is to get food, and they won't attack unless attacked first or if you defend the food
+- ​	
 
 
 

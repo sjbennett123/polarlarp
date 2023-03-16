@@ -9,15 +9,27 @@ event_date: "04/14/2023 09:1 PM"
 
 ## Current Work
 
-Stephen is reviewing and editing Cryptic Wishes.
+**Stephen** 
 
-Mike is implementing the Cryptic Wishes Feedback
+- reviewing and editing Cryptic Wishes.
 
-Chris is finishing his notes and sending them over to Scott. 
+**Mike** 
 
-Brittany is finishing Family Recipes series of modules.
+- implementing the Cryptic Wishes Feedback
 
-Scott is finishing up the website updates and starting to fill in details from his notes. 
+**Chris** 
+
+- finishing his notes and sending them over to Scott. 
+
+**Brittany** 
+
+- is finishing Family Recipes series of modules.
+
+**Scott** 
+
+- Finishing up the website updates and starting to fill in details from his notes. 
+
+### Website Updates
 
 - Defend against NON array data in national monster cards and role cards. 
 - ADD A CONDITION FOR LAYOUT BIENG NIL for MISC Logic
