@@ -4,6 +4,9 @@ Layout: module
 
 author: Brittney Perry
 reviewer: 
+plotline: 
+  - The Tarrascht
+  - Rat Pack
 
 description: The PCs go with Luca to help the farmer clear out his rat infestation. They are set upon by the Tarrasch after the rats are killed.
 
@@ -58,7 +61,6 @@ Non-Standard Effects: GIANT FIELD RAT can heal to full body TWICE on a TEN count
 ## Rules Clarification: 
 
 Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
-
 
 
 

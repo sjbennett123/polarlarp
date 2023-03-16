@@ -5,6 +5,9 @@ Layout: module
 
 author: Brittany Perry
 reviewer: 
+plotline: 
+  - The Tarrascht
+  - Rat Pack
 
 description: A man murdered by the Tarrasch and his grieving wife are found on a nearby trail. She is being attacked by Bloody Rats who wish to feed on the corpse. 
 

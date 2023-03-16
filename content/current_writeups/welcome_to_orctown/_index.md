@@ -22,13 +22,7 @@ makeup:
 treasure: 
 
 
-rumors: 
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
+
 
 non_standard_effects: 
 rules_clarifications: 
