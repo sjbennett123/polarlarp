@@ -1,8 +1,24 @@
-## Character Sheet- Rat King
+---
+title: Rat King
+date: 2022-11-10T10:33:21-05:00
+draft: false
+weight: 3
+description: 
+Layout: role
 
-***Introduction***
 
-*SqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueak*
+
+motivation: Feed dead bodies
+tactics: These rats are tied together by the tail. They will fight what ever is in front of them.
+
+movement: Slow, must move as a unit.
+speech: None
+
+body: 50
+
+---
+
+introduction:  SqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueakSqueaksqueaksqueak
 
 - The Rat King can move, but will move as a unit. 
 
@@ -13,39 +29,9 @@
 - ***Ravenous***
 - ***Agressive***
 
-
-
-**Reset:** No
-
-
-
-**Movement:** Slow, must move as a unit.
-
-
-
-**Speech:** None
-
-
-
-**APL:**
-
-
-
-**Body:** 50
-
-
-
 **Strength Bonus:** 4
 
-
-
 **Healed By:** Earth
-
-
-
-**Defensives:**
-
-
 
 **Offensives:**
 
@@ -54,43 +40,12 @@
 - ​	5 Cause Weakness
 - ​	5 Wither limb
 
-
-
 **Weapons:** Small Weapon- 6 Disease, Short/Longsword – 10 Disease
 
-
-
-**Immune To:**
-
-
-
-**Damage:**
-
-
-
-**Magic:** None
-
-
-
 **Abilities:** Rips from Pin/ Bind
-
-
-
-**Killing Blow:** No
-
-
-
-**Motivations:** Feed dead bodies
-
-
-
-**Tactics:** These rats are tied together by the tail. They will fight what ever is in front of them.
-
-
 
 **Costuming:**
 
 - ​	Brown or Gray Tabard,  
 - ​	Rat Masks OR Rat Makeup
 - ​	Rat Tails
-

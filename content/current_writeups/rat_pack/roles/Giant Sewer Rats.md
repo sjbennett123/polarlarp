@@ -4,7 +4,7 @@ title:  Giant Sewer Rats
 description: 
 Layout: role
 
-introduction: *Squeak squeak squeak, squeak!*
+introduction: Squeak squeak squeak, squeak!
 
 motivation: 
 tactics: 

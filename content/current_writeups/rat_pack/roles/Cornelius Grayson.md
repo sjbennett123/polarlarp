@@ -18,7 +18,8 @@ magic:
 abilities:
 killing_blow: 
 
-costuming: Normal Townsperson Clothing
+costuming:
+ - Normal Townsperson Clothing
 makeup:
 props: 
 
