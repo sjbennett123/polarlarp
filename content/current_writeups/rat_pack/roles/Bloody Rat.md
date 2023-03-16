@@ -1,8 +1,34 @@
-## Character Sheet- Bloody Rat
+---
+title: Bloody Rat
+date: 2022-11-10T10:33:21-05:00
+draft: false
+weight: 3
+description: 
+Layout: role
+
+introduction: Squeak squeak squeak, squeak!  
+motivation: 
+tactics: 
+movement:
+speech:
+
+body: 32
+defenses: 
+weapons: 
+damage:
+magic: 
+abilities:
+killing_blow: 
+
+costuming: 
+makeup:
+props: 
+
+reset:
+---
 
 ***Introduction***
 
-*Squeak squeak squeak, squeak!*
 
 The Rats shouldn't be aggressive, but defensive. Their main motivations is to get food, and they won't attack unless attacked first or if you defend the food
 
@@ -15,7 +41,6 @@ The Rats shouldn't be aggressive, but defensive. Their main motivations is to ge
 
 
 
-**Reset:** No
 
 
 
@@ -23,15 +48,13 @@ The Rats shouldn't be aggressive, but defensive. Their main motivations is to ge
 
 
 
-**Speech:** Normal speech
 
 
 
-**APL:** 3
 
 
 
-**Body:** 32
+**Body:** 
 
 
 

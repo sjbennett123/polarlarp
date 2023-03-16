@@ -1,6 +1,31 @@
-## Character Sheet- Golden Courier Guard
+---
+title: Golden Courier Guard
+date: 2022-11-10T10:33:21-05:00
+draft: false
+weight: 3
+description: 
+Layout: role
 
+introduction: 
+motivation: 
+tactics: 
+movement:
+speech:
 
+body:
+defenses: 
+weapons: 
+damage:
+magic: 
+abilities:
+killing_blow: 
+
+costuming: 
+makeup:
+props: 
+
+reset:
+---
 
 ***Introduction***
 
