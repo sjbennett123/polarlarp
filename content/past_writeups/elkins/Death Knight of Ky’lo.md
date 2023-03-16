@@ -6,10 +6,6 @@ Death Knight of Ky’lo - Fighter
 
 **Synopsis**: You are the commanding force under Canus himself. You do as he asks and you follow his orders to the letter. You control the undead legions with your fellow brother knights. You will kill all who stand in your way, and cleanse the land of the living! „„You have to be the alpha male in any situation. Challenge cultists who might be competition.
 
- 
-
-
-
 **Notes:** 1 or all three will rift in with Canus when he makes his presence known. They will not move to attack unless directly told to. One will stay behind when Canus leaves with Nevaeh, the other two will leave and be part of the first mod of the night. (Sword of Ky’lo) These will not go out again unless the first one survives the players.
 
  

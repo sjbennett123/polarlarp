@@ -258,4 +258,4 @@ Renew upon killing blow against a creature with a transform.
 
 after killing blowing 3 Creatures with a transform transform to the next tier after a time 
 
-600 pt arcane vengance 10x
+600 pt arcane vengance 10xb

@@ -1,9 +1,9 @@
 Lizard Patrol finds a Necromancer
 
 **Written by:** Kevin Logue **Reviewed by:** 
- 
+
  **Brief**: A patrol of lizard folk have captured a necromancer and are trying to administer justice.
- 
+
  **Synopsis**: The adventurers come across a patrole of lizard folk with a man in custody. The man is guilty of necromancy. Next to the trio is a destroyed skeleton, one of the lizards is tainted and the man himself is tainted, when he tried to taint both the lizard guards after they killed his skeleton, he got one but the other had a reflect magic. The lizards are debating whether to carry out the sentence for necromancy and assult then and there or whether they should take the man back for a proper judge to carry out the sentence. But they do not know what the punishment is for necromancy or assult, they are just simple guardsmen, they know the laws but not how to enforce them. By right they may carry out low justice but not high justice. The debate is whether or not the crimes are deserving of high justice or not.
 
 
@@ -133,4 +133,4 @@ Thossen wants to follow the law, but is a bit over zealous. He firmly believes a
 **Special Abilities:**
 
 **
-**
+**b

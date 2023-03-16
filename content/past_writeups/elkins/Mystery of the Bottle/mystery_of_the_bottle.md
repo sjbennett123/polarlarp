@@ -19,16 +19,21 @@ Roles: 1 Earth elemental(Sand), 4 Air Elementals (Maelstrom, 2 Lesser Air Elemen
 Hook: Blue Bottle in Tavern
 Number_of_Cast_Members: 4
 Rules_Clarifications: Planar Immunities/abilities
+Transformations: Anyone with a transform will have their transform go up.
+scenes: 
+  - 
+    oog: 
+    ig: Plane of Air (walking hold)
+    flee_point: None (no combat)
 ---
 
-Plane of Air (walking hold)
 
-**Flee Point**: None (no combat)
 
-**Transformations**: Anyone with a transform will have their transform go up.
+
+
+
 
  
-
 
 
 
