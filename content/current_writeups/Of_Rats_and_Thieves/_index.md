@@ -16,12 +16,15 @@ number_of_cast_members: 7 or MORE Luca Norwish 6 Giant Rats/ 6 Tarrasch Pawns
 props: # Will accept an array
 requirements: # Will accept an array
 treasure: 
-  - Rat Tails
+  - Rat Tails (Each Rat, when killed, will give a rat tail for the bounty. These are in game items.)
   - Silver 
 outcomes: 
   - The PCs are able to beat down all the rats, but fail to hold off the Tarrasch. They are robbed and left in the field. One is abducted. The symbol is left at the scene on the back of a PC's hand or forehead
   - The PCs are able to beat down all the rats, and hold off the Tarrasch. The symbol is not left on a PC.# Will accept a list
-rumors: 
+rumors: |
+  - [ANNOUNCED] There is a bounty on rats in the city, and the city will pay one silver for every  rat tail harvested.
+  - [COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
+  - [COMMON] Large packs of giant rats have been seen roaming around the city. They are drawn by garbage and decay, and are large enough colonies to cause a problem for lone or small groups of travelers.
 hook: Luca bringing the PCs to the fighting area
 
 scenes: 
@@ -45,22 +48,19 @@ Props: Rat Tails
 Costume: 
  - Rat Mask
  - Townsperson tabard UNDER brown or gray tabard
+Non_Standard_Effects: GIANT FIELD RAT can heal to full body TWICE on a TEN count [One I feed, Two I feed, etc.]
 ---
 
-## Rumors:
+## 
 
-[ANNOUNCED] There is a bounty on rats in the city, and the city will pay one silver for every  rat tail harvested.
-[COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
-[COMMON] Large packs of giant rats have been seen roaming around the city. They are drawn by garbage and decay, and are large enough colonies to cause a problem for lone or small groups of travelers.
+
 
 
 ​	
 
-Non-Standard Effects: GIANT FIELD RAT can heal to full body TWICE on a TEN count [One I feed, Two I feed, etc.]
 
-## Rules Clarification: 
 
-Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
+
 
 
 

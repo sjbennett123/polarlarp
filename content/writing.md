@@ -14,6 +14,16 @@ weight: 1
 
 All of the writups need to be written in a similar way to this. If there is a change to the formats that we need to make we can discuss it but all modules will need to adapt to use that. When writing your modules the 
 
+Plotline Overview
+
+```yaml
+---
+title: 
+layout: plotline_overview
+---
+
+```
+
 ### Module Overview
 
 ```yaml
