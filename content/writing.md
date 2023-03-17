@@ -91,7 +91,7 @@ This is a one or two sentence description of the module. Don't put any mystery i
 
 #### Schedule
 
-Friday, Saturday Random or unsorted. If this is left blank it will go to unsorted. 
+Friday, Saturday Random,Townsfolk or unsorted. If this is left blank it will go to unsorted. 
 
 #### Weight
 
