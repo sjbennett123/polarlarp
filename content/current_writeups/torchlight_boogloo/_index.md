@@ -3,7 +3,7 @@ title: "Torchlight Boogloo"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 7
-day: saturday
+schedule: saturday
 layout: module
 author: Chris Colland
 reviewer: Scott Bennett

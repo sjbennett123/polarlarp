@@ -2,6 +2,9 @@
 title: Rescue the Captives
 Layout: module
 
+schedule: Friday
+weight: 2 
+
 author: Chris Colland
 reviewer: 
 
@@ -24,6 +27,5 @@ rules_clarifications:
 craftsman_information: 
 transformations: 
 running_notes: 
-day: Friday
-weight: 2 
+
 ---
