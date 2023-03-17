@@ -1,62 +1,52 @@
 ---
-title: "Help Wanted"
-date: 2022-11-10T10:33:21-05:00
-draft: false
-weight: 10
+title: Help Wanted
 Layout: module
-day: friday
+
 author: Brittney Perry
-description: Granny Linda Glynhall's family recipe book has gone missing! Also, she hasn't seen her grandson Charlie in three days. In desperation, she has put two ads in the local paper asking for help finding them both. She has offered a reward for the return of each.
-Requirements: 
- - Bringing the HELP WANTED ads to the NPC shack.
-Synopsis:  A sweet old lady dwarf has put up a help wanted ad to enlist help returning her recipe book and her grandson, for a reward. She doesn't know where her grandson would be, and needs help finding him. Her recipe book also went missing around the same time, and she can't find it anywhere. The book is full of old family recipes and is worth 1250 silver. She assumes it was stolen, and wants it back. Once all the information has been relayed or the PCs wish to leave, she will see them to the door and wish them good luck in finding her grandson and book.
-Running_Notes:  Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. She is incredibly sweet, saying “dearie” this, and “sweetie” that.  She explains that, Charlie, bless his heart, took up an interest in her book lately. It's so sweet he finally wants to learn the family recipes! But now the book's gone missing, and when she tried to get Charlie to help find it, well, he disappeared, too! **[see character sheet for detailed information]** She asks that you track her grandson and ask him to come home, And can you find her book? She needs her book back as soon as possible. If Charlie Glynhall is tracked using CRAFTING SKILL OTHER before the 2 hour timer is over, he is tracked back to the Felhand cache, where he is guarding the loot of the Felhand [module WE FOUND CHARLIE]
-Outcomes:
-- The PCs talk to Granny Linda Glynhall and are told information about her, her grandson, her recipe book, the occupation, or anything else people want to talk about. Once they leave the house, the 2 hour timer to find Charlie starts **[module OPERATION FIND CHARLIE].
-Rumors: 
+reviewer: 
+
+schedule: friday
+weight: 
+plotline: Family Recipes
+requirements: 
+
+description: Granny Whuthona Silverlode's family recipe book has gone missing! Also, she hasn't seen her grandson Huldrek in several days. In desperation, she has put two ads in the tavern asking for help in finding them both. She has offered a reward for the return of each. 
+
+synopsis: > 
+  A sweet old lady dwarf has put up a help wanted ad to enlist help returning her recipe book and her grandson for a reward. She doesn't know where her grandson would be, and needs help finding him. Her recipe book also went missing around the same time, and she can't find it anywhere. The book is full of old family recipes and is valuable. She insists it was stolen, and wants it back.
+  Once everyone has talked and all information is relayed by Granny, she will see everyone to the door and wish them luck in finding her book! And her grandson, too.
+
+outcomes: The PCs talk to Granny Whuthona Silverlode and are told information about her, her grandson, her recipe book, the occupation, or anything else people want to talk about. Once the PCs leave the house, the PCs have until 12pm Saturday to find Huldrek at the cache [OPERATION FIND HULDREK].
+
+
+number_of_cast_members: 1
+Roles: Grandma "Granny" Whuthona Silverlode
+
+props: Sinister Scent in "Sugar Cookie"
+makeup: Flour on face and hands
+treasure: 
+
+rumors: |
+  - [COMMON] Granny Silverlode's recipe book is famous. She has a recipe for everything you need in it. Beard tonic, hair growth serums, potions, tinctures, herbal mixes, she has it all! 
+  - [UNCOMMON] Ol' Drek Silverlode is the type of person you don't leave unattended with your valuables, if you know what I mean.
+  - [UNCOMMON] Huldrek has been banned from all polite drinking establishments due to his behavior and failure to pay.
+
+hook: Help Wanted Posters. Bringing the posters to the NPC shack
+scenes: 
+  - 
+    oog: A Cabin
+    ig: Granny Silverlode's House   Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. It appears to be the home of someone who lives comfortably. They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. 
+
+    flee_point: 
+
+
+
+craftsman_information: Huldrek can be tracked using Craftsman Other-Tracking Level 1 or above
+
+running_notes: >
+  Granny is an incredibly sweet dwarf, saying "dearie” this, and “sweetie” that. She explains that Huldrek has always had his troubles, but he is a good boy! He is so busy, he hasn't come home in days and she is worried for him.
+  But worry for her grandson is eclipsed by her worry for her book! Someone must have broken in and taken it! It's been missing for the same amount of time as Huldrek. But that's just a coincidence!
+  Granny should be insistent that her grandson has nothing to do with her books disappearance, and shut down any talk otherwise,
+  Granny will recommend that the PCs use Craftsman: Other-Tracking to track Huldrek.
+  If Huldrek Silverlode is tracked using Craftsman: Other-Tracking [Level 1 or above] before 12pm, he is tracked back to the Tarrasch cache, where he is guarding the Chest of the Tarrasch [YOU FOUND HULDREK]
 ---
-
-
-
-
-
-
-
-- 
-
-
-
-- 
-
-
-
-**[COMMON]** Granny Glynnhall's recipe book is famous. She has a recipe for everything you need in it. Beard tonic, hair growth serums, potions, tinctures, herbal mixes, she has it all. 
-
-**[UNCOMMON]** Ol' Charlie Glynnhall is the type of person you don't leave unattended with your valuables, if you know what I mean.
-
-**Hook:** Bringing the newspaper ad to the NPC shack
-
-**Number of Cast Members:** 1.
-
-**Roles:** Granny Linda Glynhall 
-
-**Props:** Sinister scent in baking for scene dressing [OPTIONAL] 
-
-**Tags and Treasure:** None
-
-**Scene 1:** Granny Glynhall's House
-
-**Flee Point:** None
-
-**Non-Standard Effects:** None
-
-**Rules Clairification:** None
-
-**Craftsman Information:** None
-
-**Transformations:** None
-
-**Running Notes:**  Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. She is incredibly sweet, saying “dearie” this, and “sweetie” that.  She explains that, Charlie, bless his heart, took up an interest in her book lately. It's so sweet he finally wants to learn the family recipes! But now the book's gone missing, and when she tried to get Charlie to help find it, well, he disappeared, too! **[see character sheet for detailed information]** She asks that you track her grandson and ask him to come home, And can you find her book? She needs her book back as soon as possible. If Charlie Glynhall is tracked using CRAFTING SKILL: OTHER before the 2 hour timer is over, he is tracked back to the Felhand cache, where he is guarding the loot of the Felhand **[module WE FOUND CHARLIE]**
-
-
-
