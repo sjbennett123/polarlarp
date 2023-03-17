@@ -282,6 +282,15 @@ Use the setting that exists if at all possible. Don't create new setting if an e
 - Can you visualize the module. 
 - Say nice things too remember they tried their best. 
 
+```yaml
+title: "Feedback: Cryptic Wishes"
+
+layout: feedback
+author: Scott Bennett
+```
+
+
+
 ## POLAR Event Directors Requirements
 
 1. You must work with your Review. 

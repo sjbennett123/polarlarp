@@ -1,14 +1,17 @@
 ---
 title: "Fatal Warning"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+layout: module
+
 weight: 8
 schedule: saturday
+
 description: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they play with a bigger Ace in their sleeve. People are wandering around with Pamphlets essentially reading Surrender or Burn.
+
 author: Chris Colland
-Reviewer:  Scott Bennett
+
+
 Requirements: 
-- Both Fears by Torchlight modules have ran
+- Both Fears by Torchlight and Torchlight Boogloo modules have ran
 Synopsis: This is the final and fatal warning of the Bloody Fist. All named Townsfolk enter the town with these pamphlets outlining an evacuation protocol for the citizens of Stonewood. The pamphlets seem to be a humane request for innocents to leave before this escalates but the wording is very grim for what is to come…
 Outcomes:
  - The players are given the pamphlets by other NPCs or roaming Scouts with no weapons. They aren’t here to fight; they have come to deliver a message.
