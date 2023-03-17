@@ -4,7 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1.2
 description: The citizens of Stonewood are content but broken under occupation of the Bloody Fist.
-day: townsfolk
+schedule: townsfolk
 layout: module
 author: Chris Colland
 reviewer: Scott Bennett

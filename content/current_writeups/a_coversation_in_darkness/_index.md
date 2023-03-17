@@ -3,7 +3,7 @@ title: "A Conversation in Darkness"
 
 Layout: module
 
-day: reaction
+schedule: reaction
 weight: 9
 plotline: the time war
 
