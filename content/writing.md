@@ -242,7 +242,7 @@ Body_points:
 Strength_bonus:
 threshold: 
 rips_from:
-Descriptive Phrase:
+Descriptive_Phrase:
 Type:
 APL:
 Movement: 

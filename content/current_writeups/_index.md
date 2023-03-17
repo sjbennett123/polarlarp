@@ -4,8 +4,10 @@ date: 2022-11-10T10:33:21-05:00
 weight: 4.1
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
-event_date: "04/14/2023 09:1 PM"
+event_date: "04/14/2023 09:10 PM"
 ---
+
+Source code at the below link.
 
 https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
@@ -30,10 +32,12 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 **Scott** 
 
 - Finishing up the website updates and starting to fill in details from his notes. 
+- send brittany rope
 
 ### Website Updates
 
-- Defend against NON array data in national monster cards and role cards. 
+- Defend against NON array data in national monster cards and role cards.
+- add plotline name to module and click to go to plotline overview
 - ADD A CONDITION FOR LAYOUT BIENG NIL for MISC Logic
 - add link from rumor to module
 - change "day" to schedule in config. Rename all variables to schedule rather than day. Update overview page to not display headings with no values. 
