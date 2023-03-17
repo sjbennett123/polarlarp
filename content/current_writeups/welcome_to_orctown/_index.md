@@ -5,29 +5,20 @@ Layout: module
 author: Scott Bennett 
 reviewer: 
 
-schedule:
-weight: 
-requirements: 
+schedule: friday
+weight: 1
+requirements: The bristle bash is going on.
 
-description:
-synopsis:   
+description: The bloody fist orcs have given you time to think about what you have done and now they are going to smash your face in. 
+synopsis: The bloody fist orcs raiding party arrives. Just comes marching down the road. There's a big road that leads down into the tavern where right over a big hill. There's a huge flood light out in the yard and they will just see 30 orcs walking out of the darkness. They are going to give Lil Bristle the Mayor his orders. Stand Down as mayor and give the position to Selkath or die. 
 outcomes: 
+  - The mayor stands down and Selkath is installed.
+  - This initial party is repelled. 
 
-number_of_cast_members: 
-Roles: 
-
-props: 
-makeup: 
-treasure: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
+number_of_cast_members: 10
+Roles: Bloody Fist Grunt, Bloody Fist raid Leader
 
 ---
 
-Just come marching down the road. Like, i don't know if you guys haven't seen this camp but there's a big road that walks right down into the tavern where we can walk right over this big hill. And there's this huge flood light out in the yard and if they just see 30 orcs walking out of the darkness with like we wrap like glow sticks around, like things like torches and shit. 
 
-These guys went in, they gave Mary, you stand down or you die. Stephen started writing out his surrender note and then he just ate it so they killed it. But i was like, okay they're gonna memory poisoning and they're gonna let him rest. That's what they started to do them. Like no, no, no, no, let's do this. And i like messed around with a bunch of stuff and they like the killed, an orc, and they put the orc dagger, like in Steven's characters hand. So and then the awarded the building. So Steven was stuck inside for five.
+
