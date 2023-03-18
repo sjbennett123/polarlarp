@@ -25,7 +25,6 @@ offensive_abilities:
   -  Arcane Create Undead at Will
   -  Create Revenant x5 (Takes 10 Count)
   -  Create Collosal Revenant x3 (Takes 10 Count)
-Defensive Abilities	
 defensive_abilities: 
   - Add Character Body
   - No Metabolism
@@ -80,7 +79,7 @@ Don’t SPAM attack your Magic Death! Think of how the fairness of the module is
 
 
 
-	
-	
-	
+​	
+​	
+​	
 
