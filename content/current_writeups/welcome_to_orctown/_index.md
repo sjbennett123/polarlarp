@@ -26,3 +26,7 @@ Roles: Bloody Fist Grunt 9x , Bloody Fist Raid Leader(Selkath)
 
 
 
+2 Banners of the bloody fist.
+
+printed copies of the pledge of servitude
+
