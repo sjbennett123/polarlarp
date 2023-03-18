@@ -45,7 +45,7 @@
 
 {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b>
-{{ if .Params.roles -}}{{- .Params.roles -}}{{- end -}} 
+{{ if .Params.roles -}}{{ .Params.roles }} {{ end }}
 {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
     {{- range  $index, $value := where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}}
 {{- if (ne $index 0) -}}, {{ end -}}
@@ -121,8 +121,10 @@
 
 {{ if or (.Params.treasure)  (.Params.magic_items) }}
 <div id="treasure"> <p><b>Treasure:</b>
-{{- $treasure := (slice ) -}} {{ if not (reflect.IsSlice .Params.treasure) }}{{ $treasure = (slice .Params.treasure ) }}
-{{ else  }} {{ $treasure = append $treasure .Params.treasure }} {{- end -}} {{ delimit  $treasure ", " -}}
+{{- $treasure := (slice ) -}} 
+{{ if not (reflect.IsSlice .Params.treasure) }}{{ $treasure = (slice .Params.treasure ) }}
+{{ else  }} {{ $treasure = append $treasure .Params.treasure }} {{- end -}} 
+{{ delimit  $treasure ", " -}}
 {{ $magic_items := (slice )  }}
 {{- if .Params.magic_items -}}
     {{- $magic_items = append $magic_items .Params.magic_items -}}

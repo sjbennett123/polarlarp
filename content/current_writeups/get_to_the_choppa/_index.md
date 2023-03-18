@@ -24,7 +24,7 @@ Roles: Balor Ironleaf
 props: 
   - Shard of Foereaver
   - Lever
-costuming: black tabards, blue tabards, brown tabards, Red Tabards
+
 treasure: Production Item, Components, Coins, Magic Item Ring of the Champion
 hook: Balor comes to the tavern seeking 5-6 brave adventurers to quest into the Mausoleum of Fallen Heroes for a shard of Foeraver
 scenes: 
