@@ -281,9 +281,12 @@
                         {{ range (.Pages.GroupBy "Section") }}
                            {{ range .Pages }}
                                 {{ $costuming_to_add := (slice ) }}
-                                {{ range .Params.costuming }}
-                                    {{ $latest_prop := . | title }} 
-                                    {{ $costuming_to_add := $costuming_to_add |append  $latest_prop }} 
+                                {{ $working_costume := (slice ) }}
+                                {{ if not (reflect.IsSlice .Params.costuming) }}{{ $working_costume = (slice .Params.costuming ) }}
+                                {{ else  }} {{ $working_costume = append $costuming .Params.costuming }}{{ end}}
+                                {{ range $working_costume }}
+                                    {{ $latest_costume := . | title }} 
+                                    {{ $costuming_to_add := $costuming_to_add |append  $latest_costume }} 
                                 {{ $costuming = $costuming  | append $costuming_to_add }}{{ end }}
 
                            {{ end }}

@@ -20,7 +20,7 @@ outcomes:
 
 
 number_of_cast_members: 6
-Roles: Balor Ironleaf, Floor 1-3 Mausoleum Monsters (Spiders x5, Deep Trolls x5, Black Unicorns x5), Mountain Giants x5
+Roles: Balor Ironleaf
 props: 
   - Shard of Foereaver
   - Lever
@@ -45,10 +45,17 @@ scenes:
     ig: Mausoleum HIDDEN FLOOR 
     flee_point: Mod Shack Door
 running_notes: This module will scale in its difficulty with how the players engage the Mausoleum itself. Floor 1 is Jumping Spiders, Floor 2 is Deep Trolls, Floor 3 is the real challenge with Black Unicorns. Be careful with your PC group you pull for this about Floor 3 since the Black Unicorns have 3 Spellstrike Death’s and can deliver their 4 block as Magic. When the players defeated Floor 3, have them search for a lever setup in the Mod Shack. Once the lever is engaged, have them exit and turn out as much lighting as possible. The NPCs will start out sleeping as the Mountain Giants, they can stealth in and take the shard of foereaver and leave if they choose or fight the Giants. If they grab the Shard and run, they can escape. If they choose to engage they will receive the Magic Item Ring of the Champion from of the 5 Giants. This room is paying homage to the final fight where Faeolin Ironleaf fell fighting the True Giant that made him succumb to his wounds 
-
+magic_items:
+  - 
+    name: Ring of the Champion
+    description:  
+    duration: 1 year
+    effects: 
+      - 2 Times per Day Refit Armor
+      - 2 Times per Day Cure Mortal Wounds 40
+      - 1 Time per Day Poison Shield
 
 ---
-
 
 
 

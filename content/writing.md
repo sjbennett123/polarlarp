@@ -50,6 +50,13 @@ Roles:
 props: 
 makeup: 
 treasure: 
+magic_items:
+  - 
+    name: 
+    description:  
+    duration: 
+    effects: 
+      - 
 
 rumors: 
 
