@@ -265,6 +265,11 @@ healed_by:
 immune_to: 
 Protectives: 
 Zone: 
+
+quantity:
+costuming:
+reset:
+
 ---
 ```
 

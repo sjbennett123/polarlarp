@@ -135,9 +135,9 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ## Dragon Orcs
 
-The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an orc is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper. These are some of the things that we have seen.
+The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an Uruk-Hai is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper and a lack of ability to focus. Some of the behaviors that we have seen are as follows.
 
- - Scowl
+ - Scowling
  - Gruff Speech
  - Cut people off when they are talking
  - Revel in making people uncomfortable
@@ -376,7 +376,7 @@ A powerful weapon that has been developed in secret. It feeds off the marinated 
 
 ##### The Gnawing Ones
 
-During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that fed on the roots of the mighty Stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow. 
+During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that feds on the roots of the mighty Stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow.
 
 ### Troops
 
