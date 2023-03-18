@@ -1,7 +1,6 @@
 ---
 title: "Grandmother Linda Glynhall"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+layout: role
 weight: 10
 description: a long retired adventurer, is quite glad the occupatoin of Stonewood is over. Having spent the summer under brutal occupation and the long winter just trying to survive, this spring brings with it a renewed vigor that can only come from a newfound freedom. “Granny”, hearing that the adventurer's would be returning to Stonewood, has decided to bake up a delicious batch of cookies as a thank you. Only one problem, her recipe book has gone missing!
 introduction: > 
@@ -10,9 +9,14 @@ introduction: >
 Motivation: She wants her book back. And she wants someone to find her grandson Charlie. She is willing to share information to achieve those goals.
 Costume: Silver or gray wig, tied up into a bun. A very well kept beard with braids and ribbons. Apron and floral dress, with a dusting of flour. She smells like cookies.
 Magic: 6 Earth Block
+Movement: Shuffled, stooped gate. Slow. Movement should look like it's hard to do [like an old person]. 
+
+Speech: Soft spoken and intelligent, with a hint of anxiety
+
+Body: high
 ---
 
-## 
+
 
 
 
@@ -35,9 +39,5 @@ Magic: 6 Earth Block
 - *Strong- Granny is a secrete badass, having spent her entire youth exploring and fighting in some of Elysia's most dangerous lands.. Even after taking in her grandson, Granny still used her skills to help around her area of the city.*  
 - *Soothing- Granny should give off a since of safety. People should be put at ease by her presence. She should want to be helpful, opening healing pools and healing if she sees a need.*  
 
-**Movement: S**huffled, stooped gate. Slow. Movement should look like it's hard to do [like an old person]. 
 
-**Speech:** Soft spoken and intelligent, with a hint of anxiety
-
-**Body:** **high*
 
