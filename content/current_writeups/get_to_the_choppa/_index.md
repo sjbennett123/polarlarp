@@ -48,7 +48,7 @@ running_notes: This module will scale in its difficulty with how the players eng
 magic_items:
   - 
     name: Ring of the Champion
-    description:  
+    description: A ring that may be tarnished and faded to the echoes of time but still radiates the the spirit of the Hero who wore it
     duration: 1 year
     effects: 
       - 2 Times per Day Refit Armor
