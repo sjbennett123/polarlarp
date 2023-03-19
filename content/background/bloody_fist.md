@@ -61,6 +61,8 @@ In exile they tried to adopt a new way of life but all they knew was war and rai
 
 ### The Taking of Stonewood
 
+, Cuz of everything that was going on with the crystal barrier. They moved in, they kind of oppressed stone wood. They were unchecked
+
 The taking of Stonewood was fast and brutal. Anyone that did not accept the Accords of the Fist was put to death. 
 
 #### The Accords of the Fist

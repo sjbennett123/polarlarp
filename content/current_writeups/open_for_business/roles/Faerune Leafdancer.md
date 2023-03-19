@@ -8,8 +8,6 @@ introduction: A loyal citizen of Stonewood, you were among the first to be taken
 
 motivation: Restore Stonewood through trade and mercantile! The Bloody Fist oppressed your people and broke their will over a years’ time, this cannot stand and will be repaired. You were kept as a prisoner with most of the Guildmasters in less than hospitable conditions but they were manageable, you assumed you would be killed any day. Now you have the chance to make a lot of coin and restore hope to Stonewood, the people need to see Stonewood with a strong guild presence. Let them feel the Guilds will stand will them against the wrath of the Bloody Fist.
 
-
-
 body: 60
 defenses: Resist Poison x5, Resist Sleep x3, Resist Charm x3, Dodge x1
 weapons: Short

@@ -6,6 +6,7 @@ schedule: friday
 plotline: 
   - The Propoganda Bomb
   - Caves of Terror
+  - rat pack
 
 Layout: module
 description: Balar delivers the intelligence that the Black Anvil company has gathered along with The Magic Bomb blueprints. Fear spreads through the town.
@@ -18,3 +19,6 @@ roles: Balar Ironleaf
 
 
 
+Channel the energy of bruce banner in avengers endgame. 
+
+distribute notice of rat reward.

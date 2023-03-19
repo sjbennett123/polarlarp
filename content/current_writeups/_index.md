@@ -13,6 +13,10 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ## Current Work
 
+### Mary
+
+- provide the treaty that was signed in 594
+
 **Stephen** 
 
 - reviewing and editing Cryptic Wishes.
