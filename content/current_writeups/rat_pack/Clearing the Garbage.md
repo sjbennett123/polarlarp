@@ -1,7 +1,7 @@
 ---
 title: Clearing the Garbage
 layout: module
-plotline: Rat Pack
+plotline: The Rat Pack
 author:  Brittney Perry
 description: Town Leadership is having a problem getting people to clear out the rats at the city's refuse center. They have turned to the adventurers to clear out the dump.
 synopsis: The city's dumping area has been overran by Giant Sewer Rats. These rats are a bit stronger than their grain fed counterparts, and a bit more annoying. They are more aggressive and will attack anyone that comes within 10 feet.

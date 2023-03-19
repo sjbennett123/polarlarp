@@ -4,7 +4,7 @@ title: The Rat Pack
 author: Brittany Perry
 ---
 
-![/rat_reward.svg](/rat_reward.svg "{width='10'}" )
+![/rat_reward.png](/rat_reward. "{width='10'}" )
 
 
 

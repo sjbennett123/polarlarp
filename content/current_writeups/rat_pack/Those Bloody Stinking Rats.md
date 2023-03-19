@@ -2,6 +2,7 @@
 title: Those Bloody Stinking Rats
 Layout: module
 author: Brittney Perry
+plotline: The Rat Pack
 description: The Bloody Rats, now dispersed from their feeding ground, are now invading the city. 
 Requirements: Completion of The Bloody Rats
 Synopsis: Colonies of Bloody Rats are repeatedly entering the town and attacking anyone they find. They are agitated by the disturbance of their feeding grounds, and are drawn to the area by the PCs bloodshed. Unprovoked attacks are on the rise. There seems to be no end in sight.

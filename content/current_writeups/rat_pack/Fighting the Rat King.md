@@ -1,6 +1,7 @@
 ---
 title: Fighting the Rat King
 Layout: module
+plotline: The Rat Pack
 author: Brittney Perry
 description: A Rat King is discovered by a bounty hunter for the city. Joined by the tail, the Rat King will attack and feed off of anything that they can.
 Outcomes:
