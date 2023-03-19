@@ -20,7 +20,17 @@ The Master soon saw Haish, Krath, and Kinji as pieces to be moved and played. He
 
 **Krath Stormwell** always knew that their little thieving group could do so much more than what Haish allowed them. He understood his caution, but Krath was not one for caution. Haish kept Krath on a short leash for much of their lives. Lately, Haish has allowed Krath to explore his limits and Krath has been enjoying himself immensely. With his abundance of earth spells, and his penchant for all things dead, Krath has quietly gathered an army of undead to do their bidding. 
 
-**Kinji Cragthorn** has always protected Haish and Krath. From a very young age, Kinji has always watched out for the other two, keeping them safe and helping them carry out their plans. He has never been a planner, but no one is better than him with a sword. Now that there are no rules, his cruelty has come to life. He loves training new fighters and take pride in how well he taught them.  He gets enjoyment out of Krath and Haish's “chess game”, and secretly love being called a “knight”.
+**Kinji Cragthorn** has always protected Haish and Krath. From a very young age, Kinji has always watched out for the other two, keeping them safe and helping them carry out their plans. He has never been a planner, but no one is better than him with a sword. Now that there are no rules, his cruelty has come to life. He loves training new fighters and take pride in how well he taught them.  He gets enjoyment out of Krath and Haish's “chess game”, and secretly loves being called a “knight”.
+
+♝
+
+♞
+
+https://www.compart.com/en/unicode/U+265E
+
+---
+
+
 
 A woman's scream is heard in the night, the scream of someone whose world just shattered. Crying and sobbing can be heard, and followed to a trail nearby. 
 

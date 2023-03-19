@@ -23,7 +23,7 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 **Chris** 
 
-- finishing his notes and sending them over to Scott. 
+- Ritual to open the mausoleum
 
 **Brittany** 
 
@@ -33,10 +33,13 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 - Finishing up the website updates and starting to fill in details from his notes. 
 - send brittany rope
+- Add encounter bloody fist scouting party
 
 ### Website Updates
 
 - Defend against NON array data in national monster cards and role cards.
+- Vulnerabilities: [Double Damage from Healing May Not Cast Healing]
+      must parse an array properly 
 - add plotline name to module and click to go to plotline overview
 - ADD A CONDITION FOR LAYOUT BIENG NIL for MISC Logic
 - add link from rumor to module
@@ -49,10 +52,10 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ## To Do Overall
 
-- Fire Drake Card
-- Invasive Bug Card
 - Bomb Modules overview
 - Caves of Terror Overview
+- Morale system for townsfolk
+- Food system for rats
 
 ## NPC Counts
 

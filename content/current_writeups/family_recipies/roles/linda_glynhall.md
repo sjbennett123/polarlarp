@@ -16,10 +16,6 @@ Speech: Soft spoken and intelligent, with a hint of anxiety
 Body: high
 ---
 
-
-
-
-
 ***Traits:***
 
 - *Adventurous- Granny is an earth scholar with a 6 block of spells and a duel wield skill. Nowadays, Granny weilds a frying pan and healing spells.*

@@ -6,7 +6,7 @@ weight: 3
 description: 
 Layout: role
 
-introduction: Squeak squeak squeak, squeak!  
+introduction: Squeak squeak squeak, squeak!  The Rats shouldn't be aggressive, but defensive. Their main motivations is to get food, and they won't attack unless attacked first or if you defend the food
 motivation: 
 tactics: 
 movement:
@@ -27,10 +27,8 @@ props:
 reset:
 ---
 
-***Introduction***
 
 
-The Rats shouldn't be aggressive, but defensive. Their main motivations is to get food, and they won't attack unless attacked first or if you defend the food
 
 ***Traits:***
 
@@ -38,7 +36,6 @@ The Rats shouldn't be aggressive, but defensive. Their main motivations is to ge
 - ***Group Movement***
 - ***Ravenous***
 - ***Aggressive***
-
 
 
 
