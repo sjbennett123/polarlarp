@@ -2,7 +2,7 @@
 title: "Hold Back the Day"
 
 weight: 1
-schedule: Saturday
+schedule: saturday
 
 Layout: module
 author: Chris Colland
@@ -22,7 +22,7 @@ Running Notes: This module is designed as a wakeup module at/around 10am on Satu
 ---
 
 
- 
+
 
 
 
