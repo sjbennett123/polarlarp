@@ -11,7 +11,7 @@ events:
     title: The road to Adron
     ig_city: Hag Hill
     ig_barony: Adron
-    oog_location: To Be Determined
+    oog_location: Camp Sequanota
     event_director: Devin Pusateri
     type: Weekend Event
     facebook_link: https://www.facebook.com/events/1317732195737709
@@ -20,7 +20,7 @@ events:
     date: March 10
     title: The wilds of Arda Yanna
     ig_location: To Be Determined
-    oog_location: To Be Determined
+    oog_location: Camp Sequanota
     event_director: Clinton Russell Snyder
     type: Weekend Event
   - 
@@ -29,7 +29,7 @@ events:
     ig_location:  To Be Determined
     ig_barony: Woodhaven
     ig_town: Stonewood
-    oog_location: To Be Determined
+    oog_location: Camp Sequanota
     event_director: Stephen Dupree
     type: Weekend Event
     facebook_link: https://www.facebook.com/events/1439762673216106
@@ -37,7 +37,7 @@ events:
     date: May 12
     title: Rebirth of the Lost
     ig_location:  To Be Determined
-    oog_location: To Be Determined
+    oog_location: Camp Sequanota
     event_director: Erin Albert Jamison & Donnie Leight
     type: Weekend Event
     facebook_link: https://www.facebook.com/events/497964965608073
@@ -61,7 +61,7 @@ events:
     date: September 22
     title: The Winter Harvest of Vindale
     ig_location:  To Be Determined
-    oog_location: To Be Determined
+    oog_location: Camp Sequanota
     event_director: Chris Colland
     type: Weekend Event
     facebook_link: https://www.facebook.com/events/727514045442080
