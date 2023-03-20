@@ -137,9 +137,9 @@
 
 {{- range  $index,$magic_items  -}}
 ,
-<b><i>{{- .name -}}(</b></i>
+<b><i>{{- title .name -}}(</b></i>
 <b>Description:</b> {{ .description }}
-<b>Duration:</b> {{ .duration }}
+<b>Duration:</b> {{ title .duration }}
 <b>Effects:</b> {{ delimit .effects ", " }}<b>)</b>
 {{ end }} 
 {{ end }}
