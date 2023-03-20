@@ -9,7 +9,7 @@ author: Chris Colland
 description: Sleep is for the weak and the dead! Dig deep and dig it deeper! The Bloody Fist have come to wake the Adventurers from their “restful” sleep and remind them why they came to Stonewood! Horns and Drums of War will pound the walls of Stonewood from dusk till dawn!
 Requirements: Saturday Morning at 10am
 Synopsis: The Bloody Fist are hoping to catch people still in their cabins or sleeping to take captive. Early risers can catch the first Orcish blades of the day! The Fist is relentless and will not rest until they re-plant their banners on Stonewood Tavern and claim it for their own once again and put this insurrection to the sword.
-Outcomes: (1) 
+Outcomes:
   - The Bloody Fist wake everyone up and take captives 
   - The Bloody Fist are unsuccessful in taking captives but they have shaken the hearts of the citizens with their ruthless tactics but are repelled
 rumors: The Bloody Fist came at this time in October to make their first appearance.

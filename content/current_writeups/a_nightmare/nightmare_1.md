@@ -1,5 +1,5 @@
 ---
-title: "Nightmare 1"
+title: "Nightmare"
 
 description: A Nightmare
 
