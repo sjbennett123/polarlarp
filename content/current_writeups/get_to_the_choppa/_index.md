@@ -4,11 +4,11 @@ title: Get to the Choppa
 Layout: module
 
 author: Chris Colland
-reviewer: 
+
 
 schedule: saturday
-weight: 
-plotline: 
+
+plotline: Reforge Foereaver
 requirements: Open for Business module has been ran
 
 description: Balor has had a vision of the first shard of Foereaver in the Mausoleum of Fallen Heroes just past a room of black horned monsters in a room with snoring
@@ -49,7 +49,7 @@ magic_items:
   - 
     name: Ring of the Champion
     description: A ring that may be tarnished and faded to the echoes of time but still radiates the the spirit of the Hero who wore it
-    duration: 1 year
+    duration: 1 Year
     effects: 
       - 2 Times per Day Refit Armor
       - 2 Times per Day Cure Mortal Wounds 40
