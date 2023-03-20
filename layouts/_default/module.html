@@ -15,15 +15,17 @@
 <div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
-
 {{ if .Params.requirements }}
 {{ $requirements := (slice ) }} {{ if not (reflect.IsSlice .Params.requirements) }}{{ $requirements = (slice .Params.requirements ) }}
 {{ else  }} {{ $requirements = append $requirements .Params.requirements }}{{ end }} 
+{{ if .Params.schedule }}{{ $schedule := print "Run on " ( title .Params.schedule )  }}{{ $requirements = append $requirements (slice ( $schedule ) )  }}{{ end }} 
+
 <div id ="requirements"> 
 <p><b>Requirements:</b></p>
     {{ range  $requirements }}
     <li>{{ . }}</li>
     {{ end }}
+
 </div>
 {{ end }}
 

@@ -2,7 +2,7 @@
 title: "Hold Back the Day"
 
 weight: 1
-schedule: saturday
+schedule: Saturday
 
 Layout: module
 author: Chris Colland
@@ -14,7 +14,7 @@ Outcomes: (1)
   - The Bloody Fist are unsuccessful in taking captives but they have shaken the hearts of the citizens with their ruthless tactics but are repelled
 rumors: The Bloody Fist came at this time in October to make their first appearance.
 Hook: Warhorn sounds and Drums pound as the Bloody Fist march from the woods and begin their assault
-Number_cf_cast_Members**: ALL!!!! THE HORDE IS HERE!!!!
+Number_of_cast_Members: ALL!!!! THE HORDE IS HERE!!!!
 roles: Bloody Fist Raid Leader, Bloody Fist Grunt, Bloody Fist Scout Bloody Fist Shaman
 Props:  Bloody Fist Makeup, Bloody Fist Tabards /w Sash, Weapons
 treasure: Production Item, Components, Coins

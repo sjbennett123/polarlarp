@@ -2,12 +2,13 @@
 
 <p>{{ .Params.description }}</p>
 
-{{ if .Params.event_date }}
 {{ if .Content }} 
 <hr>
 {{ .Content }}
 <hr>
 {{ end }} 
+
+{{ if .Params.event_date }}
 
 <script>
     CountDownTimer('{{ .Params.event_date }}', 'countdown');
@@ -57,44 +58,47 @@
 {{ end }}
 {{ end }}
 
-
+<!-- <i class="fa fa-file-pdf"></i> -->
 <p><h2>Modules To Run</h2></p>
-<p>The modules below are in the order that we intend to run them in. Wedo not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
+<p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
 
-{{ if sort (where (where .Pages "Layout" "==" "module" ) "Params.schedule" "=="  "friday") "Params.weight"}}
+{{ if sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight"}}
 <h3>Friday</h3>
-{{ range sort (where (where .Pages "Layout" "==" "module" ) "Params.schedule" "=="  "friday") "Params.weight"}}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> <i class="fa fa-file-pdf"></i> {{ .Params.description }} </p>
+<p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" )}}</b> Modules to run </p>
+
+{{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight"}}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "saturday" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule"  "=="  "saturday" }}
 <h3>Saturday</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "saturday" }}
+<p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "saturday" )}}</b> Modules to run </p>
+
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "saturday" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "reaction" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule"  "=="  "reaction" }}
 <h3>Reaction</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "reaction" }}
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "reaction" }}
       <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
 
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "townsfolk" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) (lower "Params.schedule" ) "=="  "townsfolk" }}
 <h3>Townsfolk</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "townsfolk" }}
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ( lower "Params.schedule" ) "=="  "townsfolk" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
 {{ if  true }}
-<!-- <h3>Unsorted</h3>
- -->{{ end }} 
+<!-- <h3>Unsorted</h3> -->{{ end }} 
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule" "=="  "randoms" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) ( lower "Params.schedule" ) "=="  "randoms" }}
 <h3>Randoms</h3>
 {{ end }}
 

@@ -7,17 +7,7 @@ description:
 Layout: role
 
 introduction: You are a person with a job. That job is to deliver things. You are employed by the city. That's about it.
-body:
-defenses: # Will accept an array
-weapons: 
-damage: # Will accept an array
-magic: # Will accept an array
-abilities: # Will accept an array
-killing_blow: 
-motivation: 
-tactics: 
-costuming: # Will accept an array
-reset:
+
 ---
 
 
