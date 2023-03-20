@@ -70,7 +70,7 @@
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule"  "=="  "saturday" }}
+{{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" }}
 <h3>Saturday</h3>
 <p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "saturday" )}}</b> Modules to run </p>
 
@@ -79,18 +79,18 @@
 {{ end }}
 {{ end }}
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule"  "=="  "reaction" }}
+{{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" }}
 <h3>Reaction</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "reaction" }}
+{{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" }}
       <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
 
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) (lower "Params.schedule" ) "=="  "townsfolk" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" }}
 <h3>Townsfolk</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ( lower "Params.schedule" ) "=="  "townsfolk" }}
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
@@ -98,7 +98,7 @@
 {{ if  true }}
 <!-- <h3>Unsorted</h3> -->{{ end }} 
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) ( lower "Params.schedule" ) "=="  "randoms" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "randoms" }}
 <h3>Randoms</h3>
 {{ end }}
 
