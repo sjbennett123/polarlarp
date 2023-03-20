@@ -5,7 +5,7 @@ Layout: module
 author: Scott Bennett
 reviewer: 
 
-schedule: Friday
+schedule: friday
 weight: 5
 plotline: The Gnawing Ones
 requirements: 

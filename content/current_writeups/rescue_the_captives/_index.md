@@ -2,7 +2,7 @@
 title: Rescue the Captives
 Layout: module
 
-schedule: Friday
+schedule: friday
 weight: 2 
 
 author: Chris Colland
