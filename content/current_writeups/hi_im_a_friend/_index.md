@@ -23,14 +23,3 @@ transformations:
 Costumes: Brown or gray tabards, Rat masks or makeup
 ---
 
-
-outcomes: 
-  the pc's agree ot help luca with the rat problem. 
-  The town if flooded with Rats if rat problem is not addressed. See WHAT A PROBLEM WE HAVE HERE. 
-
-## What A Problem we Have Here
-
-
-MODULE 1 --> Module 2 --> Module 3 
-             Module 4
-	     Module 5 
