@@ -13,6 +13,8 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ## Current Work
 
+{{%expand "Click to expand current outstanding work" %}}
+
 **Mary**
 
 - provide the treaty that was signed in 594
@@ -41,24 +43,17 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ### Website Updates
 
-- Defend against NON array data in national monster cards and role cards.
-- Vulnerabilities: [Double Damage from Healing May Not Cast Healing]
-      must parse an array properly 
 - add plotline name to module and click to go to plotline overview
-- ADD A CONDITION FOR LAYOUT BIENG NIL for MISC Logic
 - add link from rumor to module
-- change "day" to schedule in config. Rename all variables to schedule rather than day. Update overview page to not display headings with no values. 
 - configure csv output for magic items. 
 - add calendar output for event page.
-- hide on role card if not populated.  **Body:** **Weapons:** **Killing Blow:** no
 - Background add buttons for PDF single pages / spreads / lulu cover/ affinity source file
 - add filter for needs reviewed to require a synopsis before populating down there. 
 - Update homegrown monster manual with tablesaw.
-  generate JSON for homegrown monster manual.
-  generate CSV with magic items.
-  push treasure to event overview
-  create link from plotline to modules and back
-  make orphaned records more obvious or hide them. "" costume sucks
+- generate JSON for homegrown monster manual.
+- generate CSV with magic items.
+- push treasure to event overview
+- create link from plotline to modules and back
 
 ## To Do Overall
 
@@ -67,6 +62,8 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 - Morale system for townsfolk
 - Food system for rats
 - notes on tavern setup. Games posters etc. 
+
+{{% /expand%}}
 
 ## NPC Counts
 

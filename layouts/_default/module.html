@@ -7,9 +7,10 @@
     {{- range where .Pages ".Params.Layout" "IN"  (slice "feedback" ) -}}
             <a href="{{- .Permalink -}}"> {{ .Params.author }} </a>
     {{- end -}}
-{{- end -}}
 </p>
 </div>
+{{- end -}}
+
 {{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
