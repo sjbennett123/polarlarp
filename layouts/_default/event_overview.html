@@ -107,7 +107,7 @@
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end }} 
 
-{{ range where (where .Pages "Layout" "IN" (slice "module" )) (not" Params.schedule"  "IN" (slice "friday" "saturday" "townsfolk" ) ) }}
+{{ range where (where .Pages "Layout" "IN" (slice "module" )) (not "Params.schedule"  "IN" (slice "friday" "saturday" "townsfolk" ) ) }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
 {{ end }} 
 
