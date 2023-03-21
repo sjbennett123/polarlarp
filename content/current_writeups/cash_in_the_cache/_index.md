@@ -1,29 +1,59 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
 ---
-title: "Cash in the Cache"
-date: 2022-11-10T10:33:21-05:00
-draft: false
-weight: 10
+title: Cash in the Cashe
 Layout: module
-day: friday
+
 author: Brittney Perry
-description: Granny Linda Glynhall's family recipe book has gone missing! Also, she hasn't seen her grandson Charlie in three days. In desperation, she has put two ads in the local paper asking for help finding them both. She has offered a reward for the return of each.
-Requirements: 
- - Bringing the HELP WANTED ads to the NPC shack.
-Synopsis:  A sweet old lady dwarf has put up a help wanted ad to enlist help returning her recipe book and her grandson, for a reward. She doesn't know where her grandson would be, and needs help finding him. Her recipe book also went missing around the same time, and she can't find it anywhere. The book is full of old family recipes and is worth 1250 silver. She assumes it was stolen, and wants it back. Once all the information has been relayed or the PCs wish to leave, she will see them to the door and wish them good luck in finding her grandson and book.
-Running_Notes:  They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. She is incredibly sweet, saying “dearie” this, and “sweetie” that.  She explains that, Charlie, bless his heart, took up an interest in her book lately. It's so sweet he finally wants to learn the family recipes! But now the book's gone missing, and when she tried to get Charlie to help find it, well, he disappeared, too! **[see character sheet for detailed information]** She asks that you track her grandson and ask him to come home, And can you find her book? She needs her book back as soon as possible. If Charlie Glynhall is tracked using CRAFTING SKILL OTHER before the 2 hour timer is over, he is tracked back to the Felhand cache, where he is guarding the loot of the Felhand [module WE FOUND CHARLIE]
-Outcomes:
-- The PCs talk to Granny Linda Glynhall and are told information about her, her grandson, her recipe book, the occupation, or anything else people want to talk about. Once they leave the house, the 2 hour timer to find Charlie starts **[module OPERATION FIND CHARLIE].
-Rumors: | 
-  - **[COMMON]** Granny Glynnhall's recipe book is famous. She has a recipe for everything you need in it. Beard tonic, hair growth serums, potions, tinctures, herbal mixes, she has it all. 
-  - **[UNCOMMON]** Ol' Charlie Glynnhall is the type of person you don't leave unattended with your valuables, if you know what I mean.
-Roles: Granny Linda Glynhall 
-Hook: Bringing the newspaper ad to the NPC shack
-Number of Cast Members: 1
-Props: Sinister scent in baking for scene dressing [OPTIONAL] 
+
+schedule: saturday
+plotline: Family Recipes
+requirements: Completion of OPERATION FIND HULDREK or YOU FOUND HULDREK
+
+description: Having met no resistance at the cache of the Tarrasch, the PCs return to Granny Silverlode to return her book and/or take word of her grandson to her.
+
+synopsis: > 
+  The finding of the book was easier than expected, plus there was a good haul of treasure for the taking. Granny is eager to get her book back, and if it shows up in town, Granny will send a messenger requesting that the group bring the book to her. 
+  Once back at Granny's house, she will offer the group cookies and thank them profusely. She wants to hear all about their adventure and how they found her book. She will vehemently deny that her grandson had anything to do with her books disappearance and will change the subject if it is brought up. She also will not hear anything about where her grandson was found and with what. Effectively she stonewalls anyone who suggests her grandson isn't upstanding or hints at what he as been doing. She will also deny his drinking and gambling problems.
+  If Huldrek makes it back to his Granny's separate from the PCs, he will be absent from the room. Granny claims he is in his bedroom resting.
+  If the PCs bring back both the book and Huldrek, Huldrek will immediately try to leave to go to “his room”, and leaves after Granny searches him for coin
+  Eventually, Granny will get annoyed that everyone is insisting her grandson stole her book and kick out the PCs or the PCs can leave freely, as long as they leave the book. Granny will pay the 20 Silver reward before they leave.
+
+outcomes: 
+ - The PCs return the book and retrieve their reward.
+
+number_of_cast_members: 1-2
+
+Roles: 
+ - Grandmother “Granny” Whuthona Silverlode
+ - Huldrek “Drek” Silverlode
+
+props: 
+ - Granny's Recipe Book
+ - Edible Cookies
+ - Sinister Scent in "Sugar Cookie"
+
+makeup: 
+ - Flour for face and hands
+
+treasure: 
+ - Cookies
+ - 20-30 Silver, depending if one or both items are returned
+
+
+hook: Completion of FIND HULDREK or YOU FOUND HULDREK
+
 scenes: 
   - 
-    oog: 
-    ig: Granny Glynhall's House Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. 
+    oog: Cabin used in HELP WANTED
+    ig: Granny Silverlode's house
+    flee_point: 
+
+running_notes: 
+  - Scene Description -Upon entering Granny's home, the PCs are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. It appears to be the home of someone who lives comfortably. Nothing has changed since HELP WANTED
+  - Huldrek should refuse to talk or talk minimally if he is with Granny. Granny should talk over Huldrek whenever he speaks. 
+  - Granny is stubborn and will deny any wrong doing by Huldrek.
 
 ---
-
