@@ -1,62 +1,67 @@
 ---
-title: "The Exchange"
-date: 2022-11-10T10:33:21-05:00
-draft: false
-weight: 10
+title: The Exchange
 Layout: module
-schedule: saturday
+
 author: Brittney Perry
-description: Granny Linda Glynhall's family recipe book has gone missing! Also, she hasn't seen her grandson Charlie in three days. In desperation, she has put two ads in the local paper asking for help finding them both. She has offered a reward for the return of each.
-Requirements: 
- - Bringing the HELP WANTED ads to the NPC shack.
-Synopsis:  A sweet old lady dwarf has put up a help wanted ad to enlist help returning her recipe book and her grandson, for a reward. She doesn't know where her grandson would be, and needs help finding him. Her recipe book also went missing around the same time, and she can't find it anywhere. The book is full of old family recipes and is worth 1250 silver. She assumes it was stolen, and wants it back. Once all the information has been relayed or the PCs wish to leave, she will see them to the door and wish them good luck in finding her grandson and book.
-Running_Notes:  Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. She is incredibly sweet, saying “dearie” this, and “sweetie” that.  She explains that, Charlie, bless his heart, took up an interest in her book lately. It's so sweet he finally wants to learn the family recipes! But now the book's gone missing, and when she tried to get Charlie to help find it, well, he disappeared, too! **[see character sheet for detailed information]** She asks that you track her grandson and ask him to come home, And can you find her book? She needs her book back as soon as possible. If Charlie Glynhall is tracked using CRAFTING SKILL OTHER before the 2 hour timer is over, he is tracked back to the Felhand cache, where he is guarding the loot of the Felhand [module WE FOUND CHARLIE]
-Outcomes:
-- The PCs talk to Granny Linda Glynhall and are told information about her, her grandson, her recipe book, the occupation, or anything else people want to talk about. Once they leave the house, the 2 hour timer to find Charlie starts **[module OPERATION FIND CHARLIE].
-Rumors: 
+reviewer: 
+
+schedule: Saturday
+plotline: Family Recipes
+requirements: The completion of EMERGENCY! HELP WANTED!
+
+description: A plan has been agreed upon to get Granny back and Huldrek is willing to go along with it, so long as the PCs convince him to.
+
+synopsis: A box has been delivered, containing the severed finger of Granny Silverlode. Huldrek has been convinced about a plan and is willing to do as asked. The PCs prepare their plan, the shack prepares to counter. The PCs have one hour from the time the box is delivered to the time the treasure is delivered.
+
+outcomes: 
+  - The PCs gather up the treasure, amounting to at least 95% of what was taken, allow Huldrek to take it to the agreed upon place under one hour, and leave without any PC involvement. Granny is released into town
+  - If the PCs don't do exactly that, it will trigger an ambush fight. Tarrasch will try to escape to kill Granny.
+
+
+number_of_cast_members: |
+  - 6 to as many as available
+  - 2 Granny and Drek
+  - 4 Haish, Krath, Penji, Qel'zak
+  - 1+ Laviathan, Lesser
+  - 1+ Chaos Caster
+  - 1+ Fighter
+
+Roles: 
+  - Huldrek “Drek” Silverlode
+  - Grandmother Whuthona Silverlode
+  - Tarrasch King, Haish Dulshadow
+  - Tarrasch Rook, Krath Stormwell
+  - Tarrasch Knight, Penji Cragthorn
+  - Tarrasch Bishop, Qel'zak Elos
+  - Tarrasch White Pawn, Laviathan, Lesser
+  - Tarrasch Black Pawn, Chaos Caster
+  - Tarrasch Black Pawn, Fighter
+  - Tarrasch Raised Undead
+
+makeup: 
+  - Beaten and bloody for Granny
+treasure: 
+  - Silver
+  - Gold
+  - Components
+
+hook: Huldrek coming into town begging for help and the delivery of the finger in the box
+scenes: 
+  - 
+    oog: Amphitheater
+    ig: Tarrasch Treasure Drop Location
+    flee_point: 
+
+
+ 
+running_notes: |
+  The fight should be ran as an ambush. The treasure drop off point should allow the NPCs to get in close and attack from the rear and sides, pushing the PCs forward and together. At no point should the Tarrasch allow themselves to be cut off from retreat. When there are about four Tarrasch left, a retreat should be called and the rest should flee toward Granny's location. If they reach the location where Granny is, she can be killed by a killing blow. The NPCs can be chased back to this point and killed, so it's not a true flee point. 
+  Huldrek should fight the Tarrasch when they appear.
+  The Tarrasch fighting group should be filled in order of importance: the Tarrasch King, the Tarrasch Rook, the Tarrasch Knight, the Tarrasch Bishop, then the Tarrasch White Pawn, then Tarrasch Black Pawn Chaos Caster and Fighter.
+  The Rook should concentrate on keeping the Knight and King up, healing the pawns as needed.
+  The Knight should protect the King foremost, the Rook second, and attack third.
+  The King should coordinate the fight with the Bishop and run if needed back to Granny. Should protect the Rook only if needed.
+  The Rook can raise Undead [X number]
+  The Bishop is to take orders from the King during the battle.
+  The pawns should listen for direction from the King and do as instructed. Any remaining Pawns should flee when there are five total Tarrasch members left standing.
 ---
-
-
-
-
-
-
-
-- 
-
-
-
-- 
-
-
-
-**[COMMON]** Granny Glynnhall's recipe book is famous. She has a recipe for everything you need in it. Beard tonic, hair growth serums, potions, tinctures, herbal mixes, she has it all. 
-
-**[UNCOMMON]** Ol' Charlie Glynnhall is the type of person you don't leave unattended with your valuables, if you know what I mean.
-
-**Hook:** Bringing the newspaper ad to the NPC shack
-
-**Number of Cast Members:** 1.
-
-**Roles:** Granny Linda Glynhall 
-
-**Props:** Sinister scent in baking for scene dressing [OPTIONAL] 
-
-**Tags and Treasure:** None
-
-**Scene 1:** Granny Glynhall's House
-
-**Flee Point:** None
-
-**Non-Standard Effects:** None
-
-**Rules Clairification:** None
-
-**Craftsman Information:** None
-
-**Transformations:** None
-
-**Running Notes:**  Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. She is incredibly sweet, saying “dearie” this, and “sweetie” that.  She explains that, Charlie, bless his heart, took up an interest in her book lately. It's so sweet he finally wants to learn the family recipes! But now the book's gone missing, and when she tried to get Charlie to help find it, well, he disappeared, too! **[see character sheet for detailed information]** She asks that you track her grandson and ask him to come home, And can you find her book? She needs her book back as soon as possible. If Charlie Glynhall is tracked using CRAFTING SKILL: OTHER before the 2 hour timer is over, he is tracked back to the Felhand cache, where he is guarding the loot of the Felhand **[module WE FOUND CHARLIE]**
-
-
-
