@@ -94,8 +94,6 @@
 {{ end }}
 {{ end }}
 
-{{ if  true }}
-<!-- <h3>Unsorted</h3> -->{{ end }} 
 
 {{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" }}
 <h3>Randoms</h3>
@@ -135,11 +133,13 @@
                 {{ $magic_items = append $magic_items (slice $magic_item_to_add) }}
            {{ end }}
     {{ end }}
-
-<h4>Two Year</h4>
+    
+{{- if where $magic_items ".duration" "==" "2 Year" -}}
+<h4>Two Year Magic Items</h4>
+{{- end -}}
 {{ range  $magic_items  }}
 {{ if ( eq .duration "2 Year" )   }} 
-<h5>{{ .name }}</h5>
+<h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
 {{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
@@ -147,11 +147,13 @@
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
 {{ end }}
+{{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "ne" "Delimited to 15th Level or Below" -}}
+<h4>One Year Magic Items</h4>
+{{- end -}}
 
-<h4>One Year</h4>
 {{ range  $magic_items  }}
 {{ if and ( eq .duration "1 Year" ) ( ne .delimit "Delimited to 15th Level or Below")  }} 
-<h5>{{ .name }}</h5>
+<h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
 {{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
@@ -159,12 +161,13 @@
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
 {{ end }}
-
-<h4>One Year Delimited to under 15'th Level</h4>
+{{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "==" "Delimited to 15th Level or Below" -}}
+<h4>One Year Magic Items Delimited to under 15'th Level</h4>
+{{ end }}
 
 {{ range  $magic_items  }}
 {{ if and ( eq .duration "1 Year" ) ( eq .delimit "Delimited to 15th Level or Below")  }} 
-<h5>{{ .name }}</h5>
+<h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
 {{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}

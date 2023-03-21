@@ -3,7 +3,7 @@ title: "To Ward off Famine"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
-day: saturday
+schedule: saturday
 layout: module
 author: Chris Colland
 reviewer: Scott Bennett

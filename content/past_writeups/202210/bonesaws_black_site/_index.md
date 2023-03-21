@@ -3,7 +3,7 @@ title: "Bonesaw’s Black Site"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 layout: module
-day: reaction
+schedule: reaction
 
 author: Chris Colland
 reviewer: Scott Bennett

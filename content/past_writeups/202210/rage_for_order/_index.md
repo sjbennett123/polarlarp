@@ -3,7 +3,7 @@ title: "Rage for Order"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 8
-day: saturday
+schedule: saturday
 layout: module
 
 description: The Bloody Fist have confronted the Town Hall council. Unfortunately, them this ended in a massacre of the council members. The Mayor has supposedly made a Bloody Fist Raid Leader the new mayor of Stonewood.

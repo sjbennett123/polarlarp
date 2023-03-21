@@ -3,7 +3,7 @@ title: "Strange Alchemy"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 9
-day: saturday
+schedule: saturday
 layout: module
 
 description: The Bloody Fist have taken over the Alchemy Lab in Stonewood! This is horrible for the town as the production of potions will stop without it being restored. The Bloody Fist with full control over a towns supply of Alchemy will make them very scary.

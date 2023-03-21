@@ -1,6 +1,6 @@
 ---
 title: "Horns of War"
-day: saturday
+schedule: saturday
 weight: 1
 
 description: "Horns of War"

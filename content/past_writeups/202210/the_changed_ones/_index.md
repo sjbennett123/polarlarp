@@ -3,7 +3,7 @@ title: "The Changed Ones"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 2
-day: friday
+schedule: friday
 description: "A Ritual of the Bloody Fist, gifted to them by the Black Shadow, has corrupted 6 of the remaining Hoylean Wizards."
 Layout: module
 magic_items:
