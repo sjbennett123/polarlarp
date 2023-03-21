@@ -4,7 +4,7 @@ Layout: module
 
 plotline: The Terrach
 author: Brittney Perry
-reviewer: 
+schedule: saturday
 
 description: A sweet talking, silver-tongued gambler/ merchant has come to town to trade and find a good card game.
 synopsis:  The Master takes great pleasure from walking among the masses, his actual personality hidden. He is loved by most, but liked by all.. He exchanges currency, has a stock of potions, gasses, scrolls, and components he will sell for a fair coin, and will buy your trinkets at a good price. 

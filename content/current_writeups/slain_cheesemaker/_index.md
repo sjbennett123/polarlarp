@@ -3,8 +3,9 @@
 title: The Slain Cheesemaker
 Layout: module
 
+schedule: friday
 author: Brittany Perry
-reviewer: 
+
 plotline: 
   - The Tarrascht
   - Rat Pack
@@ -19,8 +20,6 @@ treasure: 1 Tail per rat
 outcomes: 
  - The PCs are introduced to the symbol of the Tarrasch
 roles: Slain Cheesemaker, Marlyn Jodivah  Cheesemaker's Wife, Hannah Jodivah Bloody Rats
-Rumors: 
-rumors: 
 hook: A LOUD heartbroken scream and pleads of help just out of sight of the Tavern
 scenes: 
   - 

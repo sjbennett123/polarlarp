@@ -5,9 +5,8 @@ Layout: module
 author:  Chris Colland
 reviewer: 
 
-schedule:
-weight: 
-plotline: 
+schedule: saturday
+
 requirements: Open for Business has been ran
 
 description: The time has come to reopen the Mausoleum of Fallen Heroes. Balor Ironleaf will explain the importance of this Mausoleum and his ancestor dying upon the ground it was built. Rumor has it great treasure awaits those who venture the depths…
