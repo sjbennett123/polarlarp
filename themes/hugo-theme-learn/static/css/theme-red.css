@@ -140,5 +140,9 @@ body {background-color: black;  !important;}
   border-bottom-color: var(--MENU-HEADER-BORDER-color);
 }
 .tablesaw-btn-group {
-    color: black
+    color: black;
+}
+.links{
+    color: black;
+    !important;
 }
