@@ -4,12 +4,12 @@
 
 <p><b>Written By:</b> {{ .Params.author -}}</p>
 
-<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer -}} 
-{{ if where .Pages ".Params.Layout" "=" "feedback"  }} 
-    {{ range where .Pages ".Params.Layout" "IN"  (slice "feedback" ) }}
+{{- if or (.Params.reviewer) (where .Pages ".Params.Layout" "=" "feedback") -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer -}} {{- end -}}
+{{- if where .Pages ".Params.Layout" "=" "feedback"  -}} 
+    {{- range where .Pages ".Params.Layout" "IN"  (slice "feedback" ) -}}
             <a href="{{- .Permalink -}}"> {{ .Params.author }} </a>
-    {{ end }}
-{{ end }}
+    {{- end -}}
+{{- end -}}
 </p>
 </div>
 {{if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{ end }}
