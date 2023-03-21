@@ -133,3 +133,12 @@ a:hover {
   color: var(--MENU-HOME-LINK-HOVERED-color);
 }
 body {background-color: black;  !important;}
+
+#homelinks {
+  background: var(--MENU-HEADER-BG-color);
+  background-color: var(--MENU-HEADER-BORDER-color);
+  border-bottom-color: var(--MENU-HEADER-BORDER-color);
+}
+.tablesaw-btn-group {
+    color: black
+}
