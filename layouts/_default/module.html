@@ -15,17 +15,21 @@
 {{if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{ end }}
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
-{{ if or .Params.requirements .Params.schedule}}
-{{ $requirements := (slice ) }} {{ if not (reflect.IsSlice .Params.requirements) }}{{ $requirements = (slice .Params.requirements ) }}
+{{ $requirements := (slice ) }}
+{{ if .Params.requirements }} 
+{{ if not (reflect.IsSlice .Params.requirements) }}{{ $requirements = (slice .Params.requirements ) }}
 {{ else  }} {{ $requirements = append $requirements .Params.requirements }}{{ end }} 
-{{ if .Params.schedule }}{{ $schedule := print "Run on " ( title .Params.schedule )  }}{{ $requirements = append $requirements (slice ( $schedule ) )  }}{{ end }} 
+{{ end }}
 
+{{ if .Params.schedule }}
+{{ $schedule := print "Run on " ( title .Params.schedule )  }}{{ $requirements = append $requirements (slice ( $schedule ) ) }}{{ end }} 
+
+{{ if $requirements }}
 <div id ="requirements"> 
 <p><b>Requirements:</b></p>
     {{ range  $requirements }}
     <li>{{ . }}</li>
     {{ end }}
-
 </div>
 {{ end }}
 
@@ -34,8 +38,9 @@
 
 {{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
 
-{{ if .Params.outcomes }} 
-{{ $outcomes := (slice ) }} {{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
+{{- if .Params.outcomes -}} 
+{{- $outcomes := (slice ) -}} 
+{{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
 {{ else  }} {{ $outcomes = append $outcomes .Params.outcomes }}{{ end }} 
 <div id= "outcomes" ><p><b>Outcomes:</b></p>
 <ol>
