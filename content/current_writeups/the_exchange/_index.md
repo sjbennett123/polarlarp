@@ -13,9 +13,6 @@ description: A plan has been agreed upon to get Granny back and Huldrek is willi
 
 synopsis: A box has been delivered, containing the severed finger of Granny Silverlode. Huldrek has been convinced about a plan and is willing to do as asked. The PCs prepare their plan, the shack prepares to counter. The PCs have one hour from the time the box is delivered to the time the treasure is delivered.
 
-outcomes: 
-  - The PCs gather up the treasure, amounting to at least 95% of what was taken, allow Huldrek to take it to the agreed upon place under one hour, and leave without any PC involvement. Granny is released into town
-  - If the PCs don't do exactly that, it will trigger an ambush fight. Tarrasch will try to escape to kill Granny.
 
 
 number_of_cast_members: |

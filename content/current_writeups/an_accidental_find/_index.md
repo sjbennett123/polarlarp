@@ -16,7 +16,7 @@ synopsis: >
   
   > Congratulations! You have found Huldrek and his chest on your own! Please return this card, with your group, to the NPC shack. You will return here to continue this encounter.
 
-outcomes: Someone stumbles upon the encounter card and brings it and/or the chest, to the NPC shack, and then continues with the module OPERATION: FIND HULDREK
+outcomes: Someone stumbles upon the encounter card and brings it and/or the chest, to the NPC shack, and then continues with the module OPERATION FIND HULDREK
 
 
 props: 
