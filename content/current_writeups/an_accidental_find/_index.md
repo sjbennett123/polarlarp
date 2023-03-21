@@ -5,14 +5,14 @@ Layout: module
 author: Brittney Perry
 reviewer: 
 
-schedule:
+schedule: friday
 weight: 
 plotline: Family Recipes
 
 description: An encounter card is placed on the Chest of the Tarrasch. This card should be taken to the NPC shack if found before 12pm Saturday. At 12pm it is removed by Huldrek on his way into town.
 
-synopsis: > 
-  The encounter card should be in an envelope secured on the chest. The chest with card and treasure should be placed in the woods early Friday. The chest should be away from the path, hidden from sight. The card is the stand in for the guard Huldrek, who is on duty until 12pm Saturday. The card should direct the PCs to return the card to the NPC shack. The card reads:
+synopsis: >
+  The encounter card should be in an envelope secured on the chest. The chest with card and treasure should be placed in the woods early Friday. The chest should be away from the path, hidden from sight. The card is the stand in for the guard Huldrek, who is on duty until 12pm Saturday. The card should direct the PCs to return the card to the NPC shack. The card reads
   
   > Congratulations! You have found Huldrek and his chest on your own! Please return this card, with your group, to the NPC shack. You will return here to continue this encounter.
 

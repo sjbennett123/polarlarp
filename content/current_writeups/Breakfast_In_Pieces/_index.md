@@ -3,7 +3,8 @@ title: Breakfast In Pieces
 Layout: module
 
 author: Brittney Perry
-reviewer: 
+
+schedule: saturday
 
 description: As everyone was asleep, a body was brought into the tavern and left there. It is dismembered, the parts left around. On the forehead in blood is the symbol of the Tarrasch.
 synopsis: Upon waking on Saturday morning, the PCs are greeted with a gristly sight. There is a body that has been placed about the tavern, the head on display. On the head, a bloody symbol is drawn. The Tarrasch Symbol

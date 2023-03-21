@@ -3,7 +3,7 @@ title: Of Rats and Thieves
 Layout: module
 
 author: Brittney Perry
-reviewer: 
+schedule: friday
 plotline: 
   - The Tarrascht
   - Rat Pack

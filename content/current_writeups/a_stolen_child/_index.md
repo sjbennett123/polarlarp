@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry
 
-reviewer: 
+schedule: saturday
 
 description: A child is taken from in front of his parents. The father chases the group to a cave out of town. He has returned to try to find help in retrieving his child.
 synopsis:   |

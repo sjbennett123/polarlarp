@@ -1,8 +1,6 @@
 {{ partial "header.html" . }}
-<!-- treasuere,requirement and outcomes need to accept a string OR array -->
 
-
-<p><b>Written By:</b> {{ .Params.author -}}</p>
+<p><b>Written By:</b> {{ .Params.author -}}
 
 {{- if or (.Params.reviewer) (where .Pages ".Params.Layout" "=" "feedback") -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer -}} {{- end -}}
 {{- if where .Pages ".Params.Layout" "=" "feedback"  -}} 
@@ -12,24 +10,23 @@
 {{- end -}}
 </p>
 </div>
-{{if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{ end }}
+{{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
-{{ $requirements := (slice ) }}
-{{ if .Params.requirements }} 
-{{ if not (reflect.IsSlice .Params.requirements) }}{{ $requirements = (slice .Params.requirements ) }}
-{{ else  }} {{ $requirements = append $requirements .Params.requirements }}{{ end }} 
-{{ end }}
+{{- $requirements := (slice ) -}}
+{{- if .Params.requirements -}} 
+{{- if not (reflect.IsSlice .Params.requirements) -}}{{- $requirements = (slice .Params.requirements ) -}}
+{{- else -}} {{- $requirements = append $requirements .Params.requirements -}}{{- end -}} 
+{{- end -}}
 
-{{ if .Params.schedule }}
-{{ $schedule := print "Run on " ( title .Params.schedule )  }}{{ $requirements = append $requirements (slice ( $schedule ) ) }}{{ end }} 
+{{- if .Params.schedule -}}{{- $schedule := print "Run on " ( title .Params.schedule )  -}}{{- $requirements = append $requirements (slice ( $schedule ) ) -}} {{- end -}}
 
-{{ if $requirements }}
+{{- if $requirements -}}
 <div id ="requirements"> 
 <p><b>Requirements:</b></p>
-    {{ range  $requirements }}
-    <li>{{ . }}</li>
-    {{ end }}
+    {{- range  $requirements -}}
+    <li>{{- . -}}</li>
+    {{- end -}}
 </div>
 {{ end }}
 
@@ -54,7 +51,7 @@
 
 {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b>
-{{ if .Params.roles -}}{{ .Params.roles }} {{ end }}
+{{- if .Params.roles -}}{{ .Params.roles }} {{ end }}
 {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
     {{- range  $index, $value := where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}}
 {{- if (ne $index 0) -}}, {{ end -}}
