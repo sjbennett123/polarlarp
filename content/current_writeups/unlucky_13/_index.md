@@ -3,7 +3,6 @@ title: Unlucky 13
 Layout: module
 
 author:  Chris Colland
-reviewer: 
 
 schedule: saturday
 

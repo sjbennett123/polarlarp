@@ -66,7 +66,7 @@
 {{ if .Params.armor }}<p><b>Armor:</b> {{ .Params.armor }}</p>{{ end }} 
 {{ if .Params.offensive_abilities }}<p><b>Offensive Abilities:</b> {{ delimit $offensive_abilities ", " }}</p>{{ end }} 
 {{ if .Params.defensive_abilities }}<p><b>Defensive Abilities:</b> {{ delimit $defensive_abilities ", " }}</p>{{ end }} 
-{{ if .Params.vulnerabilities }}<p><b>Vulnerabilities:</b> {{ $vulnerabilities }}</p>{{ end }} 
+{{ if .Params.vulnerabilities }}<p><b>Vulnerabilities:</b> {{ delimit $vulnerabilities ", " }}</p>{{ end }} 
 {{ if .Params.spells }}<p><b>Spells:</b> {{ .Params.spells }}</p>{{ end }} 
 {{ if .Params.pyramid }}<p><b>Pyramid:</b> {{ .Params.pyramid }}</p>{{ end }} 
 {{ if .Params.rec_treasure }}<p><b>Recomended Treasure:</b> {{ .Params.rec_treasure }}</p>{{ end }} 

@@ -53,6 +53,12 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 - hide on role card if not populated.  **Body:** **Weapons:** **Killing Blow:** no
 - Background add buttons for PDF single pages / spreads / lulu cover/ affinity source file
 - add filter for needs reviewed to require a synopsis before populating down there. 
+- Update homegrown monster manual with tablesaw.
+  generate JSON for homegrown monster manual.
+  generate CSV with magic items.
+  push treasure to event overview
+  create link from plotline to modules and back
+  make orphaned records more obvious or hide them. "" costume sucks
 
 ## To Do Overall
 
@@ -64,4 +70,4 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ## NPC Counts
 
-We are following these steps [NPC Recruiting Tips]({{< ref "/npc_recruiting" >}}). We are tracking the NPC's here [NPC List](https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0) Current out is **Staff**: 8  **Yes**: 7  **Maybe**: 9 **No**: 10 
+We are following these steps [NPC Recruiting Tips]({{< ref "/npc_recruiting" >}}). We are tracking the NPC's here [NPC List](https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0) Current out is **Staff**: 8  **Yes**: 7  **Maybe**: 9 **No**: 10 . For each Full time NPC on friday we will need one module written and for saturday we will need 4 modules written. 

@@ -59,7 +59,7 @@
     "Inteligence":"{{- .Params.Inteligence -}}",
     "Body_points":"{{- .Params.Body_points -}}",
     "armor": "{{- .Params.armor -}}",
-        "at_death": "{{- .Params.at_death -}}",
+    "at_death": "{{- .Params.at_death -}}",
     "healed_by": "{{- .Params.healed_by -}}",
     "Strength_bonus":"{{- .Params.Strength_bonus -}}",
     "threshold":"{{- .Params.threshold -}}",
