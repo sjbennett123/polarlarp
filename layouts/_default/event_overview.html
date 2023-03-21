@@ -58,7 +58,6 @@
 {{ end }}
 {{ end }}
 
-<!-- <i class="fa fa-file-pdf"></i> -->
 <p><h2>Modules To Run</h2></p>
 <p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
 
@@ -98,9 +97,19 @@
 {{ if  true }}
 <!-- <h3>Unsorted</h3> -->{{ end }} 
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "randoms" }}
+{{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" }}
 <h3>Randoms</h3>
 {{ end }}
+
+
+<h3>Unsorted</h3>
+{{ range where (where .Pages "Layout" "IN" (slice "module" )) "Params.schedule" "=" nil }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
+{{ end }} 
+
+{{ range where (where .Pages "Layout" "IN" (slice "module" )) (not" Params.schedule"  "IN" (slice "friday" "saturday" "townsfolk" ) ) }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
+{{ end }} 
 
 {{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
 

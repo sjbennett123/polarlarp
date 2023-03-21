@@ -26,6 +26,6 @@ Magic: earth 4/3
 
 Damage: 15 Normal
 
-Abilities: None
+
 
 Killing Blow Active: Yes
