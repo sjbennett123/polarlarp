@@ -14,9 +14,11 @@ weight: 1
 
 All of the writups need to be written in a similar way to this. If there is a change to the formats that we need to make we can discuss it but all modules will need to adapt to use that.
 
-confirm that your code between the --- parses at https://www.yamllint.com/
+to set up on your local computer follow these steps. [Website Howto]({{< ref "/website_howto" >}})
 
-Plotline Overview
+Confirm that your code between the --- parses at https://www.yamllint.com/
+
+### Plotline Overview
 
 ```yaml
 ---
