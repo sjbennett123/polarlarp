@@ -12,7 +12,9 @@ weight: 1
 
 ## Parts of Writeups
 
-All of the writups need to be written in a similar way to this. If there is a change to the formats that we need to make we can discuss it but all modules will need to adapt to use that. When writing your modules the 
+All of the writups need to be written in a similar way to this. If there is a change to the formats that we need to make we can discuss it but all modules will need to adapt to use that.
+
+confirm that your code between the --- parses at https://www.yamllint.com/
 
 Plotline Overview
 
