@@ -51,11 +51,11 @@
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 
 {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
-<div id="roles"><p><b>Roles:</b>
+<div id="roles"><p><b>Roles:</b> 
 {{- if .Params.roles -}}{{ .Params.roles }} {{ end }}
 {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
     {{- range  $index, $value := where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}}
-{{- if (ne $index 0) -}}, {{ end -}}
+{{ if (ne $index 0) }}, {{ end }}
 <a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
     {{- end -}}
 {{ end }}
