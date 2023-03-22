@@ -2,6 +2,10 @@
 title: rat information sheet
 ---
 
+
+
+![/rat_reward.png](/rat_reward.png "{width='10'}" )
+
 There are three breeds of rats in the city
 
 **Giant Field Rats** are primarily found around the farms and food stores. The Giant Field Rats want only to eat and multiply, and dislike fighting to the point where they will only attack if attacked first and they will defend one another if one is attacked.

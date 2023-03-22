@@ -67,7 +67,7 @@
 <p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" )}}</b> Modules to run </p>
 
 {{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight"}}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  {{ .Params.description }} </p>
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 {{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" }}
@@ -75,14 +75,14 @@
 <p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "saturday" )}}</b> Modules to run </p>
 
 {{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "saturday" }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
 {{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" }}
 <h3>Reaction</h3>
 {{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" }}
-      <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+      <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
@@ -91,13 +91,16 @@
 {{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" }}
 <h3>Townsfolk</h3>
 {{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
 
 {{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" }}
 <h3>Randoms</h3>
+{{ range where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" }}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+{{ end }}
 {{ end }}
 
 
@@ -143,7 +146,7 @@
 <h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 

@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry
 
-schedule: saturday
+schedule: friday
 plotline: The Rat Pack
 requirements: The Slain Cheesemaker and Of Rats and Thieves completed.  
 

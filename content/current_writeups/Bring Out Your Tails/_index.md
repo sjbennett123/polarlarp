@@ -3,11 +3,12 @@ title: Bring Out Your Tails
 Layout: module
 
 author: Brittney Perry
-reviewer: 
 
-schedule: saturday
+schedule: randoms
 plotline: The Rat Pack
-requirements: The stock of rat tails in the NPC shack is running low
+requirements: 
+  - The stock of rat tails in the NPC shack is running low. 
+  - Stonewood City Pest and Sanitation has been ran
 
 description: A mercenary from the Black Anvil Company is paid by the city to periodically to collect rat tails and pay the bounty.
 

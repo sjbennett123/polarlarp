@@ -40,6 +40,7 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 - Finishing up the website updates and starting to fill in details from his notes. 
 - send brittany rope
 - Add encounter bloody fist scouting party
+- a sign for the tavern that Huldrek is not allowed.
 
 ### Website Updates
 
