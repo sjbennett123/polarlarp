@@ -96,6 +96,7 @@ type: "docs"
 - yamllint to check that it's all good
   - https://sourcelevel.io/blog/what-is-a-linter-and-why-your-team-should-use-it
   - https://pypi.org/project/yamllint/
+  - https://www.yamllint.com/
 - Sometimes I have seen hugo use Toml. It's fine but I would prefer it all be in yaml
   - https://www.convertsimple.com/convert-toml-to-yaml/
 

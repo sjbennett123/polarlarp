@@ -105,8 +105,8 @@
 
 
 <h3>Unsorted</h3>
-{{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
+{{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author }} </p>
 {{ end }} 
 
 
@@ -116,7 +116,7 @@
 <h3>Modules for Review</h3>
 <!--Make this not display if you don't have any to reveiew-->
 {{ range where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
-      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a>  Written by {{ .Params.author }} </p>
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author }} </p>
 {{ end  }}
 {{ end }} 
 <h2>Treasure</h2>

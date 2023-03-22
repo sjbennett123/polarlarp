@@ -68,4 +68,6 @@ https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ## NPC Counts
 
-We are following these steps [NPC Recruiting Tips]({{< ref "/npc_recruiting" >}}). We are tracking the NPC's here [NPC List](https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0) Current out is **Staff**: 8  **Yes**: 7  **Maybe**: 9 **No**: 10 . For each Full time NPC on friday we will need one module written and for saturday we will need 4 modules written. 
+We are following these steps [NPC Recruiting Tips]({{< ref "/npc_recruiting" >}}). We are tracking the NPC's here [NPC List](https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0) Current out is **Staff**: 8  **Yes**: 7  **Maybe**: 9 **No**: 10 . 
+
+For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written. 
