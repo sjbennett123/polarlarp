@@ -59,6 +59,7 @@
 {{ end }}
 
 <p><h2>Modules To Run</h2></p>
+<p><b>{{ len (where .Pages "Layout" "==" "module") }}</b> Modules to run </p>
 <p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
 
 {{ if sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight"}}

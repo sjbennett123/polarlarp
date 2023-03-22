@@ -2,7 +2,7 @@
 
 <p><b>Written By:</b> {{ .Params.author -}}
 
-{{- if or (.Params.reviewer) (where .Pages ".Params.Layout" "=" "feedback") -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer -}} {{- end -}}
+{{- if or (.Params.reviewer) (where .Pages ".Params.Layout" "=" "feedback") -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
 {{- if where .Pages ".Params.Layout" "=" "feedback"  -}} 
     {{- range where .Pages ".Params.Layout" "IN"  (slice "feedback" ) -}}
             <a href="{{- .Permalink -}}"> {{ .Params.author }} </a>
@@ -56,7 +56,7 @@
 {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
     {{- range  $index, $value := where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}}
 {{- if (ne $index 0) -}}, {{ end -}}
-<a href="{{.Permalink}}">{{ .Params.quantity | default ""}}{{ if .Params.quantity }}X {{ end }} {{.Title}} </a>
+<a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
     {{- end -}}
 {{ end }}
 </p></div>

@@ -15,7 +15,7 @@ Requirements:
 Synopsis: The PCs have the option to come rescue their captured friends for 1hr after the capture. The camp will be set up at different locations depending on how this module is ran. The first encounter with Bonesaw will be outside. Repeat visits to this campsite can be ran in the Mod Shack or outside depending on weather. 
 Hook: Captured PCs or Named NPCS the players wish to rescue
 Props: 
- - Anything to represent a Orc prison camp, 
+ - Anything to represent a Orc prison camp
  - spikes
  - chains
  - fire
