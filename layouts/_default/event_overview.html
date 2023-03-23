@@ -160,7 +160,7 @@
 <h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -174,7 +174,7 @@
 <h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end }}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
