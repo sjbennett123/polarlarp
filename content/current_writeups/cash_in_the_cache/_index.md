@@ -1,7 +1,3 @@
-                                                                     
-                                                                     
-                                                                     
-                                             
 ---
 title: Cash in the Cashe
 Layout: module
