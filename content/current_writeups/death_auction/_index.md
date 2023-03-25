@@ -8,3 +8,8 @@ Layout: module
 description: Haddix's dead father has a last will to go over. 
 ---
 
+Maybe Balor gets a weapon cause they served together
+
+Townsfolk get random shit
+
+I imagine Haddix gets left his estate and some family stuff
