@@ -5,6 +5,19 @@ weight: 4.1
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "04/14/2023 09:10 PM"
+magic_items:
+  - 
+    name: Necklace of Terror
+    description:  <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
+    duration: 
+    effects: 
+      - 
+  - 
+    name: Ring of Ruthlessness 
+    description:  <!-- (Paralysis x2, Imprison x2, Weakness x1)  --> 
+    duration: 
+    effects: 
+      - 
 ---
 
 Source code at the below link.
