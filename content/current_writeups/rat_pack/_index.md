@@ -6,8 +6,6 @@ author: Brittany Perry
 
 ![/rat_reward.png](/rat_reward. "{width='10'}" )
 
-This is scott making a change
-
 Rats have been plaguing the city as of late. No one is sure why they have suddenly increased, but most are blaming it on an early spring and the loss of the rats natural predators. These rats are giant, unusually so, feeding off of last years grain and the city's refuse. Some have also been attracted to the Bloody Fist's castoffs, and have grown to crave the taste of human blood. Now, whenever blood is spilled near the city, you can expect a colony of these rats to show up and feed shortly. 
 
 A single rat by itself is nothing to worry about, but these rats are traveling in colonies. Groups of Bloody Rats have been big enough to cause concern for travelers and small groups, as they are attracted to humans as food. They will attack someone until they fall, and feed from their dying corpse.
