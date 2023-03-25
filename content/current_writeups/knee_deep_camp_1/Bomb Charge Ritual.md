@@ -9,7 +9,7 @@ title: Bomb Charge Ritual
 
  - The Shaman begins the ritual by cutting his own hand to spill blood onto the roots of the tree. The Shaman will remain silent and gesture attempting to align the energies of the Stonewood Trees with the energy of the Bloody Fist to imbue the bomb shard. 
 
- - Aslong as the bomb shard is being held by someone at the end of the ritual, the shard will be charge via the ritual. Normally, this ritual is attuned to Orcs only and nothing would happen other than the holder of the Shard being blasted with Arcane damage as the shard is overloaded and charged. However, if a non-Bloody Fist is holding the shard at the rituals end, the Arcane blast still hits the wielder of the shard BUT ALL CASTER OF THE RITUAL DIE!
+ - As long as the bomb shard is being held by someone at the end of the ritual, the shard will be charge via the ritual. Normally, this ritual is attuned to Orcs only and nothing would happen other than the holder of the Shard being blasted with Arcane damage as the shard is overloaded and charged. However, if a non-Bloody Fist is holding the shard at the rituals end, the Arcane blast still hits the wielder of the shard BUT ALL CASTER OF THE RITUAL DIE!
 
  - If any of the caster of the rituals are hit during the fight that will ensue at the site, a Hold will be called and EVERYONE inside the circle will take **100 Points of Arcane Damage via Formal Backlash akin to a Vengeance.**
 
