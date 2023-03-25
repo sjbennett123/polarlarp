@@ -9,13 +9,13 @@ magic_items:
   - 
     name: Necklace of Terror
     description:  <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
-    duration: 
+    duration: 1 Year
     effects: 
       - 
   - 
     name: Ring of Ruthlessness 
     description:  <!-- (Paralysis x2, Imprison x2, Weakness x1)  --> 
-    duration: 
+    duration: 1 Year
     effects: 
       - 
 ---

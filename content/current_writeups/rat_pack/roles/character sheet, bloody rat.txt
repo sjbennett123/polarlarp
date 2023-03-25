@@ -28,14 +28,9 @@ abilities: >
   - Physical Strike Pin x3
   - Track Stonewood Seed Grain by SMELL
 
-costuming: 
-  - Brown or Gray tabard
-  - rat mask
-  - rat tail
-  - red tabard or sash around waist 
+costuming: Brown or Gray tabard, rat mask, rat tail, red tabard or sash around waist 
 
-props: 
-  - One rat tail per rat for treasure
+props: One rat tail per rat for treasure
 
 
 ---

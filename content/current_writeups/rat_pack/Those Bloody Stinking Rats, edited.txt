@@ -29,4 +29,8 @@ scenes:
 non_standard_effects: The rats can self heal on a ten count
 
 rules_clarifications: Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
+
+
+
+
 ---
