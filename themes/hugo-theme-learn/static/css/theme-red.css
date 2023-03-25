@@ -142,6 +142,10 @@ body {background-color: black;  !important;}
 .tablesaw-btn-group {
     color: black;
 }
+
+#toc-menu {
+    color: crimson;
+}
 .links{
     color: black;
     !important;
