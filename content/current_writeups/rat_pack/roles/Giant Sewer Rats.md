@@ -17,15 +17,15 @@ magic:
 abilities:
 killing_blow: 
 
-costuming: 
+Costuming:
+- Brown or Gray Tabard,  
+- Rat Masks OR Rat Makeup
+- Rat Tails
 makeup:
 props: 
 
 reset:
 ---
-
-
-***Introduction***
 
 
 ***Traits:***
@@ -34,8 +34,6 @@ reset:
 - ***Group Movement***
 - ***Ravenous***
 - ***Defensive***
-
-**Reset:** No
 
 **Movement:** Wondering, Drawn toward food source, tend to stay together
 
@@ -61,43 +59,12 @@ reset:
 
 **Weapons:** Small Weapon- 3 Disease, Short/Longsword – 4 Disease
 
-
-
 **Immune To:** Cause Disease, Cause Weakness
-
-
 
 **Damage:**
 
-
-
-**Magic:** None
-
-
-
 **Abilities:** Rips from Pin/ Bind
-
-
-
-**Killing Blow:** No
-
-
 
 **Motivations:** Feed on trash and decay
 
-
 **Tactics:** Will tend to stay grouped together and fight as a group rather than individuals, will attack if something gets within 10 feet.
-
-
-
-**Costuming:**
-
-- ​	Brown or Gray Tabard,  
-- ​	Rat Masks OR Rat Makeup
-- ​	Rat Tails
-
-
-
-
-
-- 

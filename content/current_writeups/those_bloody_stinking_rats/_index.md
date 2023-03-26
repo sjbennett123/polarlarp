@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry
 
-schedule: Saturday
+schedule: randoms
 plotline: Rat Pack
 requirements: Completion of THE BLOODY RATS
 
@@ -16,15 +16,12 @@ outcomes: The PCs are attacked repeatedly by Bloody Rats
 
 
 number_of_cast_members: 1- desired amount of Bloody Rats
-Roles: Bloody Rats
+
  
 treasure: Rat Tails
 
 hook: Packs of Bloody Rats keep coming into town
-scenes: 
-  - 
-    oog: Various places the PCs are gathered
-    ig: Various places in Stonewood
+
 
 non_standard_effects: The rats can self heal on a ten count
 
