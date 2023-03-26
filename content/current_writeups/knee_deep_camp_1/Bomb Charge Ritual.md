@@ -2,6 +2,7 @@
 title: Bomb Charge Ritual
 ---
 
+![/modules/orcamedies_special_1.png](/modules/orcamedies_special_1.png "{width='10'}" )
 
  - This ritual is a very crude design and requires a sacrifice in blood to complete it.
 

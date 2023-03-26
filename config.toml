@@ -4,7 +4,7 @@ title = 'Polar Larp'
 theme = 'hugo-theme-learn'
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
-
+disableKinds = ["taxonomyTerm" ]
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "red"

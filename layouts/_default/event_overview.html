@@ -114,8 +114,7 @@
 {{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
 
 <h3>Modules for Review</h3>
-<!--Make this not display if you don't have any to reveiew-->
-{{ range where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
+{{ range where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil  }}
       <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author }} </p>
 {{ end  }}
 {{ end }} 
@@ -179,7 +178,9 @@
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
 
-<!-- add misc to catch any items that were not set as one year or two year -->
+
+
+
 {{ end }}
 
 
