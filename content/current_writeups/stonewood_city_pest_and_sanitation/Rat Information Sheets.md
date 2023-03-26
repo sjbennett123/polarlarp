@@ -4,7 +4,7 @@ title: Rat Information Sheet
 
 
 
-![/rat_reward.png](/rat_reward.png "{width='10'}" )
+![/rat_reward.png](/rat_reward.png "{width='20%'}" )
 
 There are three breeds of rats in the city
 

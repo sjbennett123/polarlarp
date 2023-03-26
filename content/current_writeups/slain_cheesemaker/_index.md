@@ -17,11 +17,7 @@ number_of_cast_members: 7 plus [recommended] OR 2 people plus X-number of rats n
 treasure: 1 Tail per rat 
 outcomes: 
  - The PCs are introduced to the symbol of the Tarrasch
-roles: 
-  - Slain Cheesemaker
-  - Marlyn Jodivah Cheesemaker's Wife
-  - Hannah Jodivah
-  - Bloody Rats
+
 hook: A LOUD heartbroken scream and pleads of help just out of sight of the Tavern
 scenes: 
   - 
@@ -29,7 +25,7 @@ scenes:
     ig: Trail near the tavern
     flee_point: 
 
-Costumes: Brown or gray tabards, Rat masks or makeup
+
 running_notes: The slain cheesemaker has been badly beaten and tortured before being dumped on the trail. The wife was on her way to look for her husband, as he never took this long getting home on Friday. She was on her way to the tavern, as she knew there was a market and hoped he'd be there.  The BLOODY RATS should fight as a group, driven by food. In this case, the food is the dead body and any PCs that should go down. They should fight aggressively, and be protective of the food.
 
 ---
