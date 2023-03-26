@@ -3,10 +3,10 @@ title: Those Bloody Stinking Rats [Repeatable]
 Layout: module
 
 author: Brittney Perry
-
+reviewer: Scott Bennett
 schedule: randoms
 plotline: Rat Pack
-requirements: Completion of THE BLOODY RATS
+requirements: "Completion of 'The Bloody Rats'"
 
 description: The Bloody Rats, dispersed from their feeding ground, are now invading... everywhere.
 
@@ -14,14 +14,11 @@ synopsis: Groups of Bloody Rats are seeking a new nesting area. They are invadin
 
 outcomes: The PCs are attacked repeatedly by Bloody Rats
 
-
 number_of_cast_members: 1- desired amount of Bloody Rats
 
- 
 treasure: Rat Tails
 
 hook: Packs of Bloody Rats keep coming into town
-
 
 non_standard_effects: The rats can self heal on a ten count
 
