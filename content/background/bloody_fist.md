@@ -21,17 +21,11 @@ We believe that they can be settled with, but terms will be one sided. The Blood
 ## The History of the Bloody Fist
 
 ### The Great Orc War and Defeat
-
-#### The rise of Olzen
-Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail that granted him tremendous power in battle. He bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
-
-The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once with a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
-
-The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
-
 ## Treaty
 
-> Bloody Knuckles Orann Tribe and Duchy of Elysia
+A magical treaty was signed with the Bloody Fist.  
+
+> Bloody Knuckles Orc Tribe and Duchy of Elysia
 > On this 14th day of May in the Year 593, let it be known that the Tribe of the Bloody Knuckles agreed to join the United Nations of the Bloody Fist and to follow all provisions of their treaty within the Duchy of Elysia as outlined below:
 
 > - All Bloody Knuckles Ore will act nice and not bash any people of the Duke's Tribe
@@ -48,6 +42,13 @@ The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hu
 >Thermo
 >Seneschal of Elysia 
 >For Duke Azeroth Dragonheart
+
+#### The rise of Olzen
+Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail that granted him tremendous power in battle. He bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
+
+The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once with a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
+
+The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
 
 
 
