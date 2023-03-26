@@ -2,7 +2,7 @@
 title: Bomb Charge Ritual
 ---
 
-![/modules/orcamedies_special_1.png](/modules/orcamedies_special_1.png "{width='10'}" )
+![/modules/orcamedies_special_1.png](/modules/orcamedies_special_1.png "{width='50%'}" )
 
  - This ritual is a very crude design and requires a sacrifice in blood to complete it.
 
@@ -23,6 +23,3 @@ title: Bomb Charge Ritual
  - If the PCs fail to charge a Bomb Shard, they may take the uncharged ones to another bombsite and attempt to charge them during other rituals but there is a 50% chance they will charge or 50% chance they will detonate another blast of 70 Points of Arcane Body Damage and the magic on
 
  - The charged status of the bomb shards ONLY effect the potency of the bomb, if they still obtain all 10 just fail to charge them, the Magic Item Bomb Shard will still be delivered to town after the module “The Fury of Our Makers Hand”
-
- 
-

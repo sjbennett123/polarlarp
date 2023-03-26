@@ -8,47 +8,26 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 ![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
 
-These notes have been collected at great personal cost by the reformed Black Anvil Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within is accurate to the best of our knowledge.
+These notes have been collected at great personal cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
 ## Motivations
 
-While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they nearly faced 20 years ago. From the ashes of defeat their whole society has formed around resentment and hate. The time to resolve this enmity was while this hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
+While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they faced 20 years ago. From the ashes of this defeat their whole society has formed around resentment and hate. The time to resolve this enmity was while this hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
-We have seen them employ whatever savage tactics they see fit. If they are commanded to capture all women and children from a village until the men submit then they will. Public executions and necromantic humiliation are very common.
+We have seen them employ whatever savage tactics they see fit. If they are commanded to capture all women and children from a village until the men submit, then they will. Public executions and necromantic humiliation are common.
 
-We believe that they can be settled with but terms will be very one sided. The Bloody Fist will  demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
-
+We believe that they can be settled with, but terms will be one sided. The Bloody Fist will demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
 
 ## The History of the Bloody Fist
 
 ### The Great Orc War and Defeat
 
-```
-Original Warlord was named Olzen, originally an Oaken Wood Elf
-Committed heinous crimes against the Oaken Wood Elf
-Blood Fist Orc were Oaken Wood Elf main enemy
-He was cast out and race changed forcibly to an Orc and joined with the Blood Fist
-Olzen could walk the Winding of the Oaken Woods to move his troops
-Olzen had an artifact when the players killed him (Welders glove with chain mail) that doubled slays and made them massive
-Joined up with a Fae Prince to gain super extra power
-Had 4 generals who he blessed with powers
-All generals were killed at once with a group led by Henet
-Almost 2 year plotline
-Original power structure was very barbaric and nomadic.
-Mostly relied on numbers (15 body swinging 5s)
-Waves and waves of Orcs, 30 NPCS and high amount of waves for resets
-Original Bloody Fist were traditional orc and just wanted to smash anyone who opposed them
-Relentless waves of numbers who came after PCs and didn’t stop till they were dead
-Shamans would try to obliterate Oaken Wood Elves and then move to the next target
-Obliterate became a common practice on enemies of the Fist
-Original Bloody Fist would only take hostages to Obliterate (auto contested dark territory) 
-They would drop you and let you bleed out while they killed the next person
+#### The rise of Olzen
+Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail that granted him tremendous power in battle. He bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
 
-```
+The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once with a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
 
-The Bloody Fist tribe waged a brutal war 20 some years ago against Stonewood and the heroes of Elysia. The war was very long and bloody, but in the end the Bloody Fist was defeated.
-
-The heroes of Elysia killed their Warlord and put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
+The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
 
 ## Treaty
 
@@ -149,7 +128,7 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ### Occupation of Stonewood
 
-- They haven’t been killed or executed since the beginning of the occupation. This past 6 months have been very peaceful and almost normal.
+- They haven’t been killed or executed since the beginning of the occupation. This past 6 months have been peaceful and almost normal.
 - A group of adventurers attempted to free the Town of Stonewood 1 year ago alongside Balor Ironleaf using the alias Black Leaf but were ultimately slaughtered and occupation continued.
 
 ### Elysia Reclaims Stonewood
@@ -236,7 +215,7 @@ No one has seen or heard the Black Shadow speak but Ahroun when the deal was str
 - Blade of The Black Shadow <!-- (+3 2h Sword, Darkness Aura, Destruction Aura)  --> 
 - Amulet of the Fist <!-- (Cloak Command x2, Cloak Charm x2, Cloak Curse x1) --> 
 
-*He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his very stare strikes fear in your heart and makes you question what it means to be called a warrior…*
+*He stands tall like a tree, covered in animal furs and a Wolves head on his, burning orange eyes like the embers of a fire, 2 large blades on his back that could fell Giants, his stare strikes fear in your heart and makes you question what it means to be called a warrior…*
 
 Not much is known about Ahroun's true power. He was once a mere Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a master of arms and an absolute terror on the battlefield. No one has seen him without his wolf mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all the hatred that fuels him, he remains relatively calm unless he is challenged or his authority questioned. 
 
@@ -244,7 +223,7 @@ Not much is known about Ahroun's true power. He was once a mere Orc in the Blood
 
 This tale has been repeated around the campfires of the Bloody Fist. A legend of their rebirth as a new horde. 
 
-*A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a very young orc named Ahroun. Ahroun rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “**If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the very existence of Elysia.**" Ahroun was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
+*A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a young orc named Ahroun. Ahroun rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “**If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the existence of Elysia.**" Ahroun was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
 
 ### Generals
 
@@ -256,9 +235,9 @@ The Generals of the bloody fist have been made powerful through a lesser deal wi
 - Glaive of the Skyrender  <!-- (+3 Polearm, Death x2) --> 
 - Necklace of Destruction<!-- (Destroy x2, Bane Binding x2, Paralysis x1) -->  
 
-*He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are very quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker carries a mighty glaive and has 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts shake even the most hardened hearts. His sense of self preservation is low as making the kill is all that matters to this berserker butcher…*
+*He stands tall but slightly hunched over from years of constant warfare, his muscular structure does not lack despite the change in his posture. His eyes burn like crimson fire, his breath heavy and deep. His teeth almost grinding from the anger he embraces when he smells blood and the scents of battle. His movements are quick and almost panicked as he assumes everyone is a viable target for his massacre. His footsteps leave a loud sound as he stalks slowly. The Berserker carries a mighty glaive and has 2 trusty short swords across his back when quarters are too close to use his glave. His primal roars and grunts shake even the most hardened hearts. His sense of self preservation is low as making the kill is all that matters to this berserker butcher…*
 
-Grimfang was always a very violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is a fair target. His glave that he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are very cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 short swords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
+Grimfang was always a violent and angry child. He grew up trying to fight everyone and anything that moved. At a young age he started killing anything that he could with his bare hands for the challenge. He won’t hurt children but anything else with a weapon is a fair target. His glave that he carries is modeled after an Elvish Glaive he used to kill an opposing army general in an honor duel. He took the Glaive and had it reconstructed by Bloody Fist smiths and blessed by the Black Shadow to be empowered. His tactics are cruel and brutal, he will take getting stabbed to make sure he gets the kill. Wounds can be healed but eviscerated foes don’t get back up. He carries 2 short swords for when things get too close quarters for his Glaive, he dances with his Glaive like it’s art form in battle. When the Bloody Fist send Grimfang in, they don’t expect any survivors and they have accepted scorched earth protocol.
 
 #### Val’Kaz the Ruthless  (The Drinker of Fear)
 
@@ -294,7 +273,7 @@ We will see you in 3 months time, I pray you make the correct decision for your 
 - Tacticians Bracer <!-- (Arcane Armor 10, Imprison x2, Circle of Power x1, Tarrying x1) -->
 - Bulwark of the Battlefield Shield  <!-- (Bane Binding x2, Bane Command x2, Regenerate x1) -->
 
-*He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye is always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Very well spoken and educated for what one might expect at first look. His movements are always very sharp and decisive. His peers look at him with respect because he already has planned how to defeat them if they cross him…*
+*He stands tall and proud, his posture very good for an Orc. An eyepatch across his left eye, his right eye is always at the Horizon scanning for movements of enemy troops. His hands are always behind his back with a military-like posture. Well spoken and educated for what one might expect at first look. His movements are sharp and decisive. His peers look at him with respect because he already has planned how to defeat them if they cross him…*
 
 Mal-Valoance from a young age took to studying the tactics of all creatures and races. His eye and acumen on the battlefield are unmatched among his kind. He has a library of tactic and society books to understand his enemies from birth to the grave. His skill in battle is very impressive but his true skill lies in his ability to control the battlefield and the armies clashing on it. He is not afraid to retreat and let them fight a skeleton force to preserve his main army. Living to fight another day and destroying his enemy without drawing a sword is preferred methods but when people see the Bloody Fist terror makes men panic and draw blades.
 
@@ -304,7 +283,7 @@ Mal-Valoance from a young age took to studying the tactics of all creatures and 
 - Blade of Assasination   <!-- (+3 Short Sword, Silence x2) -->
 - Necklace of Hidden Movements  <!-- (Sleep x2, Silence x2, Curse x1) -->
 
-*He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask up to his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem very well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passively determining the fate of people he meets, heads for dead or tails for potential victim…*
+*He stands at the ready, quietly composed and eyes darting around the room to make sure of all exits and potential threats. His face hidden mostly by a black mask up to his eyes for stealth, not much of his skin visible so people don’t see his Orcish nature coming for them. He may not seem well armed but that would be a mistake to assume he isn’t loaded to the teeth with weapons and tools of assassination. His eyes reflect the lives he has taken ahead of their time, dead and cold as they stare at yours determining what fate has in store. Obsessively he flips coins when passively determining the fate of people he meets, heads for dead or tails for potential victim…*
 
 A mighty assassin. Nobody knows where he will strike. Svoul was recruited into the Bloody Fist at a young age when his parents were killed by the Bloody Fist during a tribal “misunderstanding.” Fueled with grief and Orcish bloodlust, Svoul focused inward and sharpened his skills into razor precision and deadly efficiency. When things require a delicate touch or political coercion, Svoul is sent in. Mastering the art of subterfuge and etiquette to get him in the door but when it’s time to execute the plan he will make it seem like he was never there and leave a trail of carnage in his wake. Sometimes missions are as simple as black bag and grab a target or setup a murder scene and pin the job on someone else. He uses an assortment of weapons based on the job to make sure it fits the description and wounds match the job to avoid suspicion.
 
@@ -325,7 +304,7 @@ You are the spiritual magical force behind the Bloody Fist’s mighty blades. Yo
 - Wand of Skyburner   <!-- (Eldritch Blast x5) -->
 - Amulet of Skyburner <!-- (Dragons Breath x3, Shield Magic x2) -->
 
-*He stands slightly hunched from his age but a grizzled veteran of war with the Bloody Fist. A very well studied wizard from his time in his library. A completely self taught wizard but very deadly in combat. His face is covered in Celestial markings and runes. He has devoted himself, a rarity among Orcish kind but he is a prodigy or Celestial Magic. The air around him has a lingering scent of magic and fire radiating in it. His robes are Dark Red like the setting Sun when it appears like it is on fire…*
+*He stands slightly hunched from his age but a grizzled veteran of war with the Bloody Fist. A well studied wizard from his time in his library. A completely self taught wizard but very deadly in combat. His face is covered in Celestial markings and runes. He has devoted himself, a rarity among Orcish kind but he is a prodigy or Celestial Magic. The air around him has a lingering scent of magic and fire radiating in it. His robes are Dark Red like the setting Sun when it appears like it is on fire…*
 
 Strum is a very highly intelligent Orc. His theories about magic and turning the very sky into fire are very fascinating and convincing. Most of the Bloody Fist think he is a madman for his ideas of “Sky Magic” but his skill in combat when he unleashes his barrage of elemental attacks is terrifyingly effective so people don’t openly speak out against his “madness” much. He is very willing to converse about magic and magical theories of Celestial and Elemental nature, he has little use for Earth Magic outside of it being used to heal him. His Wand has inspired fear into many foes and nobles over the years. It is made of Bloodstained Bone from a Hippogriff and feathered with rare bird feathers.
 
@@ -378,7 +357,7 @@ You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Y
 **Carries Magic Items**
 - Bonesaw <!--  (+3 2H Sword, Confine x2)  --> 
 
-*He stands very large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance is very savage and in your face but he has a charm about his evil. Despite his cruel words and tactics, he can still make you laugh and smile. Just before he bashes someone's skull in with his Bonesaw…*
+*He stands large and imposing, his black leather executioner hood hides his bloodstained face and wicked grin. His appearance savage and in your face but he has a charm about his evil. Despite his cruel words and tactics, he can still make you laugh and smile. Just before he bashes someone's skull in with his Bonesaw…*
 
 Known for his brutal ways of blood sacrifice. Some don’t care for for his approach but his favor with Ahroun means he cannot be challenged. The warlord favors his methods because they bring results.
 
@@ -419,7 +398,7 @@ Orc Intel
 
 #### Grunts
 
-You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
+You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are tactical in how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
 
 #### Shamans
 
