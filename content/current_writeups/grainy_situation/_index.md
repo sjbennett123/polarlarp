@@ -9,12 +9,13 @@ outcomes:
   - The PCs clear out the rats and collect the bounty
   - The PCs do not clear out the rats, and they don't get a bounty
 Hook: A poster requesting help from the city
-running_notes: Strewn around the room are yellow plastic table cloths, which are grain sink holes. If a PC steps or falls into a grain pit, they are Pinned until they are rescued on a three count [One I pull you free, Two I pull you free... etc]. If they are not rescued in 60 seconds, they sink and enter their death count. They can still be rescued on a three count, but now they need a life spell.
-Roles: Giant Field Rats
 Number_of_Cast_members: 5 or more.
-Rumors: |
-  - **[ANNOUNCED]** There is a bounty on rats in the city, and the city will pay one silver for every  rat tail harvested
-  - **[COMMON]** Large packs of giant rats have been seen roaming around the city. They are drawn by garbage and decay, and are large enough colonies to cause a problem for lone or small groups of travelers.
+scenes: 
+  - 
+    oog: Module Building. Strewn around the room are yellow plastic table cloths, which are grain sink holes. If a PC steps or falls into a grain pit, they are Pinned until they are rescued on a three count [One I pull you free, Two I pull you free... etc]. If they are not rescued in 60 seconds, they sink and enter their death count. They can still be rescued on a three count, but now they need a life spell.
+    ig: grain stores of the city 
+    flee_point: 
+
 treasure: Rat Tails for every respawn
 ---
 

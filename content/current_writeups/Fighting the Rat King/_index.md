@@ -12,7 +12,7 @@ requirements: Completion of "The Bloody Rats"
 description: A Rat King has been discovered! Joined by the tail, the Rat King will attack and feed off of anything that they can reach.
 
 synopsis: |
-  Goodwin Copperriver comes into town with an announcement-
+  Goodwin Copperriver comes into town with an announcement. 
 
   > **ATTENTION! ATTENTION!**
   >    
@@ -28,8 +28,7 @@ outcomes:
 
 number_of_cast_members: 1 - As many as possible
 
-props: 
-  - Rat Tail Gathering Loop
+
 
 treasure: 1 Silver per rat, 40 Silver for Reward
 

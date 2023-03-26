@@ -18,7 +18,7 @@ outcomes:
   - No rat tails are sold
 
 number_of_cast_members: 1
-Roles: Black Anvil Company Mercenary
+
 
 props: 
   - Bag For Rat Tails
@@ -33,5 +33,3 @@ rules_clarifications: Each Rat, when killed, will give a rat tail for the bounty
 running_notes: The mercenary will announce his intention to collect rat tails throughout the town eg, “Bring out your tails!” “Bounty Collection!”
 
 ---
-rumors: 
-  - **[ANNOUNCED]** There is a bounty on rats in the city, and the city will pay one silver for every rat tail harvested.

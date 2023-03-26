@@ -3,6 +3,7 @@ title: Stonewood City Pest and Sanitation
 Layout: module
 
 author: Brittney Perry
+reviewer: Scott Bennett
 
 schedule: saturday
 plotline: The Rat Pack
@@ -22,17 +23,11 @@ synopsis: |
 
 outcomes: Goodwin Copperriver relays information on the rats to anyone who is interested
 number_of_cast_members: 1
-Roles: Goodwin Copperriver
 
 props: Rat Information Sheets
 hook: Goodwin Copperriver comes into town to relay information
-
-
 
 running_notes: Goodwin Copperriver has a mission from the city. To clear out the grain stores of the city, of which there are three.
 
 
 ---
-
-rumors: 
- - [ANNOUNCED] There is a bounty on rats in the city, and the city will pay one silver for every rat tail harvested.

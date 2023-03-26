@@ -8,26 +8,18 @@ synopsis: The city's dumping area has been overran by Giant Sewer Rats. These ra
 outcomes:
   - The PCs clear the area of Sewer Rats
   - The PCs fail to clear the area of Sewer Rats
-Hook: Posted flier in tavern
-Rumors: |
-  - **[ANNOUNCED]** There is a bounty on rats in the city, and the city will pay one silver for every  rat tail harvested.
-  - **[COMMON]** Large packs of giant rats have been seen roaming around the city. They are drawn by garbage and decay, and are large enough colonies to cause a problem for lone or small groups of travelers.
+Hook: Posted flier in tavern This is not yet written out 
 scenes: 
   - 
     oog: 
-    ig: City Dump  You are at the city's refuse site. All waste products from the city come here. The smell is overpowering and being here will cause weakness and disease.  
+    ig: City Dump  You are at the city's refuse site. All waste products from the city come here. The smell is overpowering and being here will cause weakness and disease. Every 60 seconds, the marshals will throw a packet into the air above the PCs, calling Cause Weakness or Cause Disease. The throw should be as random as possible, 
     flee_point: 
-Roles: Giant Sewer Rats
 Treasure: Rat Tails
+Rules_clarification:  Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
+Non_standard_Effects: Rats can heal on a ten count from food sources twice 
 ---
 
-**Non-Standard Effects:**
+ 
 
-​	Rats can heal on a ten count from food sources twice
 
-​	Every 60 seconds, the marshals will throw a packet into the air above the PCs, calling Cause Weakness or Cause Disease. The throw should be as random as possible, 
-
-**Rules Clarification:**
-
-​	Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
 
