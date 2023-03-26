@@ -6,9 +6,9 @@ author: Brittney Perry
 reviewer: 
 
 schedule: Saturday
-weight: 
-plotline: Bloody Rats
-requirements: 
+
+plotline: Rat Pack
+
 
 description: A hunter collecting the rat tail bounty is seeking help in clearing out a large rats nest he found in a cave.
 

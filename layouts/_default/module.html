@@ -70,6 +70,8 @@
 {{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
 {{- end -}}
 
+<!-- props convert to array if string on module -->
+
 {{ $props := (slice ) }}
 {{ if  .Params.props }} 
 {{ $props = $props  | append .Params.props }}
