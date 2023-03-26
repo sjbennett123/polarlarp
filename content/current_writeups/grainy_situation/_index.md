@@ -8,7 +8,7 @@ synopsis: A group of adventurers enter the grain stores of the city to clear out
 outcomes: 
   - The PCs clear out the rats and collect the bounty
   - The PCs do not clear out the rats, and they don't get a bounty
-Hook: A poster requesting help from the city
+Hook: Goodwin Copperriver recruits a group at the end of STONEWOOD CITY PEST AND SANITATION
 Number_of_Cast_members: 5 or more.
 scenes: 
   - 

@@ -8,7 +8,7 @@ synopsis: The city's dumping area has been overran by Giant Sewer Rats. These ra
 outcomes:
   - The PCs clear the area of Sewer Rats
   - The PCs fail to clear the area of Sewer Rats
-Hook: Posted flier in tavern This is not yet written out 
+Hook: Goodwin Copperriver with a mission from the city
 scenes: 
   - 
     oog: 
