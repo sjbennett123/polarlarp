@@ -20,8 +20,8 @@ We believe that they can be settled with, but terms will be one sided. The Blood
 
 ## The History of the Bloody Fist
 
-### The Great Orc War and Defeat
-## Treaty
+
+### A Magical Treaty
 
 A magical treaty was signed with the Bloody Fist.  
 
@@ -43,33 +43,28 @@ A magical treaty was signed with the Bloody Fist.
 >Seneschal of Elysia 
 >For Duke Azeroth Dragonheart
 
-#### The rise of Olzen
+#### The Rise of Olzen
 Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail that granted him tremendous power in battle. He bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
 
 The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once with a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
 
 The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
 
-
-
 ### The Time Between the Wars
 
 In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture. Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
 
-
 ### The Coming of the Urakhai
 
-
+A young orc Ahroun makes a bargain with an entity known as "The Black Shadow". This bargain changes the orcs that accept the tranformation to be come Urakhai Dragon Orcs that have extensive powers.
 
 ### The Taking of Stonewood
 
-, Cuz of everything that was going on with the crystal barrier. They moved in, they kind of oppressed stone wood. They were unchecked
-
-The taking of Stonewood was fast and brutal. Anyone that did not accept the Accords of the Fist was put to death. 
+Because the heroes of Elysia were not there to defend the city due to issues with the crystal barrier. The Bloody Fist moved in and oppressed Stonewood. The taking of Stonewood was fast and brutal. Anyone that did not accept the Accords of the Fist was put to death. 
 
 #### The Accords of the Fist
 
-The Accords of the Fist were agreed to by the townspeople as part of the parlay with the  Bloody Fist Orcs. There was some initial resistance but now it’s just how you live your life. When you see anyone that is not following the rules you will be concerned that the Orcs will see that the agreement is not being kept to. You have been safe after the initial purge but, those that did not obey the laws that the Bloody Fist put down have not been so lucky. 
+The Accords of the Fist were agreed to by the townspeople as part of the parlay with the Bloody Fist Orcs.  
 
 - No weapons on person or drawn
 - No spells in hand
@@ -81,7 +76,7 @@ The Accords of the Fist were agreed to by the townspeople as part of the parlay 
 
 #### The Pledge of Servitude
 
-Every day at 10 PM the town of Stonewood gathers to pledge allegiance to the Bloody Fist and to offer up their tithe. 
+Every day at 10 PM the town of Stonewood gathered to pledge allegiance to the Bloody Fist and to offer up their tithe. 
 
 The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry performs ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
@@ -139,7 +134,7 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ## Dragon Orcs
 
-The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a tremendous cost. The pain never really stops.  Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an Uruk-Hai is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper and a lack of ability to focus. Some of the behaviors that we have seen are as follows.
+The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a great cost. The pain never really stops. Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an Uruk-Hai is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper and a lack of ability to focus. Some of the behaviors that we have seen are as follows.
 
  - Scowling
  - Gruff Speech
@@ -147,15 +142,13 @@ The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, mo
  - Revel in making people uncomfortable
  - Roar when entering into battle
 
-The orcs that we see have been conscripted if they have family back home they will talk about them.
-
 ### Makeup
 
 ![img](/bloody_fist_makeup.jpeg)
 
-- [Makeup Sponge Mini Applicator Wedges](https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1)
-- [Go Ho Red Face Body Paint Makeup](https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0)
-- [Mermaid Scale Stencil](https://www.amazon.com/dp/B0B31D43B4?ref=ppx_pop_mob_ap_share&th=1) 
+<!-- - [Makeup Sponge Mini Applicator Wedges](https://www.amazon.com/dp/B00FBRNONW/ref=cm_sw_r_api_i_1QJGXWP8VNP2H2Z7T62T_0?_encoding=UTF8&psc=1) -->
+<!-- - [Go Ho Red Face Body Paint Makeup](https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0) -->
+<!-- - [Mermaid Scale Stencil](https://www.amazon.com/dp/B0B31D43B4?ref=ppx_pop_mob_ap_share&th=1)  -->
 
 The red tribal design is said to be a mixture of human, dwarf, and elf blood
 
