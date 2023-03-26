@@ -1,7 +1,7 @@
 ---
 title: "The Tyrran Cosmology"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+
+
 ---
 > *It has taken many years to produce the work you are about to read. Many have dedicated their time and even given their lives to produce it. We have performed many experiments, used all evidence available, and even used the formal magic Sands of Time powered by what was possibly the largest gathering of Arch-Wizards ever assembled in order to glance back further than any have before, to the events of the First Elemental War.*
 >
