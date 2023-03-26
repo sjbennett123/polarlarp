@@ -6,8 +6,6 @@ weight: 3
 description: 
 Layout: role
 
-
-
 motivation: Feed dead bodies
 tactics: These rats are tied together by the tail. They will fight what ever is in front of them.
 
@@ -30,11 +28,3 @@ abilities:
   - 5 Wither limb
 ---
 
-***Traits:***
-
-- ***Animal Intelligence***
-- ***Group Movement***
-- ***Ravenous***
-- ***Agressive***
-
-**Strength Bonus:** 4

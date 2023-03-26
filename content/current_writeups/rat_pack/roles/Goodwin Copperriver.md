@@ -8,7 +8,7 @@ motivation: To rid the city of rats and to see to the completion of several task
 
 body: 50
 
-costuming: Stonewood Official type clothing 
+costuming: Stonewood Official clothing 
 
 props: 
   - Rat Posters to hand out
