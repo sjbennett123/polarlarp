@@ -8,6 +8,13 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 ![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
 
+```
+Zine Notes:
+Take out A Dark Bargin with the Black Shadow. (I will give that out with Clinton as he overheard it while captured and it upto him to distribute)
+
+Reword the first section on High Shamans. Change the language from NPC tactics to PC facing.
+```
+
 These notes have been collected at great personal cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
 ## Motivations
