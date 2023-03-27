@@ -21,7 +21,7 @@ magic_items:
 ---
 
 Source code at the below link.
-
+<i class="fa-brands fa-github"></i>
 https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
 
 ## Current Work
