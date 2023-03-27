@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Of Rats and Thieves on Polar Larp</title>
+    <link>https://gloryforthefist.netlify.app/current_writeups/of_rats_and_thieves/</link>
+    <description>Recent content in Of Rats and Thieves on Polar Larp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 10:33:21 -0500</lastBuildDate><atom:link href="https://gloryforthefist.netlify.app/current_writeups/of_rats_and_thieves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luca Norwish</title>
+      <link>https://gloryforthefist.netlify.app/current_writeups/of_rats_and_thieves/roles/lucca/</link>
+      <pubDate>Thu, 10 Nov 2022 10:33:21 -0500</pubDate>
+      
+      <guid>https://gloryforthefist.netlify.app/current_writeups/of_rats_and_thieves/roles/lucca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gloryforthefist.netlify.app/current_writeups/of_rats_and_thieves/roles/giant-field-rat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloryforthefist.netlify.app/current_writeups/of_rats_and_thieves/roles/giant-field-rat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

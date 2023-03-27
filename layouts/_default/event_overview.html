@@ -1,55 +1,26 @@
-{{ partial "header.html" . }}
+{{- partial "header.html" . -}}
 
-<p>{{ .Params.description }}</p>
+<p>{{- .Params.description -}}</p>
 
-{{ if .Content }} 
+{{- if .Content -}} 
 <hr>
-{{ .Content }}
+{{- .Content -}}
 <hr>
-{{ end }} 
+{{- end -}} 
 
-{{ if .Params.event_date }}
-
-<script>
-    CountDownTimer('{{ .Params.event_date }}', 'countdown');
-
-    function CountDownTimer(dt, id)
-    {
-        var end = new Date(dt);
-
-        var _second = 1000;
-        var _minute = _second * 60;
-        var _hour = _minute * 60;
-        var _day = _hour * 24;
-        var timer;
-
-        function showRemaining() {
-            var now = new Date();
-            var distance = end - now;
-            if (distance < 0) {
-
-                clearInterval(timer);
-                document.getElementById(id).innerHTML = 'EXPIRED!';
-
-                return;
-            }
-            var days = Math.floor(distance / _day);
-            var hours = Math.floor((distance % _day) / _hour);
-            var minutes = Math.floor((distance % _hour) / _minute);
-            var seconds = Math.floor((distance % _minute) / _second);
-
-            document.getElementById(id).innerHTML = days + 'days ';
-            document.getElementById(id).innerHTML += hours + 'hrs ';
-            document.getElementById(id).innerHTML += minutes + 'mins ';
-            document.getElementById(id).innerHTML += seconds + 'secs';
-        }
-
-        timer = setInterval(showRemaining, 1000);
-    }
-
-</script>
-<h2>Time Until Event</h2><p><div id="countdown"></div></p>
-{{ end }} 
+{{- if .Params.event_date -}}
+<h2>Time Until Event</h2>
+  <div class="wrapper">
+    <div class="countdown" data-date="{{- .Params.event_date -}}" data-time="09:00">
+      <div class="day"><span class="num"></span><span class="word"></span></div>
+      <div class="hour"><span class="num"></span><span class="word"></span></div>
+      <div class="min"><span class="num"></span><span class="word"></span></div>
+      <div class="sec"><span class="num"></span><span class="word"></span></div>
+    </div>
+  </div>
+  <script type="text/javascript" src="/countdown.js"></script>
+  <script type="text/javascript" src="/countdown_init.js"></script>
+{{- end -}} 
 
 {{ if (where .Pages "Layout" "plotline_overview") }}
 <h2>Plotline Overview</h2>
@@ -256,74 +227,74 @@
     {{ end }}
 {{ end }}
 
-{{ range .Pages }}
+{{- range .Pages -}}
 
 
-                        {{ range (.Pages.GroupBy "Section") }}
-                           {{ range .Pages }}
-                                {{ $makeup_to_add := (slice ) }}
-                                {{ range .Params.makeup }}
-                                    {{ $latest_prop := . | title }} 
-                                    {{ $makeup_to_add := $makeup_to_add |append  $latest_prop }} 
-                                {{ $makeup = $makeup  | append $makeup_to_add }}{{ end }}
+                        {{- range (.Pages.GroupBy "Section") -}}
+                           {{- range .Pages -}}
+                                {{- $makeup_to_add := (slice ) -}}
+                                {{- range .Params.makeup -}}
+                                    {{- $latest_prop := . | title -}} 
+                                    {{- $makeup_to_add := $makeup_to_add |append  $latest_prop -}} 
+                                {{- $makeup = $makeup  | append $makeup_to_add }}{{ end }}
 
-                           {{ end }}
-                        {{ end }}      
+                           {{- end -}}
+                        {{- end -}}
       
-{{ end }}
+{{- end -}}
 
-{{ $makeup = $makeup | uniq }} 
-{{ $makeup = $makeup | sort }} 
+{{- $makeup = $makeup | uniq -}} 
+{{- $makeup = $makeup | sort -}} 
 
-{{ if (gt ($makeup | len) 0) }}
+{{- if (gt ($makeup | len) 0) -}}
 <div id="makeup"> <h2>Makeup </h2>
-{{ range $makeup }}
-<li>{{ title . }} </li>
-{{ end }} 
+{{- range $makeup -}}
+<li>{{- title . -}}</li>
+{{- end -}} 
 </p></div> 
-{{ end }}
+{{- end -}}
 
 
-{{ $costuming := (slice ) }}
-{{ if  .Params.costuming }} 
-    {{ $costuming = $costuming  | append .Params.costuming }} 
-{{ end }}
+{{- $costuming := (slice ) -}}
+{{- if  .Params.costuming -}} 
+    {{- $costuming = $costuming  | append .Params.costuming -}} 
+{{- end -}}
 
-{{ if .Pages }} 
-    {{ range  .Pages  }}
-           {{ if  .Params.costuming }}{{ $costuming = $costuming  | append .Params.costuming }}{{ end }}
-    {{ end }}
-{{ end }}
+{{- if .Pages -}} 
+    {{- range  .Pages -}}
+           {{- if  .Params.costuming }}{{ $costuming = $costuming  | append .Params.costuming -}}{{- end -}}
+    {{- end -}}
+{{- end -}}
 
-{{ range .Pages }}
+{{- range .Pages -}}
 
 
-                        {{ range (.Pages.GroupBy "Section") }}
-                           {{ range .Pages }}
-                                {{ $costuming_to_add := (slice ) }}
-                                {{ $working_costume := (slice ) }}
-                                {{ if not (reflect.IsSlice .Params.costuming) }}{{ $working_costume = (slice .Params.costuming ) }}
-                                {{ else  }} {{ $working_costume = append $costuming .Params.costuming }}{{ end}}
-                                {{ range $working_costume }}
-                                    {{ $latest_costume := . | title }} 
-                                    {{ $costuming_to_add := $costuming_to_add |append  $latest_costume }} 
-                                {{ $costuming = $costuming  | append $costuming_to_add }}{{ end }}
+                        {{- range (.Pages.GroupBy "Section") -}}
+                           {{- range .Pages -}}
+                                {{- $costuming_to_add := (slice ) -}}
+                                {{- $working_costume := (slice ) -}}
+                                {{- if not (reflect.IsSlice .Params.costuming) }}{{ $working_costume = (slice .Params.costuming ) -}}
+                                {{- else  -}} {{- $working_costume = append $costuming .Params.costuming }}{{ end -}}
+                                {{- range $working_costume -}}
+                                    {{- $latest_costume := . | title -}} 
+                                    {{- $costuming_to_add := $costuming_to_add |append  $latest_costume -}} 
+                                {{- $costuming = $costuming  | append $costuming_to_add -}}{{- end -}}
 
-                           {{ end }}
-                        {{ end }}      
+                           {{- end -}}
+                        {{- end -}}      
       
-{{ end }}
+{{- end -}}
 
-{{ $costuming = $costuming | uniq }} 
-{{ $costuming = $costuming | sort }} 
+{{- $costuming = $costuming | uniq -}} 
+{{- $costuming = $costuming | sort -}} 
 
-{{ if (gt ($costuming | len) 0) }}
+{{- if (gt ($costuming | len) 0) -}}
 <div id="costuming"> <h2>Costuming </h2>
-{{ range $costuming }}
+{{- range $costuming }}
 {{- if . -}}<li>{{- title . -}}</li>{{- end -}}
-{{ end }} 
+{{- end -}} 
 </p></div> 
-{{ end }}
+{{- end -}}
 
 
-{{ partial "footer.html" . }}
+{{- partial "footer.html" . -}}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get to the Choppa on Polar Larp</title>
+    <link>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/</link>
+    <description>Recent content in Get to the Choppa on Polar Larp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 10:33:21 -0500</lastBuildDate><atom:link href="https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Unicorn</title>
+      <link>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/unicorn_black/</link>
+      <pubDate>Thu, 10 Nov 2022 10:33:21 -0500</pubDate>
+      
+      <guid>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/unicorn_black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Troll</title>
+      <link>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/troll_deep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/troll_deep/</guid>
+      <description>Add 35 Body (100 Total)
+Add +4 to Weapon Damage (1h 20, 2h 15)
+Add +1 Slay</description>
+    </item>
+    
+    <item>
+      <title>Jumping Spider</title>
+      <link>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/spider_jumping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/spider_jumping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain Giant</title>
+      <link>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/giant_mountain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloryforthefist.netlify.app/current_writeups/get_to_the_choppa/roles/giant_mountain/</guid>
+      <description>Add 30 Body (100 Total)
+Add +4 to Weapon Damage (1h 20, 2h 15)
+Add +1 Slay
+The NPCs will start out sleeping as the Mountain Giants, they can stealth in and take the shard and leave if they choose or fight the Giants. If they grab the Shard and run, they can escape. If they choose to engage they will receive the Magic Item: Ring of the Champion from of the 5 Giants.</description>
+    </item>
+    
+  </channel>
+</rss>

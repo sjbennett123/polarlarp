@@ -8,13 +8,6 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 ![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
 
-```
-Zine Notes:
-Take out A Dark Bargin with the Black Shadow. (I will give that out with Clinton as he overheard it while captured and it upto him to distribute)
-
-Reword the first section on High Shamans. Change the language from NPC tactics to PC facing.
-```
-
 These notes have been collected at great personal cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
 ## Motivations
@@ -141,7 +134,7 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ## Dragon Orcs
 
-The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by the Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a great cost. The pain never really stops. Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an Uruk-Hai is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper and a lack of ability to focus. Some of the behaviors that we have seen are as follows.
+The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, more tactical, and more organized than traditional Orcs and the Bloody Fist of the last war. They are made this way by the ritual that was gifted by The Black Shadow. This process causes a tremendous amount of pain often killing the changing orc. Even if the orc survives it comes at a great cost. The pain never really stops. Think about how you feel with a a constant ache that never goes away. A headache, a backache a toothache. That shortness of temper and lack of patience. That is what being an Uruk-Hai is like. They just can't think and it makes them furious that others can. Often the behavior that we see from these orcs is visible as a short temper and a lack of ability to focus. Some of the behaviors that we have seen are as follows.
 
  - Scowling
  - Gruff Speech
@@ -157,11 +150,7 @@ The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, mo
 <!-- - [Go Ho Red Face Body Paint Makeup](https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0) -->
 <!-- - [Mermaid Scale Stencil](https://www.amazon.com/dp/B0B31D43B4?ref=ppx_pop_mob_ap_share&th=1)  -->
 
-The red tribal design is said to be a mixture of human, dwarf, and elf blood
-
-The white is ground up bone used during their rebirth ritual.
-
-The black scales are present due to the deal they have with The Black Shadow
+The bloody fist orcs wear facepaint into battle. It is comprised of 3 components. A red tribal design said to be a mixture of human, dwarf, and elf blood. A white decoration on the chin neck and throat. is ground up bone used during that orc's rebirth ritual. Black scales are also present due to the deal they have with The Black Shadow.
 
 ## Practices of the Bloody Fist
 
@@ -182,7 +171,6 @@ When the Bloody Fist enters battle, the banner of the Bloody Fist is planted in 
 - Swing an additional 5 damage on weapons.
 - Regenerate 20 Body on a 5 Count of “I drink your blood... X”. 
 - Rip from binding as per **Rip From Binding** Strong Trait an unlimited number of times.
-
 ### The Ritual of the Fire Drakes
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)

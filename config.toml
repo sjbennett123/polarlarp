@@ -2,9 +2,10 @@ baseURL = 'https://gloryforthefist.netlify.app'
 languageCode = 'en-us'
 title = 'Polar Larp'
 theme = 'hugo-theme-learn'
+disableKinds = ["taxonomyTerm" ]
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
-disableKinds = ["taxonomyTerm" ]
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "red"
