@@ -4,21 +4,24 @@ title: The Slain Cheesemaker
 Layout: module
 
 schedule: friday
-author: Brittany Perry
+author: Brittney Perry
 
 plotline: 
   - The Tarrascht
   - Rat Pack
 
-description: A man murdered by the Tarrasch and his grieving wife are found on a nearby trail. She is being attacked by Bloody Rats who wish to feed on the corpse. 
+description: A woman runs into the tavern seeking help. She leads them back to her husband, who has been murdered. The symbol of the Tarrasch is drawn in blood on the man's forehead. Drawn by the smell of blood, the group is then set upon by a large colony of Bloody Rats.
 
-synopsis: A woman's scream is heard in the night. The scream sounds heartbroken and desperate. Cries of “Help!” can be heard. The screams are coming from a place nearby the tavern. When the screams are followed, the PCs find a body and a woman, crying and kneeling next to the body. The body is bloody, but there is no blood on the trail. It is missing a hand, and it is tied off with a tourniquet, leaving a bloody stump where the hand should have been. On the forehead, drawn in blood, is the symbol of the Tarrasch. There is a rumor about a bloody symbol found on the forehead of the slain and tortured.  As the group surveys the scene, they are descended upon by a group of BLOODY RATS, drawn to the scene by the blood. The rats attack the PCs, leaving behind a rat tail for every rat killed.  Once the rats are beaten, the cheesemaker's wife will ask the PCs to escort the body to her home to prepare it [NPC Shack]. Once there, she will bid them goodbye.
+synopsis: A woman, Hannah Jodivah,  runs into the tavern, pleading for help. She says she found her husband on the trail and he is wounded and needs healing. When she is followed, the PCs find the body of Marlyn Jodivah, her husband. The body is bloody, but there is no blood on the trail. It is missing a hand, and it is tied off with a tourniquet, leaving a bloody stump where the hand should have been. On the forehead, drawn in blood, is the symbol of the Tarrasch.  As the group surveys the scene, they are descended upon by a group of BLOODY RATS, drawn to the scene by the blood. The rats attack the PCs, leaving behind a rat tail for every rat killed. Once the rats are beaten, the Hannah Jodivah will ask the PCs to escort the body to her home to prepare it [NPC Shack]. Once there, she will bid them goodbye.
 number_of_cast_members: 7 plus [recommended] OR 2 people plus X-number of rats needed
+roles: Slain Cheesemaker-Marlyn Jodivah, Cheesemaker's Wife-Hannah Jodivah, Bloody Rats
 treasure: 1 Tail per rat 
 outcomes: 
  - The PCs are introduced to the symbol of the Tarrasch
+ - PCs fight Bloody Rats
+ - The PCs either help Hannah Jodivah carry her husband's body or not
 
-hook: A LOUD heartbroken scream and pleads of help just out of sight of the Tavern
+hook: A woman runs into the tavern and seeks help to heal her husband
 scenes: 
   - 
     oog: Trail near the tavern
@@ -26,7 +29,8 @@ scenes:
     flee_point: 
 
 
-running_notes: The slain cheesemaker has been badly beaten and tortured before being dumped on the trail. The wife was on her way to look for her husband, as he never took this long getting home on Friday. She was on her way to the tavern, as she knew there was a market and hoped he'd be there.  The BLOODY RATS should fight as a group, driven by food. In this case, the food is the dead body and any PCs that should go down. They should fight aggressively, and be protective of the food.
+running_notes: The slain cheesemaker, Marlyn Jodivah has been badly beaten and tortured before being dumped on the trail. Hannah Jodivah was on her way to look for her husband, as he never took this long getting home on Friday. She was on her way to the tavern, as she knew there was a market and hoped he'd be there.  The BLOODY RATS should fight as a group, driven by food. In this case, the food is the dead body and any PCs that should go down. They should fight aggressively, and be protective of the food.
+
 
 ---
 
