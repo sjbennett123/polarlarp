@@ -4,7 +4,7 @@ title: Hannah Jodivah
 description: 
 Layout: role
 
-introduction: Your husband has been killed 
+introduction: Your husband has been killed!
 motivation: 
 tactics: 
 movement:

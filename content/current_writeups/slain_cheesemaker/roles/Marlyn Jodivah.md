@@ -4,7 +4,7 @@ title: Marlyn Jodivah
 description: 
 Layout: role
 
-introduction: 
+introduction: You have been killed!
 motivation: 
 tactics: 
 movement:
