@@ -2,6 +2,7 @@
 Layout: plotline_overview
 title: The Rat Pack
 author: Brittany Perry
+description: Rats have infested Stonewood and have become a real nuisance. 
 ---
 
 ![/rat_reward.png](/rat_reward. "{width='10'}" )

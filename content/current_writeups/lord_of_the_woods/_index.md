@@ -1,6 +1,7 @@
 ---
 title: King of the Woods
 layout: plotline_overview
+description: The King of the Woods is a corrupted Fae who was tainted when the land was and entered a deep sleep for 10 years. During the Winter he has awoken to find his lands “under siege” by both the Bloody Fist and now the new population of adventurers in Woodhaven.
 ---
 
 - The King of the Woods is the “herald” for the Nightmare Fae War plot to be ran longterm in Woodhaven.

@@ -3,7 +3,7 @@
 Layout: plotline_overview
 title: Family Recipes
 author: Brittany Perry
-
+description: The grandson of Whuthona Silverlode has gotten in too deep with the Tarrasch and left unchecked his bad judgement will mean doom for this poor woman. 
 
 ---
 ## The Players

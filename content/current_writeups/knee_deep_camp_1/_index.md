@@ -37,7 +37,7 @@ rumors: |
   
   Stay Safe,
   
-  Magnus Kane of the Rygal Order”
+  Magnus Kane of the Rygal Order
 
 hook: Magnus Kane enters town to inform the adventurers of his observing of a ritual site setup on his patrols and how he thinks these sites will be utilized with the Bomb.
 scenes: 
@@ -55,43 +55,3 @@ running_notes: This is 1 of 10 modules, they will scale with increasing difficul
 ---
 
 ![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Diagram, schematic  Description automatically generated](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_108a/AC/Temp/msohtmlclip1/01/clip_image002.png)
