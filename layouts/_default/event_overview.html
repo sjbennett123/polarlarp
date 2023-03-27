@@ -85,7 +85,7 @@
 {{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
 
 <h3>Modules for Review</h3>
-{{ range where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil  }}
+{{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  }}
       <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author }} </p>
 {{ end  }}
 {{ end }} 
