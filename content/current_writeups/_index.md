@@ -4,7 +4,7 @@ date: 2022-11-10T10:33:21-05:00
 weight: 4.1
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
-event_date: "04-14-2023"
+event_date: "14-04-2023" # Day Month Year
 magic_items:
   - 
     name: Necklace of Terror
