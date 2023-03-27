@@ -3,7 +3,7 @@
 Layout: plotline_overview
 title: The Tarrasch
 author: Brittany Perry
-
+description: A group of thieves that have moved in and are causing a great deal of mischief.
 
 ---
 There had always been unexplained thefts in Stonewood, it was just the price of doing business in a big city. But once the occupation happened, more sinister things started to occur with frightening regularity. A mysterious symbol started to show up at the scene of gristly murders, painted in blood. The symbol is the calling card of the Tarrasch.
@@ -12,24 +12,20 @@ There had always been unexplained thefts in Stonewood, it was just the price of 
 
 **The Tarrasch** are a thieving group founded by an orphaned elf named Haish Dulshadow. Haish, along with Krath Stormwell and Kinji Cragthorn, formed a strong bond as younglings, and together, did what they needed to do to survive. Eventually, this turned into a bona fied thieving group.
 
-**The Master** is a human under the guidance and leadership of the Bloody Fist orcs. No one except himself and Haish know that he is employed by the Bloody Fist. He first heard rumors of a group of thieves in the city, and enlisted them in doing Bloody Fist business, unknown to the group. Haish, who is his sole contact, was eager to do as the Master wished. Soon, the Master was using Haish and his group to abduct for the Bloody Fist, steal for the Fist, and do any tasks that the Fist needed done, but couldn't do themselves. Haish figured out that they were employed by the Bloody Fist.
+**The Grandmaster** is a human under the guidance and leadership of the Bloody Fist orcs. No one except himself and Haish know that he is employed by the Bloody Fist. He first heard rumors of a group of thieves in the city, and enlisted them in doing Bloody Fist business, unknown to the group. Haish, who is his sole contact, was eager to do as the Master wished. Soon, the Master was using Haish and his group to abduct for the Bloody Fist, steal for the Fist, and do any tasks that the Fist needed done, but couldn't do themselves. Haish figured out that they were employed by the Bloody Fist.
 
-The Master soon saw Haish, Krath, and Kinji as pieces to be moved and played. He nicknamed them as chess pieces, bestowing the title King, Rook, and Knight to Haish, Krath, and Kinji, respectively. The undead minions and warm bodied minions became Pawns in the game. His Litch, a Bishop. He started to think of himself as a Master, moving the chess pieces as needed, and loved seeing the effect he had on the city. In fact, the Master comes into town as a lovely, quick witted, silver-tongued trader and gambler frequently. He is known to trade anything, of any origin, to anybody. He is the man to talk to if you need to sell or have to buy. He loves secretly being among the masses, doing business and collecting information for the Fist. 
+The Grandmaster soon saw Haish, Krath, and Kinji as pieces to be moved and played. He nicknamed them as chess pieces, bestowing the title King, Rook, and Knight to Haish, Krath, and Kinji, respectively. The undead minions and warm bodied minions became Pawns in the game. His Litch, a Bishop. He started to think of himself as a Master, moving the chess pieces as needed, and loved seeing the effect he had on the city. In fact, the Master comes into town as a lovely, quick witted, silver-tongued trader and gambler frequently. He is known to trade anything, of any origin, to anybody. He is the man to talk to if you need to sell or have to buy. He loves secretly being among the masses, doing business and collecting information for the Fist. 
 
-**Haish Dulshadow** found himself the leader of a small group at an early age, just trying to survive. He has grown up with Krath and Kinji, and they are thick as thieves. He is always thinking of  their next job, their next hideout, their next target. By the time the Master came and found Haish, they had already honed their skills as a group. The Master gave them a purpose, and freed them of their self constraints. Unbound, they now inflict terror upon the city. 
+♚**Haish Dulshadow** found himself the leader of a small group at an early age, just trying to survive. He has grown up with Krath and Kinji, and they are thick as thieves. He is always thinking of  their next job, their next hideout, their next target. By the time the Master came and found Haish, they had already honed their skills as a group. The Master gave them a purpose, and freed them of their self constraints. Unbound, they now inflict terror upon the city. 
 
-**Krath Stormwell** always knew that their little thieving group could do so much more than what Haish allowed them. He understood his caution, but Krath was not one for caution. Haish kept Krath on a short leash for much of their lives. Lately, Haish has allowed Krath to explore his limits and Krath has been enjoying himself immensely. With his abundance of earth spells, and his penchant for all things dead, Krath has quietly gathered an army of undead to do their bidding. 
+♝**Krath Stormwell** always knew that their little thieving group could do so much more than what Haish allowed them. He understood his caution, but Krath was not one for caution. Haish kept Krath on a short leash for much of their lives. Lately, Haish has allowed Krath to explore his limits and Krath has been enjoying himself immensely. With his abundance of earth spells, and his penchant for all things dead, Krath has quietly gathered an army of undead to do their bidding. 
 
-**Kinji Cragthorn** has always protected Haish and Krath. From a very young age, Kinji has always watched out for the other two, keeping them safe and helping them carry out their plans. He has never been a planner, but no one is better than him with a sword. Now that there are no rules, his cruelty has come to life. He loves training new fighters and take pride in how well he taught them.  He gets enjoyment out of Krath and Haish's “chess game”, and secretly loves being called a “knight”.
+♞**Kinji Cragthorn** has always protected Haish and Krath. From a very young age, Kinji has always watched out for the other two, keeping them safe and helping them carry out their plans. He has never been a planner, but no one is better than him with a sword. Now that there are no rules, his cruelty has come to life. He loves training new fighters and take pride in how well he taught them.  He gets enjoyment out of Krath and Haish's “chess game”, and secretly loves being called a “knight”.
 
-♝
-
-♞
-
-https://www.compart.com/en/unicode/U+265E
-
+<!-- https://www.compart.com/en/unicode/U+265E
+ -->
+ 
 ---
-
 
 
 A woman's scream is heard in the night, the scream of someone whose world just shattered. Crying and sobbing can be heard, and followed to a trail nearby. 
