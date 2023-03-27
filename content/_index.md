@@ -13,6 +13,8 @@ disableNextPrev:  true
 
 {{% children %}}
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2ca01790-1d50-4bc8-9849-2eff6e193b56/deploy-status)](https://app.netlify.com/sites/gloryforthefist/deploys)
+
 ---
 
 ## [Current Event]({{< ref "/current_writeups" >}})
