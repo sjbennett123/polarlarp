@@ -1,7 +1,7 @@
 ---
 title: "Grandmother Linda Glynhall"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+
+b
 weight: 10
 description: a long retired adventurer, is quite glad the occupatoin of Stonewood is over. Having spent the summer under brutal occupation and the long winter just trying to survive, this spring brings with it a renewed vigor that can only come from a newfound freedom. “Granny”, hearing that the adventurer's would be returning to Stonewood, has decided to bake up a delicious batch of cookies as a thank you. Only one problem, her recipe book has gone missing!
 introduction: > 
