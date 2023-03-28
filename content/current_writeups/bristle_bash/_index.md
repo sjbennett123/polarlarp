@@ -38,3 +38,7 @@ https://www.hopculture.com/bock-beer/
 Uh, everybody is going to get there's going to be little taste or glasses for everyone. 
 
 There's going to be A special song will have, we'll have a musical interlude.
+
+
+
+- [UNCOMMON] Ol' Drek Silverlode is the type of person you don’t leave unattended with your valuables, if you know what I mean.
