@@ -182,9 +182,9 @@
     {{- $props = $props  | append .Params.props -}}
 {{- end -}}
 
-{{- if .Pages }0}
+{{- if .Pages -}}
     {{- range  .Pages -}}
-           {{- if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+           {{- if  .Params.props }}{{ $props = $props  | append .Params.props -}}{{- end -}}
     {{- end -}}
 {{- end -}}
 
