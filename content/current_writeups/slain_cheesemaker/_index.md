@@ -27,9 +27,7 @@ scenes:
     ig: Trail near the tavern
     flee_point: 
 
-
 running_notes: The slain cheesemaker, Marlyn Jodivah has been badly beaten and tortured before being dumped on the trail. Hannah Jodivah was on her way to look for her husband, as he never took this long getting home on Friday. She was on her way to the tavern, as she knew there was a market and hoped he'd be there.  The BLOODY RATS should fight as a group, driven by food. In this case, the food is the dead body and any PCs that should go down. They should fight aggressively, and be protective of the food.
-
 
 ---
 
