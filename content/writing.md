@@ -226,9 +226,47 @@ props:
 reset:
 ---
 ```
-If there is something that you are not using don't populate it the system will handle it. 
+#### title
+
+#### description
+
+### Layout
+
+### introduction 
+
+#### motivation
+
+#### tactics
+
+#### movement
+
+#### speech
+
+#### body
+
+#### defenses
+
+#### weapons
+
+#### damage
+
+#### magic
+
+#### abilities:
+
+#### killing_blow
+
+#### costuming
+
+#### makeup
+
+#### props
+
+#### reset
 
 ---
+
+If there is something that you are not using don't populate it the system will handle it. 
 
 Often there are bits where the cast need to add their own little something to a role. Give some guidance for this so that they can be more confident in their play.
 
