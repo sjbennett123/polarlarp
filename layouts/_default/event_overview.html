@@ -26,97 +26,96 @@
 <h2>Plotline Overview</h2>
 {{ range (where .Pages "Layout" "plotline_overview") }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
-{{ end }}
-{{ end }}
+{{- end -}}
+{{- end -}}
 
 <p><h2>Modules To Run</h2></p>
-<p><b>{{ len (where .Pages "Layout" "==" "module") }}</b> Modules to run </p>
+<p><b>{{- len (where .Pages "Layout" "==" "module") -}}</b> Modules to run </p>
 <p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
 
-{{ if sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight"}}
+{{ if sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
 <h3>Friday</h3>
-<p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" )}}</b> Modules to run </p>
+<p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" ) -}}</b> Modules to run </p>
 
-{{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight"}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  {{ .Params.description }} </p>
+{{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  {{- .Params.description -}} </p>
 {{ end }}
 {{ end }}
-{{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" }}
+{{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" -}}
 <h3>Saturday</h3>
-<p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "saturday" )}}</b> Modules to run </p>
+<p><b>{{- len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "saturday" ) -}}</b> Modules to run </p>
 
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "saturday" }}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "saturday" -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
 {{ end }}
 {{ end }}
 
-{{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" }}
+{{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" -}}
 <h3>Reaction</h3>
-{{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" }}
+{{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" -}}
       <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
 
 
-{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" }}
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" -}}
 <h3>Townsfolk</h3>
-{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" }}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} </p>
 {{ end }}
 {{ end }}
 
 
-{{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" }}
+{{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" -}}
 <h3>Randoms</h3>
-{{ range where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" }}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+{{ range where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
 {{ end }}
 {{ end }}
 
 
 <h3>Unsorted</h3>
-{{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author }} </p>
+{{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
 {{ end }} 
 
 
 
-{{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil }}
+{{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil -}}
 
 <h3>Modules for Review</h3>
-{{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  }}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author }} </p>
-{{ end  }}
-{{ end }} 
+{{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
+{{- end -}}
+{{- end -}} 
 <h2>Treasure</h2>
 
 {{ $magic_items := (slice )  }}
 
 {{ if .Params.magic_items }}
-    {{ $magic_items = append $magic_items .Params.magic_items }}
+    {{ $magic_items = append $magic_items .Params.magic_items -}}
 {{ end }}
 
- {{ range  where .Pages ".Params.magic_items" "!=" nil}}
+ {{ range  where .Pages ".Params.magic_items" "!=" nil -}}
   {{ $permalink := .Permalink }} 
     {{ $module_name := .Title }} 
 
            {{ range .Params.magic_items }} 
-                {{ $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit}}
-           
-                {{ $magic_items = append $magic_items (slice $magic_item_to_add) }}
-           {{ end }}
-    {{ end }}
+                {{ $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit -}}
+                {{- $magic_items = append $magic_items (slice $magic_item_to_add) -}}
+           {{- end -}}
+    {{- end -}}
     
 {{- if where $magic_items ".duration" "==" "2 Year" -}}
 <h4>Two Year Magic Items</h4>
 {{- end -}}
-{{ range  $magic_items  }}
-{{ if ( eq .duration "2 Year" )   }} 
+{{- range  $magic_items  -}}
+{{- if ( eq .duration "2 Year" )   }} 
 <h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end }}
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end -}}
 {{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
 {{ end }} 
@@ -125,28 +124,28 @@
 <h4>One Year Magic Items</h4>
 {{- end -}}
 
-{{ range  $magic_items  }}
-{{ if and ( eq .duration "1 Year" ) ( ne .delimit "Delimited to 15th Level or Below")  }} 
+{{- range  $magic_items  }}
+{{- if and ( eq .duration "1 Year" ) ( ne .delimit "Delimited to 15th Level or Below") -}} 
 <h5>{{ title .name }}</h5>
 <p><b>Description:</b> {{ .description }} </p>
 <p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end }}
-{{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
+{{- if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end -}}
+{{- if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
 <p><b>Effects:</b> {{ delimit .effects ", " }} </p>
-{{ end }} 
-{{ end }}
+{{- end }} 
+{{- end }}
 {{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "==" "Delimited to 15th Level or Below" -}}
 <h4>One Year Magic Items Delimited to under 15'th Level</h4>
-{{ end }}
+{{- end }}
 
-{{ range  $magic_items  }}
-{{ if and ( eq .duration "1 Year" ) ( eq .delimit "Delimited to 15th Level or Below")  }} 
-<h5>{{ title .name }}</h5>
-<p><b>Description:</b> {{ .description }} </p>
-<p><b>Duration:</b> {{ .duration }}    </p>
-{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end }}
-{{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
-<p><b>Effects:</b> {{ delimit .effects ", " }} </p>
+{{- range  $magic_items  -}}
+{{- if and ( eq .duration "1 Year" ) ( eq .delimit "Delimited to 15th Level or Below") -}} 
+<h5>{{- title .name -}}</h5>
+<p><b>Description:</b> {{- .description -}} </p>
+<p><b>Duration:</b> {{- .duration -}}    </p>
+{{- if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{- title .module -}}</a></p> {{- end -}}
+{{- if .delimit -}} <p><b>Delimit:</b> {{- .delimit -}}   </p> {{- end -}}
+<p><b>Effects:</b> {{- delimit .effects ", " -}} </p>
 {{ end }} 
 
 
