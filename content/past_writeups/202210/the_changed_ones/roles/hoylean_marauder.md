@@ -2,7 +2,7 @@
 title: "Hoylean Marauder"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 10
+weight: 1
 Layout: role
 quantity: 3
 introduction: You were once a proud high Dwarven Templar of a Hoylean Order. You lived your life by the blade and now in death you serve Hoyle by the blade but just not how you intended to. You were lured in by avarice when an auction of Magic Items was being hosted near Hoyle. When you arrived, it was an ambush by the Bloody Fist. Now by the Ritual of the Changed Ones, you are under their command, soldiers in a different war now but solider none the less. You  enforce the Accords of the Fist upon Stonewood as per your overlords.
