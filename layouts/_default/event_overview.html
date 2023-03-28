@@ -91,18 +91,18 @@
 {{- end -}} 
 <h2>Treasure</h2>
 
-{{ $magic_items := (slice )  }}
+{{- $magic_items := (slice ) -}}
 
-{{ if .Params.magic_items }}
-    {{ $magic_items = append $magic_items .Params.magic_items -}}
-{{ end }}
+{{- if .Params.magic_items -}}
+    {{- $magic_items = append $magic_items .Params.magic_items -}}
+{{- end -}}
 
- {{ range  where .Pages ".Params.magic_items" "!=" nil -}}
-  {{ $permalink := .Permalink }} 
-    {{ $module_name := .Title }} 
+ {{- range  where .Pages ".Params.magic_items" "!=" nil -}}
+  {{- $permalink := .Permalink -}} 
+    {{- $module_name := .Title -}} 
 
-           {{ range .Params.magic_items }} 
-                {{ $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit -}}
+           {{- range .Params.magic_items -}} 
+                {{- $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit -}}
                 {{- $magic_items = append $magic_items (slice $magic_item_to_add) -}}
            {{- end -}}
     {{- end -}}
@@ -155,48 +155,49 @@
 
 
 
-{{ $rumors := (slice ) }}
-{{ if  .Params.rumors }} 
-    {{ $rumors = $rumors  | append .Params.rumors }} 
-{{ end }}
-{{ if .Pages }} 
-    {{ range  .Pages  }}
-           {{ if  .Params.rumors }}{{ $rumors = $rumors  | append .Params.rumors }}{{ end }}
-    {{ end }}
-{{ end }}
+{{- $rumors := (slice ) -}}
+{{- if  .Params.rumors -}} 
+    {{- $rumors = $rumors  | append .Params.rumors -}} 
+{{- end -}}
+{{- if .Pages -}} 
+    {{ range  .Pages -}}
+           {{- if  .Params.rumors -}}{{- $rumors = $rumors  | append .Params.rumors -}}{{- end -}}
+    {{- end -}}
+{{- end -}}
 
-{{ $rumors = $rumors | uniq }} 
-{{ $rumors = $rumors | shuffle }} 
-{{ if (gt ($rumors | len) 0) }}
+{{- $rumors = $rumors | uniq -}} 
+{{- $rumors = $rumors | shuffle -}} 
+{{- if (gt ($rumors | len) 0) -}}
 <div id="rumors"> <h2>Rumors </h2>
-{{ range $rumors }}
-<p>{{ . | markdownify }} </p>
-{{ end }} 
+{{- range $rumors -}}
+<p>{{- . | markdownify -}}</p>
+<div style="text-align:center"><p>~               ~</p></div>
+{{- end -}} 
 </p></div> 
-{{ end }} 
+{{- end -}} 
 
 
-{{ $props := (slice ) }}
-{{ if  .Params.props }} 
-    {{ $props = $props  | append .Params.props }} 
-{{ end }}
+{{- $props := (slice ) -}}
+{{- if  .Params.props -}} 
+    {{- $props = $props  | append .Params.props =}}
+{{- end -}}
 
-{{ if .Pages }} 
-    {{ range  .Pages  }}
-           {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
-    {{ end }}
-{{ end }}
+{{- if .Pages }0}
+    {{- range  .Pages -}}
+           {{- if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+    {{- end -}}
+{{- end -}}
 
-{{ range .Pages }}
+{{- range .Pages -}}
 
 
-                        {{ range (.Pages.GroupBy "Section") }}
-                           {{ range .Pages }}
-                                {{ $props_to_add := (slice ) }}
-                                {{ range .Params.props }}
-                                    {{ $latest_prop := . | title }} 
-                                    {{ $props_to_add := $props_to_add |append  $latest_prop }} 
-                                {{ $props = $props  | append $props_to_add }}{{ end }}
+                        {{- range (.Pages.GroupBy "Section") }}
+                           {{- range .Pages -}}
+                                {{- $props_to_add := (slice ) }}
+                                {{- range .Params.props }}
+                                    {{- $latest_prop := . | title }} 
+                                    {{- $props_to_add := $props_to_add |append  $latest_prop }} 
+                                {{- $props = $props  | append $props_to_add }}{{ end }}
 
                            {{ end }}
                         {{ end }}      
