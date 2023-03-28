@@ -1,9 +1,10 @@
 ---
 title: Rygel Order
 layout: plotline_overview
+description: A powerful group of dudes that want to make themselves invaluable to the people of stonewood. 
 ---
 
-The Rygel Order are a powerful group of dudes that want to make themselves invaluable to the people of stonewood. 
+
 
 
 
