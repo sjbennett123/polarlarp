@@ -21,8 +21,11 @@ Running_notes: This module is meant to scare the players and citizens of Stonewo
 treasure:
  - Gems, Evaluate Items, Coins
 Rumors: > 
-  The patrols have been increasing at night as of late. Something marches in under the cover of darkness. For what purpose, only a sinister feel behind it. Why use torches at night when the moon provides a perfect veil for criminal activities. I have noticed more trees missing branches around the town lately, freshly cut too. I thought only the Dwarves of Stonewood understood the way to harvest them. But this seems crude and hasty 
-  ~Black Leaf, The Anvil Remembers Stonewood
+  The patrols have been increasing at night as of late. Something marches in under the cover of darkness. For what purpose, only a sinister feel behind it. Why use torches at night when the moon provides a perfect veil for criminal activities. I have noticed more trees missing branches around the town lately, freshly cut too. I thought only the Dwarves of Stonewood understood the way to harvest them. But this seems crude and hasty. 
+
+  Balor Ironleaf
+
+  Captain and Guildmaster of the Black Anvil Mercenary Company
 Props: 
   - Bloody Fist Banners
   - Bloody Fist Costuming & Makeup (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
