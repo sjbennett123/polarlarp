@@ -3,6 +3,7 @@ title: A Grainy Situation
 layout: module
 plotline: The Rat Pack
 author: Brittney Perry
+schedule: friday
 description: The city's food stores are overran by giant field rats. These rats will eat everything and spread disease. The city is asking the local adventurers to help clear the rats.
 synopsis: A group of adventurers enter the grain stores of the city to clear out the Giant Field Rat infestation. The grain stores are dangerous, and sink holes are easy to step into. If a PC steps into a sink hole, they remain stuck [Pin] until pulled from the grain. Pulling from the grain is an uninterrupted three count. You cannot free yourself if you step in the grain. The PC has a 60 second count to be rescued, before the grain crushes them and they enter their death count. The Rats are immune to the sink holes and may walk freely.
 outcomes: 

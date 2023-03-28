@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry
 
-schedule: Saturday
+schedule: saturday
 plotline: The Tarrasch
 requirements: Completion of "Of Rats and Thieves" and "Breakfast in Pieces"
 
