@@ -22,5 +22,13 @@ Roles: Balor Ironleaf, Mausoleum Floor NPCs 1-13 Prepped
 Props:  Balor Costume, Mausoleum NPC Tabards
 Treasure: None unless they enter then normal Coins, Comps, Production, Alchemy
 
+rumors: |
 
+  Message Left on the Tavern Wall
+
+  “Adventurers of Stonewood, the Mausoleum of Fallen Heroes traces back to my ancestor Feaolin Ironleaf when he defeated the great giant Tho’rek the Terrible in ancient Stonewood. Upon his dying breath, Feaolin brought the giant Tho’rek to his final death but fell to his wounds aswell. This breed of giant was only able to be killed by old age or a weapon forged of the land of Stonewood, thus the forging of his weapon Foereaver. The Mausoleum is meant to be a training ground for everything we have faced as a society and a people since Stonewood took its first breath. With ancient Dwarven magics i dont fully understand myself, this structure will change and aid adventurers by producing items they seek magically IF they can traverse the creatures it beholds. Do not worry, nothing can escape its walls. I will explain more at the Market Gather in a few weeks, but the Mausoleum of Fallen Heroes will be reopened for anyone who is brave enough to test their spirit and body against great foes new and old!
+
+  Balor Ironleaf
+
+  Captain and Guildmaster of the Black Anvil Mercenary Company
 ---

@@ -13,7 +13,11 @@ Synopsis: The Bloody Fist are hoping to catch people still in their cabins or sl
 Outcomes:
   - The Bloody Fist wake everyone up and take captives 
   - The Bloody Fist are unsuccessful in taking captives but they have shaken the hearts of the citizens with their ruthless tactics but are repelled
-rumors: The Bloody Fist came at this time in October to make their first appearance.
+rumors: |
+  A Message Posted on the Black Anvil Mercenary Scouting Watch Boards
+
+  “Our scouting has determined a good pattern on their active hours of operation. The Bloody Fist tend to be active from the hours of 10 o’clock in the late morning till just past the witching hour of Midnight. They seems to retain some semblance of normal sleep patterns that we do and rest at more normal hours. This is not to say they don’t have some active at Twilight hours, but they do sleep despite their bold claims”
+
 Hook: Warhorn sounds and Drums pound as the Bloody Fist march from the woods and begin their assault
 Number_of_cast_Members: ALL!!!! THE HORDE IS HERE!!!!
 roles: Bloody Fist Raid Leader, Bloody Fist Grunt, Bloody Fist Scout Bloody Fist Shaman
