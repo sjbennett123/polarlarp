@@ -20,7 +20,7 @@ hook: Father comes into town, gets help to rescue his son
 scenes: 
   - 
     oog: Cabin
-    ig: A cave away from the city. Scene Discription: The enterence to the cave is narrow [door stop used to hold door]. Once inside, the cave opens up to a chamber the size of a cabin. The cave has the look of being used, there is blood smeared on the walls. 
+    ig: A cave away from the city. Scene Description The entrance to the cave is narrow [door stop used to hold door]. Once inside, the cave opens up to a chamber the size of a cabin. The cave has the look of being used, there is blood smeared on the walls. 
  
 running_notes: | 
   - Order of importance in filling NPCs: Varyn Giljek, Tarrasch Bishop, Tarrasch White Pawn-Leviathan, Tarrasch Black Pawn- Chaos Caster, Tarrasch Black Pawn- Fighter 
