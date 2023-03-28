@@ -11,6 +11,12 @@ layout: module
 author: Scott Bennett
 Requirements: 
   - Opening Module 
+rumors: |
+  A Message Posted on the Town Square Common Board and the Tavern Wall
+  
+  Hear ye Hear ye Citizens of Stonewood! The winter was long and cold but the casks will flow in 3 weeks time! A new brew will be announced and named at Market Gathers beginning. The Stonewood Brewers Guild will have a representative on hand to deliver a speech and for the public tasting. All citizens and adventurers are welcome to attend. One of Stonewoods very one has a big birthday to celebrate too, so in Stonewood Dwarven fashion we shall drink to his age and health. Don't let these Bloody Fist threats shake you, our good Baron Hadukkel will be present to protect us! We will drink in his honor and repel this threat together.
+  
+  ~Scribe of Stonewood
 ---
 
 ![/bristle_bock.svg](/bristle_bock.svg "{width='10'}" )
