@@ -38,7 +38,7 @@
 <p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" ) -}}</b> Modules to run </p>
 
 {{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  {{- .Params.description -}} </p>
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
 {{ end }}
 {{ end }}
 {{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" -}}
