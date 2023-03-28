@@ -54,6 +54,12 @@ magic_items:
       - 2 Times per Day Refit Armor
       - 2 Times per Day Cure Mortal Wounds 40
       - 1 Time per Day Poison Shield
+rumors: |
+  “Adventurers, I have had a vision, Foereaver called out to me…. I know where a piece of it is being kept that isnt in the hand of the Bloody Fist. Come ask me after the Mausoleum is reopened on the second day of the market this gather… I can give you its location but i won't post it here cause the Bloody Fist might try to intercept. This weapon is something they fear, that is all I can say…”
+
+  Balor Ironleaf
+
+  Captain and Guildmaster of the Black Anvil Mercenary Company
 
 ---
 

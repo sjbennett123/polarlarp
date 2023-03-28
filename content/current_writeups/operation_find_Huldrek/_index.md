@@ -39,8 +39,7 @@ treasure:
   - Dwarven Stones
   - Random Dwarven Artifacts
   - Random Dwarven Treasure
-rumors: | 
-  - [UNCOMMON] A dwarf is seen disappearing into the woods at the same time every day. He suddenly stopped.
+
 hook: Module HELP WANTED completed
 scenes: 
   - 
@@ -60,7 +59,6 @@ running_notes: |
   The chest phys-rep and all contents can be taken and kept until end of event or completion of module THE EXCHANGE
 
 ---
-
 
 
 

@@ -26,10 +26,7 @@ props: Sinister Scent in "Sugar Cookie"
 makeup: Flour on face and hands
 treasure: 
 
-rumors: |
-  - [COMMON] Granny Silverlode's recipe book is famous. She has a recipe for everything you need in it. Beard tonic, hair growth serums, potions, tinctures, herbal mixes, she has it all! 
-  - [UNCOMMON] Ol' Drek Silverlode is the type of person you don't leave unattended with your valuables, if you know what I mean.
-  - [UNCOMMON] Huldrek has been banned from all polite drinking establishments due to his behavior and failure to pay.
+
 
 hook: Help Wanted Posters. Bringing the posters to the NPC shack
 scenes: 
