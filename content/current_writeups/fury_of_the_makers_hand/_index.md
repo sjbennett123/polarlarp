@@ -11,7 +11,7 @@ description:  One day the tides will turn, one day the fields will burn, one day
 Requirements: Camps and Cave Modules have been ran
 Synopsis:  The players will be in possession of 1-10 charged pieces of the bomb, depending on how many they have will determine how potent the bomb will be. But they must fight up a grueling hill to the bomb site to assemble the outer shell pieces they have to contain the “blast” Orcameides has stored inside it. There is no way to fully stop the bomb at this point, but it can be “contained”
 Outcomes: (1) The players reach the bomb and put the pieces on the bomb to “minimize” the effects of it (2) The players don’t reach the bomb in time, and it detonates at full strength releasing the psychic attack Orcameides has prepared for Stonewood.
-Rumors: None, the PCs will have the map for the bomb radius, but the site will be found through play and discovery
+
 Hook: Magnus Kane comes to town with a message he received from a Rygal scout that the bomb site has been found and that is no time to waste!
 Number_of_Cast_Members: All Combat-Abled NPCS
 Roles: Bloody Fist Raid Leader, Bloody Fist Grunt, Bloody Fist Scout, Bloody Fist Shaman
