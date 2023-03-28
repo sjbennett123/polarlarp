@@ -14,13 +14,12 @@ description: A woman runs into the tavern seeking help. She leads them back to h
 
 synopsis: A woman, Hannah Jodivah,  runs into the tavern, pleading for help. She says she found her husband on the trail and he is wounded and needs healing. When she is followed, the PCs find the body of Marlyn Jodivah, her husband. The body is bloody, but there is no blood on the trail. It is missing a hand, and it is tied off with a tourniquet, leaving a bloody stump where the hand should have been. On the forehead, drawn in blood, is the symbol of the Tarrasch.  As the group surveys the scene, they are descended upon by a group of BLOODY RATS, drawn to the scene by the blood. The rats attack the PCs, leaving behind a rat tail for every rat killed. Once the rats are beaten, the Hannah Jodivah will ask the PCs to escort the body to her home to prepare it [NPC Shack]. Once there, she will bid them goodbye.
 number_of_cast_members: 7 plus [recommended] OR 2 people plus X-number of rats needed
-roles: Slain Cheesemaker-Marlyn Jodivah, Cheesemaker's Wife-Hannah Jodivah, Bloody Rats
+
 treasure: 1 Tail per rat 
 outcomes: 
  - The PCs are introduced to the symbol of the Tarrasch
  - PCs fight Bloody Rats
  - The PCs either help Hannah Jodivah carry her husband's body or not
-
 hook: A woman runs into the tavern and seeks help to heal her husband
 scenes: 
   - 
