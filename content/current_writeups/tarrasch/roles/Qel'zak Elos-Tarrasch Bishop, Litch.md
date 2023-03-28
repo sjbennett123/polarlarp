@@ -13,7 +13,12 @@ defenses: No Metabolism, Focus (Cast in Body), Resist Magic x3, Phase x3, Dodge,
 weapons: Claw	
 damage: One Handed 7 Magic Drain/ Two Handed 10 Magic Drain
 magic: 5/5/5/5/5/5/5/5/5 Earth, 20 Levels Formal Magic
-abilities: Magic Create Undead x8, Magic Desecrate x4, 20 Elemental Ice x5, Arcane Fear x4, Control Greater Undead by Voice  
+abilities:
+  - Magic Create Undead x8
+  - Magic Desecrate x4
+  - 20 Elemental Ice x5
+  - Arcane Fear x4
+  - Control Greater Undead by Voice
 
 reset: Yes, respawn from bottle after 3 days
 ---
