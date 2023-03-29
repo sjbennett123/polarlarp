@@ -1,6 +1,7 @@
 ---
 description: A dead body missing a hand
 Layout: role
+title: Marlyn Jodivah
 
 introduction: You are a simple man making simple cheese, leading a simple life. You kept your tithe up, head down, and survived the war. After the freeing of Stonewood, you have been talking slander about the Bloody Fist orcs, and now are paying the price.
 

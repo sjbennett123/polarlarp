@@ -31,7 +31,14 @@
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{- end -}}
 {{- end -}}
+<h2>NPC Counts</h2>
+https://gloryforthefist.netlify.app/npc_recruiting/
+https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0
+https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
+<!-- todo pull these values from google sheets directly-->
+<p>We are following these steps NPC Recruiting Tips. We are tracking the NPC’s here NPC List Current count is Staff: 8 Yes: 7 Maybe: 9 No: 10 . Remember to go over the details of camp_sequanota with them.</p>
 
+<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>
 <p><h2>Modules To Run</h2></p>
 <p><b>{{- len (where .Pages "Layout" "==" "module") -}}</b> Modules to run </p>
 <p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
@@ -302,5 +309,7 @@
 </p></div> 
 {{- end -}}
 
+<p>Source Code</p>
 
+<p>https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups</p>
 {{- partial "footer.html" . -}}
