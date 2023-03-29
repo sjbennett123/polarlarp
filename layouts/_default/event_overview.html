@@ -22,6 +22,7 @@
   </div>
   <script type="text/javascript" src="/countdown.js"></script>
   <script type="text/javascript" src="/countdown_init.js"></script>
+  <p>Modules must be reviewed 2 Weeks before the event</p>
 {{- end -}} 
 
 {{ if (where .Pages "Layout" "plotline_overview") }}
@@ -34,6 +35,7 @@
 <p><h2>Modules To Run</h2></p>
 <p><b>{{- len (where .Pages "Layout" "==" "module") -}}</b> Modules to run </p>
 <p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
+<p>if there is not a writeup the module is not happening! Please turn in your writeups!</p>
 
 {{ if sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
 <h3>Friday</h3>
