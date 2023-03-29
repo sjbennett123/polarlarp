@@ -13,7 +13,7 @@ Hook: Goodwin Copperriver with a mission from the city
 scenes: 
   - 
     oog: 
-    ig: City Dump  You are at the city's refuse site. All waste products from the city come here. The smell is overpowering and being here will cause weakness and disease. Every 60 seconds, the marshals will throw a packet into the air above the PCs, calling Cause Weakness or Cause Disease. The throw should be as random as possible, 
+    ig: City Dump  You are at the city's refuse site. All waste products from the city come here. The smell is overpowering and being here will cause weakness and disease. Every 60 seconds, the marshals throw a packet into the air above the PCs as randomly as possible, calling Cause Weakness or Cause Disease. 
     flee_point: 
 Treasure: Rat Tails
 Rules_clarification:  Each Rat, when killed, will give a rat tail for the bounty. These are in game items.

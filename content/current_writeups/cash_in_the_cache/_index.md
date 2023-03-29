@@ -49,7 +49,7 @@ scenes:
 
 running_notes: 
   - Scene Description -Upon entering Granny's home, the PCs are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. It appears to be the home of someone who lives comfortably. Nothing has changed since HELP WANTED
-  - Huldrek should refuse to talk or talk minimally if he is with Granny. Granny should talk over Huldrek whenever he speaks. 
+  - Huldrek refuses to talk or talk minimally if he is with Granny. Granny talks over Huldrek whenever he speaks. 
   - Granny is stubborn and will deny any wrong doing by Huldrek.
 
 ---

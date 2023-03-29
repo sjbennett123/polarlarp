@@ -43,6 +43,6 @@ non_standard_effects: Rats can heal on a ten count
 running_notes: >
   - Free Bloody Rats will keep respawning until the Rat Kind is killed. Each rat in the Rat King only respawns once.
   - The Rat King can move, but has to move as a unit.
-  - The rats should stay grouped together near the Rat King
+  - The rats stay grouped together near the Rat King
 
 ---

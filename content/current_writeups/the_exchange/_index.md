@@ -52,13 +52,13 @@ scenes:
 
  
 running_notes: |
-  The fight should be ran as an ambush. The treasure drop off point should allow the NPCs to get in close and attack from the rear and sides, pushing the PCs forward and together. At no point should the Tarrasch allow themselves to be cut off from retreat. When there are about four Tarrasch left, a retreat should be called and the rest should flee toward Granny's location. If they reach the location where Granny is, she can be killed by a killing blow. The NPCs can be chased back to this point and killed, so it's not a true flee point. 
-  Huldrek should fight the Tarrasch when they appear.
-  The Tarrasch fighting group should be filled in order of importance: the Tarrasch King, the Tarrasch Rook, the Tarrasch Knight, the Tarrasch Bishop, then the Tarrasch White Pawn, then Tarrasch Black Pawn Chaos Caster and Fighter.
-  The Rook should concentrate on keeping the Knight and King up, healing the pawns as needed.
-  The Knight should protect the King foremost, the Rook second, and attack third.
-  The King should coordinate the fight with the Bishop and run if needed back to Granny. Should protect the Rook only if needed.
+  The fight is be ran as an ambush. The treasure drop off point allows the NPCs to get in close and attack from the rear and sides, pushing the PCs forward and together. At no point does the Tarrasch allow themselves to be cut off from retreat. When there are about four Tarrasch left, a retreat is be called and the rest flee toward Granny's location. If they reach the location where Granny is, she can be killed by a killing blow. The NPCs can be chased back to this point and killed, so it's not a true flee point. 
+  Huldrek fights the Tarrasch when they appear.
+  The Tarrasch fighting group is filled in order of importance: the Tarrasch King, the Tarrasch Rook, the Tarrasch Knight, the Tarrasch Bishop, then the Tarrasch White Pawn, then Tarrasch Black Pawn Chaos Caster and Fighter.
+  The Rook concentrates on keeping the Knight and King up, healing the pawns as needed.
+  The Knight protects the King foremost, the Rook second, and attack third.
+  The King coordinates the fight with the Bishop and run if needed back to Granny. Protect the Rook only if needed.
   The Rook can raise Undead [X number]
   The Bishop is to take orders from the King during the battle.
-  The pawns should listen for direction from the King and do as instructed. Any remaining Pawns should flee when there are five total Tarrasch members left standing.
+  The pawns listen for direction from the King and do as instructed. Any remaining Pawns flee when there are five total Tarrasch members left standing.
 ---

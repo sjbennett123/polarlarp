@@ -24,7 +24,7 @@ scenes:
  
 running_notes: | 
   - Order of importance in filling NPCs: Varyn Giljek, Tarrasch Bishop, Tarrasch White Pawn-Leviathan, Tarrasch Black Pawn- Chaos Caster, Tarrasch Black Pawn- Fighter 
-  - Varyn should be driven in finding his son, even to his own detriment
+  - Varyn is driven in finding his son, even to his own detriment
   - The Pawn's goal is to beat down the PCs. 
   - The Bishop will come in and rob the PCs of magic items, which will go into the Tarrasch cashe.
   - If wanted, the Bishop will abduct a PC to take to the Bloody Fist Black Site
