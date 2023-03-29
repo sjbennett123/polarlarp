@@ -3,6 +3,7 @@ title: Of Rats and Thieves
 Layout: module
 
 author: Brittney Perry
+reviewer: Mary Courtney
 schedule: friday
 plotline: 
   - The Tarrascht

@@ -4,7 +4,7 @@ title: Get to the Choppa
 Layout: module
 
 author: Chris Colland
-
+reviewer: Mary Courtney
 
 schedule: saturday
 
