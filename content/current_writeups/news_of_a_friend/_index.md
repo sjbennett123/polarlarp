@@ -16,7 +16,6 @@ outcomes:
   - Rose sees her husbands body before being told, and has an emotional breakdown
 
 number_of_cast_members: 1
-Roles: Rose Norwish
 
 hook: Tavern or other area where PCs are gathered
 scenes: 

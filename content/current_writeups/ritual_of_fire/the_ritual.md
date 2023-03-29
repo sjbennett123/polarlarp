@@ -1,5 +1,5 @@
 ---
-title: the ritual to summon the fire drakes
+title: The Ritual to Summon the Fire Drakes
 ---
 
 All the orcs chant in a call and response then each orc pulls a "straw" from the shamans hand the one who draws the short straw is sacrificed as part of the ritual.
