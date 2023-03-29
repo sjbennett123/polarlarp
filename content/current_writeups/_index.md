@@ -20,6 +20,8 @@ magic_items:
       - 
 ---
 
+![/top_secret.png](/top_secret.png "{width='10%'}" )
+
 Source code at the below link.
 <i class="fa-brands fa-github"></i>
 https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups
