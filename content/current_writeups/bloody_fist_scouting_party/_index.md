@@ -7,36 +7,8 @@ author: Scott Bennett
 schedule: randoms
 plotline: orc invasion
 
-description: 
-synopsis:   
-outcomes: 
-  - Orcs gather information about the town and escape.
-  - Orcs kill townsfolk and inspire fear.
-
-number_of_cast_members: 1-5
-
-
-rumors: |
-  Bloody Fist scouts have been sighted. They often may not bring to bear the ferocity that one expects from the bloody fist but rather they 
-  ~ Notes on the Bloody Fist - Gathered by the Black Anvil Mercinary Company
-
-hook: Bloody fist Scouts 
-
-running_notes: 
-
-
----
-
-title: Orc Scouting Pary
-Layout: module
-
-author: Scott Bennett
-
-schedule: randoms
-plotline: orc invasion
-
-description: 
-synopsis:   
+description:  Bloody Fist Scouts attempt to gather inteligence. 
+synopsis: The lowest members of the Bloody military structure the scouts gather inteligence. 
 outcomes: 
   - Orcs gather information about the town and escape.
   - Orcs kill townsfolk and inspire fear.
@@ -52,3 +24,6 @@ rumors:  |
 hook: Bloody Fist Scouts arrive in town. 
 
 running_notes: There is no need for the scouts to fight the people of Elysia. They must rather discover a picture of the people that they hope to subjugate. 
+
+---
+

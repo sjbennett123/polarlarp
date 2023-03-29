@@ -1,5 +1,5 @@
 ---
-title: Knee Deep (Camp 1)
+title: Knee Deep (Camp 6)
 Layout: module
 
 author: Chris Colland
@@ -9,8 +9,8 @@ schedule: saturday
 weight: 
 plotline: 
 requirements: Know Your Enemy has been ran
-
-description: Life, it's hard, it makes me stronger - A warrior seeking victory - I'll push it 'til the end, push it! The Bomb Shards have to be charged and the Bloody Fist are doing so but stopping these rituals wont be as easy as originally thought….
+tagline: Life, it's hard, it makes me stronger - A warrior seeking victory - I'll push it 'til the end, push it!
+description:  The Bomb Shards have to be charged and the Bloody Fist are doing so but stopping these rituals wont be as easy as originally thought….
 synopsis: The Bloody Fist are preparing for their grand design of The Orcamedes Special to come to fruition. There are 10 sites of Stonewood Trees they need to use a small portion of the latent energy store in the Stonewood Tree to charge the Bomb Shards. This ritual is very dangerous and normally requires someone to bleed or die to complete it. The PCs will have to figure out how to navigate the differences of Formal Magic rituals and the more primitive and unknown “formal” magics of the Bloody Fist.
 outcomes:
   - The PCs recover the charged shard and allow the ritual to be completed  
@@ -25,15 +25,9 @@ Roles: Magnus Kane, Bloody Fist Grunt x3, Bloody Fist Scout x2, Bloody Fist Sham
 props: 
   - 200 ft Paracord for ritual circle
   - 1-5 Hula Hoops for inner circle reps
-makeup: 
+
 treasure: Production Item, Components, Coins
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
+
 
 rumors: | 
   There has been a sudden influx of celestial energy in the area as of the last few days. I am uncertain of what these energies are yet but I shall investigate them . It could be something with the Leylines but it feels more tied to the land with celestial energy, very concerning for me as a Celestial Formalist. I shall return with what I find out at the market gathering upcoming.

@@ -1,5 +1,5 @@
 ---
-title: Knee Deep (Camp 1)
+title: Knee Deep (Camp 8)
 Layout: module
 
 author: Chris Colland

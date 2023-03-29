@@ -1,5 +1,5 @@
 ---
-title: Knee Deep (Camp 1)
+title: Knee Deep (Camp 5)
 Layout: module
 
 author: Chris Colland
@@ -9,8 +9,8 @@ schedule: saturday
 weight: 
 plotline: 
 requirements: Know Your Enemy has been ran
-
-description: Life, it's hard, it makes me stronger - A warrior seeking victory - I'll push it 'til the end, push it! The Bomb Shards have to be charged and the Bloody Fist are doing so but stopping these rituals wont be as easy as originally thought….
+tagline: Life, it's hard, it makes me stronger - A warrior seeking victory - I'll push it 'til the end, push it! 
+description: The Bomb Shards have to be charged and the Bloody Fist are doing so but stopping these rituals wont be as easy as originally thought….
 synopsis: The Bloody Fist are preparing for their grand design of The Orcamedes Special to come to fruition. There are 10 sites of Stonewood Trees they need to use a small portion of the latent energy store in the Stonewood Tree to charge the Bomb Shards. This ritual is very dangerous and normally requires someone to bleed or die to complete it. The PCs will have to figure out how to navigate the differences of Formal Magic rituals and the more primitive and unknown “formal” magics of the Bloody Fist.
 outcomes:
   - The PCs recover the charged shard and allow the ritual to be completed  
