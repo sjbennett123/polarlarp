@@ -8,7 +8,7 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 ![/bloodyfist.svg](/bloodyfist.svg "{width='10%'}" )
 
-These notes have been collected at great personal cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
+These notes have been collected at great cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
 ## Motivations for War
 
@@ -29,7 +29,7 @@ A magical treaty was signed with the Bloody Fist.
 > On this 14th day of May in the Year 593, let it be known that the Tribe of the Bloody Knuckles agreed to join the United Nations of the Bloody Fist and to follow all provisions of their treaty within the Duchy of Elysia as outlined below:
 >
 > - All Bloody Knuckles Ore will act nice and not bash any people of the Duke's Tribe
-> - None of the Duke's Tribe will bash any Bloody Knuckles Oras
+> - None of the Duke's Tribe will bash any Bloody Knuckles Orcs
 > - The Duke's Tribe will protect the Bloody Knuckle lands from invading tribes and bashers
 > - The Bloody Knuckles Tribe will come to help the Duke bash invaders if the Duke asks nice
 > - Bloody Knuckles Ores may come to town and not be bashed if they not have clubs
@@ -333,7 +333,7 @@ A powerful Ballista made of Stonewood that can fire specially made bolts that ca
 
 ##### Spirit Bomb
 
-A powerful weapon that has been developed in secret. It feeds off the marinated spirits of 6 powerful orc warriors who are allowing themselves to be transferred to a fearsome contraption that will force the will of those orcs upon all those who are within 30 miles of the detonation. The infusion of orcish energy will sway the minds of those who are affected to be sympathetic to the orcish cause. 
+A powerful weapon that has been developed in secret. It feeds off the marinated spirits of 10 powerful orc warriors who are allowing themselves to be transferred to a fearsome contraption that will force the will of those orcs upon all those who are within 30 miles of the detonation. The infusion of orcish energy will sway the minds of those who are affected to be sympathetic to the orcish cause. 
 
 ##### The Gnawing Ones
 
@@ -343,11 +343,11 @@ During the occupation of the town of Stonewood the Bloody Fist introduced  an in
 
 #### Scouts
 
-The youngest members of the bloody fist war machine.  Bloody Fist scouts often do  not bring to bear the ferocity that one expects from the more seasoned Bloody Fist but rather they are willing to observe and plan. The Scouts will often leave the field of battle without ever engaging with an enemy in battle having gained knowledge to bring back to the horde with none the wiser. 
+Bloody Fist scouts are the youngest members of the bloody fist war machine.  They often do  not bring to bear the ferocity that one expects from the more seasoned Bloody Fist but rather they are willing to observe and plan. The Scouts will often leave the field of battle without ever engaging with an enemy in battle having gained knowledge to bring back to the horde with none the wiser. 
 
 #### Grunts
 
-The most common of the members of the Bloody Fist horde. They are fearless and barbaric in their lust for vengeance. They follow a doctorine that has been beaten into them by through rentless drilling. 
+Grunts are most common of the members of the Bloody Fist horde. They are fearless and barbaric in their lust for vengeance. They follow a doctorine that has been beaten into them by through rentless drilling.
 
 #### Shamans
 
