@@ -2,7 +2,7 @@
 
 <p>{{- .Params.description -}}</p>
 <h2>Top Secret</h2>
-
+<img src="/top_secret.png" alt="/top_secret.png" title="{width='10%'}">
 <div style="text-align:center"><p>If you are PCing this event TURN BACK NOW!</p></div>
 {{- if .Content -}} 
 <hr>
@@ -172,8 +172,7 @@
 {{- $rumors = $rumors | shuffle -}} 
 {{- if (gt ($rumors | len) 0) -}}
 <div id="rumors"> <h2>Rumors </h2>
-<p><b>{{- len $rumors -}}</b> Rumors to distribute to Discord and Facebook In Game Forum</p>
-
+<p><b>{{- len $rumors -}}</b> Rumors to distribute to Discord and Facebook In Game Forum</p><hr>
 {{- range $rumors -}}
 <p>{{- . | markdownify -}}</p>
 <div style="text-align:center"><p>~               ~</p></div>
