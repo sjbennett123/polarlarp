@@ -20,12 +20,12 @@ Number_of_Cast_members: All that are suitable for combat.
 Running_notes: This module is meant to scare the players and citizens of Stonewood with the threat of being torched. The Bloody Fist are growing impatient and annoyed by the heroes. This is one module where the Bloody Fist will split up to divide and conquer. Each time will be 1 Scout with a Torch and 3 Grunts to guard him. The Goal is to have the Scouts preform a 30 count (20 to Douse with Oil and 10 to burn with Torch) to set buildings on fire. If the teams get 6 Buildings “On Fire” before the PCs can stop them then the failure condition is reached for the PCs. The Tavern is large enough it can be set on fire twice. It counts as 2 objectives if 2 different teams set it on fire at different points, it will be fully ablaze. When a building is on fire, the Scout will loudly announce “X BUILDING IS ON FIRE!” where X is the building they set. The Bloody Fist will try this tactic one more time later in the evening but more frantic before putting out the “Surrender or Burn” pamphlets which will lead into the Ritual of Fire.
 treasure:
  - Gems, Evaluate Items, Coins
-Rumors: > 
+Rumors: |
   The patrols have been increasing at night as of late. Something marches in under the cover of darkness. For what purpose, only a sinister feel behind it. Why use torches at night when the moon provides a perfect veil for criminal activities. I have noticed more trees missing branches around the town lately, freshly cut too. I thought only the Dwarves of Stonewood understood the way to harvest them. But this seems crude and hasty. 
 
-  Balor Ironleaf
+  *Balor Ironleaf*
 
-  Captain and Guildmaster of the Black Anvil Mercenary Company
+  *Captain and Guildmaster of the Black Anvil Mercenary Company*
 Props: 
   - Bloody Fist Banners
   - Bloody Fist Costuming & Makeup (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
