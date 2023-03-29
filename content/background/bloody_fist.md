@@ -10,7 +10,7 @@ github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/backgr
 
 These notes have been collected at great personal cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
-## Motivations
+## Motivations for War
 
 While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they faced 20 years ago. From the ashes of this defeat their whole society has formed around resentment and hate. The time to resolve this enmity was while this hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
@@ -110,7 +110,7 @@ The Bloody fist kept six dwarves on their knees at swordpoint. They were made to
 >
 > *Free from the taint of necromancy and fire.*
 >
-> *3 Perfect vessels I will gather in return.*
+> *Six Perfect vessels I will gather in return.*
 >
 > *This bargain shall never be unstruck.*
 >
@@ -172,9 +172,8 @@ When the Bloody Fist enters battle, the banner of the Bloody Fist is planted in 
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)
 
-Gifted by the Black Shadow this ritual allows the orcs to summon the mighty fire drakes. 
-
-Green and red Fire Drakes from the Fire Plane. They are morphed into Draconic looking figures because of the influence of  the Black Shadow on the ritual. They are incredibly destructive and follow those who summoned them to complete their task or scorching things. They breathe a fire that will actually burn Stonewood. They are fast moving and do not speak just grunt and growl.
+This ritual gifted by the Black Shadow allows the orcs to summon the Baleful Fire Drakes. 
+Green and red Fire Drakes from the Fire Plane. They are morphed into Draconic looking figures because of the influence of the Black Shadow on the ritual. They are incredibly destructive and follow the orders of those who summoned them to complete their task or scorching things. They breathe a fire that will burn anything. They are fast moving and do not speak just grunt and growl.
 
 ### Fear of the Black Shadow
 
@@ -182,7 +181,7 @@ It is unknown how this can be performed but we have found as part of the ritual 
 
 ### War Drums and War Horns
 
-The Bloody Fist are known to use war drums and horns. 
+The Bloody Fist are known to use war drums and horns.
 
 ## Current Structure of the Bloody Fist
 
@@ -203,15 +202,9 @@ No one has seen or heard the Black Shadow speak but Ahroun when the deal was str
 
 Not much is known about Ahroun's true power. He was once a mere Orc in the Bloody Fist ranks. His father died in his arms as a child during the last war 20 years ago in Stonewood. Once he met the Black Shadow he became empowered and he changed as a person. He went from being a reputable fighter and rising leader to a master of arms and an absolute terror on the battlefield. No one has seen him without his wolf mask in years, his eyes glow an eerie Orange now with the hatred that freely flows through him. Despite this new power and all the hatred that fuels him, he remains relatively calm unless he is challenged or his authority questioned. 
 
-##### A Dark Bargain with the Black Shadow
-
-This tale has been repeated around the campfires of the Bloody Fist. A legend of their rebirth as a new horde. 
-
-*A few moons ago, a Shadowy Elf in Black Robes descended from the night sky before a young orc named Ahroun. Ahroun rose to meet this man with cold steel but the Elf waved his hand and imprisoned him. The shadowy figure spoke to him “**If you give me your Tribe’s blood oath and fealty, I shall empower you with righteous vengeance that will shake the existence of Elysia.**" Ahroun was but a young orc in the Great War 20 years ago but he remembered holding his dying father and brother who were cut down by Nobility of Stonewood. With burning hatred in his eyes, he accepted the offer of the robed man. Ahroun was freed but went through a terrifying transformation. Screaming till his eyes and mouth bled, he looked to the moon then down at a pool of water and saw he had Draconic features now and felt the presence of Celestial Magic in his blood.*
-
 ### Generals
 
-The Generals of the bloody fist have been made powerful through a lesser deal with the Black Shadow.
+The Generals of the bloody fist have been made powerful through a lesser deal with the Black Shadow. They tower above rank and file troops with terrible supernatural strength and endurance. 
 
 #### Gimfang the Skyrender (The Berserker Butcher)
 
@@ -273,15 +266,6 @@ A mighty assassin. Nobody knows where he will strike. Svoul was recruited into t
 
 ### High Shamans
 
-You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
-
-- Shamans are the literal backbone of the Bloody Fist fighting machine. The Grunts take the abuse for you, and you heal their wounds, but you always make wounds that don’t heal so easily.
-- You outrank the Raid Leaders in power structure, but you respect their battlefield skill and prowess so unless the command is unsound you will follow it even till death
-- Make sure you stay in formation with your Grunts infront of you and beside your Raid Leaders. You should play these roles like a PC healer/necromancer/celestial caster would.
-- If you are the Celestial caster of the pairing, BLOW THEM UP! Make them fear your spells. The players will be confused at your intelligence and use of “sky magics” for a the “common Orc” so use that to your advantage. Cast protectives, imprison people who rush you. 
-- If you are the Earth caster of the pairing, KEEP YOUR MEN ALIVE! When everyone is safe on healing, disable them with Chaos debuffs and Cause Wound spells. Don’t waste Death Spells because you will need Life Spells for your Raid Leaders and other Shaman. Play like a PC would about keeping your team alive, if the Grunts fall you are screwed so keep them up as meat shields. Don’t be afraid to cut loose on the players with Necromancy/Chaos
-- You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
-
 #### Strum Skyburner (Celestial Avatar of the Sky)
 
 **Carries Magic Items**
@@ -320,21 +304,11 @@ Nameless Soldiers, They all give up their names to serve the Bloody Fist. High S
 
 You lead the ranks of the Bloody Fist grunts and scouts with terrifying vigor. Your word is law to the lower ranks, they will die on your command. Every battle you win is another reward closer to a promotion to Honor Guard. The Generals and Warlord rely on your tenacity and tactics to win the war against Woodhaven.
 
-#### Gnar the Black Fury
-
-
-
-#### Skindancer the Cruel
-
-
-
-#### Wendigo the White Howler
-
-
+ - Gnar the Black Fury
+ - Skindancer the Cruel
+ - Wendigo the White Howler
 
 ### Other Notables
-
-
 
 #### Bonesaw the Jailor
 
@@ -363,20 +337,18 @@ A powerful weapon that has been developed in secret. It feeds off the marinated 
 
 ##### The Gnawing Ones
 
-During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that feds on the roots of the mighty Stonewood trees.  Sated they would move to a breeding stage digging large caverns for their young to live as they grow.
+During the occupation of the town of Stonewood the Bloody Fist introduced  an invasive wood borne pest that feeds  on the roots of the mighty Stonewood trees that have not yet been .  Sated they  move to a breeding stage digging large caverns in t for their young to live as they grow.
 
 ### Troops
 
 #### Scouts
 
-You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead.
-
-
+The youngest members of the bloody fist war machine.  Bloody Fist scouts often do  not bring to bear the ferocity that one expects from the more seasoned Bloody Fist but rather they are willing to observe and plan. The Scouts will often leave the field of battle without ever engaging with an enemy in battle having gained knowledge to bring back to the horde with none the wiser. 
 
 #### Grunts
 
-You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are tactical in how you pursue victory. People fear the sight of you and flee int terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
+The most common of the members of the Bloody Fist horde. They are fearless and barbaric in their lust for vengeance. They follow a doctorine that has been beaten into them by through rentless drilling. 
 
 #### Shamans
 
-You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
+Bloody Fist shamans operate as an independent part of the horde. They do not answer to anyone under the rank of Honor Guard.
