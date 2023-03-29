@@ -16,25 +16,40 @@ Was destroyed recently. Lots of relics, artifacts, ancient magic, wizarding city
 
 Dwarven city with supernatural hardened trees as main form of industry. Recently occupied by the brutal Bloody Fist Orcs. 
 
-**Comly**
+#### Cromly
 
-**Vestmar**
+The brotherwood of the oaken wood. never played there. 
 
-**Vindale**
+#### Vestmar
 
-**Greymark**
+#### Vindale
 
-**Glavorn**
+Site of Legash's incursion upon the duchy. 
 
-**Kend**
+#### Greymark
+
+
+#### Glavorn
+
+With a long a not a short a. Well civilized place. We have only had parties and feasts there. 
+
+#### Kend
+
+
 
 ## Keeps
 
 **Vindale Keep**
 
+
+
 **Raven's Hold**
 
+
+
 **Death's End**
+
+
 
 ---
 
