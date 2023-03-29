@@ -24,18 +24,6 @@ magic_items:
 
 {{%expand "Click to expand current outstanding work" %}}
 
-**Mary**
-
-- provide the treaty that was signed in 594
-
-**Stephen** 
-
-- reviewing and editing Cryptic Wishes.
-
-**Mike** 
-
-- implementing the Cryptic Wishes Feedback
-
 **Chris** 
 
 - Ritual to open the mausoleum
@@ -48,8 +36,6 @@ magic_items:
 
 - Finishing up the website updates and starting to fill in details from his notes. 
 - send brittany rope
-- Add encounter bloody fist scouting party
-- a sign for the tavern that Huldrek is not allowed.
 
 ### Website Updates
 
@@ -71,7 +57,12 @@ magic_items:
 - Caves of Terror Overview
 - Morale system for townsfolk
 - Food system for rats
-- notes on tavern setup. Games posters etc. 
 
 {{% /expand%}}
 
+## Tavern Setup
+
+ - table games
+ - Posters for rats
+ - bristle bock sign
+ - a sign for that Huldrek is not allowed.
