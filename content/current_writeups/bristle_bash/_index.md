@@ -39,6 +39,11 @@ Uh, everybody is going to get there's going to be little taste or glasses for ev
 
 There's going to be A special song will have, we'll have a musical interlude.
 
-
+Bristle Bash
+- stats for Bristle?
+- speech for Bristle?
+- props - what are you serving as the beer and in what containers?
+- Is the tavern decorated? Does everyone have party hats for ex? If
+you want to have a party theme, have you arranged for the decorations?
 
 - [UNCOMMON] Ol' Drek Silverlode is the type of person you don’t leave unattended with your valuables, if you know what I mean.

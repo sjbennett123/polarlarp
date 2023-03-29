@@ -3,7 +3,7 @@ title: "Stonewood Townsfolk"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1.2
-description: The citizens of Stonewood are content but broken under occupation of the Bloody Fist.
+description: The citizens of Stonewood are tenative but free from the Bloody Fist's brutal occupation. 
 schedule: townsfolk
 layout: module
 author: Chris Colland
