@@ -28,6 +28,12 @@ layout: plotline_overview
 
 ```
 
+Similar to module overview it will pull the roles underneath it. 
+
+#### Title
+
+This needs to match the plotline name in 
+
 ### Module Overview
 
 ```yaml
@@ -226,13 +232,14 @@ props:
 reset:
 ---
 ```
+
 #### title
 
 #### description
 
-### Layout
+#### Layout
 
-### introduction 
+#### introduction 
 
 #### motivation
 
@@ -252,7 +259,7 @@ reset:
 
 #### magic
 
-#### abilities:
+#### abilities
 
 #### killing_blow
 
@@ -273,8 +280,6 @@ Often there are bits where the cast need to add their own little something to a 
 Try to give the cast some guidance on making the characters come alive. What do you say exactly how do you say it. What mannerisms will make the characters work. 
 
 Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/)  
-
-
 
 ### National Monster Card
 
