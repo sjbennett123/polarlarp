@@ -1,7 +1,9 @@
 {{- partial "header.html" . -}}
 
 <p>{{- .Params.description -}}</p>
+<h2>Top Secret</h2>
 
+<div style="text-align:center"><p>If you are PCing this event TURN BACK NOW!</p></div>
 {{- if .Content -}} 
 <hr>
 {{- .Content -}}
@@ -170,6 +172,8 @@
 {{- $rumors = $rumors | shuffle -}} 
 {{- if (gt ($rumors | len) 0) -}}
 <div id="rumors"> <h2>Rumors </h2>
+<p><b>{{- len $rumors -}}</b> Rumors to distribute to Discord and Facebook In Game Forum</p>
+
 {{- range $rumors -}}
 <p>{{- . | markdownify -}}</p>
 <div style="text-align:center"><p>~               ~</p></div>
