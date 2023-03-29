@@ -37,4 +37,5 @@ roles:
 
 Props:
   - Dead Child Body
+  - Door Stop
 ---
