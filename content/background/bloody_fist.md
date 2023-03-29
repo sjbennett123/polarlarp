@@ -26,6 +26,7 @@ We believe that they can be settled with, but terms will be one sided. The Blood
 A magical treaty was signed with the Bloody Fist.  
 
 > Bloody Knuckles Orc Tribe and Duchy of Elysia
+>
 > On this 14th day of May in the Year 593, let it be known that the Tribe of the Bloody Knuckles agreed to join the United Nations of the Bloody Fist and to follow all provisions of their treaty within the Duchy of Elysia as outlined below:
 >
 > - All Bloody Knuckles Ore will act nice and not bash any people of the Duke's Tribe
@@ -34,17 +35,17 @@ A magical treaty was signed with the Bloody Fist.
 > - The Bloody Knuckles Tribe will come to help the Duke bash invaders if the Duke asks nice
 > - Bloody Knuckles Ores may come to town and not be bashed if they not have clubs
 > - The Duke's Tribe can cross Bloody Knuckle lands as long as they act nice
-> 
+>
 > This treaty is hereby signed by the leader of the Bloody Knuckle Tribe and the lawful representative of His Grace, Duke Azeroth Dragonheart
 >
 > Chief Grundi Mundi Lord High Boss of the Bloody Knuckles
-> 
->Thermo
->Seneschal of Elysia
->For Duke Azeroth Dragonheart
+>
+> Thermo
+> Seneschal of Elysia
+> For Duke Azeroth Dragonheart
 
 #### The Rise of Olzen
-Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail that granted him tremendous power in battle. He bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
+Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist, it became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail, that granted him tremendous power in battle. He also bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
 
 The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once with a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
 
@@ -52,11 +53,11 @@ The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hu
 
 ### The Time Between the Wars
 
-In exile they tried to adopt a new way of life but all they knew was war and raiding so this was a doomed venture. Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
+In exile the Bloody Fist tried to adopt a new peaceful way of life but all they knew was war and raiding so this was a doomed venture. Over these 20 years, the burning memory of defeat and exile chewed away at the surviving Bloody Fist Tribe's sanity and will to live.
 
-### The Coming of the Urakhai
+### The Coming of the Uruk-Hai
 
-A young orc Ahroun makes a bargain with an entity known as "The Black Shadow". This bargain changes the orcs that accept the tranformation to be come Urakhai Dragon Orcs that have extensive powers.
+A young orc Ahroun makes a bargain with an entity known as "The Black Shadow". This bargain changes the orcs that accept the transformation to be come Uruk-Hai Dragon Orcs that have extensive powers.
 
 ### The Taking of Stonewood
 
@@ -64,7 +65,7 @@ Because the heroes of Elysia were not there to defend the city due to issues wit
 
 #### The Accords of the Fist
 
-The Accords of the Fist were agreed to by the townspeople as part of the parlay with the Bloody Fist Orcs. 
+The Accords of the Fist were agreed to by the townspeople of Stonewood as part of the parlay with the Bloody Fist Orcs. 
 
 - No weapons on person or drawn
 - No spells in hand
@@ -76,9 +77,7 @@ The Accords of the Fist were agreed to by the townspeople as part of the parlay 
 
 #### The Pledge of Servitude
 
-Every day at 10 PM the town of Stonewood gathered to pledge allegiance to the Bloody Fist and to offer up their tithe. 
-
-The Accords of the Fist mandate that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry performs ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
+Every day at 10 PM the town of Stonewood gathered to pledge allegiance to the Bloody Fist and to offer up their tithe. The Accords of the Fist mandated that the town give an offering every day. This is led by the mayor but if he is away or of infirm health another member of the citizenry performs ceremony. Each of the townspeople that are able  join around a banner of the bloody fist and recite the Pledge of Servitude. 
 
 > *The mighty Bloody Fist is benevolent.*
 >
@@ -100,9 +99,9 @@ This ritual had been gifted to the Bloody Fist Orcs by the Black Shadow. It requ
 
 The Scarifies that were made at the Altar in stonewood are a special lot. Powerful Hoylean wizards were tricked into thinking that they were responding to an auction of magical items but instead it was the fearsome bloody fist. The Bloody fist put them to the sword and only 6 of the close to 30 Hoyleans survived but they survived by submitted to be changed. 
 
-These changed ones assisted the Orcs in taking the city of Stonewood and now they patrol it's environs and annihilate anyone that violates the Accords of the Fist.
+These changed ones assisted the Orcs in taking the city of Stonewood and then patroled it's environs and annihilated anyone that violates the Accords of the Fist.
 
-## The Night of the Ritual of the Changed Ones
+## The Ritual of the Changed Ones
 
 The Bloody fist kept six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Shadow around a 6 Sided Altar. The dwarves then had each of their eyes catch fire fire. Then they started screaming. They screamed and screamed but they didn't move. Tthey began speaking in unison.
 
@@ -176,11 +175,11 @@ The Ritual of the Fire Drakes has been gifted by the Black Shadow to the Bloody 
 
 ### Fear of the Black Shadow
 
-It is unknown how this can be performed but we have found as part of the ritual that gives the Urakhai thier power they have a fear of the true form of the Black Shadow.
+It is unknown how this can be performed but we have found as part of the ritual that gives the Uruk-Hai thier power they have a fear of the true form of the Black Shadow.
 
 ### War Drums and War Horns
 
-The Bloody Fist are known to use war drums and horns.
+The Bloody Fist are known to use war drums and horns. They believe this inspires both fear and respect. 
 
 ## Current Structure of the Bloody Fist
 
