@@ -1,12 +1,12 @@
 ---
-title: "Bloody Fist"
+title: "Notes and Observations on the Bloody Fist "
 date: 2022-11-10T10:33:21-05:00
 draft: false
 github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/background/bloody_fist.md
 
 ---
 
-![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
+![/bloodyfist.svg](/bloodyfist.svg "{width='10%'}" )
 
 These notes have been collected at great personal cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
@@ -40,7 +40,7 @@ A magical treaty was signed with the Bloody Fist.
 > Chief Grundi Mundi Lord High Boss of the Bloody Knuckles
 > 
 >Thermo
->Seneschal of Elysia 
+>Seneschal of Elysia
 >For Duke Azeroth Dragonheart
 
 #### The Rise of Olzen
@@ -64,7 +64,7 @@ Because the heroes of Elysia were not there to defend the city due to issues wit
 
 #### The Accords of the Fist
 
-The Accords of the Fist were agreed to by the townspeople as part of the parlay with the Bloody Fist Orcs.  
+The Accords of the Fist were agreed to by the townspeople as part of the parlay with the Bloody Fist Orcs. 
 
 - No weapons on person or drawn
 - No spells in hand
@@ -97,13 +97,14 @@ The Accords of the Fist mandate that the town give an offering every day. This i
 ## The Changed Ones
 
 This ritual had been gifted to the Bloody Fist Orcs by the Black Shadow. It requires that 6 sacrifices agree to be changed and bound to the altar. The Alter then roars with the flame of their consumed souls powering a terrible transformation. This transformation changes the sacrifices into horrific monsters consumed by their most base desires but bound to the will of those that conducted the ritual.
+
 The Scarifies that were made at the Altar in stonewood are a special lot. Powerful Hoylean wizards were tricked into thinking that they were responding to an auction of magical items but instead it was the fearsome bloody fist. The Bloody fist put them to the sword and only 6 of the close to 30 Hoyleans survived but they survived by submitted to be changed. 
+
 These changed ones assisted the Orcs in taking the city of Stonewood and now they patrol it's environs and annihilate anyone that violates the Accords of the Fist.
 
 ## The Night of the Ritual of the Changed Ones
 
-I was there the night they made them do it. I hid while the Orcs had six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Flame around a 6 Sided Altar. The alter is still here in the field. Each of my those poor dwarves then had each of their eyes catch fire fire.  Then they started screaming. They screamed and screamed but they didn't move. It was like they were frozen there. Then they began speaking in unison. I wrote down what they said even though I will never forget it. 
-(fumbles through pants.)
+The Bloody fist kept six dwarves on their knees at swordpoint. They were made to swear loyalty to something called the Black Shadow around a 6 Sided Altar. The dwarves then had each of their eyes catch fire fire. Then they started screaming. They screamed and screamed but they didn't move. Tthey began speaking in unison.
 
 > *Six Clean Souls I offer you.*
 >
@@ -115,8 +116,7 @@ I was there the night they made them do it. I hid while the Orcs had six dwarves
 >
 > *These souls are your and these vessels mine.*
 
-Then the screaming started again. That screaming went on for far longer than a dwarf could scream. Then when they all stopped and rose each of them looking around. 
-I don't get it what the heck did he mean by three perfect vessels. All six of those monsters are wandering around mocking us with their presence. I just know that the orcs could not have done this on their own. What is the Black Shadow! 
+Then the screaming started again. That screaming went on for far longer than a dwarf could scream. 
 
 #### The Appointing of a Puppet Mayor
 
@@ -124,13 +124,9 @@ The beloved mayor Stoneaxe was publically executed, a new Mayor Installed. Shave
 
 ### Occupation of Stonewood
 
-- They haven’t been killed or executed since the beginning of the occupation. This past 6 months have been peaceful and almost normal.
-- A group of adventurers attempted to free the Town of Stonewood 1 year ago alongside Balor Ironleaf using the alias Black Leaf but were ultimately slaughtered and occupation continued.
+During the occupation the Bloody Fist did not kill or executed since the beginning of the occupation. This past 6 months have been peaceful and almost normal.  A group of adventurers attempted to free the Town of Stonewood 1 year ago alongside Balor Ironleaf using the alias Black Leaf but were ultimately slaughtered and occupation continued.
 
 ### Elysia Reclaims Stonewood
-
-
-
 
 ## Dragon Orcs
 
@@ -171,6 +167,7 @@ When the Bloody Fist enters battle, the banner of the Bloody Fist is planted in 
 - Swing an additional 5 damage on weapons.
 - Regenerate 20 Body on a 5 Count of “I drink your blood... X”. 
 - Rip from binding as per **Rip From Binding** Strong Trait an unlimited number of times.
+
 ### The Ritual of the Fire Drakes
 
 ![fire_drake_masks.jpg](/fire_drake_masks.jpg)
@@ -188,8 +185,6 @@ It is unknown how this can be performed but we have found as part of the ritual 
 The Bloody Fist are known to use war drums and horns. 
 
 ## Current Structure of the Bloody Fist
-
-
 
 ### The Black Shadow
 
@@ -376,14 +371,7 @@ During the occupation of the town of Stonewood the Bloody Fist introduced  an in
 
 You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead.
 
-Orc Intel
-- Who is in charge and giving orders?
-- Who can be bought or blackmailed?
-- Where are magic items, relics, or rumors of lost magic?
-- Is there any opposition or or talk of uprising?
-- Are there surrounding defenses? 
-- Where the money is kept
-- Who isn’t paying up with bribes and tribute? 
+
 
 #### Grunts
 
