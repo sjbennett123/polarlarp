@@ -53,7 +53,7 @@ https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
 <p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" ) -}}</b> Modules to run </p>
 
 {{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
+      <p>{ if "Params.reviewer" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
 {{ end }}
 {{ end }}
 {{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" -}}
@@ -68,7 +68,7 @@ https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
 {{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" -}}
 <h3>Reaction</h3>
 {{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" -}}
-      <p>{{ if .Params.reviewer  }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+      <p>{ if "Params.reviewer" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
@@ -92,7 +92,7 @@ https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
 
 <h3>Unsorted</h3>
 {{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil -}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
+      <p>{ if "Params.reviewer" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
 {{ end }} 
 
 
