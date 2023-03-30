@@ -68,7 +68,7 @@ https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
 {{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" -}}
 <h3>Reaction</h3>
 {{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" -}}
-      <p>{{ if "Params.reviewer" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+      <p>{{ if "Params.reviewer" "ne" "" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
