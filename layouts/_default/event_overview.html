@@ -5,11 +5,11 @@
 <span class="anchor" data-clipboard-text="https://gloryforthefist.netlify.app/current_writeups/#top_secret"><i class="fas fa-link fa-lg"></i></span>
 <img src="/top_secret.png" alt="/top_secret.png" title="{width='10%'}">
 <div style="text-align:center"><p>If you are PCing this event TURN BACK NOW!</p></div>
-{{- if .Content -}} 
+{{- if .Content -}}
 <hr>
 {{- .Content -}}
 <hr>
-{{- end -}} 
+{{- end -}}
 
 {{- if .Params.event_date -}}
 <h2>Time Until Event</h2>
@@ -68,7 +68,7 @@ https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
 {{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" -}}
 <h3>Reaction</h3>
 {{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" -}}
-      <p><b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+      <p>{{ if "Params.reviewer" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
 {{ end }}
 {{ end }}
 
@@ -85,7 +85,7 @@ https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
 {{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" -}}
 <h3>Randoms</h3>
 {{ range where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" -}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
+      <p>{{ if "Params.reviewer" }}checkbox{{ else }}EMPTY_CHECKBOX{{ end }}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
 {{ end }}
 {{ end }}
 
