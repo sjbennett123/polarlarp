@@ -32,7 +32,14 @@ scenes:
     ig: Bloody Fist Black 
     flee_point: Exit of Black Site or Door of mod shack (IG) Road back to Town
 Number_of_Cast_Members: 7
+rumors: |
+  Bonesaw the Jailor is known for his brutal ways of blood sacrifice. Some don’t care for  for the levels he will go to prove his devotion but his favor with Ahroun means he cannot be challenged. The warlord favors him and his methods because he feels that they bring results. 
+  
+  ~ Notes and Observations on the Bloody Fist - Gathered by the Black Anvil Mercenary Company
+
 ---
+
+  
 
 
 
