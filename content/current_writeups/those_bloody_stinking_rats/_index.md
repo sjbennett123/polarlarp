@@ -1,5 +1,5 @@
 ---
-title: Those Bloody Stinking Rats [Repeatable]
+title: Those Bloody Stinking Rats
 Layout: module
 
 author: Brittney Perry
