@@ -3,5 +3,6 @@ node_modules/
 package-lock.json
 package.json 
 # Local Netlify folder
+content/current_writeups/modules_to_ingest.lnk
 .netlify
 *.docx

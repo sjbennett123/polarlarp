@@ -31,6 +31,7 @@ magic_items:
 **Brittany** 
 
 - is finishing Family Recipes series of modules.
+- explicity refrece breakfast in peaces and the follow up from the firday night module.
 
 **Scott** 
 
@@ -50,6 +51,10 @@ magic_items:
 - generate CSV with magic items.
 - push treasure to event overview
 - create link from plotline to modules and back
+- fix makeup not accepting a string on a role card. 
+- move feedback to it's own section. Add icon on event overview. 
+- add unique to rumors in event overview
+- write out steps for converting from website to word
 
 ## To Do Overall
 
@@ -66,3 +71,73 @@ magic_items:
  - Posters for rats
  - bristle bock sign
  - a sign for that Huldrek is not allowed.
+
+## Timeline Updates
+
+**-Friday Night-**
+
+A Nightmare (Given to Chosen One at Game On)
+
+A Gentle Approach
+
+Bristle Bash
+
+Welcome to Orc Town
+
+Ripped Apart
+
+Know Your Enemy
+
+A Grainy Situation
+
+Help Wanted
+
+The Slain Cheese Maker
+
+Something Told Me
+
+Of Rats and Thieves
+
+A Grainy Situation
+
+Fumigation Service
+
+My Mercy
+
+Oddity
+
+**-Saturday Morning-**
+
+Hold Back the Day
+
+Open for Business
+
+**-Saturday Early Afternoon-**
+
+Unlucky 13 (Dungeon)
+
+Get to the Choppa
+
+Impending Disaster
+
+Knee Deep 1-10 (Camps)
+
+Unspoiled 1-10 (Caves)
+
+Fury of Our Makers Hand
+
+**-Saturday Early Evening-** 
+
+Friend?
+
+Fears By Torchlight 1
+
+Fears by Torchlight 2
+
+-Saturday Night-
+
+Suffer in Silence
+
+Fatal Warning
+
+Ritual of Fire
