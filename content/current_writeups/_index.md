@@ -55,6 +55,49 @@ magic_items:
 - move feedback to it's own section. Add icon on event overview. 
 - add unique to rumors in event overview
 - write out steps for converting from website to word
+- Calculate registration date from event date on website
+- Fix website toc
+- Generate HTML Page with 
+      modules
+      roles
+      Misc
+- generate as json
+      modules
+      misc
+      roles
+      national monster cards
+- arrange!
+- Print at 8 1/2 by 11 for shack!
+- print at half letter for everyone else.
+- 48 hour books!
+- write out steps for converting from website to affinity publisher
+- Neromonster manual
+
+  Update with tooltips
+
+  Generate PDF and link to overview page
+
+  Fix blank entries
+
+  Order PDF by name
+
+  Add link back to index by type
+
+  Create  template generation
+
+  PDF with indexes
+
+   by creature type
+
+  Apl
+
+  Update how to read a monster card with proper headings
+
+  Update new player section with icons
+
+  Update player section with icons
+
+  Make misc 
 
 ## To Do Overall
 

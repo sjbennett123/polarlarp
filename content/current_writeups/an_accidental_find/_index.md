@@ -6,16 +6,15 @@ author: Brittney Perry
 reviewer: 
 
 schedule: reaction
-weight: 
 plotline: Family Recipes
 
 description: An encounter card is placed on the Chest of the Tarrasch. This card is taken to the NPC shack if found before 12pm Saturday. At 12pm it is removed by Huldrek on his way into town.
 
 synopsis: >
-  The encounter card is placed in an envelope secured on the chest. The chest with card and treasure is placed in the woods early Friday. The chest is placed away from the path, hidden from sight. The card is the stand in for the guard Huldrek, who is on duty until 12pm Saturday. The card directs the PCs to return the card to the NPC shack. The card reads
-  
-  > Congratulations! You have found Huldrek and his chest on your own! Please return this card, with your group, to the NPC shack. You will return here to continue this encounter.
 
+  The Tarrasch Chest filled with treasure props and an encounter card are placed in the woods early Friday night before game on away from the path and hidden from sight. The card is a stand in for the dwarven guard guard Huldrek, who is on duty until Noon Saturday. The encounter card, attached to a tree at eye height, is a green envelope with the words READ ME printed in block letters. The card directs the PCs to return the card to the NPC shack and reads...
+  
+  > Congratulations! You have found a dwarf standing alone in the middle of the woods. Upon reading this card, you MUST return this card, with your group, to the NPC shack. You will return here to continue this encounter.
 outcomes: Someone stumbles upon the encounter card and brings it and/or the chest, to the NPC shack, and then continues with the module OPERATION FIND HULDREK
 
 
