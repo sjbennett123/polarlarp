@@ -1,8 +1,9 @@
 ---
-title: Cash in the Cashe
+title: Cash in the Cache
 Layout: module
 
 author: Brittney Perry
+reviewer: Mary Courtney
 
 schedule: saturday
 plotline: Family Recipes

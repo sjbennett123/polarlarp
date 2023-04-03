@@ -28,26 +28,7 @@ Drek, out of money, desperate and gullible, was approached by someone in the Tar
 
 Drek, still in debt but with new friends, is becoming braver and braver. When an argument with his grandmother doesn't go this way, he decides to take matters into his own hands and plots revenge for the slight. Knowing how valuable his grandmother's recipe book is, he takes the book from its place and hides it in the cache of the Tarrasch. The symbol of the group is on the lid of the treasure box. Inside the box is the entire Tarrasch treasure.
 
-Granny has no idea where her recipe book went. Last time she saw it, she had it on the shelf. She didn't remember moving it, or even using it recently, but it is missing none the less. She tried to get her grandson to help, but he refused and left for the bar. He hasn't come home in a few days, and now she is getting worried. Too old to go looking herself, Granny has put a couple of ads up in the local tavern:
-
-> **HELP WANTED ASAP- REWARD 10 SILVER**
->
-> Looking for someone to find my grandson, Huldrek Silverlode. 
->
-> Huldrek has been missing for days, and I am too old to seek him out myself
->
-> If you wish to help, I can be found at my home at most times. Bring this ad with you.
->
-> -Granny Whuthona Silverlode
-
-
-> **HELP WANTED ASAP- REWARD 20 SILVER**
->
-> For the finding of a dearly loved recipe book. The book has been in my family for ages and is filled with Silverlode family recipes! It has gone missing, and  I am in desperate need of help to find it. 
->
-> If you wish to help, I can be found at my home at most times. Bring this ad with you
->
-> -Granny Whuthona Silverlode
+Granny has no idea where her recipe book went. Last time she saw it, she had it on the shelf. She didn't remember moving it, or even using it recently, but it is missing none the less. She tried to get her grandson to help, but he refused and left for the bar. He hasn't come home in a few days, and now she is getting worried. Too old to go looking herself, Granny has put a couple of ads up in the local tavern.
 
 Out in the woods, the Chest of the Tarrasch is being “guarded” by Huldrek. There is a ENCOUNTER CARD placed on top of the chest that needs to be returned to the NPC Shack if it should be found by accident. This would spawn AN ACCIDENTAL FIND. 
 

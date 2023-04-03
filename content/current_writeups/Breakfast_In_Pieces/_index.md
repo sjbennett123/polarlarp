@@ -2,6 +2,7 @@
 title: Breakfast In Pieces
 Layout: module
 author: Brittney Perry
+reviewer: Mary Courtney
 schedule: Late Friday Night
 description: Late at night, the butchered body of Luca Norwish is brought to the tavern by two Tarrasch Black Pawns to be placed as a gristly message. If the tavern is occupied, the Black Pawns display the body nearby. Their goal is to not get caught but they the are not the best at it.
 
