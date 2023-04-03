@@ -1,22 +1,53 @@
 ---
 title: A Grainy Situation
-layout: module
-plotline: The Rat Pack
-author: Brittney Perry
+Layout: module
+
+author: Brittney Perry	
+
+
 schedule: friday
-description: The city's food stores are overran by giant field rats. These rats will eat everything and spread disease. The city is asking the local adventurers to help clear the rats.
-synopsis: A group of adventurers enter the grain stores of the city to clear out the Giant Field Rat infestation. The grain stores are dangerous, and sink holes are easy to step into. If a PC steps into a sink hole, they remain stuck [Pin] until pulled from the grain. Pulling from the grain is an uninterrupted three count. You cannot free yourself if you step in the grain. The PC has a 60 second count to be rescued, before the grain crushes them and they enter their death count. The Rats are immune to the sink holes and may walk freely.
+plotline: The Rat Pack
+requirements: Stonewood City Pest and Sanitation complete
+
+description: The city's main food stores are overran by giant field rats. These rats will eat everything and spread disease. The city is asking the local adventurers to help clear the rats from the main grain store area. The city is offering a 30 silver reward to clear out the stores.
+
+synopsis: >  
+  A group of adventurers enter the grain stores of the city to clear out the Giant Field Rat infestation. The grain stores are dangerous, and sink holes are easy to step into. Strewn around the room are yellow plastic table cloths, which represent grain sink holes. If a PC steps or falls into a grain sink hole, they can not move the part in contact with the sinkhole until they are rescued on a three count of "I pull you free". They can pull out a stuck player on a three count, as long as they don't touch the grain. A player cannot free themselves from the grain. The Rats are immune to the sink holes and may walk freely.
+  There are three areas to clear, each one with less and less room to safely walk, and more rats as the walking space lessens. The first is a small silo, partially filled with grain, and has a small infestation. The second is a medium silo, half filled with grain and a heavier infestation. The last is the main grain store that is almost full and contains a very heavy infestation. All three levels must be cleared to receive pay. 
+
 outcomes: 
   - The PCs clear out the rats and collect the bounty
   - The PCs do not clear out the rats, and they don't get a bounty
-Hook: Goodwin Copperriver recruits a group at the end of STONEWOOD CITY PEST AND SANITATION
-Number_of_Cast_members: 5 or more.
+
+number_of_cast_members: 5 or more
+Roles: Giant Field Rats
+
+props: Yellow Plastic Tablecloth x6
+ 
+treasure: Rat Tail for Every Respawn
+
+hook: Goodwin Copperriver recruits a group at the end of STONEWOOD CITY PEST AND SANITATION
 scenes: 
   - 
-    oog: Module Building. Strewn around the room are yellow plastic table cloths, which are grain sink holes. If a PC steps or falls into a grain pit, they are Pinned until they are rescued on a three count [One I pull you free, Two I pull you free... etc]. If they are not rescued in 60 seconds, they sink and enter their death count. They can still be rescued on a three count, but now they need a life spell.
-    ig: grain stores of the city 
-    flee_point: 
+    oog: mod building with few tablecloths representing grain piles. Large gaps between tablecloths, medium size infestation
+    ig: Small, almost empty silo 
+    flee_point: door to mod shack 
+  - 
+    oog: mod building  with a moderate amount of tablecloths representing grain piles. Medium gaps between tablecloths, large infestation
+    ig: Medium, half full silo 
+    flee_point: door to mod shack 
+  - 
+    oog: mod building  with an excessive amount of tablecloths representing grain piles. Small gaps between tablecloths, extra large infestation
 
-treasure: Rat Tails for every respawn
+    ig: The Main Grain Store, almost full
+    flee_point: door to mod shack 
+
+non_standard_effects: Strewn around the room are yellow plastic table cloths, which are grain sink holes. If a PC steps or falls into a grain pit, they can not move any body part in contact with the plastic and are rescued on a three count [One I pull you free, Two I pull you free... etc].
+
+rules_clarifications: Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
+
+running_notes: |
+  Part 1- 
+  Part 2- 
+  Part 3- 
 ---
-
