@@ -3,6 +3,7 @@ title: Bring Out Your Tails
 Layout: module
 
 author: Brittney Perry
+reviewer: Mary Courtney
 
 schedule: randoms
 plotline: The Rat Pack
