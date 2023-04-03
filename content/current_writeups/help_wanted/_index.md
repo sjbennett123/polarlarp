@@ -3,7 +3,7 @@ title: Help Wanted
 Layout: module
 
 author: Brittney Perry
-reviewer: 
+reviewer: Mary Courtney
 
 schedule: friday
 weight: 
@@ -33,7 +33,6 @@ scenes:
   - 
     oog: A Cabin
     ig: Granny Silverlode's House   Scene Description -Upon entering Granny's home, they are greeted with a warm, homely scent. The house is well kept and quaint, full of soft pillows and flower print. It appears to be the home of someone who lives comfortably. They are greeted by a squat, old lady dwarf who has flour on her apron and on her face. 
-
     flee_point: 
 
 

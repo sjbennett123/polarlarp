@@ -17,9 +17,8 @@ number_of_cast_members: 7 plus [recommended] OR 2 people plus X-number of rats n
 
 treasure: 1 Tail per rat 
 outcomes: 
- - The PCs are introduced to the symbol of the Tarrasch
- - PCs fight Bloody Rats
- - The PCs either help Hannah Jodivah carry her husband's body or not
+ - The PCs are introduced to the symbol of the Tarrasch.
+ - The PCs help Hannah Jodivah carry her husband's body or not. The husband does not resurrect. 
 hook: A woman runs into the tavern and seeks help to heal her husband
 scenes: 
   - 
@@ -28,6 +27,5 @@ scenes:
     flee_point: 
 
 running_notes: The slain cheesemaker, Marlyn Jodivah has been badly beaten and tortured before being dumped on the trail. Hannah Jodivah was on her way to look for her husband, as he never took this long getting home on Friday. She was on her way to the tavern, as she knew there was a market and hoped he'd be there.  The BLOODY RATS should fight as a group, driven by food. In this case, the food is the dead body and any PCs that should go down. They should fight aggressively, and be protective of the food.
-
 ---
 
