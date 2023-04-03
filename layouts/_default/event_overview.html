@@ -1,242 +1,320 @@
-{{ range sort ( where .Site.Pages.ByTitle "Section" .Section) "Params.weight" }}
-{{ if eq .Layout "module" }} 
-{{ $module_title := .Params.title -}}
- <h1> {{ .Params.title -}} </h1>
-<p><b>Written By:</b> {{ .Params.author -}}
-{{- if (.Params.reviewer) -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
-{{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
-<div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
-{{- $requirements := (slice ) -}}
-{{- if .Params.requirements -}} 
-{{- if not (reflect.IsSlice .Params.requirements) -}}{{- $requirements = (slice .Params.requirements ) -}}
-{{- else -}} {{- $requirements = append $requirements .Params.requirements -}}{{- end -}} 
+{{- partial "header.html" . -}}
+
+<p>{{- .Params.description -}}</p>
+<h2 id="top_secret">Top Secret</h2>
+<span class="anchor" data-clipboard-text="https://gloryforthefist.netlify.app/current_writeups/#top_secret"><i class="fas fa-link fa-lg"></i></span>
+<img src="/top_secret.png" alt="/top_secret.png" title="{width='10%'}">
+<div style="text-align:center"><p>If you are PCing this event TURN BACK NOW!</p></div>
+{{- if .Content -}}
+<hr>
+{{- .Content -}}
+<hr>
 {{- end -}}
 
-{{- if .Params.schedule -}}{{- $schedule := print "Run on " ( title .Params.schedule )  -}}{{- $requirements = append $requirements (slice ( $schedule ) ) -}} {{- end -}}
+{{- if .Params.event_date -}}
+<h2>Time Until Event</h2>
+<!--   <div class="wrapper">
+    <div class="countdown" data-date="{{- .Params.event_date -}}" data-time="09:00">
+      <div class="day"><span class="num"></span><span class="word"></span></div>
+      <div class="hour"><span class="num"></span><span class="word"></span></div>
+      <div class="min"><span class="num"></span><span class="word"></span></div>
+      <div class="sec"><span class="num"></span><span class="word"></span></div>
+    </div
+    
+  <script type="text/javascript" src="/countdown.js"></script>
+  <script type="text/javascript" src="/countdown_init.js"></script> -->
 
-{{- if $requirements -}}
-<div id ="requirements"> 
-<p><b>Requirements:</b></p>
-    {{- range  $requirements -}}
-    <li>{{- . -}}</li>
-    {{- end -}}
-</div>
+  <p>Modules must be reviewed 2 Weeks before the event</p>
+{{- end -}} 
+<h2>NPC Counts</h2><a href="npc_recruiting/"> tomato </a>
+
+https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0
+https://gloryforthefist.netlify.app/events/camps/camp_sequanota/
+<!-- todo pull these values from google sheets directly-->
+<p>We are following these steps NPC Recruiting Tips. We are tracking the NPC’s here NPC List Current count is Staff: 8 Yes: 7 Maybe: 9 No: 10 . Remember to go over the details of camp_sequanota with them.</p>
+
+{{ if (where .Pages "Layout" "plotline_overview") }}
+<h2>Plotline Overview</h2>
+{{ range (where .Pages "Layout" "plotline_overview") }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+{{- end -}}
+{{- end -}}
+
+
+
+<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>
+<p><h2>Modules To Run</h2></p>
+<p><b>{{- len (where .Pages "Layout" "==" "module") -}}</b> Modules to run </p>
+<p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
+<p>if there is not a writeup the module is not happening! Please turn in your writeups!</p>
+
+{{ if sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
+<h3>Friday</h3>
+<p><b>{{ len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday" ) -}}</b> Modules to run </p>
+
+{{ range sort (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "friday") "Params.weight" -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
 {{ end }}
- {{- if .Params.background -}}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify -}}</p></div>{{- end -}}
-{{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
-{{- if .Params.outcomes -}} 
-{{- $outcomes := (slice ) -}} 
-{{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
-{{ else  }} {{ $outcomes = append $outcomes .Params.outcomes }}{{ end }} 
-<div id= "outcomes" ><p><b>Outcomes:</b></p>
-<ol>
-    {{ range $outcomes }}
-    <li>{{ . }}</li>
-    {{ end }}
-</ol></div>
-<div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
-{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
-<div id="roles"><p><b>Roles:</b> 
-{{ if .Params.roles }}{{ .Params.roles }} {{ end }}
-{{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
-    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
-{{ if (ne $index 0) }}, {{ end }}
-<a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
-    {{- end -}}
 {{ end }}
-</p></div>
+{{ if where (where .Pages "Layout" "==" "module"  ) ".Params.schedule"  "=="  "saturday" -}}
+<h3>Saturday</h3>
+<p><b>{{- len (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "saturday" ) -}}</b> Modules to run </p>
+
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  "saturday" -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
+{{ end }}
+{{ end }}
+
+{{ if where (where .Pages "Layout" "==" "module" ) ".Params.schedule"  "=="  "reaction" -}}
+<h3>Reaction</h3>
+{{ range where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "=="  "reaction" -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}}<b>{{ .Params.requirements }}</b> -- <a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description }} </p>
+{{ end }}
+{{ end }}
+
+
+
+{{ if where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" -}}
+<h3>Townsfolk</h3>
+{{ range where (where .Pages "Layout" "IN" (slice "module" ) ) "Params.schedule"  "=="  "townsfolk" -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} </p>
+{{ end }}
+{{ end }}
+
+
+{{ if where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" -}}
+<h3>Randoms</h3>
+{{ range where (where .Pages "Layout" "==" "module"  ) "Params.schedule"  "=="  "randoms" -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
+{{ end }}
+{{ end }}
+
+
+<h3>Unsorted</h3>
+{{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
+{{ end }} 
+
+
+
+{{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil -}}
+
+<h3>Modules for Review</h3>
+<p>https://gloryforthefist.netlify.app/writing/#reviewing-tips</p>
+{{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
+{{- end -}}
+{{- end -}} 
+<h2>Treasure</h2>
+
+{{- $magic_items := (slice ) -}}
+
+{{- if .Params.magic_items -}}
+    {{- $magic_items = append $magic_items .Params.magic_items -}}
+{{- end -}}
+
+ {{- range  where .Pages ".Params.magic_items" "!=" nil -}}
+  {{- $permalink := .Permalink -}} 
+    {{- $module_name := .Title -}} 
+
+           {{- range .Params.magic_items -}} 
+                {{- $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit -}}
+                {{- $magic_items = append $magic_items (slice $magic_item_to_add) -}}
+           {{- end -}}
+    {{- end -}}
+    
+{{- if where $magic_items ".duration" "==" "2 Year" -}}
+<h4>Two Year Magic Items</h4>
+{{- end -}}
+{{- range  $magic_items  -}}
+{{- if ( eq .duration "2 Year" )   }} 
+<h5>{{ title .name }}</h5>
+<p><b>Description:</b> {{ .description }} </p>
+<p><b>Duration:</b> {{ .duration }}    </p>
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end -}}
+{{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
+<p><b>Effects:</b> {{ delimit .effects ", " }} </p>
+{{ end }} 
+{{ end }}
+{{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "ne" "Delimited to 15th Level or Below" -}}
+<h4>One Year Magic Items</h4>
+{{- end -}}
+
+{{- range  $magic_items  }}
+{{- if and ( eq .duration "1 Year" ) ( ne .delimit "Delimited to 15th Level or Below") -}} 
+<h5>{{ title .name }}</h5>
+<p><b>Description:</b> {{ .description }} </p>
+<p><b>Duration:</b> {{ .duration }}    </p>
+{{- if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end -}}
+{{- if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
+<p><b>Effects:</b> {{ delimit .effects ", " }} </p>
+{{- end }} 
+{{- end }}
+{{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "==" "Delimited to 15th Level or Below" -}}
+<h4>One Year Magic Items Delimited to under 15'th Level</h4>
 {{- end }}
 
+{{- range  $magic_items  -}}
+{{- if and ( eq .duration "1 Year" ) ( eq .delimit "Delimited to 15th Level or Below") -}} 
+<h5>{{- title .name -}}</h5>
+<p><b>Description:</b> {{- .description -}} </p>
+<p><b>Duration:</b> {{- .duration -}}    </p>
+{{- if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{- title .module -}}</a></p> {{- end -}}
+{{- if .delimit -}} <p><b>Delimit:</b> {{- .delimit -}}   </p> {{- end -}}
+<p><b>Effects:</b> {{- delimit .effects ", " -}} </p>
+{{ end }} 
 
-{{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
-<div id="misc"><p><b>Misc: </b>
-{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
-{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}
 
-{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
-{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
+
+
+{{ end }}
+
+
+
+{{- $rumors := (slice ) -}}
+{{- if  .Params.rumors -}} 
+    {{- $rumors = $rumors  | append .Params.rumors -}} 
+{{- end -}}
+{{- if .Pages -}} 
+    {{ range  .Pages -}}
+           {{- if  .Params.rumors -}}{{- $rumors = $rumors  | append .Params.rumors -}}{{- end -}}
+    {{- end -}}
 {{- end -}}
 
+{{- $rumors = $rumors | uniq -}} 
+{{- $rumors = $rumors | shuffle -}} 
+{{- if (gt ($rumors | len) 0) -}}
+<div id="rumors"> <h2>Rumors </h2>
+<p><b>{{- len $rumors -}}</b> Rumors to distribute to Discord and Facebook In Game Forum</p><hr>
+{{- range $rumors -}}
+<p>{{- . | markdownify -}}</p>
+<div style="text-align:center"><p>~               ~</p></div>
+{{- end -}} 
+</p></div> 
+{{- end -}} 
 
 
-{{ $props := (slice ) }}
-{{ if  .Params.props }} 
-{{ $props = $props  | append .Params.props }}
+{{- $props := (slice ) -}}
+{{- if  .Params.props -}} 
+    {{- $props = $props  | append .Params.props -}}
+{{- end -}}
+
+{{- if .Pages -}}
+    {{- range  .Pages -}}
+           {{- if  .Params.props }}{{ $props = $props  | append .Params.props -}}{{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- range .Pages -}}
+
+
+                        {{- range (.Pages.GroupBy "Section") }}
+                           {{- range .Pages -}}
+                                {{- $props_to_add := (slice ) }}
+                                {{- range .Params.props }}
+                                    {{- $latest_prop := . | title }} 
+                                    {{- $props_to_add := $props_to_add |append  $latest_prop }} 
+                                {{- $props = $props  | append $props_to_add }}{{ end }}
+
+                           {{ end }}
+                        {{ end }}      
+      
 {{ end }}
-{{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
-                      {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
-    {{ end }}
-{{ end }}
 
-{{ $props = $props  | uniq }}
+{{ $props = $props | uniq }} 
+{{ $props = $props | sort }} 
+
 {{ if (gt ($props | len) 0) }}
-<div id="props"> <p><b>Props: </b> 
-{{ delimit $props ", "}}
+<div id="props"> <h2>Props </h2>
+{{ range $props }}
+<li>{{ title . }} </li>
+{{ end }} 
 </p></div> 
 {{ end }}
 
 
 {{ $makeup := (slice ) }}
 {{ if  .Params.makeup }} 
-{{ $makeup = $makeup  | append .Params.makeup }} {{ end }}
+    {{ $makeup = $makeup  | append .Params.makeup }} 
+{{ end }}
+
 {{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
+    {{ range  .Pages  }}
            {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
     {{ end }}
 {{ end }}
-{{ $makeup := $makeup | uniq }} 
-{{ if (gt ($makeup | len) 0) }}
-<div id="makeup"> <p><b>Makeup: </b>
-{{ delimit $makeup ", "}}
-</p></div> 
-{{ end }}
 
-{{ $costuming := (slice ) }}
-{{ if  .Params.costuming }}
-{{ $costuming =  $costuming |append .Params.costuming }}
-{{ end }}
-{{ if .Pages }} 
-    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" )  }}
-             {{ if .Params.costuming }}  {{ $costuming =  $costuming |append .Params.costuming }} {{ end }}
-    {{ end }}
-{{ end }}
-{{ $costuming := $costuming | uniq }}
-{{ if (gt ($costuming | len) 0) }}
-<div id="costuming"><p><b>Costuming:</b>
-{{ delimit $costuming  ", "}}
-</p></div> 
-{{ end }}
+{{- range .Pages -}}
 
 
+                        {{- range (.Pages.GroupBy "Section") -}}
+                           {{- range .Pages -}}
+                                {{- $makeup_to_add := (slice ) -}}
+                                {{- range .Params.makeup -}}
+                                    {{- $latest_prop := . | title -}} 
+                                    {{- $makeup_to_add := $makeup_to_add |append  $latest_prop -}} 
+                                {{- $makeup = $makeup  | append $makeup_to_add }}{{ end }}
 
-
-
-{{ if or (.Params.treasure)  (.Params.magic_items) }}
-<div id="treasure"> <p><b>Treasure:</b>
-{{- $treasure := (slice ) -}} 
-{{ if not (reflect.IsSlice .Params.treasure) }}{{ $treasure = (slice .Params.treasure ) }}
-{{ else  }} {{ $treasure = append $treasure .Params.treasure }} {{- end -}} 
-{{ delimit  $treasure ", " -}}
-{{ $magic_items := (slice )  }}
-{{- if .Params.magic_items -}}
-    {{- $magic_items = append $magic_items .Params.magic_items -}}
+                           {{- end -}}
+                        {{- end -}}
+      
 {{- end -}}
-{{- if (gt ($magic_items | len) 0) -}}
 
-{{- range  $index,$magic_items  -}}
-,
-<b><i>{{- title .name -}}(</b></i>
-<b>Description:</b> {{ .description }}
-<b>Duration:</b> {{ title .duration }}
-<b>Effects:</b> {{ delimit .effects ", " }}<b>)</b>
-{{ end }} 
-{{ end }}
-</p></div>
-{{ end }}
+{{- $makeup = $makeup | uniq -}} 
+{{- $makeup = $makeup | sort -}} 
 
-{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify }}</p></div> {{ end }} 
-
-<div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 
-
-{{ if  .Params.scenes }} 
-<div id="scenes"><p><b>Scenes:</b> {{ range .Params.scenes }}
-      <ul><b>In Game:</b> {{ .ig}} 
-      <b>Out of Game:</b> {{ .oog}} 
-      <b>Flee Point:</b> {{ .flee_point}}</ul>
-   {{ end }}</div>
-{{ end}}
-
-{{ if .Params.non_standard_effects }}<div id="non_standard_effects"> <p><b>Non Standard Effects:</b> {{ .Params.non_standard_effects }}</p> </div> {{ end }} 
-{{ if .Params.rules_clarifications }}<div id="rules_clarifications"> <p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> </div> {{ end }} 
-{{ if .Params.craftsman_information }}<div id="craftsman_information"><p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p></div> {{ end }} 
-{{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
-{{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
-
-{{ .Content }} 
-
-{{ range (where .Pages "Layout" "role") }}
-
- <h2> {{ $module_title }} : {{ .Params.title -}} </h2>
-
-{{ if .Params.description }}
-<div class="notices note"><p> {{ .Params.description  }}</p>
-</div>
-{{ end }} 
+{{- if (gt ($makeup | len) 0) -}}
+<div id="makeup"> <h2>Makeup </h2>
+{{- range $makeup -}}
+<li>{{- title . -}}</li>
+{{- end -}} 
+</p></div> 
+{{- end -}}
 
 
+{{- $costuming := (slice ) -}}
+{{- if  .Params.costuming -}} 
+    {{- $costuming = $costuming  | append .Params.costuming -}} 
+{{- end -}}
+
+{{- if .Pages -}} 
+    {{- range  .Pages -}}
+           {{- if  .Params.costuming }}{{ $costuming = $costuming  | append .Params.costuming -}}{{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- range .Pages -}}
 
 
-{{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }} 
-{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+                        {{- range (.Pages.GroupBy "Section") -}}
+                           {{- range .Pages -}}
+                                {{- $costuming_to_add := (slice ) -}}
+                                {{- $working_costume := (slice ) -}}
+                                {{- if not (reflect.IsSlice .Params.costuming) }}{{ $working_costume = (slice .Params.costuming ) -}}
+                                {{- else  -}} {{- $working_costume = append $costuming .Params.costuming }}{{ end -}}
+                                {{- range $working_costume -}}
+                                    {{- $latest_costume := . | title -}} 
+                                    {{- $costuming_to_add := $costuming_to_add |append  $latest_costume -}} 
+                                {{- $costuming = $costuming  | append $costuming_to_add -}}{{- end -}}
 
-{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
+                           {{- end -}}
+                        {{- end -}}      
+      
+{{- end -}}
 
-{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end}}
-{{ if .Params.weapons }}<p><b>Weapons:</b> {{ .Params.weapons }}</p>{{ end }}
-{{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
+{{- $costuming = $costuming | uniq -}} 
+{{- $costuming = $costuming | sort -}} 
 
+{{- if (gt ($costuming | len) 0) -}}
+<div id="costuming"> <h2>Costuming </h2>
+{{- range $costuming }}
+{{- if . -}}<li>{{- title . -}}</li>{{- end -}}
+{{- end -}} 
+</p></div> 
+{{- end -}}
 
+<h2>Source Code</h2>
 
+<p>https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups</p>
 
-{{ $magic := (slice ) }}
-{{ if .Params.magic }}
-{{ if not (reflect.IsSlice .Params.magic)}}{{ $magic = (slice .Params.magic) }}
-{{ else  }} {{ $magic = append $magic .Params.magic }}
-{{ end }}
-<p><b>Magic:</b> {{ delimit $magic ", "}}</p> {{ end }}
-
-
-
-
-{{ $defenses := (slice ) }} 
-{{ if .Params.defenses }}
-{{ if not (reflect.IsSlice .Params.defenses) }}{{ $defenses = (slice .Params.defenses ) }}
-{{ else  }} {{ $defenses = append $defenses .Params.defenses }}
-{{ end }}
-<p><b>Defenses:</b> {{ delimit  $defenses ", " }}</p>
-{{ end }}
-
-
-
-{{ $abilities := (slice ) }}
-{{ if .Params.abilities }}
-{{ if not (reflect.IsSlice .Params.abilities)  }}{{ $abilities = (slice .Params.abilities ) }}
-{{ else }} {{ $abilities = append $abilities .Params.abilities }}
-{{ end }} 
-
-<p><b>Abilities:</b> {{ delimit $abilities ", "}}</p>
-{{ end }}
-
-{{ if  .Params.props }} 
-<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
-{{ end }}
-
-{{ if  .Params.costume }} 
-<p><b>Costume:</b> {{ delimit  .Params.costume ", " |  }}</p>
-{{ end }} 
-
-{{ if  .Params.makeup }} 
-<p><b>Makeup:</b> {{ delimit  .Params.makeup ", " |  }}</p>
-{{ end }} 
-
-
-{{ if  .Params.treasure }} 
-<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
-{{ end }} 
-{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
-
-{{ if .Params.killing_blow }} <p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p> {{ end}}
-{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }}
-{{ if .Params.speech }}<p><b>Speech:</b> {{ .Params.speech }}</p> {{ end }}
-{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics | markdownify}}</p> {{ end }} 
-{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
-{{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
-{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{ .Params.descriptive_phrase }}</p>{{ end }} 
-{{ if .Params.played_by }}<p><b>Played By:</b> {{ .Params.played_by }}</p>{{ end }} 
-
-{{ end }}
-
-{{ end }}
-{{ end }}
-{{ end }}
+{{- partial "footer.html" . -}}
