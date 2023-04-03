@@ -24,7 +24,8 @@ Costuming:
 makeup:
 props: 
 
-reset:
+reset: 
+quantity: 5
 ---
 
 

@@ -3,6 +3,7 @@ title: A Stolen Child
 Layout: module
 
 author: Brittney Perry
+Reviewer: Mary Courtney
 
 schedule: saturday
 

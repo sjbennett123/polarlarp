@@ -18,4 +18,5 @@ scenes:
 Treasure: Rat Tails
 Rules_clarification:  Each Rat, when killed, will give a rat tail for the bounty. These are in game items.
 Non_standard_Effects: Rats can heal on a ten count from food sources twice 
+number_of_cast_members: 6
 ---
