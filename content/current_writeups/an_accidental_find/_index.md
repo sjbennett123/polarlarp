@@ -8,8 +8,8 @@ reviewer: Mary Courtney
 schedule: reaction
 plotline: Family Recipes
 
-description: An encounter card is placed on the Chest of the Tarrasch. This card is taken to the NPC shack if found before 12pm Saturday. At 12pm it is removed by Huldrek on his way into town.
-
+description: An encounter card is placed on the Chest of the Tarrasch.  If found before 12pm Saturday, this card is taken to the NPC shack. At 12pm it is removed by Huldrek on his way into town.
+requirements: Card on the Chest of the Tarrasch is found before 12pm Saturday.
 synopsis: >
 
   The Tarrasch Chest filled with treasure props and an encounter card are placed in the woods early Friday night before game on away from the path and hidden from sight. The card and chest are placed in a way so they are able to be seen from the path. It is set away from where most people will go, but not so far away to keep people from wanting to carry the chest out. The card is a stand in for the dwarven guard guard Huldrek, who is on duty until Noon Saturday. The encounter card, attached to a tree at eye height, is a green envelope with the words READ ME printed in block letters. The card directs the PCs to return the card to the NPC shack and reads...
