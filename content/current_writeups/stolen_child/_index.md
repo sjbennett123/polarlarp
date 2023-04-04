@@ -20,7 +20,7 @@ synopsis:   |
   The child's father, if he survives, will be understandably upset and should act heartbroken, etc. He will remove the child's body from the cave and want to bury him.
 number_of_cast_members: 
 outcomes: 
-  -The PCs go to the cave and lose to the Tarrasch Pawns and Bishop, they are left for dead or stabilized, robbed, and left in the cave. 
+  - The PCs go to the cave and lose to the Tarrasch Pawns and Bishop, they are left for dead or stabilized, robbed, and left in the cave. 
   - The PCs go to the cave and kill all the Tarrasch Pawns and find the child dead. They were able to protect the father and can help the father bury his child. 
   - The PCs beat the Tarrasch at the cave, but the father dies.
 rumors: 

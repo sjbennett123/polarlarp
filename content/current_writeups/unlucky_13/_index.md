@@ -4,7 +4,7 @@ Layout: module
 
 author:  Chris Colland
 
-schedule: saturday
+schedule: saturday early afternoon
 
 requirements: Open for Business has been ran
 
