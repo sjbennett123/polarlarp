@@ -1,9 +1,9 @@
 ---
-title: "Rebirth of Loken"
+title: "Rebirth of a Hero"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 3
-schedule: friday
+schedule: friday night
 Layout: module
 description: The rebirth of Loken “Bloodhamer” Oakrider emerges to aid Stonewood in its war
 rumors: |
