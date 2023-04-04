@@ -47,3 +47,15 @@ Bristle Bash
 you want to have a party theme, have you arranged for the decorations?
 
 - [UNCOMMON] Ol' Drek Silverlode is the type of person you don’t leave unattended with your valuables, if you know what I mean.
+
+
+
+
+
+Message Posted on a Tree:
+
+“Heroes of the Brewery! I have spoken with the soon to be Brewers Guild Master, Gilg “Firebrew” Bowerbane! He has informed me that a new Brew will be created in honor of those who saved our Stouts and Spirits for the winter! Please send me your suggestions so we can create this brew in your honor. We will take suggestions on flavors as well. Thank you again for your brave efforts defending such a Dwarven pride!”
+
+~Black Leaf 
+
+The Anvil Remembers Stonewood
