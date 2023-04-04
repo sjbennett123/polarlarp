@@ -4,7 +4,7 @@ Layout: module
 
 
 weight: 1
-schedule: friday
+schedule: friday night
 
 description: A Nightmare
 author: Chris Colland

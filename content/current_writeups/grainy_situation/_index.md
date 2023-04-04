@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry	
 reviewer: Mary Courtney
 
-schedule: friday
+schedule: friday night
 plotline: The Rat Pack
 requirements: Stonewood City Pest and Sanitation complete
 

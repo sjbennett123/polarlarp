@@ -119,13 +119,11 @@ magic_items:
 
 **-Friday Night-**
 
-A Nightmare (Given to Chosen One at Game On)
 
-A Gentle Approach
 
-Bristle Bash
 
-Welcome to Orc Town
+
+
 
 Ripped Apart
 

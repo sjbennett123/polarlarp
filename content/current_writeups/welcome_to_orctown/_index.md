@@ -5,7 +5,7 @@ Layout: module
 author: Scott Bennett 
 reviewer: 
 
-schedule: friday
+schedule: friday night
 weight: 1
 requirements: The bristle bash is going on.
 

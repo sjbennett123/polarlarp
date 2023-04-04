@@ -2,7 +2,7 @@
 title: "Know Your Enemy"
 
 weight: 2
-schedule: friday
+schedule: Know Your Enemy
 plotline: 
   - The Propoganda Bomb
   - Caves of Terror
