@@ -6,7 +6,7 @@ schedule: friday night
 author: Chris Colland
 reviewer: 
 
-schedule: friday
+schedule: friday night
 weight: 
 plotline: 
 requirements: After Ripped Apart and Know Your Enemy have been ran

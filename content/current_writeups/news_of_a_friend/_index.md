@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry
 reviewer: Mary Courtney
 
-schedule: saturday
+schedule: saturday early evening
 plotline: The Tarrasch
 requirements: Completion of "Of Rats and Thieves" and "Breakfast in Pieces"
 
