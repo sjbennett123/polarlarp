@@ -40,7 +40,10 @@
 {{- if .Params.event_date -}}<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>{{- end -}}
 <p><h2>Modules To Run</h2></p>
 <p><b>{{- len (where .Pages "Layout" "==" "module") -}}</b> Modules to run </p>
-<p>The modules below are in the order that we intend to run them in. We do not use a timeline we instead attempt to run these in this order the best we can. Plans will change and we will adapt. </p>
+<p>The modules below are in the order that we intend to run them in but plans will change and we will adapt. </p>
+
+<p><i class="fas fa-pencil-alt"></i> Indicates that the module needs to be reviewed</p>
+<p><i class="fa fa-user"></i> Indicates that the role cards are not attached to the module</p>
 {{- if .Params.event_date -}}
 <p>if there is not a writeup the module is not happening! Please turn in your writeups!</p> {{ end }}
 
@@ -54,15 +57,15 @@
 <h3>{{ title  $current_schedule }}</h3>
 <p><b>{{ len (where (where $.Pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
 {{ range where (where $.Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  $current_schedule -}}
-      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}{{- else -}}<i class="fas fa-user"></i>{{- end -}}<a href="{{.Permalink}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}} </p>
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}{{- else -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} </p>
 {{ end }}
 
 {{ end }} 
 {{ end }}
 
-
 {{ if sort (where (where $.Pages "Layout" "==" "module" ) ".Params.schedule" "=="  nil ) "Params.weight" -}}
 <h3>NO SCHEDULE!!</h3>
+<p>Please add a schedule to your modules</p> 
 {{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil -}}
       <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
 
@@ -70,7 +73,21 @@
 {{- end -}} 
 
 
+{{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil -}}
+
+<h3>Modules for Review</h3>
+<p>https://gloryforthefist.netlify.app/writing/#reviewing-tips</p>
+{{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
+{{- end -}}
+{{- end -}} 
+
+
+
 <h2>Treasure</h2>
+{{- if .Params.event_date -}}
+
+<p> Treasure distribution is figured out from preregistration. That closes one week before the event.</p>  {{ end }} 
 
 {{- $magic_items := (slice ) -}}
 
