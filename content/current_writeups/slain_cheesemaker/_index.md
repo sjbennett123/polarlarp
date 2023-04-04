@@ -3,7 +3,7 @@
 title: The Slain Cheesemaker
 Layout: module
 
-schedule: friday
+schedule: friday night
 author: Brittney Perry
 reviewer: Mary Courtney
 plotline: 

@@ -5,11 +5,8 @@ Layout: module
 author: Brittney Perry
 reviewer: Mary Courtney
 
-schedule: friday
-weight: 
+schedule: friday night
 plotline: Family Recipes
-requirements: 
-
 description: Granny Whuthona Silverlode's family recipe book has gone missing! Also, she hasn't seen her grandson Huldrek in several days. In desperation, she has put two ads in the tavern asking for help in finding them both. She has offered a reward for the return of each. 
 
 synopsis: > 

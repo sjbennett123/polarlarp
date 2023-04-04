@@ -6,9 +6,9 @@ Layout: module
 author: Chris Colland 
 reviewer: 
 
-schedule: friday
+schedule: friday night
 weight: 
-plotline: 
+plotline: Lord of the Woods
 Requirements: Something Told Me has been ran
 tagline: When I die, I’ll die with my mercy, When she cries, I’ll cry with her.  
 

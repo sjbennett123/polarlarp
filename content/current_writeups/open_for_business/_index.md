@@ -5,7 +5,7 @@ draft: false
 Layout: module
 weight: 5
 author: Chris Colland
-schedule: saturday
+schedule: saturday morning
 
 description: Faerune Leafdancer, Speaker of the Guilds, Voice of Runes Hammer has come to town to announce the reopening of the Guilds of Stonewood! In addition, there have been some additional guilds open to increase trade and prosperity across Stonewood and the greater Elysia during these trying times.
 Requirements: Lunch Served

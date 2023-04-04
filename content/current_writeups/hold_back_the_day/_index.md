@@ -2,7 +2,7 @@
 title: "Hold Back the Day"
 
 weight: 1
-schedule: saturday
+schedule: saturday morning
 
 Layout: module
 author: Chris Colland
