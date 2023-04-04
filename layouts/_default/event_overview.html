@@ -57,7 +57,7 @@
 <h3>{{ title  $current_schedule }}</h3>
 <p><b>{{ len (where (where $.Pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
 {{ range where (where $.Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  $current_schedule -}}
-      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{-  .Params.requirements -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} </p>
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{-  .Params.requirements -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}}</p>
 {{ end }}
 
 {{ end }} 

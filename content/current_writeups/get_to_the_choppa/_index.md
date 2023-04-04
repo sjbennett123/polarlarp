@@ -6,7 +6,7 @@ Layout: module
 author: Chris Colland
 reviewer: Mary Courtney
 
-schedule: saturday
+schedule: saturday early afternoon
 
 plotline: Reforge Foereaver
 requirements: Open for Business module has been ran

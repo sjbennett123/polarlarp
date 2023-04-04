@@ -1,10 +1,10 @@
 ---
-title: "Fury of the makers Hand"
+title: "Fury of the Makers Hand"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 Layout: module
 weight: 5
-schedule: saturday
+schedule: saturday early afternoon
 description: Grinder fight up path fight to Bomb Site 
 author: Chris Colland
 reviewer: Mary Courtney
