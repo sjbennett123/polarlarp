@@ -18,8 +18,7 @@ Synopsis: >
 
   4-5 named NPC enter the Tavern reading the Bloody Fist pamphlets to themselves in confusion and fear. 3 Bloody Fist Scouts enter unarmed with hands up, these Scouts are just delivering more pamphlets and then leaving. A large scene will erupt in the Tavern as the townsfolk are enraged for different reasons. 
 
-
-This roleplay encounter will setup the module "The Ritual of Fire. Each NPC will give different talking points and try to bring the players to different conclusions. At the climax of this scene Durmac will make a triumphant statement and storm out of the Tavern to go speak with the Bloody Fist only to find an assassin waiting for him to stab a pamphlet to his chest and kill him for his defiance.
+  This roleplay encounter will setup the module "The Ritual of Fire. Each NPC will give different talking points and try to bring the players to different conclusions. At the climax of this scene Durmac will make a triumphant statement and storm out of the Tavern to go speak with the Bloody Fist only to find an assassin waiting for him to stab a pamphlet to his chest and kill him for his defiance.
 
 Outcomes:
  - The players are given the pamphlets by other NPCs or roaming Scouts with no weapons. They aren’t here to fight; they have come to deliver a message.
