@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry
 reviewer: Mary Courtney
-schedule: friday
+schedule: friday night
 plotline: 
   - The Tarrascht
   - Rat Pack
