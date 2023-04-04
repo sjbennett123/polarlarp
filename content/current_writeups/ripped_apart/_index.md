@@ -16,7 +16,14 @@ Roles: Bloody Fist Raid Leader, Bloody Fist Grunt, Bloody Fist Shaman, Blood Fis
 Props:  Bloody Fist Makeup, Bloody Fist Tabards /w Sash, Weapons, Blood Fist Honor Guard Gear
 Treasure: Production Item, Components, Coins
 Number_of_Cast_Members: (13) 4 Bloody Fist Honor Guard, 1 Bloody Fist Raid Leaders, 2 Bloody Fist Shaman, 6 Bloody Fist Grunts
-running_notes: This Modules is a response module to personal plot pre-game introduction and roleplay things that occurred. Henant was captured willingly to gather information on the Bloody Fist, Tordex was captured after about 7 days of scouting out Bloody Fist camps. Henant has been captured the longer of the times, Tordex only about 3 days and Henant about 7. The beating and torturing from Henant was much more personal given they have a much deeper past. Vel’Kaz personally took the banner Henant wears and told him to come get it back from him if he can. Tordex luckily got most of his information back to a safe spot and his journals before his capture but has went radio silence for 3 days now. The Bloody Fist will invoke a ritual to flay the spirit of their Totems from the captured, when the PCs show up, they will be faced with Honor Guard for the first time. This fight will be very hard and get deadly very quickly if they just rush in to grab the 2 captives. The players have 1 hours to save them from the ritual or their transform spirits will “flayed” from them.
+running_notes: | 
+  This Modules is a response module to personal plot pre-game introduction and roleplay things that occurred. 
+
+  Henant was captured willingly to gather information on the Bloody Fist, Tordex was captured after about 7 days of scouting out Bloody Fist camps. Henant has been captured the longer of the times, Tordex only about 3 days and Henant about 7. The beating and torturing from Henant was much more personal given they have a much deeper past. Vel’Kaz personally took the banner Henant wears and told him to come get it back from him if he can. 
+
+  Tordex luckily got most of his information back to a safe spot and his journals before his capture but has went radio silence for 3 days now. The Bloody Fist will invoke a ritual to flay the spirit of their Totems from the captured, when the PCs show up, they will be faced with Honor Guard for the first time. 
+
+  This fight will be very hard and get deadly very quickly if they just rush in to grab the 2 captives. The players have 1 hours to save them from the ritual or their transform spirits will “flayed” from them.
 scenes: 
   - 
     oog: Area by Volleyball Net (Mod Shack if Weather)
