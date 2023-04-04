@@ -39,7 +39,7 @@ If the PCs track Huldrek from here using CRAFTSMAN SKILL: OTHER [Level 1] , they
 If the module HELP WANTED isn't completed, Huldrek will turn up in the tavern at noon with his bottle being a loud and obnoxious drunk. [YOU FOUND HULDREK] ({{< ref "../you_found_huldrek" >}} "[help_wanted") He taunts the PCs to the point of confrontation, but before it comes to blows or duels, Huldrek makes a deal. He'll give the group a map to a treasure cache if they let him go. If accepted, he hands a crude map to the group, and he runs off before anyone can change their mind. If it does come to a fight, and he is beaten down, the map is found on his person along with his bottle and daily earnings. 
 
 
-If Huldrek is taken and given back to his Grandmother for the reward, Granny will pay the reward and ask that the PCs leave so she can talk to Huldrek. [RETURNING HULDREK]({{< ref "../returning_huldrek" >}} "[returning_huldrek") 
+
 
 Once the cache has been cleared and the book returned [CASH IN THE CACHE]({{< ref "../cash_in_the_cache" >}} "[cash_in_the_cache"), the Tarrasch find out that they lost their loot and it is obvious who is responsible for the loss. Huldrek was on guard duty for the duration of the market.
 
