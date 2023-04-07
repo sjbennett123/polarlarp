@@ -117,7 +117,6 @@ Put water in large pan, add food color if wanted. Mix in other ingredients, boil
 ## Directions
 
 1. Preheat oven to 350°F. Butter and flour two 8- x 1 1/2-inch round cake pans. Line bottoms of pans with parchment paper. Sift together flour, baking powder, baking soda, and salt in a medium bowl; set aside.
-
 2. Combine sugar with 2 cups of water in a medium saucepan. Bring to a boil over high heat and stir until sugar dissolves; pour into a large bowl. Add chocolate and butter and let sit, stirring occasionally, until melted and slightly cooled, about 15 minutes. Stir in vanilla.
 3. Beat eggs into chocolate mixture by hand or at medium speed with an electric mixer, until combined. Add dry ingredients all at once and beat at medium speed until smooth. Divide batter evenly between the prepared pans and bake until top springs back when pressed lightly and a cake tester comes out clean, about 25 minutes. Cool cakes in their pans for 25 minutes, then invert onto a rack to cool completely.
 4. Set one cake, right-side up, on a serving platter. Using a metal spatula, spread one-third (about 1 1/4 cup) of the Chocolate Frosting evenly over cake. Top with second cake and frost top and sides with remaining frosting.
@@ -136,5 +135,4 @@ Put water in large pan, add food color if wanted. Mix in other ingredients, boil
 ## Directions
 
 1. Bring cream and sugar to a boil in a medium saucepan over moderately high heat. Reduce heat to low and simmer, stirring occasionally, until liquid reduces slightly, about 6 minutes. Pour mixture into a medium bowl and add chocolate, butter, vanilla, and salt. Let stand, stirring occasionally, until chocolate and butter are melted.
-2. 
-3. Set bowl in a larger bowl of ice water. Using a hand-held electric mixer, beat frosting on medium speed, scraping the sides occasionally with a rubber spatula, until thick and glossy and lightened in color, about 10 minutes. Use at once.
+2. Set bowl in a larger bowl of ice water. Using a hand-held electric mixer, beat frosting on medium speed, scraping the sides occasionally with a rubber spatula, until thick and glossy and lightened in color, about 10 minutes. Use at once.
