@@ -1,5 +1,5 @@
 ---
-title: Lord of the Woods
+title: Lord of the Woods Ethereal Form
 
 description: Lord of the Woods
 Layout: role

@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry
 reviewer: Scott Bennett
 
-schedule: saturday
+schedule: friday night
 plotline: The Rat Pack
 requirements: The Slain Cheesemaker and Of Rats and Thieves completed.  
 

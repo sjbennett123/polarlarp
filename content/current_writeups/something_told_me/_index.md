@@ -54,7 +54,7 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: 
 transformations: 
-running_notes: 
+running_notes: This module starts as a Random but has a spawn point. The Lord of the Woods spawns in an ethereal state unable to be harmed surrounded in Eerie Green Light. This will be a visual effect of the module beginning and a way to get attention of the players to draw them out of the Tavern. Once they have notice of the Lord of the Woods, he will call a spawn of his Cultists while will spawn from his “Green Aura” once spawned or if the PCs approach too close the “Green Aura” will disappear and the current spawn will be live. When all NPC are killed, they will reform on the Lord of the Woods and respawn at different points around the camp until the amount of resets have been reached or 2 PCs have been captured. If a PC is captured, they will be taken to the “Green Aura” of the Lord of the Woods and Rifted out on a normal 3 count to a secondary location where they will enter a roleplay encounter in a “Nightmare” included state where the Lord of the Woods  “harvest” dream energy from them and replace their dreams with “Nightmares” effectively giving them a “paranoia” effect till sunrise to grow his power and return their asleep body to a random spot on the campsite to wake up and rejoin the game.
 
 
 ---
@@ -66,20 +66,19 @@ running_notes:
 
 ________________________________________
 ________________________________________
-Requirements: 
 
 
-Rumors: 
+
+
 
 ________________________________________
 Tags and Treasure: Production Item, Components, Coins
 Scene 1: (OOG) Road Above Tavern (IG) Edge of the Woods by Stonewood Tavern
 Flee Point: Back to Tavern/Site Wide
-Non-Standard Effects: None
-Rules Clarifications: None
-Craftsman Information: None
-Transformations: None
- 	RRunning Notes: This module starts as a Random but has a spawn point. The Lord of the Woods spawns in an ethereal state unable to be harmed surrounded in Eerie Green Light. This will be a visual effect of the module beginning and a way to get attention of the players to draw them out of the Tavern. Once they have notice of the Lord of the Woods, he will call a spawn of his Cultists while will spawn from his “Green Aura” once spawned or if the PCs approach too close the “Green Aura” will disappear and the current spawn will be live. When all NPC are killed, they will reform on the Lord of the Woods and respawn at different points around the camp until the amount of resets have been reached or 2 PCs have been captured. If a PC is captured, they will be taken to the “Green Aura” of the Lord of the Woods and Rifted out on a normal 3 count to a secondary location where they will enter a roleplay encounter in a “Nightmare” included state where the Lord of the Woods  “harvest” dream energy from them and replace their dreams with “Nightmares” effectively giving them a “paranoia” effect till sunrise to grow his power and return their asleep body to a random spot on the campsite to wake up and rejoin the game.
+
+
+
+
 
 
 Something Told Me: LORD OF THE WOODS CULTIST (WILD ELF OR BARBARIAN)
