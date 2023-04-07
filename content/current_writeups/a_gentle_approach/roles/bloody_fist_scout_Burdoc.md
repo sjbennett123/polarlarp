@@ -1,5 +1,4 @@
 ---
-​---
 title: "Bloody Fist Scout Burdoc"
 Layout: role
 introduction: >
@@ -37,4 +36,4 @@ killing_blow: If you down PCs leave them to succumb to their wounds. Kidnap when
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 ​---
----
+
