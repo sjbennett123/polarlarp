@@ -18,7 +18,7 @@ Motivation: Slay a Particular Race
 armor: By Class
 offensive_abilities: 
   - Will Possess Skills as PC
-  - Carrier Attack: Drain Life
+  - Carrier Attack - Drain Life
   - Alpha Pantherghast Gains the Skills of a Person Designated in The Circle of Power at the Time of Summoning
 defensive_abilities: 
   - Affected by Magic
@@ -44,9 +44,7 @@ immune_to: Sleep, Charm, Poison, Death, Paralyze, Necromancy, Drain, Feeblemind,
 
 Protectives: May Have
 
-quantity:
 costuming:
-reset:
 makeup: White face makeup and black stripes
 ---
 
