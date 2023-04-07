@@ -9,9 +9,7 @@ description: Late at night, the butchered body of Luca Norwish is brought to the
 synopsis: >
   Two Tarrasch Black Pawns are set with a task. To take the body of Luca Norwish, now in pieces, to the town to be a statement piece. The goal is to display the body in the tavern, but if it is occupied, they will find an alternate site to place him On the body is pinned a note. 
 
-
   > “This is what happens to new blood in this town. Stay away”
-
 
   On both hands and on the heel of each foot the Tarrasch Symbol is drawn in blood. 
   
@@ -25,7 +23,8 @@ requirements:
   - Everyone be asleep or as close as possible. 
 outcomes:
   - Shock, hopefully
-hook: Body parts on display
+  - Luca's wife Rose arrives later that day and finds out that her husband has been killed in the module "News of a Friend"
+hook: Two Tarrasch Black Pawns arrive in town with a bag of body parts. 
 number_of_cast_members: 2
 roles: Tarrasch Black Pawn Caster, Tarrasch Black Pawn Fighter
 treasure: Silver, 3 per Pawn

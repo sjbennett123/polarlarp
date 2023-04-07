@@ -5,6 +5,7 @@ weight: 4.1
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "14-04-2023" # Day Month Year
+rumors: 
 magic_items:
   - 
     name: Necklace of Terror
@@ -30,13 +31,9 @@ magic_items:
 
 **Brittany** 
 
-- is finishing Family Recipes series of modules.
-- explicity refrece breakfast in peaces and the follow up from the firday night module.
-
 **Scott** 
 
-- Finishing up the website updates and starting to fill in details from his notes. 
-- send brittany rope
+
 
 ### Website Updates
 

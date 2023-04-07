@@ -9,7 +9,7 @@ schedule: saturday early evening
 plotline: The Tarrasch
 requirements: Completion of "Of Rats and Thieves" and "Breakfast in Pieces"
 
-description: A worried woman comes to town, trying to find her husband, Luca Norwish. This is a pure roleplaying encounter to show the horror that the Tarrasch inflict. 
+description: Rose Norwish the worried wife of Luca Norwish comes to town, trying to find her missing husband who has been killed. This is a pure roleplaying encounter to show the horror that the Tarrasch inflict. 
 synopsis: >
   Rose Norwish, wife to Luca Norwish, hasn't seen her husband since the night before. Luca came into Stonewood to find help in clearing some rats on a farmer's property in the module "Of Rats and Thieves" and didn't return. Luca didn't return because the Tarrasch killed him and chopped him up. That that Luca did not return is unexpected because he and his wife were very much in love before he was chopped into tiny bits. The body of Luca was delivered to the town that morning by the Tarrasch in the module "Breakfast in Pieces". 
 
