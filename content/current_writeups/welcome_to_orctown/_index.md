@@ -20,7 +20,7 @@ outcomes:
   - This initial party is repelled. 
 
 number_of_cast_members: 10
-Roles: Bloody Fist Grunt 9x , Bloody Fist Raid Leader(Selkath)
+
 props:
   - 2 Banners of the bloody fist.
   - printed copies of the pledge of servitude
