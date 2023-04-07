@@ -47,6 +47,6 @@ Protectives: May Have
 quantity:
 costuming:
 reset:
-
+makeup: White face makeup and black stripes
 ---
 

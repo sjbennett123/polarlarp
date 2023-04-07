@@ -38,6 +38,13 @@
 {{ end }}
 {{ end }}
 
+{{ $makeup := (slice ) }} 
+{{ if .Params.makeup }}
+{{ if not (reflect.IsSlice .Params.makeup) }}{{ $makeup = (slice .Params.makeup ) }}
+{{ else  }} {{ $makeup = append $makeup .Params.makeup }}
+{{ end }}
+{{ end }}
+
 {{ $motivation := (slice ) }} 
 {{ if .Params.motivation }}
 {{ if not (reflect.IsSlice .Params.motivation) }}{{ $motivation = (slice (.Params.motivation | title)) }}
@@ -80,6 +87,7 @@
 {{ if .Params.Protectives }}<p><b>Protectives:</b> {{ .Params.Protectives }}</p>{{ end }} 
 {{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{  .Params.descriptive_phrase  }}</p>{{ end }} 
 {{ if .Params.costuming }}<p><b>Costuming:</b> {{ delimit $costuming ", " }}</p>{{ end }} 
+{{ if .Params.makeup }}<p><b>Costuming:</b> {{ delimit $costuming ", " }}</p>{{ end }} 
 
 
 

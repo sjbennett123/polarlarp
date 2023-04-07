@@ -20,7 +20,6 @@ outcomes:
 number_of_cast_members: 4
 Roles: Loken Oakrider, Mayor Durag, “Transformed Mayor Durag”, Bloody Fist Honor Guard
 
-Props:  Loken Oakride Costuming, Mayor Durag Costuming, Alpha Pantherghast Makeup
 rumors: |
   Rumor Circulating the Town
 
