@@ -1,5 +1,8 @@
 ---
 title: "Bloody Fist Scout Burdoc"
+date: 2022-11-10T10:33:21-05:00
+draft: false
+weight: 10
 Layout: role
 introduction: >
   You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. Just because you are so young, and a mere scout doesn’t mean you aren’t important to the Bloody Fist. Without the Scouts the Bloody Fist would be steps behind their enemies not ahead. 
@@ -35,5 +38,8 @@ search: Loot is above you unless you see an impressive magic item then tell your
 killing_blow: If you down PCs leave them to succumb to their wounds. Kidnap when you can if the person is of value.
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
-​---
+
+---
+
+
 
