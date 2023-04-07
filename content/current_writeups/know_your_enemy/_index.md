@@ -1,7 +1,7 @@
 ---
 title: "Know Your Enemy"
 
-weight: 2
+weight: 7
 schedule: Know Your Enemy
 plotline: 
   - The Propoganda Bomb

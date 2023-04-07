@@ -6,7 +6,7 @@ author: Chris Colland
 
 
 schedule: friday night
-weight: 5
+weight: 15
 plotline: The Gnawing Ones
 requirements: 
 tagline: I crawl beneath this filthy ground and underneath this dirty ground! 

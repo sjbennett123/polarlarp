@@ -5,7 +5,7 @@ Layout: module
 author: Chris Colland 
 
 schedule: saturday early afternoon
-weight: 
+weight: 1
 plotline: 
 Requirements: Saturday at Noon, Mayor Durag is alive
 

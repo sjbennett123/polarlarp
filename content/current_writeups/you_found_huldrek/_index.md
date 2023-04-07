@@ -3,8 +3,8 @@ title: You Found Huldrek
 Layout: module
 
 author: Brittney Perry
-
-schedule: Saturday
+weight: 16
+schedule: friday night
 plotline: Family Recipes
 requirements: The module "Operation Find Huldrek" was not ran. 
 

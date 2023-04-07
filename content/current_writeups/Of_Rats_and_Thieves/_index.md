@@ -4,6 +4,7 @@ Layout: module
 
 author: Brittney Perry
 reviewer: Mary Courtney
+weight: 11
 schedule: friday night
 plotline: 
   - The Tarrascht

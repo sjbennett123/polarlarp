@@ -5,6 +5,7 @@ Layout: module
 author: Mary Courtney
 
 schedule: friday night
+weight: 2
 plotline: Orc Invasion
 requirements: Run before Bristle Bash
 

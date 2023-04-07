@@ -3,6 +3,7 @@ title: Ripped Apart
 layout: module
 author: Chris Colland
 schedule: friday night
+weight: 5
 Brief:  Ripped apart, ripped apart on sight! Is what the Bloody Fist chanted when they grew tired of their prisoners, so now it comes time to flay their spirits from their physical form. This falls in line with the ideals of the Chieftain, the Hopeflayer. 
 Outcomes:
   - The adventurers and Evermores come to their rescue and stop the ritual to flay their totem spirit from them.

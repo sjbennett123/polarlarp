@@ -6,7 +6,7 @@ author: Scott Bennett
 reviewer: 
 
 schedule: friday night
-weight: 1
+weight: 4
 requirements: The bristle bash is going on.
 
 description: The bloody fist orcs have given you time to think about what you have done and now they are going to smash your face in. 

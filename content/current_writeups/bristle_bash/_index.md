@@ -2,7 +2,7 @@
 title: "Bristle Bash"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-weight: 1
+weight: 3
 schedule: friday night
 
 description: A party to celebrate the untapping of the bristle bock complete with songs, a tasting, speeches and dancing.

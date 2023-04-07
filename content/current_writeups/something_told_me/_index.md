@@ -7,7 +7,7 @@ author: Chris Colland
 reviewer: 
 
 schedule: friday night
-weight: 
+weight: 10
 plotline: 
 requirements: After Ripped Apart and Know Your Enemy have been ran
 

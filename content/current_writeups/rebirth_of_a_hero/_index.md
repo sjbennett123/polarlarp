@@ -2,7 +2,7 @@
 title: "Rebirth of a Hero"
 author: Chris Colland
 
-weight: 3
+weight: 13
 schedule: friday night
 Layout: module
 description: Loken “Bloodhammer” Oakrider, a hero of the Underdark War and of old Stonewood has been sighted around town lately. People thought he had been long dead or moved onto Golden Halls. With the Rebirth of the Bloody Fist, this living legend has re-emerged into Stonewood but something is different this time…

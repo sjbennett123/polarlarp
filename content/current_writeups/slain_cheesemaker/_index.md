@@ -3,6 +3,7 @@
 title: The Slain Cheesemaker
 Layout: module
 
+weight: 9
 schedule: friday night
 author: Brittney Perry
 reviewer: Mary Courtney
