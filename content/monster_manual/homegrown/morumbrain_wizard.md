@@ -27,7 +27,7 @@ killing_blow: No (only via Spellstrike Death, drop PCs and move to next target, 
 
 search: You have no need for goods that these fools have 
 
-speech: Speak with a raspy dissonant voice. Never speak in full sentences, speak in riddles, be very cryptic. 
+speech: Speak with a raspy dissonant voice. Never speak in full sentences, speak in riddles, be cryptic. 
 
 motivation: You serve the Dark Ones and execute their will. All are pawns in a greater game, you are the bishop on this chessboard ignore the lesser pieces and go for the victory.
 

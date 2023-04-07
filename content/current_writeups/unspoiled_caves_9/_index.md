@@ -1,5 +1,5 @@
 ---
-title: Unspoiled Caves 1
+title: Unspoiled Caves 9
 Layout: module
 
 author: Chris Colland
@@ -12,7 +12,7 @@ plotline:
   - The Gnawing Ones
 requirements: 
 
-description: Adventurers fight off the Gnawing ones who have infested the root system of some of the trees of stonewood
+description: Adventurers fight off 
 
 Synopsis: Val’Kaz really turned up the sinister game with this move. He wanted to hit Stonewood where It hurts, their pride. Orcamedes was ordered to construct him a vile insect that would burrow into the roots of the Stonewood Trees and poison them to wither them away to watch the morale on shatter on in their eyes. The Gnawing Ones they were named, they are very effective in worker society and combat. Modeled after a termite for its wood destroying properties but genetically modified with varies other bug species to make them vicious and venomous….
 

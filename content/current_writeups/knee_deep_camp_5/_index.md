@@ -5,7 +5,7 @@ Layout: module
 author: Chris Colland
 
 
-schedule: saturday  
+schedule: saturday early afternoon
 weight: 
 plotline: 
 requirements: Know Your Enemy has been ran

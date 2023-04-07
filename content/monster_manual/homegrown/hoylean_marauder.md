@@ -6,7 +6,7 @@ weight: 10
 Layout: role
 introduction: You were once a proud high Dwarven Templar of a Hoylean Order. You lived your life by the blade and now in death you serve Hoyle by the blade but just not how you intended to. You were lured in by avarice when an auction of Magic Items was being hosted near Hoyle. When you arrived, it was an ambush by the Bloody Fist. Now by the Ritual of the Changed Ones, you are under their command, soldiers in a different war now but solider none the less. You  enforce the Accords of the Fist upon Stonewood as per your overlords.
 reset: The Hoylean Marauders  reform at the altar after 5 minutes have passed and their necklace have powered back up
-movement: Unlike your Murumbrian enemies, you have feet but the flow of time in this transformed state has prevented you from quick movement. You walk at a steady pace and  not increase speed  since time is warped around you. Move very robotically.  Make your body turns and head movements very slow and robotic while you are patrolling. 
+movement: Unlike your Murumbrian enemies, you have feet but the flow of time in this transformed state has prevented you from quick movement. You walk at a steady pace and  not increase speed  since time is warped around you. Move robotically.  Make your body turns and head movements slow and robotic while you are patrolling. 
 speech: When you are questioned reply with “Move along Citizen, there is Law to be upheld.” When you are engaged in combat reply with “Violators of the Accords shall be subjected to suffering!”
 body: 350
 defenses: 
@@ -19,7 +19,7 @@ Abilities:
   - Slay/Parry x10 (100 Magic Light Slay) 
   - Arcane Regeneration (as per spell but for Light) x3
 killing_blow: No (Just drop violators of the Accords and leave them for Bloody Fist to collect)
-motivation: You  patrol and enforce the Accords of the Fist with your very being. Nothing is more important than this. You operate like a machine for these laws. It is very simple when someone breaks an Accord, you punish them without mercy and swiftly. They almost programed your mind like a Golem, but they left a sentient mind inside albeit transformed into Hoylean Light Zealot, but your orders are clear, protect the city and uphold the Accords, maybe one day they will release you from this prison…
+motivation: You  patrol and enforce the Accords of the Fist with your every fiber of your being. Nothing is more important than this. You operate like a machine for these laws. It is simple when someone breaks an Accord, you punish them without mercy and swiftly. They almost programed your mind like a Golem, but they left a sentient mind inside albeit transformed into Hoylean Light Zealot, but your orders are clear, protect the city and uphold the Accords, maybe one day they will release you from this prison…
 Props:
   - Hoylean Altar of Power
   - Rune Necklace

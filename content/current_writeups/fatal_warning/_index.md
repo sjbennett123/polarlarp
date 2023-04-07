@@ -13,7 +13,7 @@ author: Chris Colland
 Requirements: 
 - Both Fears by Torchlight and Torchlight Boogloo modules have ran
 Synopsis: > 
-  This is the final warning of the Bloody Fist before the Fire Drakes are summoned. All named Townsfolk enter the town with pamphlets outlining an evacuation protocol for the citizens of Stonewood. The pamphlets seem to be a humane request for innocents to leave before this escalates but the wording is very grim for what is to come.  
+  This is the final warning of the Bloody Fist before the Fire Drakes are summoned. All named Townsfolk enter the town with pamphlets outlining an evacuation protocol for the citizens of Stonewood. The pamphlets seem to be a humane request for innocents to leave before this escalates but the wording is grim for what is to come.  
 
 
   4-5 named NPC enter the Tavern reading the Bloody Fist pamphlets to themselves in confusion and fear. 3 Bloody Fist Scouts enter unarmed with hands up, these Scouts are just delivering more pamphlets and then leaving. A large scene will erupt in the Tavern as the townsfolk are enraged for different reasons. 
