@@ -1,7 +1,37 @@
-{{ range sort ( where .Site.Pages.ByTitle "Section" .Section) "Params.weight" }}
-{{ if eq .Layout "module" }} 
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern_setup" "townsfolk" "randoms" nil) }}
 
- <h1> {{ .Params.title -}} </h1>
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<h3>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</h3>
+<p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}{{- else -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} {{ if eq $current_schedule  nil }} -- Written by {{ title .Params.author -}}{{ end }}
+</p>
+{{ end }}
+
+{{ end }} 
+{{ end }}
+
+
+
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<h3>{{ title  $current_schedule }}</h3>
+<p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
+
+     <h1> {{ .Params.title -}} </h1>
 <p><b>Written By:</b> {{ .Params.author -}}
 {{- if (.Params.reviewer) -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
 {{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
@@ -158,11 +188,10 @@
 
 
 
-
 {{ end }}
 
 
-
-
 {{ end }}
+
+{{ end }} 
 {{ end }}

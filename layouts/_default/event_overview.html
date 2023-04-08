@@ -11,6 +11,9 @@
 <hr>
 {{- end -}}
 
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+
 {{- if .Params.event_date -}}
 <h2>Time Until Event</h2>
 <!--   <div class="wrapper">
@@ -31,15 +34,17 @@
 <!-- todo pull these values from google sheets directly-->
 <p>We are following these steps <a href="/npc_recruiting">NPC Recruiting Tips</a>. We are tracking the NPC’s <a href="https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0">in this list</a>. Current count is Staff: 8 Yes: 7 Maybe: 9 No: 10 . Remember to go over the details of <a href="/events/camps/camp_sequanota">Camp Sequanota</a>with them.</p>
 
-{{ if (where .Pages "Layout" "plotline_overview") }}
+{{ if (where $event_pages "Layout" "plotline_overview") }}
 <h2>Plotline Overview</h2>
-{{ range (where .Pages "Layout" "plotline_overview") }}
+{{ range (where $event_pages "Layout" "plotline_overview") }}
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{- end -}}
 {{- end -}}
 {{- if .Params.event_date -}}<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>{{- end -}}
 <p><h2>Modules To Run</h2></p>
-<p><b>{{- len (where .Pages "Layout" "==" "module") -}}</b> Modules to run </p>
+<p><b>{{- len (where $event_pages "Layout" "==" "module") -}}</b> Modules to run </p>
+{{ with .GetPage "./module_export" }}<p><a href="{{.Permalink}}">{{ .Title }}</a></p>{{ end }}
+
 <p>The modules below are in the order that we intend to run them in but plans will change and we will adapt. </p>
 
 <p><i class="fas fa-pencil-alt"></i> Indicates that the module needs to be reviewed</p>
@@ -48,35 +53,30 @@
 <p>if there is not a writeup the module is not happening! Please turn in your writeups!</p> {{ end }}
 
 
-{{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern_setup" "townsfolk" "randoms" ) }}
+{{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern_setup" "townsfolk" "randoms" nil) }}
 
 {{ range  $schedules }}
 {{ $current_schedule := . }} 
 
-{{ if sort (where (where $.Pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
-<h3>{{ title  $current_schedule }}</h3>
-<p><b>{{ len (where (where $.Pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
-{{ range where (where $.Pages "Layout" "IN" (slice "module" ) ) ".Params.schedule" "=="  $current_schedule -}}
-      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{-  .Params.requirements -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{ .Params.description -}}</p>
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<h3>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</h3>
+<p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}{{- else -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} {{ if eq $current_schedule  nil }} -- Written by {{ title .Params.author -}}{{ end }}
+</p>
 {{ end }}
 
 {{ end }} 
 {{ end }}
 
-{{ if sort (where (where $.Pages "Layout" "==" "module" ) ".Params.schedule" "=="  nil ) "Params.weight" -}}
-<h3>NO SCHEDULE!!</h3>
-<p>Please add a schedule to your modules</p> 
-{{ range where (where (where .Pages "Layout" "==" "module" ) ".Params.schedule" "==" nil)  ".Params.title" "!=" nil -}}
-      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
-
-{{- end -}} 
-{{- end -}} 
 
 
-{{ if  where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil -}}
+{{ if  where (where (where $event_pages "Layout" "==" "module" ) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil -}}
 
 <h3>Modules for Review</h3>
-<p>https://gloryforthefist.netlify.app/writing/#reviewing-tips</p>
+<p><a href="https://gloryforthefist.netlify.app/writing/#reviewing-tips">Reviewing tips</a></p>
 {{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  -}}
       <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
 {{- end -}}
@@ -95,7 +95,7 @@
     {{- $magic_items = append $magic_items .Params.magic_items -}}
 {{- end -}}
 
- {{- range  where .Pages ".Params.magic_items" "!=" nil -}}
+ {{- range  where $event_pages ".Params.magic_items" "!=" nil -}}
   {{- $permalink := .Permalink -}} 
     {{- $module_name := .Title -}} 
 
@@ -157,11 +157,10 @@
 {{- if  .Params.rumors -}} 
     {{- $rumors = $rumors  | append .Params.rumors -}} 
 {{- end -}}
-{{- if .Pages -}} 
-    {{ range  .Pages -}}
+
+    {{ range  $event_pages -}}
            {{- if  .Params.rumors -}}{{- $rumors = $rumors  | append .Params.rumors -}}{{- end -}}
     {{- end -}}
-{{- end -}}
 
 {{- $rumors = $rumors | uniq -}} 
 {{- $rumors = $rumors | shuffle -}} 
@@ -182,7 +181,7 @@
     {{- $props = $props  | append .Params.props -}}
 {{- end -}}
 
-{{- if .Pages -}}
+{{- if $event_pages -}}
     {{- range  .Pages -}}
            {{- if  .Params.props }}{{ $props = $props  | append .Params.props -}}{{- end -}}
     {{- end -}}
@@ -221,7 +220,7 @@
     {{ $makeup = $makeup  | append .Params.makeup }} 
 {{ end }}
 
-{{ if .Pages }} 
+{{ if $event_pages }} 
     {{ range  .Pages  }}
            {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
     {{ end }}
