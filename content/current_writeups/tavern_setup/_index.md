@@ -1,5 +1,7 @@
 ---
 title: Tavern Setup
+layout: module
+schedule: tavern setup
 ---
 Bristle Bock Sign
 
