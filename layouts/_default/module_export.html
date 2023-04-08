@@ -31,7 +31,8 @@
 {{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
 {{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
 
-     <h1> {{ .Params.title -}} </h1>
+     <h1> {{ .Params.title -}} </h1>{{ $module_title := .Params.title -}}
+
 <p><b>Written By:</b> {{ .Params.author -}}
 {{- if (.Params.reviewer) -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
 {{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
@@ -64,6 +65,7 @@
     <li>{{ . }}</li>
     {{ end }}
 </ol></div>
+<h5>~</h5>
 <div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
 {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b> 
@@ -184,6 +186,99 @@
 {{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
 
 {{ .Content }} 
+
+
+{{ range where .Pages ".Params.Layout" "=="  "role"  }}
+
+
+<h2>{{ $module_title }} : {{ .Title }}</h2>
+
+{{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }} 
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
+
+{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end}}
+{{ if .Params.weapons }}<p><b>Weapons:</b> {{ .Params.weapons }}</p>{{ end }}
+{{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
+
+
+
+
+{{ $magic := (slice ) }}
+{{ if .Params.magic }}
+{{ if not (reflect.IsSlice .Params.magic)}}{{ $magic = (slice .Params.magic) }}
+{{ else  }} {{ $magic = append $magic .Params.magic }}
+{{ end }}
+<p><b>Magic:</b> {{ delimit $magic ", "}}</p> {{ end }}
+
+
+
+
+{{ $defenses := (slice ) }} 
+{{ if .Params.defenses }}
+{{ if not (reflect.IsSlice .Params.defenses) }}{{ $defenses = (slice .Params.defenses ) }}
+{{ else  }} {{ $defenses = append $defenses .Params.defenses }}
+{{ end }}
+<p><b>Defenses:</b> {{ delimit  $defenses ", " }}</p>
+{{ end }}
+
+
+
+{{ $abilities := (slice ) }}
+{{ if .Params.abilities }}
+{{ if not (reflect.IsSlice .Params.abilities)  }}{{ $abilities = (slice .Params.abilities ) }}
+{{ else }} {{ $abilities = append $abilities .Params.abilities }}
+{{ end }} 
+
+<p><b>Abilities:</b> {{ delimit $abilities ", "}}</p>
+{{ end }}
+
+{{ if  .Params.props }} 
+<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
+{{ end }}
+
+{{ if  .Params.costume }} 
+<p><b>Costume:</b> {{ delimit  .Params.costume ", " |  }}</p>
+{{ end }} 
+
+{{ if  .Params.makeup }} 
+<p><b>Makeup:</b> {{ delimit  .Params.makeup ", " |  }}</p>
+{{ end }} 
+
+
+{{ if  .Params.treasure }} 
+<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
+{{ end }} 
+{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
+
+{{ if .Params.killing_blow }} <p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p> {{ end}}
+{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }}
+{{ if .Params.speech }}<p><b>Speech:</b> {{ .Params.speech }}</p> {{ end }}
+{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics | markdownify}}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
+{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{ .Params.descriptive_phrase }}</p>{{ end }} 
+{{ if .Params.played_by }}<p><b>Played By:</b> {{ .Params.played_by }}</p>{{ end }} 
+
+
+
+{{ end }}
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
 
 
 
