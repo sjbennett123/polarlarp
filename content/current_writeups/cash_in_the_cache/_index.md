@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry
 reviewer: Mary Courtney
 
-schedule: Reaaction
+schedule: Reaction
 plotline: Family Recipes
 requirements: return to Granny Silverlode to return her book and/or take word of her grandson to her
 
