@@ -28,16 +28,5 @@ rumors: |
   Recent reports have described something of an Earthen Disturbance of sorts stomping through our woods. Some large humanoid covered in Vines has been stalking the woods near Stonewood. It seems like an Earth Elemental for all intents and purposes but he doesn’t respond or say anything other than muttering “Feed my Dreams…..” A few scouts have tried to engage him and it went less than ideal so be careful of this creature till we know more. He doesn’t seem overly hostile but he seems set on one purpose very intently
 
 hook: None, This is a Roaming Encounter
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: If the Earth Knight captures 3 people and successfully feeds, he will flee for 1 hr and then return with Cultists
-(2) The PCs defeat the Corrupted Earth Knight and his resets, later in the night there is a follow up module where they are taken to a Grove where they are attempting to harvest Dream energy from Stonewood Citizens
-craftsman_information: 
-transformations: 
 running_notes: This will be a random encounter that will turn into a large module later in the evening. The Corrupted Earth Knight should stalk the Cabins area of game to catch players in a vulnerable spot, capturing is above killing, the card has 8 Physical Webs on it for a reason so use them. The Earth Knight will reset 5 times to try and capture 3 people or be defeated. If a PC is captured, they will be taken to the Dream-like realm of the Lord of the Woods and Rifted out on a normal 3 count to a secondary location where they will enter a roleplay encounter in a “Nightmare” induced state where the Lord of the Woods  “harvest” dream energy from them and replace their dreams with “Nightmares” effectively giving them a “paranoia” effect till sunrise to grow his power and return their asleep body to a random spot on the campsite to wake up and rejoin the game. 
 ---
