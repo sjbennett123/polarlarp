@@ -57,4 +57,4 @@ rumors: |
   ~Magnus Kane, Arch-Wizard of Celestial Magic of the Rygal Order
 ---
 
-![/orcamedies_special_1.png](/orcamedies_special_1.png "{width='10'}" )
+![/modules/orcamedies_special_1.png](/modules/orcamedies_special_1.png "{width='10'}" )
