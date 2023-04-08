@@ -45,7 +45,7 @@ Once the cache has been cleared and the book returned [CASH IN THE CACHE]({{< re
 
 Huldrek, found by the Tarrasch, is beaten by the thieving group for having left his post. He buckles under pressure and tells the Tarrasch what he did and who took their treasure. They release Huldrek to go and take a message to those that stole from them.  
 
-Huldrek, beaten and bloody, finds the group that found him or took his map or, lacking that, he goes to the tavern and begs for help. [EMERGENCY! HELP NEEDED] ({{< ref "../emergency_help_wanted" >}} He explains what happened, that the thieves want their money and items back or they will kill Huldrek. Before anybody can do anything, a messenger interrupts and gives Huldrek a box. In it is a severed finger tied with a lock of gray hair and a note that says:
+Huldrek, beaten and bloody, finds the group that found him or took his map or, lacking that, he goes to the tavern and begs for help. [EMERGENCY! HELP NEEDED] ({{< ref "../emergency_help_needed" >}} He explains what happened, that the thieves want their money and items back or they will kill Huldrek. Before anybody can do anything, a messenger interrupts and gives Huldrek a box. In it is a severed finger tied with a lock of gray hair and a note that says:
 
 > Huldrek, how stupid can you be? 
 >
