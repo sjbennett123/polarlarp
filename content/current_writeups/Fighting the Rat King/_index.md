@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry
 reviewer: Scott Bennett
-
+weight 6
 schedule: saturday early evening
 plotline: The Rat Pack
 requirements: Completion of "The Bloody Rats"

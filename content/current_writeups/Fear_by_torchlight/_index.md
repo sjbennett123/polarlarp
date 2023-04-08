@@ -1,8 +1,6 @@
 ---
 title: "Fears by Torchlight"
-date: 2022-11-10T10:33:21-05:00
-draft: false
-weight: 6.9
+weight: 2
 schedule: saturday early evening
 layout: module
 description: "The Bloody Fist have had enough of these damn heroes so they have decided to just set the town on fire to watch the suffering set in. Small squads of Bloody Fist will strike all over the town with Torches to try and burn down the Town of Stonewood in a very futile way."

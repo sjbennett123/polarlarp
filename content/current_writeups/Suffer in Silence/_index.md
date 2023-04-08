@@ -7,11 +7,11 @@ author: Chris Colland
 reviewer: 
 
 schedule: saturday night
-weight: 
-plotline: 
+weight: 1
+plotline: Lord of the Woods
 requirements: Saturday Evening at Sundown, Friend? Has been ran
-
-description: Underneath the darkened skies, through sleepless eyes, it leaves me wanting! The Lord of the Woods Cultists have captured a few Stonewood Townsfolk and plan to make a Blood Sacrifice to the Lord of the Woods in a Grove. A scout of the Black Anvil Company sends word to the Tavern to come help stop this massacre….
+tagline: Underneath the darkened skies, through sleepless eyes, it leaves me wanting! 
+description: The Lord of the Woods Cultists have captured a few Stonewood Townsfolk and plan to make a Blood Sacrifice to the Lord of the Woods in a Grove. A scout of the Black Anvil Company sends word to the Tavern to come help stop this massacre….
 Synopsis: The Corrupted Earth Knight and the Lord of the Woods Cultists are attempting to preform a Dream Harvesting and Blood Sacrifice to the Lord of the Woods. The Dream Harvestings give him more power and the Blood Sacrifices give him a strong corporeal shell on this physical plane of existence. They have captured 3 Stonewood Citizens that will be harvested and then sacrificed if they are not saved in time. Upon receiving the message at the tavern, the PCs will have 30 minutes to reach and rescue the Stonewood Citizens or find their bodies drained of essence and life….
 Outcomes:
   - The PCs reach the Grove and defeat the Earth Knight and 7 Cultists within 30 minutes and recuse the Stonewood Citizens, but find they are locked in a “Dream Coma”

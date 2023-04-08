@@ -1,8 +1,7 @@
 ---
 title: "Torchlight Boogloo"
-date: 2022-11-10T10:33:21-05:00
-draft: false
-weight: 7
+
+weight: 3
 schedule: saturday early evening
 layout: module
 author: Chris Colland
@@ -28,22 +27,3 @@ Outcomes:
  - The players attempt to save the 2 prisoners but fail to get to them before the death poison has got to their heart while talking. However, they can still save the town.
  - The players choose the town of Stonewood and the 3 are brutally executed without hope of resurrection. But they are free to engage the remaining Scouts trying to burn down the town to save everyone else
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

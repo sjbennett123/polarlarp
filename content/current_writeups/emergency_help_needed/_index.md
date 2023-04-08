@@ -1,5 +1,5 @@
 ---
-title: Emergency! Help Wanted!
+title: Emergency! Help Needed!
 Layout: module
 
 author: Brittney Perry
@@ -7,7 +7,7 @@ reviewer: Mary Courtney
 
 schedule: Reaction
 plotline: Family Recipes
-requirements: Players find and take the Tarrasch treasure chest. 
+requirements: Players find and take the Tarrasch treasure chest.
 
 description: Huldrek gave up watching the Tarrasch's treasure chest and went back to his grandmother's house leaving the treasure chest undefended. Huldrek is found by the Tarrasch, beaten up, and commanded to find stolen Tarrasch treasure chest and get it back. A note encouraging speedy work and Granny bloody severed finger are delivered to Huldrek by a Tarrasch Pawn. 
 

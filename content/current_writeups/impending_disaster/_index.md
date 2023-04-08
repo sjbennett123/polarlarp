@@ -2,11 +2,10 @@
 title: Impending Disaster
 author: Chris Colland
 description:  It’s the dirt on your shoes, It’s the mud on our back, That makes us one in the Same! After a chaotic afternoon in the town of Stonewood, the Bloody Fist return to show their relentlessness again to the adventurers who remain. 
+weight: 4
 schedule: saturday afternoon
 Synopsis: With all the adventurers figuring out some of the plans of the Bloody Fist and the Bomb being close to ready to detonate, the Bloody Fist suits up to keep them pinned down in the Tavern and take prisoners! The Bloody Fist are becoming agitated at this point with the adventurers having some progress on goal to thwart their plans so only one way to stop that, the Way of the Blade!
 Hook: Warhorn sounds and Drums pound as the Bloody Fist march from the woods and begin their assault
-
- 
 
 Outcomes: 
   - The Bloody Fist take captives and delay plans to stop the Bomb
@@ -26,12 +25,3 @@ Roles: Bloody Fist Raid Leader, Bloody Fist Grunt, Bloody Fist Scout Bloody Fist
 Number_of_Cast_Members: ALL!!!! THE HORDE IS HERE!!!!
 Props:  Bloody Fist Makeup, Bloody Fist Tabards /w Sash, Weapons
 ---
-
-
-
-
-
-
-
-
-

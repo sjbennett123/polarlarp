@@ -2,7 +2,7 @@
 title: "Fatal Warning"
 layout: module
 
-weight: 8
+weight: 2
 schedule: saturday night
 
 description: The Bloody Fist have failed to burn the town of Stonewood down by conventional means so now they have made plans to enact the ritual to summon the Fire Drakes. People are wandering around with Pamphlets that warn of the comming destruction when the Fire Drakes are summoned. This module is a non-combative encounter.

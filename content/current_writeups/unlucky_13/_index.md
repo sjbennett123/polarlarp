@@ -3,7 +3,7 @@ title: Unlucky 13
 Layout: module
 
 author:  Chris Colland
-
+weight: 2
 schedule: saturday early afternoon
 
 requirements: Open for Business has been ran

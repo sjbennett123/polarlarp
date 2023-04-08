@@ -5,7 +5,7 @@ Layout: module
 
 author: Chris Colland
 reviewer: Mary Courtney
-
+weight: 3
 schedule: saturday early afternoon
 
 plotline: Reforge Foereaver
