@@ -270,13 +270,17 @@
     
     
     
-    
-    
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+<h2>{{ $module_title }} : {{ .Title }}</h2>
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
+{{- end -}}
 
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+<h2>{{ $module_title }} : {{ .Title }}</h2>
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
-
-
+{{- end -}}
 
 
 
