@@ -1,20 +1,19 @@
 ---
-title: "Current Writeups"
-date: 2022-11-10T10:33:21-05:00
-weight: 4.1
+title: "April 14 2023"
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "14-04-2023" # Day Month Year
 rumors: 
   - |
-    “Citizens and warriors of Stonewood, we The Black Anvil Company will be ceasing communication until the market gather. We are prepared and ready for this war. I wish you all safe travels and will see you In Stonewood within 1 weeks time. Stick to the roads and be careful at night, Vel’Kaz the Ruthless has been sighted a few times recently near Stonewood so they stalk the night hunting us while we prepare.
-     
-     
-     For our honor, For Stonewood!”
-     
-     
-     Balor Ironleaf
-Captain and Guildmaster of the Black Anvil Mercanary Company
+       “Citizens and warriors of Stonewood, we The Black Anvil Company will be ceasing communication until the market gather. We are prepared and ready for this war. I wish you all safe travels and will see you In Stonewood within 1 weeks time. Stick to the roads and be careful at night, Vel’Kaz the Ruthless has been sighted a few times recently near Stonewood so they stalk the night hunting us while we prepare.
+       
+       
+       For our honor, For Stonewood!”
+       
+       
+       Balor Ironleaf
+       
+       Captain and Guildmaster of the Black Anvil Mercanary Company
 magic_items:
   - 
     name: Necklace of Terror
