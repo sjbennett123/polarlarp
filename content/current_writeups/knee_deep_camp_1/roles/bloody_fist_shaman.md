@@ -3,6 +3,7 @@ title: "Bloody Fist Shaman"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 10
+
 Layout: role
 introduction: >
   You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
@@ -46,7 +47,6 @@ makeup:
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 
 ---
-
 
 
 

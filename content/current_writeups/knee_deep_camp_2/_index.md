@@ -52,7 +52,7 @@ Running_Notes: This is 1 of 10 modules, they will scale with increasing difficul
 
  
 
-
+![/orcamedies_special_3.png](/orcamedies_special_2.png "{width='10'}" )
 
 
 
@@ -71,21 +71,3 @@ Running_Notes: This is 1 of 10 modules, they will scale with increasing difficul
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Diagram, schematic  Description automatically generated](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_108a/AC/Temp/msohtmlclip1/01/clip_image002.png)

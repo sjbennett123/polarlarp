@@ -22,7 +22,6 @@ outcomes:
 
 
 number_of_cast_members: 7
-Roles: Magnus Kane, Bloody Fist Grunt x3, Bloody Fist Scout x2, Bloody Fist Shaman
 
 props: 
   - 200 ft Paracord for ritual circle
@@ -58,4 +57,4 @@ rumors: |
   ~Magnus Kane, Arch-Wizard of Celestial Magic of the Rygal Order
 ---
 
-![/bloodyfist.svg](/bloodyfist.svg "{width='10'}" )
+![/orcamedies_special_1.png](/orcamedies_special_1.png "{width='10'}" )
