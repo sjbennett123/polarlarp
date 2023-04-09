@@ -4,6 +4,46 @@ layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "14-04-2023" # Day Month Year
 rumors: 
+  - |  
+       Message posted on a Tree:
+       
+       Mayor Durag has not been seen leaving his home in over 5 days. Patrols of Bloody Fist troops have been seen by his manner but no one had entered. Last night there was a large argument at the Mayors manor, seemingly there was an Orc Bloody Fist Scout murdered and the dagger was in the mayors hand! Maybe he finally had enough and stood up to them. I am worried they will try and kill him now, my scouts will watch his movements”
+
+       ~Black Leaf
+
+       The Anvil Remembers Stonewood
+  - |  
+       Message posted on a Tree:
+       
+       Thank you brave adventurers! The Rygal Order greatly thanks you for your assistance in pushing back this threat. You have Stonewood the push it needed to rise up and rebel! Since your adventures through this past week, Bloody Fist patrols have dropped dramatically. Their leaders surely felt the fury of your blades and the wrath of your spells! 
+       
+       Black Leaf and the remnants of the Black Anvil Company along with myself, lead an assault on a nearby Bloody Fist encampment. We slaughtered roughly 50 of them in the battle. The most terrifying part were these larger Bloody Fist, from what they were screaming in Orcish it sounded like Honor Guard or Honor Knight. These were very strong swinging warriors that were very resilient and capable Earth Casters via their blades so be careful if you see Bloody Fist with more ceremonial style armor.
+
+       We captured a map and coordinates to where they had been keeping captured Stonewood citizens. Upon discovery of this prison camp we were able to find most of the old Guild masters of Stonewood! They were very worn down and in some form of magical shackles unable to speak or conjure their power. We have returned as many as we can to Stonewood and they are healing now, when they are well they will speak out to the public.
+       
+       Last thing, the ’destruction’ of the Hoylean Altar was very odd. They Changed Ones have not resurfaced yet. The offerings you made to the altar and the infusion with light seemed to have satisfy them for now. Very weird their sudden change in behavior now when they were perfect machines until that night. Seems casting Illuminations on the Altar somehow healed or quelled their corrupted nature. I am not sure if they will return but I would remain vigilant if they do.” 
+
+       Your Friend Darkness
+
+       ~Kane
+  - |
+       Message Posted on a Tree:
+       
+       Heroes of the Brewery! I have spoken with the soon to be Brewers Guild Master, Gilg “Firebrew” Bowerbane! He has informed me that a new Brew will be created in honor of those who saved our Stouts and Spirits for the winter! Please send me your suggestions so we can create this brew in your honor. We will take suggestions on flavors aswell. Thank you again for your brave efforts defending such a Dwarven pride!”
+       
+       ~Black Leaf 
+       
+       The Anvil Remembers Stonewood
+  - |  
+       Hail Adventurers! 
+       
+       Since we don’t have to be as secretive now, this is your friendly Mystic local of Stonewood, Kane. I will be at the Winter Veil Feast but briefly to deliver a update on the progress on Stonewoods recovery during the Winter months we have endured. Much prosperity and wealth has returned to the good town of Stonewood! The brew is flowing and spirits are raised! 
+       
+       We have received a grim threat from the Bloody Fist for when the “Cold breaks the blood shall fall like Rain on Stonewood” I will bring this missive we received recently. I wish you all good ventures and and safe travels to the Winter Veil! 
+       
+       You’re Friend in Darkness,
+       
+       ~Kane
   - |
        Hey everybody,
       
@@ -15,21 +55,36 @@ rumors:
        Would you like to purify and empower your Earth or Celestial magics? The Circle of Purity is a group dedicated to using only the purest and most essential components and casting techniques. If you wish to join this dedicated group you will gain access to exclusive formal magic scrolls, rare and powerful components, and receive personalized guidance from our enlightened Adepts. For more information and to set up a personal meeting, contact Zebediah Jones through this message board and learn how to unleash your true potential with pure magic.
   - |
        Unto the Nobles, Guild Leaders, and Adventurers of Elysia,
+       
+       
        Due to emergent issues in Glavorn, I will not be able to attend the gather in Stonewood on April the Fifteenth. However, my previous summoning to Stonewood remains – namely:
        You are hereby summoned to Stonewood in the Barony of Woodhaven on the weekend of April the Fifteenth of this year to address reports that orcs in that region are assembling some device for a nefarious purpose that could endanger the production of Stonewood, which is a key industry in the region.
        The previously mentioned report is still requested by the Elysian nobles and guild leaders in written form, to be delivered to my offices in Glavorn by Wednesday, April the Nineteenth. The report will include any information gathered regarding orcish activities in the Stonewood area, as well as any other significant reports.
        Ceremonies for the Oaths of Chivalry and Fealty will be scheduled soon.
+       
        This is my will.
+       
+       
        Glory to Elysia!
+       
        Thermo, Kinnel Kohlmwyn
+       
        Duke of Elysia
+       
        Royal Grand Vizier of Evendarr
+       
        Archwizard of Fire and Planar Magicks
+       
        Favored by Oberon
+       
        April 6, 623
   - |
        To all interested,
+       
+       
        Some of you know me and some do not. I am interested in forming an order. This will be The Order of the Dragon. Any and all who are interested in discussing The Order, I will be in Stonewood in the coming gather. Please feel free to seek me out or send me a missive to discuss options.
+       
+       
        Sir Baron Krossus Blackhammer
        Stonecleaver Clan
        Guildmaster of The Death's Head Mercantile Guild
