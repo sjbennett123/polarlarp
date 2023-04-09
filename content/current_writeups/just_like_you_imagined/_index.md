@@ -1,5 +1,5 @@
 ---
-title: Just Like You Imagained
+title: Just Like You Imagined
 author: Scott Bennett
 layout: module
 description: Balor investigated a bloody fist Urukhai and discovered that some formal magic caused the black shadow to show up and kill everyone in the circle. Turns out some people need to learn that lesson themselves. 

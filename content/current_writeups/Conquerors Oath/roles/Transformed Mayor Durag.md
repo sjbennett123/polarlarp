@@ -9,10 +9,6 @@ introduction: Friday night after refusing the terms of Welcome to OrcTown, as a 
 
 motivation: KILL ALL DWARVES!!!!!
 
-tactics: 
-movement:
-speech:
-
 body: Add 10 Body (210 Total)
 killing_blow: Yes
 
@@ -20,7 +16,6 @@ makeup: White face makeup and black stripes
 
 ​---
 
----
 
 2 Claws
 
