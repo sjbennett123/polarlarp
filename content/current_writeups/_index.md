@@ -1,11 +1,49 @@
 ---
-title: "April 14 2023"
+title: "Current Writeups"
 layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "14-04-2023" # Day Month Year
 rumors: 
   - |
-       “Citizens and warriors of Stonewood, we The Black Anvil Company will be ceasing communication until the market gather. We are prepared and ready for this war. I wish you all safe travels and will see you In Stonewood within 1 weeks time. Stick to the roads and be careful at night, Vel’Kaz the Ruthless has been sighted a few times recently near Stonewood so they stalk the night hunting us while we prepare.
+       Hey everybody,
+      
+       It is me, Fooz Damashay.  I will be traveling to Stonewood in April and I will have potions to sell.  If anyone needs anything specific, let me know by Friday.
+     
+       Also, I would like to meet with any Gadabari to see who are still around.  I will have hooch and Damashay Roulette.
+       Fooz
+  - |
+       Would you like to purify and empower your Earth or Celestial magics? The Circle of Purity is a group dedicated to using only the purest and most essential components and casting techniques. If you wish to join this dedicated group you will gain access to exclusive formal magic scrolls, rare and powerful components, and receive personalized guidance from our enlightened Adepts. For more information and to set up a personal meeting, contact Zebediah Jones through this message board and learn how to unleash your true potential with pure magic.
+  - |
+       Unto the Nobles, Guild Leaders, and Adventurers of Elysia,
+       Due to emergent issues in Glavorn, I will not be able to attend the gather in Stonewood on April the Fifteenth. However, my previous summoning to Stonewood remains – namely:
+       You are hereby summoned to Stonewood in the Barony of Woodhaven on the weekend of April the Fifteenth of this year to address reports that orcs in that region are assembling some device for a nefarious purpose that could endanger the production of Stonewood, which is a key industry in the region.
+       The previously mentioned report is still requested by the Elysian nobles and guild leaders in written form, to be delivered to my offices in Glavorn by Wednesday, April the Nineteenth. The report will include any information gathered regarding orcish activities in the Stonewood area, as well as any other significant reports.
+       Ceremonies for the Oaths of Chivalry and Fealty will be scheduled soon.
+       This is my will.
+       Glory to Elysia!
+       Thermo, Kinnel Kohlmwyn
+       Duke of Elysia
+       Royal Grand Vizier of Evendarr
+       Archwizard of Fire and Planar Magicks
+       Favored by Oberon
+       April 6, 623
+  - |
+       To all interested,
+       Some of you know me and some do not. I am interested in forming an order. This will be The Order of the Dragon. Any and all who are interested in discussing The Order, I will be in Stonewood in the coming gather. Please feel free to seek me out or send me a missive to discuss options.
+       Sir Baron Krossus Blackhammer
+       Stonecleaver Clan
+       Guildmaster of The Death's Head Mercantile Guild
+       Kingdom of Aeran'or
+       Archwizard of Wrath and Vengeance 
+       Order of the Dragon
+  - |
+       Meeting of The Order of the Dragon on Saturday.... when you get to town, search me out.
+       
+       Sir Baron Krossus Blackhammer
+       
+       Kingdom of Aeran'or
+  - |
+       Citizens and warriors of Stonewood, we The Black Anvil Company will be ceasing communication until the market gather. We are prepared and ready for this war. I wish you all safe travels and will see you In Stonewood within 1 weeks time. Stick to the roads and be careful at night, Vel’Kaz the Ruthless has been sighted a few times recently near Stonewood so they stalk the night hunting us while we prepare.
        
        
        For our honor, For Stonewood!”
@@ -113,9 +151,3 @@ magic_items:
 
 {{% /expand%}}
 
-## Tavern Setup
-
- - table games
- - Posters for rats
- - bristle bock sign
- - a sign for that Huldrek is not allowed.

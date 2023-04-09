@@ -2,6 +2,7 @@
 title: Tavern Setup
 layout: module
 schedule: tavern setup
+description: the setup of
 ---
 Bristle Bock Sign
 
@@ -14,8 +15,11 @@ big axe sign
 special on big axe at noon on saturday.
 
 - table games
+
 - Posters for rats
+
 - bristle bock sign
+
 - a sign for that Huldrek is not allowed.
 
 
