@@ -1,12 +1,11 @@
 ---
 title: "Bloody Fist Grunt"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+
 weight: 10
+quantity: 7
 Layout: role
-introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are very tactical how you pursue victory. People fear the sight of you and flee in terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
+introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are tactical how you pursue victory. People fear the sight of you and flee in terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
 reset: 3 times each.
-quantity: 3
 body: 70
 defenses: 
   - Resist Poison x3
@@ -31,9 +30,9 @@ motivation: You are fueled by nothing more than vengeance, so BE RELENTLESS unle
 tactics:  Down and let PCs bleed out. Kidnap when you can if the person is of value. Stay with you Raid Leader unless ordered to do something else. Protect your Shamans as they keep you in the fight. Don’t wildly charge a group one by one. Make sure you go with your brothers to battle as your tactical training is strength in numbers. If a General is on the field then you form up around him in a Phalanx and don’t break rank unless he commands.
 costume:
   - Red Tabbard
-movement: Forceful and with purpose. Don't slouch or stoop show your might. 
-search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
+movement: Forceful and with purpose. Don't slouch or stoop show your might. 
+search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 
 ---

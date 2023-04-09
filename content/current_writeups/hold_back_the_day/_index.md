@@ -21,7 +21,6 @@ rumors: |
 
 Hook: Warhorn sounds and Drums pound as the Bloody Fist march from the woods and begin their assault
 Number_of_cast_Members: ALL!!!! THE HORDE IS HERE!!!!
-Props:  Bloody Fist Makeup, Bloody Fist Tabards /w Sash, Weapons
 treasure: Production Item, Components, Coins
 Running Notes: This module is designed as a wakeup module at/around 10am on Saturday morning to get the PCs up and moving for the day. Not too early but not letting them sleep in too late. The Bloody Fist are relentless so I want the feeling that they are at war still fresh in their mind. Going to bed is important but you have a war to fight. Take a nap when the coast is clear in the middle of the day. The entire NPC crew will scatter across the site if people are spread out with plenty of treasure to respawn multiple times and keep coming to simulate a large raid and keep the fear level high. The goal is to take captives if they are up and send Ransom letter in to the other PCs when they are up if people are captured. All Bloody Fist can read/write and healing arts/first aid so this is not a concern or an attempt at mass resurrection. This is a smash and grab terrorist tactic to further Val’Kaz’s chess game with the PCs
 ---

@@ -37,7 +37,7 @@ costuming:
   - black clothing
   - large imposing armor
 makeup: 
-  - Bloody Fist Makeup
+  - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 movement: You are a large imposing Uruk so move slow and don’t run. Make your movements very dramatic and big.
 ---
 
