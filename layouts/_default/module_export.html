@@ -11,7 +11,7 @@
 <p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
 {{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
 {{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
-      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}{{- else -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b>{{ title .Title }}</b></a> {{- .Params.description -}} {{ if eq $current_schedule  nil }} -- Written by {{ title .Params.author -}}{{ end }}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}{{- else -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<b>{{ title .Title }}</b> {{- .Params.description -}} {{ if eq $current_schedule  nil }} -- Written by {{ title .Params.author -}}{{ end }}
 </p>
 {{ end }}
 
@@ -73,7 +73,7 @@
 {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
     {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
 {{ if (ne $index 0) }}, {{ end }}
-<a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
+{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}}
     {{- end -}}
 {{ end }}
 </p></div>
@@ -83,10 +83,10 @@
 {{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
 <div id="misc"><p><b>Misc: </b>
 {{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
-{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}
+{{- if (ne $index 0) }}, {{ end -}}{{- .Title -}}{{- end -}}
 
 {{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
-{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
+{{- if (ne $index 0) }}, {{ end -}}{{- .Title -}}{{- end -}}</p></div>
 {{- end -}}
 
 
