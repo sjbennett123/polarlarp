@@ -21,7 +21,6 @@ outcomes:
   - The PCs do not clear out the rats, and they don't get a bounty
 
 number_of_cast_members: 5 or more
-Roles: Giant Field Rats
 
 props: Yellow Plastic Tablecloth x6
  
