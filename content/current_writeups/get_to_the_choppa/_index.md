@@ -21,7 +21,6 @@ outcomes:
 
 
 number_of_cast_members: 6
-Roles: Balor Ironleaf
 props: 
   - Shard of Foereaver
   - Lever
