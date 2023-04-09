@@ -24,7 +24,6 @@ outcomes:
   - The Corrupted Earth Knight stalks the town and captures a victim to feed on, if the Earth Knight captures 3 people and successfully feeds, he will flee for 1 hr and then return with Cultists.
   - The PCs defeat the Corrupted Earth Knight and his resets, later in the night there is a follow up module where they are taken to a Grove where they are attempting to harvest Dream energy from Stonewood Citizens
 number_of_cast_members: 1
-Roles: Corrupted Earth Knight
 
 treasure: Production Item, Components, Coins
 rumors: | 

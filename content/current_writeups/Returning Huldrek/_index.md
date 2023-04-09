@@ -1,7 +1,4 @@
-                                                                     
-                                                                     
-                                                                     
-                                             
+
 ---
 title: Returning Huldrek
 Layout: module
@@ -18,9 +15,7 @@ description: Huldrek, as fast as he is, has gotten himself caught by the PCs. Hu
 synopsis: Huldrek, at some point, gets himself caught and returned to his Grandmother. He refuses to speak in her presence, and really, Granny doesn't let him even try. She interrupts him whenever he tries to speak, chastising him. She insists he turn out his pockets and give his money to the PCs because “he can't be trusted with it”. If Huldrek has any coin left, it is given to the PCs and the reward difference made up by Granny. When he turns out his pockets, if he still has it, he will turn out a map that is quickly grabbed by Granny and handed over to the PC's. If the map is already possessed by the PCs, she finds nothing else and will ask that they leave so that she can properly scold her Grandson.
 outcomes: The PCs return Huldrek to Granny
 
-
 number_of_cast_members: 2
-Roles: Grandmother “Granny” Whuthona Silverlode, Huldrek “Drek” Silverlode
 
 treasure: 10 Silver 
 
