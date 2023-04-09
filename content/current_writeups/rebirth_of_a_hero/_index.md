@@ -1,6 +1,7 @@
 ---
 title: "Rebirth of a Hero"
 author: Chris Colland
+reviewer: Scott Bennett
 
 weight: 13
 schedule: friday night
