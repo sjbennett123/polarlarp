@@ -32,7 +32,6 @@ immune_to: None
 Protectives: None to Start
 Zone: C
 
-reset:  No Respawns in the Mausoleum. Once you are dead you are dead unless the other NPCS can bring you back using their skills if intelligent enough to do so
 costuming: Dark Blue Tabards
 
 ---

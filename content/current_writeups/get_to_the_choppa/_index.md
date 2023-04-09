@@ -7,7 +7,8 @@ author: Chris Colland
 reviewer: Mary Courtney
 weight: 3
 schedule: saturday early afternoon
-
+cascade:
+  reset: No Respawns in the Mausoleum. Once you are dead you are dead unless the other NPCS can bring you back using their skills if intelligent enough to do so
 plotline: Reforge Foereaver
 requirements: Open for Business module has been ran
 
