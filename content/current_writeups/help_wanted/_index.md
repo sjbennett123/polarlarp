@@ -17,7 +17,6 @@ outcomes: The PCs talk to Granny Whuthona Silverlode and are told information ab
 
 
 number_of_cast_members: 1
-Roles: Grandma "Granny" Whuthona Silverlode
 
 
 makeup: Flour on face and hands

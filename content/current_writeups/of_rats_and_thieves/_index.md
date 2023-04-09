@@ -14,9 +14,9 @@ description: A new adventurer, Luca Norwish, comes to town looking for a group t
 
 synopsis: A friendly adventurer named Luca Norwish is looking for a party to adventure with at the start of the market. He is new to Stonewood, he and his wife have traveled there looking for their share of loot. He tells the PCs where they are staying and details about his previous life. He has with him a message from a farmer, looking for someone to help him clear out a rat pack that is eating his seed grain. He possesses a large amount [10%] and is worried about losing it. The PCs go to the farm and are greeted by the farmer. He explains that he has a large bag of seed grain for spring planting, and the rats are strongly attracted to it. He can no longer manage them on his own and is so glad that the PCs are there. He leads them to a room where to where the rats are. They are meandering around the room and occasionally going to the bag of grain and removing a piece. The rats will not attack unless they are attacked first or if the grain bag is disturbed. The farmer will encourage the PCs to kill the docile rats anyway. Once the rats are cleared, the farmer will go into the room and make sure they are all dead. He will turn to face the doorway [so the PCs back is to the door, and far enough away to allow people through the door] he will thank the PCs, inspect the left over grain, explain about the rat tails if they don't know of the bounty, just generally make small talk. As the PCs are talking to the farmer, the Tarrasch will come in the room swiftly and try to beat down the PCs. Once the PCs are down, they are searched for magic items [optional], Luca ia abducted, the rest are stabilized, and then left in the room. The farmer is caught in the crossfire and dies.
 
-number_of_cast_members: 7 or MORE- Luca Norwish, Gerald Farmer, 6+ Giant Rats= 6+ Tarrasch Pawns
-props: # Will accept an array
-requirements: # Will accept an array
+number_of_cast_members: 7 or MORE- Luca Norwish, Gerald Farmer, 6+ Giant Rats 6+ Tarrasch Pawns
+
+
 treasure: 
   - Rat Tails (Each Rat, when killed, will give a rat tail for the bounty. These are in game items.)
   - Silver 
@@ -36,8 +36,6 @@ scenes:
 non_standard_effects: GIANT FIELD RAT can heal to full body TWICE on a TEN count [One I feed, Two I feed, etc.]
 
 Roles:
- - Luca Norwish
- - Giant Field Rat
  - Tarrasch Black Pawn, Fighter
  - Tarrasch Black Pawn, Chaos Caster
  - Tarrasch White Pawn, Leviathan, Lesser
