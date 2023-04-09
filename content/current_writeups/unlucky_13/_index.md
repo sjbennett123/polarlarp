@@ -2,14 +2,15 @@
 title: Unlucky 13
 Layout: module
 
-author:  Chris Colland
+author: Chris Colland
+reviewer: Scott Bennett
 weight: 2
 schedule: saturday early afternoon
 
-requirements: Open for Business has been ran
+requirements: Open for Business has been ran.
 
-description: The time has come to reopen the Mausoleum of Fallen Heroes. Balor Ironleaf will explain the importance of this Mausoleum and his ancestor dying upon the ground it was built. Rumor has it great treasure awaits those who venture the depths…
-synopsis:   Balor Ironleaf will take those interested to the Mausoleum of Fallen Heroes and cast a Dwarven ritual he knows in addition to a Purify Earth cantrip to ward off the malicious spirits guarding the entrance. The Mausoleum of Fallen Heroes is to be opened as a training ground filled with foes from Stonewood past battles, rumor is a great treasure awaits those who can conquer the final Floor in one attempt. It is said that the Mausoleum is a living artifact of the land and may produce items that adventurers need to retrieve for important quests in Stonewood and Woodhaven.
+description: Balor Ironleaf reopens the Mausoleum of Fallen Heroes and  explains the importance of this Mausoleum and his ancestor dying upon the ground it was built. He also explains that great treasure awaits those who venture the depths. 
+synopsis: Balor Ironleaf takes those interested to the Mausoleum of Fallen Heroes and casts a Dwarven ritual he knows in addition to a Purify Earth cantrip to ward off the malicious spirits guarding the entrance. The Mausoleum of Fallen Heroes is a training ground filled with foes from Stonewood's past battles. Rumor is a great treasure awaits those who can conquer the final Floor in one attempt. The Mausoleum is a living artifact of the land and may produce items that adventurers need to retrieve for important quests in Stonewood and Woodhaven.
 outcomes:  
   - The Mausoleum is reopened and adventuring parties of 6 or less may enter to see how far they can go without exiting.
   - No one enters upon the opening, but the Mausoleum is left standing open for any challengers, nothing can escape it but anyone can enter
