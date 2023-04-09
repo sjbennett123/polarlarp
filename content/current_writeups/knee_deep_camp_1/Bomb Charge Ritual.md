@@ -1,5 +1,5 @@
 ---
-title: Bomb Charge Ritual
+title: Bomb Charge Ritual Camp 1
 ---
 
 ![/modules/orcamedies_special_1.png](/modules/orcamedies_special_1.png "{width='50%'}" )

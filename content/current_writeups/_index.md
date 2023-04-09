@@ -18,13 +18,13 @@ rumors:
        Thank you brave adventurers! The Rygal Order greatly thanks you for your assistance in pushing back this threat. You have Stonewood the push it needed to rise up and rebel! Since your adventures through this past week, Bloody Fist patrols have dropped dramatically. Their leaders surely felt the fury of your blades and the wrath of your spells! 
        
        Black Leaf and the remnants of the Black Anvil Company along with myself, lead an assault on a nearby Bloody Fist encampment. We slaughtered roughly 50 of them in the battle. The most terrifying part were these larger Bloody Fist, from what they were screaming in Orcish it sounded like Honor Guard or Honor Knight. These were very strong swinging warriors that were very resilient and capable Earth Casters via their blades so be careful if you see Bloody Fist with more ceremonial style armor.
-
+       
        We captured a map and coordinates to where they had been keeping captured Stonewood citizens. Upon discovery of this prison camp we were able to find most of the old Guild masters of Stonewood! They were very worn down and in some form of magical shackles unable to speak or conjure their power. We have returned as many as we can to Stonewood and they are healing now, when they are well they will speak out to the public.
        
        Last thing, the ’destruction’ of the Hoylean Altar was very odd. They Changed Ones have not resurfaced yet. The offerings you made to the altar and the infusion with light seemed to have satisfy them for now. Very weird their sudden change in behavior now when they were perfect machines until that night. Seems casting Illuminations on the Altar somehow healed or quelled their corrupted nature. I am not sure if they will return but I would remain vigilant if they do.” 
-
+       
        Your Friend Darkness
-
+       
        ~Kane
   - |
        Message Posted on a Tree:
@@ -127,8 +127,6 @@ magic_items:
 {{%expand "Click to expand current outstanding work" %}}
 
 **Chris** 
-
-- Ritual to open the mausoleum
 
 **Brittany** 
 
