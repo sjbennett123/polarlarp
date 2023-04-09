@@ -3,7 +3,7 @@ title: Welcome to Orctown
 Layout: module
 
 author: Scott Bennett 
-reviewer: 
+reviewer: Chris Colland
 
 schedule: friday night
 weight: 4
@@ -22,7 +22,7 @@ outcomes:
 number_of_cast_members: 10
 
 props:
-  - 2 Banners of the bloody fist.
+  - 2 Banners of the bloody fist
   - printed copies of the pledge of servitude
 
 ---
