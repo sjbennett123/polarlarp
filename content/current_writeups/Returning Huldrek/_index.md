@@ -4,7 +4,7 @@ title: Returning Huldrek
 Layout: module
 
 author: Brittney Perry
-reviewer: 
+reviewer: Scott Bennett
 
 schedule: reaction
 weight: 
