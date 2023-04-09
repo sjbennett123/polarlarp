@@ -1,5 +1,5 @@
 ---
-title: help wanted posters
+title: Help Wanted Posters
 ---
 > **HELP WANTED ASAP- REWARD 10 SILVER**
 >

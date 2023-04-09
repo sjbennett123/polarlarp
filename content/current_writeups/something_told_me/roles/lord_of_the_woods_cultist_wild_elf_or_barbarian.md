@@ -1,6 +1,7 @@
 ---
 layout: role
 title: Lord of the Woods Cultist (Wild Elf or Barbarian)
+quantity: 4
 Body: 50
 introduction: You and your Kin came upon the who is now known as “Lord of the Woods” Only few have seen his majestic beauty and lived to tell about it. Now you serve him, through service to the Lord, he brings your lands prosperity and bountiful harvest or so the Elders say so. All that matters now is whatever the Lord asks of you and that is more souls to harvest Dream from willingly or unwillingly...
 

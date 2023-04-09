@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry
 reviewer: Scott Bennett
 weight: 16
-schedule: friday night
+schedule: saturday early afternoon
 plotline: Family Recipes
 requirements: The module "Operation Find Huldrek" was not ran. 
 
@@ -30,14 +30,12 @@ treasure:
   - Map to Tarrasch Chest
   - 20 Silver [as pay, for Huldrek to gamble with]
 
-
 hook: Huldrek arrives at the tavern 
 scenes: 
   - 
     oog: Tarrasch Chest Location to Tavern	
     ig: Cache of the Tarrasch to Tavern
     flee_point: NPC Shack
-
 
 running_notes: The Map MUST make it into PC hands if the cache is not found in OPERATION FIND HULDREK
 ---

@@ -28,8 +28,6 @@ Outcomes:
 Hook: All Named townsfolk come to the Tavern with these pamphlets in hand, Scouts follow them to distribute them.
 Number_of_Cast_Members: 7
 
-Roles: 3 Bloody Fist Scouts Balor Ironleaf, Mayor Anak, Haddix Strongbow, Durmac Leafdancer
-
 Props: Bloody Fist Pamphlets Bloody Fist Costuming & Makeup (Red Scales on left side of face and 4 finger mark warpaint on right side of face), Named townsfolk costuming
 rumors: |
   The Ritual of the Fire Drakes has been gifted by the Black Shadow to the Bloody Fist Orcs. This ritual allows the orcs to summon the Baleful Fire Drakes. These fearsome creatures are green and red Fire Drakes from the Fire Plane. They are morphed into Draconic looking figures because of the influence of the Black Shadow on the ritual. They are incredibly destructive and follow the orders of those who summoned them to complete their task or scorching things. They breathe a fire that will burn anything. They are fast moving and do not speak just grunt and growl.

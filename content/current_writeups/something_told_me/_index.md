@@ -26,7 +26,6 @@ outcomes:
   - Players are captured by the lord of the woods cultisists and stricken with Paranoia 
 
 number_of_cast_members: 5
-Roles: Lord of the Woods (Visual Effects Only/Spawn Point), 4 Lord of the Woods Cultists
 
 Props: 
   - Black Robes

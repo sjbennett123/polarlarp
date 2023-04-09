@@ -3,6 +3,7 @@ title: Orc Scouting Pary
 Layout: module
 
 author: Scott Bennett
+reviewer: Brittney Perrry
 
 schedule: randoms
 plotline: orc invasion

@@ -7,7 +7,7 @@ reviewer: Chris Colland
 
 schedule: friday night
 weight: 4
-requirements: The bristle bash is going on.
+requirements: The Bristle Bash is going on.
 
 description: The bloody fist orcs have given you time to think about what you have done and now they are going to smash your face in. 
 synopsis: | 
@@ -23,7 +23,7 @@ number_of_cast_members: 10
 
 props:
   - 2 Banners of the bloody fist
-  - printed copies of the pledge of servitude
+  - printed copies of the Pledge of Servitude
 
 ---
 
