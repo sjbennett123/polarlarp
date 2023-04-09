@@ -7,16 +7,9 @@ schedule: reaction
 requirements: 
   - Casting formal magic on the spirit of an Urakhai warror.
 synopsis: > 
-  This stuff goes in the Zine
+rumors: |
+   The process that changes the orcs into the Uruk-Hai also taints their spirit. This magical effect identifies as Celestial, Earth, and Arcane (Dragon Magic). The Black Anvil Company enlisted an Earth Guild to Destroy Formal Magic, the spirit of a Orc and it horridly backfired. Though initially believed to be a a fluke further attempts also were met with dismal results.
+   
+   ~ Notes and Observations on the Bloody Fist - Gathered by the Black Anvil Mercenary Company
 
-  Other than Orcs identify as Celestial, Earth, and Arcane (dragon magic)
-  
-  Cantrips are fine though. They tried various cantrips and they went off without issue
-
-  Balor found this out the hard way when the Earth guild tried to DFM
-  The spirit of a Orc and it horridly backfired. They thought it was a fluke and tried again and same result
-  
-  Even a celestial DFM was tried
-  
-  So 3 attempts both schools same result
 ---
