@@ -13,7 +13,7 @@ Synopsis: The Bloody Fist have taken the Town Librarian Ari-elle and the Mayors 
 Running_Notes: This module is a chaotic no-win scenario for the characters. They must make a choice between the lives of 2 of the NPC townsfolk or stopping the Bloody Fist Scouts from burning down the town. This is like the earlier module “Fears by Torchlight”, but a different tactic is used. A distraction at the tavern gives the 2 scouts more chances to burn 6 new buildings and break the townsfolks spirits. If the buildings are burnt the townsfolk’s morale will be completely broken. If the town is saved, they will be much happier with only 2 people dying as a result, then losing their homes, a selfish choice but it is thematic for Dwarves to be greedy and selfish for their own gain. Also, one is just a drunk, who cares about him
 Hook: 3 Bloody Fist Grunts march the 2 prisoners into view of the tavern, force them to their knees and call the PCs out.
 Number_of_Cast_Members: All
-Roles: 3 Bloody Fist Scouts and 7 Bloody Fist Grunts (1 Scout to carry torches and 2 Grunts to guard them per team), Ari-elle Startear, Throum Fairoak
+
 Props: 
  - Bloody Fist Banners
  - War Horn
@@ -25,5 +25,7 @@ treasure:
  - Coins
 Outcomes:
  - The players attempt to save the 2 prisoners but fail to get to them before the death poison has got to their heart while talking. However, they can still save the town.
- - The players choose the town of Stonewood and the 3 are brutally executed without hope of resurrection. But they are free to engage the remaining Scouts trying to burn down the town to save everyone else
+ - The players choose the town of Stonewood and the 3 are brutally executed without hope of resurrection. But they are free to engage the remaining Scouts trying to burn down the town to save everyone elseroles
 ---
+
+Roles: 3 Bloody Fist Scouts and 7 Bloody Fist Grunts (1 Scout to carry torches and 2 Grunts to guard them per team), Ari-elle Startear, Throum Fairoak
