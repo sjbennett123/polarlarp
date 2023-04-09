@@ -20,9 +20,15 @@ magic: 6 Earth Block
 abilities: Healing Arts, Herbal Arts, Read Magic, Alchemy 20 levels, Create Potion 20 Levels
 killing_blow: Not Active
 
-costuming: A flower-print [or other “old lady” dress], apron with flour stains, gray dwarven luxury beard [beard with braids, beads, and decorations] and bun hairstyle
-makeup: Flour on face and hands [OPTIONAL]
-props: Wooden Spoon
+costuming: 
+  - A flower-print or other “old lady” dress
+  - apron with flour stains
+  - gray dwarven luxury beard beard with braids, beads, and decorations
+  - bun hairstyle
+makeup: 
+ - Flour on face and hands
+props: 
+ - Wooden Spoon
 
 reset: No, single life
 ---
