@@ -45,6 +45,7 @@ immune_to: Sleep, Charm, Poison, Death, Paralyze, Necromancy, Drain, Feeblemind,
 Protectives: May Have
 
 costuming:
-makeup: White face makeup and black stripes
+makeup: 
+ - White face makeup and black stripes
 ---
 
