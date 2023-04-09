@@ -18,7 +18,6 @@ Outcomes:
   - The PCs don’t reach the Stonewood Citizens and find their corpses drained of blood and essence OR they fail to defeat the Earth Knight and Cultist in the time and the Lord of the Woods reaps them from an Ethereal state of their dream energy leaving them drained of all but life essentially like a zombie
 
 number_of_cast_members: 11
-Roles: Lord of the Woods Cultists x7, Stonewood Citizens x3, black anvil company scout
 
 Props: Corrupted Earth Knight Mask, Green Eye and Mouth Makeup, Brown Tabard, Vines, Lord of the Woods Cultist Costuming, Commons Clothing
 treasure: Production Item, Components, Coins
