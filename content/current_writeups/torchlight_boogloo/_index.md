@@ -25,7 +25,7 @@ treasure:
  - Coins
 Outcomes:
  - The players attempt to save the 2 prisoners but fail to get to them before the death poison has got to their heart while talking. However, they can still save the town.
- - The players choose the town of Stonewood and the 3 are brutally executed without hope of resurrection. But they are free to engage the remaining Scouts trying to burn down the town to save everyone elseroles
+ - The players choose the town of Stonewood and the 3 are brutally executed without hope of resurrection. But they are free to engage the remaining Scouts trying to burn down the town to save everyone else.
 ---
 
-Roles: 3 Bloody Fist Scouts and 7 Bloody Fist Grunts (1 Scout to carry torches and 2 Grunts to guard them per team), Ari-elle Startear, Throum Fairoak
+Ari-elle Startear, Throum Fairoak

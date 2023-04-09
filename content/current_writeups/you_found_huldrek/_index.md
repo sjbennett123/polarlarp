@@ -23,7 +23,6 @@ outcomes:
   - If Huldrek returns to his Granny unaccompanied by PCs and the PC's don't have the map before collection of the reward, Granny will give the PCs the map and the reward stating, eg. “He doesn't need directions to wherever this leads because he wasn't leaving the house for a month!”
 
 number_of_cast_members: 1
-Roles: Huldrek "Drek" Silverlode
 
 props: Bottle of Big Axe Beer
 makeup: Dirt for hands, face, and clothes
