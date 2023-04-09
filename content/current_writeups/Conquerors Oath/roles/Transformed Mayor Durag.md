@@ -9,7 +9,8 @@ motivation: KILL ALL DWARVES!!!!!
 body: Add 10 Body (210 Total)
 killing_blow: Yes
 
-makeup: White face makeup and black stripes
+makeup: 
+  - White face makeup and black stripes
 ---
 
 
