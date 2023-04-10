@@ -10,7 +10,7 @@ weight: 15
 plotline: The Gnawing Ones
 requirements: 
 tagline: I crawl beneath this filthy ground and underneath this dirty ground! 
-description: Magnus Kane has discovered the Gnawing Ones being deployed. He and a few Rygal Soldier were attacked by them and he has discovered the answer for them
+description: Magnus Kane has discovered the Gnawing Ones being deployed. He gives information about them and distributes a fumigation device to be used in the "Unspoiled Caves" series of modules. 
 Synopsis: Magnus and his patrol were set upon by the Gnawing Ones outside of Stonewood. During the fight they discovered Gas Globes do not affect them but they took one alive to his camp and experimented with its acidic blood until they found a reaction with Celestial Magic and Alchemy that will kill them, but it will kill normal races just as fast if deployed…
 outcomes: 1
 Requirements: Know Your Enemy has been ran

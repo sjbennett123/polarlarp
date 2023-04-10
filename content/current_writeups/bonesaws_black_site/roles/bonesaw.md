@@ -22,7 +22,7 @@ weapons: Large 2H Weapon (Axes or largest 1h rep if no 2h open)
 magic: None
 damage: 15 Massive (Swing slow to show your size and muscle for the impact)
 abilities: 
-  - Slay/Parry x3
+  - Slay/Parry x4
   - Healing Arts
   - First Aid
   - Read and Write
