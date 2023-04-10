@@ -39,7 +39,6 @@ costuming:
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 movement: You are a large imposing Uruk so move slow and don’t run. Make your movements very dramatic and big.
-reset: Pulls from the bag, 3 stones in already. Imagine the look on someone’s face if it’s the person who killed him and then he shows up at the black site captured
-“WELL WELL WELL LOOK WHAT THEY DRUG INTO BONESAWS CAGE OF PAIN NOW!!! TIME FOR PAYBACK! “
+reset: Pulls from the bag, 3 stones in already. Imagine the look on someone’s face if it’s the person who killed him and then he shows up at the black site captured “WELL WELL WELL LOOK WHAT THEY DRUG INTO BONESAWS CAGE OF PAIN NOW!!! TIME FOR PAYBACK! “
 
 ---
