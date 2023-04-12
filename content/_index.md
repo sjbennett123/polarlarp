@@ -36,6 +36,7 @@ disableNextPrev:  true
   - Workshop how to improve something
   - How to solve a problem. 
 - Sometimes we do a special meeting. 
+  - The event just before the event we will review the event with our NPC's.
   - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
   - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
 - All writeups **must** be completed 2 weeks before the event to be reviewed by another plot team. They will check for Nonstandard effects and consistency. Ideally we would do this sooner than that so that feedback could be incorporated before having copies printed but this is the deadline. 

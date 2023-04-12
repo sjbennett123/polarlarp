@@ -10,6 +10,7 @@
 {{- .Content -}}
 <hr>
 {{- end -}}
+{{ with .GetPage "./playlist" }}<p><a href="{{.Permalink}}">{{ .Title }}</a></p>{{ end }}
 
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 
