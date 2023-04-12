@@ -340,7 +340,12 @@ Use the setting that exists if at all possible. Don't create new setting if an e
 - Are there any props that are mentioned in the writeup but not in the list.
 - Can you visualize the module. 
 - Say nice things too remember they tried their best. 
-- Look for tentative language. **should** 
+- Look for tentative language. 
+  - should 
+  - Almost
+  - Just
+  - Will
+
 - Props that are not detailed. Notes that don't have the text.
 
 ```yaml

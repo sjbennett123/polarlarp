@@ -60,4 +60,6 @@ Props:
   - Two Door Stops
   - Tarp to Cover Door
   - Staple Gun and Staples
+  - smudged paper with Shepard's crook
+
 ---

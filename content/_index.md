@@ -78,6 +78,7 @@ disableNextPrev:  true
 - **Clock**: We have a large clock set up in the shack. If you can please wear a watch.
 - **Computer**: This is somone's personal computer. Please be kind to it. All the writeups are on it as well as a local copy of our website. Show that it works to print. 
 - **White Head Band**: Have one on your person. If you see a player that does not have one offer to give them one and replace it when you get back to shack. 
+- **Pencils**: Carry a golf pencil with you. 
 - **Costumes**: When you are done make sure the costume is put away.
 - **Belts**: When you are using a tabard wear a belt.
 - **Masks**: When you are done using a mask wipe it down so it does not get anyone sick.
