@@ -1,5 +1,5 @@
 ---
-title: Unspoiled Caves 1
+title: Unspoiled Caves 1 - Rats
 Layout: module
 
 author: Chris Colland

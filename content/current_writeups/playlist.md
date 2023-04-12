@@ -30,3 +30,5 @@ Devildriver- Fury of Our Makers Hand
 Coal Chamber- Friend?
 
 Coal Chamber- Suffer in Silence
+
+Ghost- Rats
