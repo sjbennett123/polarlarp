@@ -130,7 +130,8 @@ rumors:
        
        Captain and Guildmaster of the Black Anvil Mercanary Company
 gold: 446
-production:
+production_levels: 1074
+production_list:
   - Shield x10 (20)
   - Awaken Potion x10 (40)
   - Purify Blood Potion x20 (100)
@@ -254,73 +255,18 @@ magic_items:
     effects: 
       - Mystic Lock x2 per day
 
-
+formal_magic_components:
+  strength_1:
+    - P1 “Bloody Fist Orc Blood” 
+    - D1 “Black Shadow’s Residue”
+    - C1 “Blood of the Verdant Hedge”
+  strength_2: 
+    - Stonewood Fragment T2 x2
+    - Scorched Ritual Component E2
+  strength_4:
+    - Essence of a Fallen Murumbrian V4
+    - Beard Lock of a Fallen Dwarven Hero S4
 ---
-
-here is your treasure for the event
-
-1 year 5 effect item - 5 or 1 year 1 effect items - 10
-
-
-
-
--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-strength 1 comps - 100
-
-Mixture of all: 
-
-Throw in some P1 Comps as “Bloody Fist Orc Blood” 
-
-Throw in a few D1 “Black Shadow’s Residue”
-
-Throw in a few C1 “Blood of the Verdant Hedge”
-
-strength 2 comps - 4
-
-Time: Stonewood Fragment T2 x2
-
-Energy: Scorched Ritual Component E2
-
-strength 4 comps - 2
-
-Void: Essence of a Fallen Murumbrian V4
-
-Spirit: Beard Lock of a Fallen Dwarven Hero S4
-
-gold - 446
-
--Standard Coin for loot
-
-production levels - 1074
-
-
-
-this is the max treasure for the event
-
-
 
 
 

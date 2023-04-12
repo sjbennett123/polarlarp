@@ -32,3 +32,5 @@ Coal Chamber- Friend?
 Coal Chamber- Suffer in Silence
 
 Ghost- Rats
+
+Queen- Killer Queen
