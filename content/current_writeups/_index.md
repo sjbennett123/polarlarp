@@ -12,11 +12,11 @@ rumors:
        
        *All those entering the Town of Stonewood, Barony of Woodhaven will abide by the laws set forth herein*
        
-       - Absolutely No alchemy will be permitted inside the Town walls and perimeter. All individuals displaying charged hands will be arrested
+       - Absolutely No alchemy will be permitted inside the Town walls and perimeter. All individuals displaying charged hands will be arrested.
        
-       - All weapons will be sheathed within the Town walls and perimeter. All offenders will be arrested
+       - All weapons will be sheathed within the Town walls and perimeter. All offenders will be arrested.
        
-       - The Town has a strict curfew of 10pm. All those found violating this will be arrested
+       - The Town has a strict curfew of 10pm. All those found violating this will be arrested.
        
        - Letters of Authority will be awarded to those Nobility, Adventures, Guild Members, and Commoners at time of presentation as seen fit by a Member of the Baronial House and/or Applicable Higher Noble station.
        
@@ -66,7 +66,7 @@ rumors:
        
        Since we don’t have to be as secretive now, this is your friendly Mystic local of Stonewood, Kane. I will be at the Winter Veil Feast but briefly to deliver a update on the progress on Stonewoods recovery during the Winter months we have endured. Much prosperity and wealth has returned to the good town of Stonewood! The brew is flowing and spirits are raised! 
        
-       We have received a grim threat from the Bloody Fist for when the “Cold breaks the blood shall fall like Rain on Stonewood” I will bring this missive we received recently. I wish you all good ventures and and safe travels to the Winter Veil! 
+       We have received a grim threat from the Bloody Fist for when the “Cold breaks the blood shall fall like rain on Stonewood” I will bring this missive we received recently. I wish you all good ventures and and safe travels to the Winter Veil! 
        
        You’re Friend in Darkness,
        
@@ -123,7 +123,7 @@ rumors:
        Citizens and warriors of Stonewood, we The Black Anvil Company will be ceasing communication until the market gather. We are prepared and ready for this war. I wish you all safe travels and will see you In Stonewood within 1 weeks time. Stick to the roads and be careful at night, Vel’Kaz the Ruthless has been sighted a few times recently near Stonewood so they stalk the night hunting us while we prepare.
        
        
-       For our honor, For Stonewood!”
+       For our honor, For Stonewood!
        
        
        Balor Ironleaf
