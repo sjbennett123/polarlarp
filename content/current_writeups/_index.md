@@ -181,14 +181,7 @@ magic_items:
       - Paralysis x2
       - Imprison x2
       - Weakness x1
-  - 
-    name: Orcamedes Special Bomb Shard
-    description: A shard of the Orcamedes Special Bomb made by the Bloody Fist. It was embedded in a tree near the bomb site, charged with energy.
-    duration: 1 Year
-    effects: 
-      - Charm x2 per day
-      - Silence x2 per day
-      - Cloak Command x1
+
 
   - 
     name: Bloody Fist Battle Wand “Death”

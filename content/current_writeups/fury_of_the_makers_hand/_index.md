@@ -24,14 +24,16 @@ scenes:
     flee_point: Back to Tavern
 magic_items:
   - 
-    name: Bomb Shard
-    description:  Bomb Shard
+    name: Orcamedes Special Bomb Shard
+    description: A shard of the Orcamedes Special Bomb made by the Bloody Fist. It was embedded in a tree near the bomb site, charged with energy.
     duration: 1 Year
     effects: 
-      - BOOM
+      - Charm x2 per day
+      - Silence x2 per day
+      - Cloak Command x1
 Running Notes: This module is a huge grinder fight from the road in front of tavern to the Bomb Site. The PCs will face wave after wave of Bloody Fist troops as they push their way up the hill to the Bomb Site through heavily defended lines of troops. This will not be an easy fight for anyone. NPCs will move back behind the current line of battle and reset on a 3 count as reinforcements move in. The count and speed of this fight will be determined on the aggressiveness of the PCs. If they faulter and waste time the Orcs will keep coming, if they push when they down each wave then the fight will be shorter as they push to the Bomb Site quicker. When they arrive Orcs will still attack while the PCs “assemble” the bomb outer shell to weaken the “blast” then they can flee before it detonates if they have time left.
 rumors: |
-  “I came across a large clearing in the woods that wasn’t here last week. It seems oddly specific in the layout, drawings in the dirt don't make much sense as to what they are doing here. My best guess would be some future forward camp site. There doesn’t seem to be any indication of ritual markings or preparations yet but who knows with these Orcs. I have encountered Orcs who have cast Celestial magic before but it seems like they have help from some kind of entity that has an Arcane edge over magic. I hope this is just a forward camp site, but my gut tells me this might be something else. You have to see this place in the daylight, at night time you would miss it and mistake it as a clearing in the forest…”
+  I came across a large clearing in the woods that wasn’t here last week. It seems oddly specific in the layout, drawings in the dirt don't make much sense as to what they are doing here. My best guess would be some future forward camp site. There doesn’t seem to be any indication of ritual markings or preparations yet but who knows with these Orcs. I have encountered Orcs who have cast Celestial magic before but it seems like they have help from some kind of entity that has an Arcane edge over magic. I hope this is just a forward camp site, but my gut tells me this might be something else. You have to see this place in the daylight, at night time you would miss it and mistake it as a clearing in the forest.
 
   Your Friend in the Darkness, 
 
