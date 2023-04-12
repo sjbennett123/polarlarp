@@ -4,6 +4,33 @@ layout: event_overview
 description: This event is a continuation of the plot that was ran in October with the Bloody Fist orcs seeking revenge for the loss of Stonewood. The players have their first chance to kill a Bloody Fist general.
 event_date: "14-04-2023" # Day Month Year
 rumors: 
+  - | 
+       Scouts bearing the colors of Woodhaven seen in Stonewood and surrounding areas posting letters to trees and in the town center. they read as follows
+       
+       On Tuesday, the eleventh day of April, the year 623 the honorable Sir Baron Hiddukel Chilox , Baron of Woodhaven, Knight of Elysia, Order of the Silver Sword decrees that all resident organizations, tribes, clans and such that inhabit the Barony of Woodhaven in the Duchy of Elysia, Kingdom of Evandarr will swear fealty to Sir Baron Hiddukel Chilox , Baron of Woodhaven, Knight of Elysia, Order of the Silver Sword. Further, those individuals, tribes, clans and other such groupings wishing to hold a land contract within the Barony are required to sign this treaty
+       
+       
+       *All those entering the Town of Stonewood, Barony of Woodhaven will abide by the laws set forth herein*
+       
+       - Absolutely No alchemy will be permitted inside the Town walls and perimeter. All individuals displaying charged hands will be arrested
+       
+       - All weapons will be sheathed within the Town walls and perimeter. All offenders will be arrested
+       
+       - The Town has a strict curfew of 10pm. All those found violating this will be arrested
+       
+       - Letters of Authority will be awarded to those Nobility, Adventures, Guild Members, and Commoners at time of presentation as seen fit by a Member of the Baronial House and/or Applicable Higher Noble station.
+       
+       > Here do I ______________________swear fealty to Sir Baron Hiddukel Chilox , Baron of Woodhaven, Knight of Elysia, Order of the Silver Sword and the Crowned King Johann Storm King of Evandarr. I do hereby swear to uphold any and all laws that protect Sir Baron Hiddukel Chilox , Baron of Woodhaven, Knight of Elysia, Order of the Silver Sword and his edicts. 
+       
+       > I do hereby swear to uphold any and all laws that protect and grant prosperity to the lands within the Barony of Woodhaven upon which my feet tread and I make my home. I do hereby swear to defend the Barony of Woodhaven from any threat and by any lawful means that I have within my power. I do hereby swear to advise Sir Baron Hiddukel Chilox , Baron of Woodhaven, Knight of Elysia, Order of the Silver Sword in all matters and or individuals that threaten the sanctity of the written and spoken laws governing the Barony of Woodhaven
+       
+       
+       All violations of the aforementioned laws as well as all known laws mandated by his Grace King Johann Storm of Evandarr shall result in immediate arrest and sentencing to the fullest extent of Baronial and Kingdom statute
+       
+       
+       Signed on this day the 11th of April, the year 623
+       
+       Sir Baron Hiddukel Chilox , Baron of Woodhaven, Knight of Elysia, Order of the Silver Sword
   - |  
        Message posted on a Tree:
        
@@ -68,15 +95,10 @@ rumors:
        Glory to Elysia!
        
        Thermo, Kinnel Kohlmwyn
-       
        Duke of Elysia
-       
        Royal Grand Vizier of Evendarr
-       
        Archwizard of Fire and Planar Magicks
-       
        Favored by Oberon
-       
        April 6, 623
   - |
        To all interested,

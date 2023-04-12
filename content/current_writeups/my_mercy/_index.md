@@ -12,7 +12,7 @@ plotline: Lord of the Woods
 Requirements: Something Told Me has been ran
 tagline: When I die, I’ll die with my mercy, When she cries, I’ll cry with her.  
 
-description: A group of cultists of the Lord of the Woods have trapped a brother and sister in a cave just North of town. The siblings have 
+description: A group of cultists of the Lord of the Woods have trapped a brother and sister in a cave just north of town. The siblings have sent a note to town to get help.
 Synopsis: >
   The Lord of the Woods sent his Cultists to a set of houses just outside of Stonewood proper. Forthe Cromel and Serath Cromel a brother and sister were taking a walk at night. The two were set upon by Cultists and while the siblings managed to kill a few cultists but were overran. The siblings fled but did not realize that this was all a part of the cultists plan. The Cultists were herded the siblings down a set path to lure them to “the Cave” that the Cultist use to trap victims. 
   
@@ -20,11 +20,13 @@ Synopsis: >
   Forthe Cromel set some makeshift traps and held the advance of the off, Serath Crome wrote a note and attempted to make a break for it but one was captured and “Harvested” by the Lord of the Woods and returned to “the Cave” hold up in a small passageway, they await hope as a cultist took the message recklessly and went towards town with greed in their eyes.
   
   
-  This module starts out as a random encounter. One of the 5 Cultists has a Map to “the Cave” North of Stonewood that the siblings are holed up in. The PCs loot the map upon defeating the roaming Cultists then are free to engage in this module how they wish. They can 
+  This module starts out as a random encounter. One of the 5 Cultists has a Map to “the Cave” north of Stonewood that the siblings are holed up in. The PCs loot the map upon defeating the roaming Cultists then are free to engage in this module how they wish. They can 
   
   
   1. gather a team and hunt the Cave down to save them
+  
   2. Go alone or small squad to rescue them
+  
   3. ignore the map completely and write it off which the Lord of the Woods kills the siblings just before Sunrise.
   
   

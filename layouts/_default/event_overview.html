@@ -185,7 +185,7 @@
 {{ range  $module_components }}
 {{ $current_component := . }} 
 
-<h2>{{ $current_component }}</h2>
+<h2>{{ title $current_component }}</h2>
 
 {{- end -}}
 

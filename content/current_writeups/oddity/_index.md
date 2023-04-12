@@ -16,7 +16,6 @@ outcomes: 1
 Requirements: Know Your Enemy has been ran
 
 number_of_cast_members: 1
-Roles: Magnus Kaine
 Outcomes:
   - Magnus gives the Adventurers a Fumigation device to set off on the first lair they discover of the Gnawing Ones, he tells them to report back once they find out how many they need from him.
 Hook: Magnus Kane comes to town with a Fumigation Device for the Gnawing Ones
