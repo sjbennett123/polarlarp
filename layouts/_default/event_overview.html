@@ -177,123 +177,16 @@
 {{- end -}} 
 
 
-{{- $props := (slice ) -}}
-{{- if  .Params.props -}} 
-    {{- $props = $props  | append .Params.props -}}
-{{- end -}}
-
-{{- if $event_pages -}}
-    {{- range  .Pages -}}
-           {{- if  .Params.props }}{{ $props = $props  | append .Params.props -}}{{- end -}}
-    {{- end -}}
-{{- end -}}
-
-{{- range .Pages -}}
 
 
-                        {{- range (.Pages.GroupBy "Section") }}
-                           {{- range .Pages -}}
-                                {{- $props_to_add := (slice ) }}
-                                {{- range .Params.props }}
-                                    {{- $latest_prop := . | title }} 
-                                    {{- $props_to_add := $props_to_add |append  $latest_prop }} 
-                                {{- $props = $props  | append $props_to_add }}{{ end }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $module_components := (slice "makeup" "costuming" "props" "treasure" ) }}
 
-                           {{ end }}
-                        {{ end }}      
-      
-{{ end }}
+{{ range  $module_components }}
+{{ $current_component := . }} 
 
-{{ $props = $props | uniq }} 
-{{ $props = $props | sort }} 
+<h2>{{ $current_component }}</h2>
 
-{{ if (gt ($props | len) 0) }}
-<div id="props"> <h2>Props </h2>
-{{ range $props }}
-<li>{{ title . }} </li>
-{{ end }} 
-</p></div> 
-{{ end }}
-
-
-{{ $makeup := (slice ) }}
-{{ if  .Params.makeup }} 
-    {{ $makeup = $makeup  | append .Params.makeup }} 
-{{ end }}
-
-{{ if $event_pages }} 
-    {{ range  .Pages  }}
-           {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
-    {{ end }}
-{{ end }}
-
-{{- range .Pages -}}
-
-
-                        {{- range (.Pages.GroupBy "Section") -}}
-                           {{- range .Pages -}}
-                                {{- $makeup_to_add := (slice ) -}}
-                                {{- range .Params.makeup -}}
-                                    {{- $latest_prop := . | title -}} 
-                                    {{- $makeup_to_add := $makeup_to_add |append  $latest_prop -}} 
-                                {{- $makeup = $makeup  | append $makeup_to_add }}{{ end }}
-
-                           {{- end -}}
-                        {{- end -}}
-      
-{{- end -}}
-
-{{- $makeup = $makeup | uniq -}} 
-{{- $makeup = $makeup | sort -}} 
-
-{{- if (gt ($makeup | len) 0) -}}
-<div id="makeup"> <h2>Makeup </h2>
-{{- range $makeup -}}
-<li>{{- title . -}}</li>
-{{- end -}} 
-</p></div> 
-{{- end -}}
-
-
-{{- $costuming := (slice ) -}}
-{{- if  .Params.costuming -}} 
-    {{- $costuming = $costuming  | append .Params.costuming -}} 
-{{- end -}}
-
-{{- if .Pages -}} 
-    {{- range  .Pages -}}
-           {{- if  .Params.costuming }}{{ $costuming = $costuming  | append .Params.costuming -}}{{- end -}}
-    {{- end -}}
-{{- end -}}
-
-{{- range .Pages -}}
-
-
-                        {{- range (.Pages.GroupBy "Section") -}}
-                           {{- range .Pages -}}
-                                {{- $costuming_to_add := (slice ) -}}
-                                {{- $working_costume := (slice ) -}}
-                                {{- if not (reflect.IsSlice .Params.costuming) }}{{ $working_costume = (slice .Params.costuming ) -}}
-                                {{- else  -}} {{- $working_costume = append $costuming .Params.costuming }}{{ end -}}
-                                {{- range $working_costume -}}
-                                    {{- $latest_costume := . | title -}} 
-                                    {{- $costuming_to_add := $costuming_to_add |append  $latest_costume -}} 
-                                {{- $costuming = $costuming  | append $costuming_to_add -}}{{- end -}}
-
-                           {{- end -}}
-                        {{- end -}}      
-      
-{{- end -}}
-
-{{- $costuming = $costuming | uniq -}} 
-{{- $costuming = $costuming | sort -}} 
-
-{{- if (gt ($costuming | len) 0) -}}
-<div id="costuming"> <h2>Costuming </h2>
-{{- range $costuming }}
-{{- if . -}}<li>{{- title . -}}</li>{{- end -}}
-{{- end -}} 
-</p></div> 
 {{- end -}}
 
 <h2>Source Code</h2>
