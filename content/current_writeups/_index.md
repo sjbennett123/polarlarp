@@ -208,24 +208,28 @@ magic_items:
     name: Gemstone of Power
     description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
     duration: 1 Year
+    delimit: Delimited to 15th Level or Below
     effects: 
       - Life x2 per day
   - 
     name: Gemstone of Power
     description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
     duration: 1 Year
+    delimit: Delimited to 15th Level or Below
     effects: 
       - Life x2 per day
   - 
     name: Gemstone of Power
     description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
     duration: 1 Year
+    delimit: Delimited to 15th Level or Below
     effects: 
       - Imprison x2 per day
   - 
     name: Gemstone of Power
     description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
     duration: 1 Year
+    delimit: Delimited to 15th Level or Below
     effects: 
       - Dragons Breath x2 per day
   - 
@@ -239,12 +243,14 @@ magic_items:
     name: Gemstone of Power
     description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
     duration: 1 Year
+    delimit: Delimited to 15th Level or Below
     effects: 
       - Cure Critical Wounds 30 x2 per day
   - 
     name: Gemstone of Power
     description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
     duration: 1 Year
+    delimit: Delimited to 15th Level or Below
     effects: 
       - Mystic Lock x2 per day
 
