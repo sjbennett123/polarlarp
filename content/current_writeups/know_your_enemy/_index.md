@@ -11,11 +11,17 @@ Layout: module
 description: Balar delivers the intelligence that the Black Anvil company has gathered along with The Magic Bomb blueprints. Fear spreads through the town.
 author: Scott Bennett
 props:
-  - 30x Zine "Notes and Observations on the Bloody Fist"
+  - 30x Zines "Notes and Observations on the Bloody Fist"
   - map of the barony of woodhaven
+  - map of gnawing ones caves for the "Unspoiled Caves" series of modules
+  - map of the Bloody Fist ritual camps for the "Knee Deep Camps" series of modules
+  - an example of the Tarrach Symbol
+  - Propoganda Bomb Blueprints
+
+
 Requirements:
   - The orcs have shown the town that they are not defeated. The need for heroes is obvious.
-  - an example of the Tarrach Symbol
+
 synopsis: Balar distributes the zine "Notes and Observations on the Bloody Fist" that he and the Black Anvil Company have collected. He also reviews the notes that he has on the Spirit Bomb that the Orcs are preparing. He is worried that the orcs will complete their work soon. He will have the same energey as Bruce Banner in Avengers Endgame concerned with the arrival of thanos. Terrified with the nature of the force that the orcs have assembled. He also speaks to a seemingly unrelated series of murders that are tied to a symbol that looks like a shepards crook and he will produce an example and provide it to the players. 
 
 outcomes: 
