@@ -129,7 +129,41 @@ rumors:
        Balor Ironleaf
        
        Captain and Guildmaster of the Black Anvil Mercanary Company
+gold: 446
+production:
+  - Shield x10 (20)
+  - Awaken Potion x10 (40)
+  - Purify Blood Potion x20 (100)
+  - Dispel Magic Scroll x5 (40)
+  - Awaken Scroll x10 (40)
+  - Sleep Scroll x10 (60)
+  - Dragons Breath scroll x20 (160)
+  - Stone Bolt scroll x20 (100)
+  - Restore Limb x5 (35)
+  - Vertigo Gas x20 (120)
+  - Web scroll x10 (50)
+  - Long Sword x10 (20)
+  - Short Sword x10 (20)
+  - Spear x5 (10)
+  - 30 pt Armor x10 (30)
+  - 40 pr Armor x5 (20)
+  - Shatter Scroll x10 (30)
+  - Cure Serious Wounds Potion x20 (80)
+  - Cure Light Wounds Potion x20 (20)
+  - Cure Wounds Potion x20 (40)
+  - Magic Armor scroll x10 (20)
+  - Shield Magic potion x10 (50)
+  - Unparalyze potion x5 (40)
+  - Release Scroll x5 (25)
+  - Throwing Dagger x4 (4)
+  
 magic_items:
+  - 
+    name: -Bloody Fist Battle Wand “Blood”
+    description: A wand made of bone, wrapped in leather, carved with Orcish runes, the energy inside of chaos and blood in its wake.
+    duration: 1 Year
+    effects: 
+      - Taint Blood x3 per day
   - 
     name: Necklace of Terror
     description:  <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
@@ -137,12 +171,154 @@ magic_items:
     effects: 
       - 
   - 
-    name: Ring of Ruthlessness 
+    name: Ring of Ruthlessness
     description:  <!-- (Paralysis x2, Imprison x2, Weakness x1)  --> 
     duration: 1 Year
     effects: 
       - 
 ---
+
+here is your treasure for the event
+
+1 year 5 effect item - 5 or 1 year 1 effect items - 10
+
+
+
+*A ring that may be tarnished and faded to the echoes of time but still radiates the the spirit of the Hero who wore it*
+
+Refit Armor x2 per day
+
+Cure Mortal Wounds x2 per day
+
+Poison Shield x1 per day
+
+-Orcamedes Special Bomb Shard
+
+*A shard of the Orcamedes Special Bomb made by the Bloody Fist. It was embedded in a tree near the bomb site, charged with energy.*
+
+1yr Rendered
+
+Charm x2 per day
+
+Silence x2 per day
+
+Cloak Command x1
+
+-Ring of the Fist
+
+*A ring blooded with battle and mayhem caused by the Bloody Fist*
+
+1yr Rendered
+
+Destroy x2 per day
+
+Shatter x2 per day
+
+-Bloody Fist Battle Wand “Death”
+
+*A wand made of bone, wrapped in leather, carved with Orcish runes, the energy inside of death and destruction in its wake*
+
+1yr Rendered
+
+Death x3 per day
+
+-Bloody Fist Ritual Dagger
+
+*This dagger was crafted for slitting throats or casting rituals. It has seen its fair share of both, but the bloodstained runes on the dagger call for a higher purpose*
+
+1yr Rendered
+
++1 Damage Aura
+
+Confine x2 per day
+
+Dispel Magic x2 per day
+
+2 year 5 effect items - 2  or 2 year 1 effect item - 4
+
+-Blade of the Honor Guard
+
+*This blade was forged full of hatred for a soldier with no name*
+
+2yr Rendered
+
++3 Damage Aura
+
+Cloak Chaos x2 per day
+
+delimit item level 15 and down - 5  1 year items
+
+-Gemstone of Power
+
+*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
+
+Life x2 per day
+
+-Gemstone of Power
+
+*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
+
+Imprison x2 per day
+
+-Gemstone of Power
+
+*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
+
+Dragons Breath x2 per day
+
+-Gemstone of Power
+
+*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
+
+Ward x2 per day 
+
+-Gemstone of Power
+
+*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
+
+Cure Critical Wounds 30 x2 per day
+
+-Gemstone of Power
+
+*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
+
+Mystic Lock x2 per day
+
+strength 1 comps - 100
+
+Mixture of all: 
+
+Throw in some P1 Comps as “Bloody Fist Orc Blood” 
+
+Throw in a few D1 “Black Shadow’s Residue”
+
+Throw in a few C1 “Blood of the Verdant Hedge”
+
+strength 2 comps - 4
+
+Time: Stonewood Fragment T2 x2
+
+Energy: Scorched Ritual Component E2
+
+strength 4 comps - 2
+
+Void: Essence of a Fallen Murumbrian V4
+
+Spirit: Beard Lock of a Fallen Dwarven Hero S4
+
+gold - 446
+
+-Standard Coin for loot
+
+production levels - 1074
+
+
+
+this is the max treasure for the event
+
+
+
+
 
 ## Current Work
 

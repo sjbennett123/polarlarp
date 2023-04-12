@@ -12,10 +12,10 @@ plotline:
   - The Gnawing Ones
 requirements: 
 
-description: Adventurers exterminate the Gnawing ones who have infested the root system of some of the trees of stonewood by using a Fumigation Device provided by the Rygel Order. This Cave is the first in the series, the Bloody Rats are skulking around the caves and almost hiding from the Gnawing Ones just looking for some Orc blood to feed on .
+description: Adventurers exterminate the Gnawing ones who have infested the root system of some of the trees of stonewood by using a Fumigation Device provided by the Rygel Order. This Cave is the first in the series, Bloody Rats are skulking around the cave and hiding from the Gnawing Ones while looking for some Orc blood to feed on.
 
 Synopsis: > 
-  Val’Kaz really turned up the sinister game with this move. He wanted to hit Stonewood where It hurts, their pride. Orcamedes was ordered to construct him a vile insect that would burrow into the roots of the Stonewood Trees and poison them to wither them away. This would let  Val’Kaz watch the morale of the populate decay like the trees they hold so dead. The Gnawing Ones they were named, they are very effective in worker society and combat. Modeled after a termite for its wood destroying properties but genetically modified with varies other bug species to make them vicious and venomous.  This is 1 of 10 modules, they scale with increasing difficulty in terms of what they will fight but more importantly HOW they will fight. Each Cave has a Bloody Fist Banner at the entrance of the Cave, just inside the Mod shack door. The Banners are VERY important to these modules, the Gnawing Ones are afraid of the Banners. They will not advance past them or at you if you brandish a Bloody Fist Banner. The players may move the wooden base with the Bloody Fist Banner through the Cave to “control” the way the Gnawing Ones engage the Players. The Gnawing Ones will not leave the Caves to pursue the players under any circumstances. 
+ This is 1 of 10 modules, they scale with increasing difficulty in terms of what they will fight but more importantly HOW they will fight. Each Cave has a Bloody Fist Banner at the entrance of the Cave, just inside the Mod shack door. The Banners are VERY important to these modules, the Gnawing Ones are afraid of the Banners. They will not advance past them or at you if you brandish a Bloody Fist Banner. The players may move the wooden base with the Bloody Fist Banner through the Cave to “control” the way the Gnawing Ones engage the Players. The Gnawing Ones will not leave the Caves to pursue the players under any circumstances. 
 
    The Gnawing Ones have a special way they kill you, they wont drop you and begin a killing blow count like most monsters or players will. They want you to be paralyzed and helpless so they can look you in the eyes when they push their claws into your heart and feel the fear gush out onto them as you bleed out on their chitinous exoskeletons.
 
@@ -27,14 +27,17 @@ outcomes:
 number_of_cast_members: 7
 Roles: Adult Gnawing Ones x3, Bloody Rats x4
 
-Props:  Bloody Rat Mask and Tail, Bug Costuming and Green Tabard, Bloody Fist Banner and Base
-treasure: Production Item, Components, Coins
+Props:  
+  - Bloody Rat Mask and Tail, 
+  - Bug Costuming
+  - Green Tabard
+  - Bloody Fist Banner and Base
+treasure: 
+  - Production Item
+  - Components
+  - Coins
 
 
-Rumors: |
-  “I have received a rather… Disturbing report from the Rangers Guild of Stonewood. There has been an odd disappearance as of late regarding various bugs in or around Stonewood. Not sure what this means for us, but it seems to be linked to something odd… According to Guildmaster Fuli Oakrider, the bugs most prominently missing are ones that can burrow and ones that feed on wood…”
-
-  Faerune Leafdancer, Speaker of the Guilds, Voice of Runes Hammer 
 
 Hook: Know Your Enemy provided them with a map and information on the Gnawing Ones, but Magnus Kane brought them a Fumigation Device and gave them a detailed rundown how to defeat these creatures. Now it is upto the Adventurers to clear them
 scenes: 
@@ -44,9 +47,3 @@ scenes:
     flee_point: Mod Shack Door
 
 ---
-
-*Just when you thought the Bloody Fist couldn’t sink any lower. Val’Kaz the Ruthless ordered a creature to destroy the very thing that makes Stonewood so unique, the  Stonewood Trees!*
-
- 
-
- 
