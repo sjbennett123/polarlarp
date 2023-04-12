@@ -30,10 +30,11 @@ treasure: Production Item, Components, Coins
 magic_items:
   - 
     name: Ring of the Fist
-    description:  todo
+    description: A ring blooded with battle and mayhem caused by the Bloody Fist charged with energy.
     duration: 1 Year
     effects: 
-      - todo
+      - Destroy x2 per day
+      - Shatter x2 per day
 
 rumors: | 
   There has been a sudden influx of celestial energy in the area as of the last few days. I am uncertain of what these energies are yet but I shall investigate them . It could be something with the Leylines but it feels more tied to the land with celestial energy, very concerning for me as a Celestial Formalist. I shall return with what I find out at the market gathering upcoming.

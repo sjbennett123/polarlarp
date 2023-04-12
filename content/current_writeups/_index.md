@@ -166,16 +166,95 @@ magic_items:
       - Taint Blood x3 per day
   - 
     name: Necklace of Terror
-    description:  <!-- (Fear x2, Taint Blood x2, Paralysis x1) --> 
+    description:  
     duration: 1 Year
     effects: 
-      - 
+      - Fear x2
+      - Taint Blood x2
+      - Paralysis x1
   - 
     name: Ring of Ruthlessness
-    description:  <!-- (Paralysis x2, Imprison x2, Weakness x1)  --> 
+    description:  
     duration: 1 Year
     effects: 
-      - 
+      - Paralysis x2
+      - Imprison x2
+      - Weakness x1
+  - 
+    name: Orcamedes Special Bomb Shard
+    description: A shard of the Orcamedes Special Bomb made by the Bloody Fist. It was embedded in a tree near the bomb site, charged with energy.
+    duration: 1 Year
+    effects: 
+      - Charm x2 per day
+      - Silence x2 per day
+      - Cloak Command x1
+
+  - 
+    name: Bloody Fist Battle Wand “Death”
+    description: A wand made of bone, wrapped in leather, carved with Orcish runes, the energy inside of death and destruction in its wake
+    duration: 1 Year
+    effects: 
+      - Death x3 per day
+  - 
+    name: Bloody Fist Ritual Dagger
+    description: This dagger was crafted for slitting throats or casting rituals. It has seen its fair share of both, but the bloodstained runes on the dagger call for a higher purpose
+    duration: 1 Year
+    effects: 
+      - +1 Damage Aura
+      - Confine x2 per day
+      - Dispel Magic x2 per day
+  - 
+    name: Blade of the Honor Guard
+    description: This blade was forged full of hatred for a soldier with no name
+    duration: 2 Year
+    effects: 
+      - +3 Damage Aura
+      - Cloak Chaos x2 per day
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Life x2 per day
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Life x2 per day
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Imprison x2 per day
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Dragons Breath x2 per day
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Ward x2 per day
+      
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Cure Critical Wounds 30 x2 per day
+  - 
+    name: Gemstone of Power
+    description: A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to.
+    duration: 1 Year
+    effects: 
+      - Mystic Lock x2 per day
+
+
 ---
 
 here is your treasure for the event
@@ -184,105 +263,30 @@ here is your treasure for the event
 
 
 
-*A ring that may be tarnished and faded to the echoes of time but still radiates the the spirit of the Hero who wore it*
 
-Refit Armor x2 per day
+-
 
-Cure Mortal Wounds x2 per day
 
-Poison Shield x1 per day
 
--Orcamedes Special Bomb Shard
 
-*A shard of the Orcamedes Special Bomb made by the Bloody Fist. It was embedded in a tree near the bomb site, charged with energy.*
 
-1yr Rendered
 
-Charm x2 per day
 
-Silence x2 per day
 
-Cloak Command x1
 
--Ring of the Fist
 
-*A ring blooded with battle and mayhem caused by the Bloody Fist*
 
-1yr Rendered
 
-Destroy x2 per day
 
-Shatter x2 per day
 
--Bloody Fist Battle Wand “Death”
 
-*A wand made of bone, wrapped in leather, carved with Orcish runes, the energy inside of death and destruction in its wake*
 
-1yr Rendered
 
-Death x3 per day
 
--Bloody Fist Ritual Dagger
 
-*This dagger was crafted for slitting throats or casting rituals. It has seen its fair share of both, but the bloodstained runes on the dagger call for a higher purpose*
 
-1yr Rendered
+ 
 
-+1 Damage Aura
-
-Confine x2 per day
-
-Dispel Magic x2 per day
-
-2 year 5 effect items - 2  or 2 year 1 effect item - 4
-
--Blade of the Honor Guard
-
-*This blade was forged full of hatred for a soldier with no name*
-
-2yr Rendered
-
-+3 Damage Aura
-
-Cloak Chaos x2 per day
-
-delimit item level 15 and down - 5  1 year items
-
--Gemstone of Power
-
-*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
-
-Life x2 per day
-
--Gemstone of Power
-
-*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
-
-Imprison x2 per day
-
--Gemstone of Power
-
-*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
-
-Dragons Breath x2 per day
-
--Gemstone of Power
-
-*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
-
-Ward x2 per day 
-
--Gemstone of Power
-
-*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
-
-Cure Critical Wounds 30 x2 per day
-
--Gemstone of Power
-
-*A flawless gemstone pulsing with energy, the energy is fresh and radiant like the adventurers it will be drawn to…*
-
-Mystic Lock x2 per day
 
 strength 1 comps - 100
 
