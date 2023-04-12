@@ -4,18 +4,23 @@ title: "Know Your Enemy"
 weight: 7
 schedule: Know Your Enemy
 plotline: 
-  - The Propoganda Bomb
+  - The Propaganda Bomb
   - Caves of Terror
 
 Layout: module
 description: Balar delivers the intelligence that the Black Anvil company has gathered along with The Magic Bomb blueprints. Fear spreads through the town.
 author: Scott Bennett
+props:
+  - 30x Zine "Notes and Observations on the Bloody Fist"
+  - map of the barony of woodhaven
 Requirements:
-  - The orcs have shown the town that they are not defeated. The need for heroes is obvious. 
-synopsis: Balar distributes the notes that he and the Black Anvil Company have collected. He also reviews the notes that he has on the Spirit Bomb that the Orcs are preparing. He is worried that the orcs will complete their work soon.
+  - The orcs have shown the town that they are not defeated. The need for heroes is obvious.
+  - an example of the Tarrach Symbol
+synopsis: Balar distributes the zine "Notes and Observations on the Bloody Fist" that he and the Black Anvil Company have collected. He also reviews the notes that he has on the Spirit Bomb that the Orcs are preparing. He is worried that the orcs will complete their work soon. He will have the same energey as Bruce Banner in Avengers Endgame concerned with the arrival of thanos. Terrified with the nature of the force that the orcs have assembled. He also speaks to a seemingly unrelated series of murders that are tied to a symbol that looks like a shepards crook and he will produce an example and provide it to the players. 
+
 outcomes: 
-  - Balar takes the adventurers to the captives. Run Rescue the captives.  
-roles: Balar Ironleaf
+  - Adventurers are able to go on the Unspoiled Caves and Knee Deep Camp Modules. 
+
 rumors: |
   Message Posted on Town Square Common Board
 
@@ -24,14 +29,5 @@ rumors: |
   Be safe and bring your best weapons and healers, Tyrras grace we will need them,
 
   Balor Ironleaf
-
   Captain and Guildmaster of the Black Anvil Mercenary Company
 ---
-
-
-
-Channel the energy of bruce banner in avengers endgame. 
-
-distribute notice of rat reward. 
-
-- [COMMON] A symbol has been sighted at gristly crimes. Usually drawn in blood on the forehead of the slain and tortured, it has been likened to a shepherd's crook.
