@@ -13,7 +13,6 @@ defenses:
   - threshold 10
   - Phase x10
   - Dodge x5
-  - Cloak Death x5
   - Cloak Chaos x10
   - Cloak Binding x10
   - 200 Arcane Vengeance x10 (Per Formal Rules)

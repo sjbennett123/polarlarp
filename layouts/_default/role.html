@@ -7,24 +7,27 @@
 
 
 
-{{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }} 
+{{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }}
+{{ if .Params.module_details }} {{ .Params.module_details }}  <hr>{{ end }} 
 {{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
-{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
-
-{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end}}
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }}
+{{- if .Params.names -}}
+{{- $current_name := .Params.names -}} 
+{{- $names := index .Site.Data "names" -}}
+{{- $orc_names := shuffle $names.orc  -}}
+<p><b>Names:</b> {{ delimit (first 5  $orc_names) ", " -}}</p>
+{{ end }}
+{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end }}
 {{ if .Params.weapons }}<p><b>Weapons:</b> {{ .Params.weapons }}</p>{{ end }}
 {{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
-
-
-
 
 {{ $magic := (slice ) }}
 {{ if .Params.magic }}
 {{ if not (reflect.IsSlice .Params.magic)}}{{ $magic = (slice .Params.magic) }}
 {{ else  }} {{ $magic = append $magic .Params.magic }}
 {{ end }}
-<p><b>Magic:</b> {{ delimit $magic ", "}}</p> {{ end }}
+<p><b>Magic:</b> {{ delimit $magic ", "}}</p> {{- end -}}
 
 
 

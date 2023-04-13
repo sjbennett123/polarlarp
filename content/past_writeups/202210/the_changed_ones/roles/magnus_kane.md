@@ -26,7 +26,6 @@ abilities:
   - Alchemy 30 Levels
   - Craftsman Other Golem Research 30 Levels
   - Craftsman Other Planes Lore 30 Levels
-
 costume:
   - Mystic Wood Elf Horns
   - Long Coat
