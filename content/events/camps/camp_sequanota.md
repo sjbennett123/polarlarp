@@ -14,6 +14,7 @@ description: A nice Lutheran summer camp with heated stone cabins.
 - **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
 - **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
 - **Video**: [Summer Camp Video](https://www.youtube.com/watch?v=bcycnxE5T2k)
+- **WiFi**: Yes! In the Tavern.
 
 ## Arriving at the Campsite
 

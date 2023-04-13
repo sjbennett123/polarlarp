@@ -7,7 +7,7 @@
 
 <p>Event Registration closes the week before an event on Friday.</p>
 <h2 id="upcoming_events">Upcoming Events</h2>
-{{ range  .Params.events  }}
+{{ range  .Params.events }}
 <h4>{{ .date }}  ~  {{ .title | title }}    {{ if .facebook_link }}<a href="https://www.facebook.com/events/1317732195737709"><i class="fab fa-facebook"></i></a>{{ end }}</h4>
 <p id="in_game_location"><b>Event Type: </b> {{ .type }} </p>
 <p><b>In Game Location: </b> The town of {{ title .ig_town }} in the barony of {{ title .ig_barony }}</p>
