@@ -1,40 +1,33 @@
 ---
-title: Rat, Sewer
-date: 2022-11-10T10:33:21-05:00
-draft: false
-layout: national_monster_card
-monster_manual: basic
+title: Giant Sewer Rat
 
-Name: Rat, Sewer
-Body_points: '8'
-Strength_bonus: '0'
-threshold: '0'
-rips_from: None
-Descriptive Phrase: Large Rat
-Type: Animal
-APL: '1'
-Movement: Wandering
-Inteligence: Animal
-Society: Pack
-Motivation: 
- - Hunger
-armor: None
-offensive_abilities: 
-  - Carrier Attack: Disease  
-  - Duration of Disease: Until Cured
-defensive_abilities: ''
-vulnerabilities: ''
-spells: None
-pyramid: None
-rec_treasure: ''
-notes: None
-weapon_use: None
-claws: 'Short/Long '
-base_damage_call: Small Weapon - 1 Disease Short.Longsword - 2 Disease
-at_death: Remains
-healed_by: Healing
-immune_to: None
-Protectives: None to Start
-Zone: A
+description: A human sized brown or gray rat
+Layout: role
+
+introduction:  Squeak! You are a Giant Sewer Rat. You live where there is decay and food. The garbage dump is the perfect home for you. You are somewhat aggressive, only attacking if approached within 10 feet by a non-rat. You love to stay in a group and attack as one if needed. You have no interest in the Stonewood Seed Grain.
+
+motivation: To eat trash and decay
+
+tactics: Will tend to stay grouped together and fight as a group rather than individuals, will attack if something gets within 10 feet.
+
+movement: Wondering, Drawn toward food source, tend to stay together
+
+speech: Animal Squeaks
+
+body: 30
+
+weapons: Claws/ Longsword
+damage: 5 Disease
+ 
+abilities: >
+  - Rip from Pin/ BInd
+  - Ability to Heal x2- On a TEN count [one I feed, two I feed, etc...] a Giant Field Rat can heal if there is a food source available [Food sources include, Plot designated garbage dumps, other Plot designated feeding areas, grain piles, etc.]
+  - Physical Strike Cause Weakness x5
+  - Dodge x1
+
+costuming: Brown or Gray Tabard, Rat Mask, Rat Tail
+
+props: Rat Tail for Treasure
+
+
 ---
-

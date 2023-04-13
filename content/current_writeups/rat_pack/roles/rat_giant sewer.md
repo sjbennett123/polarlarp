@@ -1,70 +1,33 @@
 ---
-title:  Giant Sewer Rats
+title: Giant Sewer Rat
 
-description: 
+description: A human sized brown or gray rat
 Layout: role
 
-introduction: Squeak squeak squeak, squeak!
+introduction:  Squeak! You are a Giant Sewer Rat. You live where there is decay and food. The garbage dump is the perfect home for you. You are somewhat aggressive, only attacking if approached within 10 feet by a non-rat. You love to stay in a group and attack as one if needed. You have no interest in the Stonewood Seed Grain.
 
-motivation: 
-tactics: 
+motivation: To eat trash and decay
 
-body:
-defenses: 
-weapons: 
-damage:
-magic: 
-abilities:
-killing_blow: 
+tactics: Will tend to stay grouped together and fight as a group rather than individuals, will attack if something gets within 10 feet.
 
-Costuming:
-- Brown or Gray Tabard,  
-- Rat Masks OR Rat Makeup
-- Rat Tails
-makeup:
-props: 
+movement: Wondering, Drawn toward food source, tend to stay together
 
-reset:
+speech: Animal Squeaks
+
+body: 30
+
+weapons: Claws/ Longsword
+damage: 5 Disease
+ 
+abilities: >
+  - Rip from Pin/ BInd
+  - Ability to Heal x2- On a TEN count [one I feed, two I feed, etc...] a Giant Field Rat can heal if there is a food source available [Food sources include, Plot designated garbage dumps, other Plot designated feeding areas, grain piles, etc.]
+  - Physical Strike Cause Weakness x5
+  - Dodge x1
+
+costuming: Brown or Gray Tabard, Rat Mask, Rat Tail
+
+props: Rat Tail for Treasure
+
+
 ---
-
-
-***Traits:***
-
-- ***Animal Intelligence***
-- ***Group Movement***
-- ***Ravenous***
-- ***Defensive***
-
-**Movement:** Wondering, Drawn toward food source, tend to stay together
-
-**Speech:** None
-
-**APL:** 1
-
-**Body:** 15
-
-**Strength Bonus:** 3
-
-**Healed By:** Earth
-
-**Defensives:**
-
-**Offensives:**
-
-- ​	Ability to Heal x2- On a TEN count [one I feed, two I feed, etc...] a Giant Sewer Rat can heal if there is a food source available [Food sources include downed and dead PCs, other down or dead rats, Plot designated garbage dumps, Other Plot designated feeding areas, etc.]
-- ​	5 Cause Disease
-- ​	5 Cause Weakness
-
-
-
-**Weapons:** Small Weapon- 3 Disease, Short/Longsword – 4 Disease
-
-**Immune To:** Cause Disease, Cause Weakness
-
-**Damage:**
-
-**Abilities:** Rips from Pin/ Bind
-
-**Motivations:** Feed on trash and decay
-
-**Tactics:** Will tend to stay grouped together and fight as a group rather than individuals, will attack if something gets within 10 feet.
