@@ -6,8 +6,9 @@ weight: 10
 Layout: role
 introduction: >
   You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
-reset: 3 times each.
+reset: 3 times each. You are one of 2 Shaman Casters in a Raiding Party. One is ALWAYS Celestial and the other Earth caster.
 body: 100
+names: orc
 defenses: 
   - Resist Poison x3
   - Cloak Flame x3
@@ -30,7 +31,7 @@ abilities:
   - Can destroy non-reinforced or magically locked doors on a 5 Count (1 I Shatter This Door....)
   - Can Rift on 3 Count
 
-Motivation: Shamans are the literal backbone of the Bloody Fist fighting machine. The Grunts take the abuse for you, and you heal their wounds, but you always make wounds that don’t heal so easily. You outrank the Raid Leaders in power structure, but you respect their battlefield skill and prowess so unless the command is unsound you will follow it even till death. You are one of 2 Shaman Casters in a Raiding Party. One is ALWAYS Celestial and the other Earth caster. You are 100% support for your squadron. Celestial will blow up the PCs while Earth casters keep everyone alive and disable with Chaos.
+Motivation: Shamans are the literal backbone of the Bloody Fist fighting machine. The Grunts take the abuse for you, and you heal their wounds, but you always make wounds that don’t heal so easily. You outrank the Raid Leaders in power structure, but you respect their battlefield skill and prowess so unless the command is unsound you will follow it even till death. You are one of 2 Shaman Casters in a Raiding Party. One is always Celestial and the other an Earth caster. You are 100% support for your squadron. Celestial will blow up the PCs while Earth casters keep everyone alive and disable with Chaos.
 Tactics: > 
   Stay in formation with your Grunts in front of you and beside your Raid Leaders. You play these roles like a PC healer/necromancer/celestial caster would. The players will be confused at your intelligence and use of “sky magics” for a the “common Orc” so use that to your advantage. Kidnap when you can if the person is of value. 
 
@@ -41,12 +42,11 @@ costume:
   - Red Tabbard
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
-killing_blow: No (Use Chaos but avoid Death Spells, saving them for Life Spells to keep bloody Fist Alive)
+killing_blow: No (Use Chaos but avoid Death Spells, save them for Life Spells to keep bloody Fist Alive). Kidnap when you can if the person is of value.
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 
 ---
-
 
 
 

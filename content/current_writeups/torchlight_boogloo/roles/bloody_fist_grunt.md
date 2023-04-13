@@ -1,11 +1,11 @@
 ---
 title: "Bloody Fist Grunt"
-
+date: 2022-11-10T10:33:21-05:00
+draft: false
 weight: 10
-quantity: 7
 Layout: role
 introduction: You are part of an elite fighting machine and the strongest Orc tribe in Elysia to date. You are fearless and barbaric in your lust for vengeance, but you are tactical how you pursue victory. People fear the sight of you and flee in terror at your warcry. The Bloody Fist will endure any foe who opposes it, no one has stopped you yet.
-reset: 3 times each.
+names: orc
 body: 70
 defenses: 
   - Resist Poison x3
@@ -36,3 +36,14 @@ movement: Forceful and with purpose. Don't slouch or stoop show your might.
 search: Loot is above you unless you see an impressive magic item then tell your Raid Leader.
 
 ---
+
+
+
+
+
+
+
+
+
+
+

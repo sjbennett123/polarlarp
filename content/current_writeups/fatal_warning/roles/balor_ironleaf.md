@@ -6,39 +6,39 @@ weight: 9
 Layout: role
 description: former Captain of the Black Anvil Company in Stonewood
 introduction: You were once the protector of this town. Now in your olden age you are not the Dwarf you once were. Before you would have died before these filthy Bloody Fist scum plagued your walls. But your life has been hard since the occupation set in and the execution of the Black Anvil Company, more importantly the grim executions of you friends.
-Body: 50
+Body: 160 (40 Armor)
 
 defenses: 
-  - Resist Poison x3
-  - Resist Sleep x3
-  - Resist Charm x3
-  - Resist Physical x3
+  - Resist Poison x5
+  - Resist Sleep x5
+  - Resist Charm x5
+  - Resist Physical x5
+  - Dodge x3
 
-magic: 4/4/4/4/4/4/4/4/4 Earth
+Magic: 5/5/5/5/5/5/5/5/5 Earth, 20 Levels Earth Formal
 
-weapons: Any
+Weapons: Any (Sword and Shield normally)
 
-damage: 7 Silver
+Damage: 10 Magic (Silver Base Sword)
 
 abilities: 
-  - Slay/Parry x2
+  - Slay/Parry x4
   - Healing Arts
   - First Aid
   - Read and Write
   - Read Magic
+  - Craftsman Other Mercenary x20
+  - Craftsman Other: Military Tactics x20
+  - Craftsman Other Guildmaster x20
+  - Craftsman Other Brewing x20
+  - Smithing x20
 
-killing_blow: NO 
+killing_blow: no
+played_by: Chris Colland
 
-motivation: All you care about is getting the Town of Stonewood back together again from the Bloody Fist. You age and wounds make it hard to fight and move anymore but you kept this town safe for many moons. You will aid the adventurers with the 10 buildings that must be reclaimed to get the town back in control and away from the Bloody Fists schemes.
+Motivation: Restore Stonewood to its former glory and drive the Bloody Fist into the Earth! Rebuilding the Guilds system of Stonewood to rebirth the Black Anvil Company
 ---
 
 **Storyteller**: Balor is a gruff old grumpy Dwarf but a very honorable one. He has seen more battles with the monsters of Elysia than he cares to remember. You can always get him to talk about his glory days over a nice warm pint. No one knows the town of Stonewood better than Balor, he keeps tabs on everyone for the greater good of the town. Depending how the PCs interact with him, he will start to open up about rebellion or laugh at their dreams of liberating the town of Stonewood.
 
-**Patriot**: He is very protective of Stonewood, this occupation is a literal living hell for him. He wants to liberate the town badly, but his spirits have been crushed this last year.
-
-**Broken**: He won’t carry any weapons actively so he can respect the Accords of the Fist but he keeps spells hidden on himself to aid the Citizens when the Bloody Fist are brutal to them.
-
-**Back in Action**: If the town is restored after the first event Balor’s satisfaction, he will reinstate the Black Anvil Company as the new Town Guard for Stonewood with he PCs support.
-
-**Played by Chris Colland (Major Plot and Importance NPC)**
-
+**Healer of Last Resort**: If the PC group has no healer and none is available, allow the PCs to choose to come back later to Balor can be convinced to go if no one else in town will go. But he will insist this be something he must be a part of that it is “not his story”
