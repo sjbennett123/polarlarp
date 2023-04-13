@@ -30,9 +30,7 @@ outcomes:
   - The PCs run out of time, and find the body of Granny at the ransom drop off point. THIS IS A TIMED MOD. Mod failure occurs one hour after Huldrek gets the note.
 
 number_of_cast_members: 2
-Roles: 
-  - Huldrek "Drek" Silverlode
-  - Tarrasch Pawn 
+
 props: 
   - Box for Finger
   - Severed Finger with Lock of Hair and Ribbon
