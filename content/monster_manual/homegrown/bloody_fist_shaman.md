@@ -6,8 +6,9 @@ weight: 10
 Layout: role
 introduction: >
   You are the spiritual magical force behind the Bloody Fist’s mighty blades. You keep the ranks of the Bloody Fist moving without relenting. Your Earth Magic seals their wounds and gives them life, Your Celestial Magic smites your foes with elemental fury, Your Necromantic ways incite fear on the battlefield to break even the sternest of spirits. You don’t answer to anyone under the rank of Honor Guard but you move with your Raid Leader to preserve tactical advantage.
-reset: 3 times each.
+reset: 3 times each. You are one of 2 Shaman Casters in a Raiding Party. One is ALWAYS Celestial and the other Earth caster.
 body: 100
+names: orc
 defenses: 
   - Resist Poison x3
   - Cloak Flame x3
@@ -41,12 +42,11 @@ costume:
   - Red Tabbard
 movement: Forceful and with purpose. Don't slouch or stoop show your might. 
 search: You will search players for Magic Items and turn them to the Raid Leaders if martial weapons but keep the Spell Magic Items to use against the players. They can reloot them later from your body.
-killing_blow: No (Use Chaos but avoid Death Spells, saving them for Life Spells to keep bloody Fist Alive)
+killing_blow: No (Use Chaos but avoid Death Spells, save them for Life Spells to keep bloody Fist Alive). Kidnap when you can if the person is of value.
 makeup: 
   - Bloody Fist Makeup  (Red Scales on left side of face and 4 finger mark warpaint on right side of face)
 
 ---
-
 
 
 

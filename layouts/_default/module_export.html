@@ -32,7 +32,7 @@
 {{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
 {{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
 
-     <h1> {{ .Params.title -}} </h1>{{ $module_title := .Params.title -}}
+     <h1> {{ title .Params.title -}} </h1>{{ $module_title := .Params.title -}}
 
 <p><b>Written By:</b> {{ .Params.author -}}
 {{- if (.Params.reviewer) -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
@@ -191,7 +191,7 @@
 {{ range where .Pages ".Params.Layout" "=="  "role"  }}
 
 
-<h2>{{ $module_title }} : {{ .Title }}</h2>
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
 
 {{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }} 
 {{ if .Content }} {{ .Content }}  <hr>{{ end }} 
@@ -279,7 +279,7 @@
 
 
 {{ range where .Pages ".Params.Layout" "=="  "national_monster_card"  }}
-<h2>{{ $module_title }} : {{ .Title }}</h2>
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
 
 
 
@@ -379,13 +379,13 @@
 {{ end }}<!--  end skip cards  -->
 
 {{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
-<h2>{{ $module_title }} : {{ .Title }}</h2>
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
 {{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
 {{- end -}}
 
 {{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
-<h2>{{ $module_title }} : {{ .Title }}</h2>
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
 {{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
 {{- end -}}
