@@ -91,24 +91,6 @@ disableNextPrev:  true
 
 **Overview of writeups**: This event may be different than many of you are used to, we have a lot more structure and writing than you have probably seen in the past. This might seem stifling, but we hope that we can convince you that can make for great experience for both you and the players.
 
-**Overview of Setting**: 
-
-- **Guilds**: 
-
-**Overview of Factions**: The story we are telling this weekend focuses around two main factions. 
-
-- **Bloody Fist Orcs**: Brutal orcs that have magical backing that are now getting vengeance for a long-forgotten war.
-- **Stonewood Dwarves**: Cowed dwarves that have been dominated by the bloody fist for the past year. The Stonewood Dwarves are detailed in the booklet “On the Stonewood Dwarves” which each player and NPC should be provided a copy of.
-
-**Overview of Timeline:** 
-
-- **Friday Night**: town is occupied, and the players repulse the magical guardians “The Chosen Ones”.
-- **Saturday Morning**: Orcs attack. 
-- **Saturday Afternoon**: players retake the town building by building. 
-- **Saturday Night**: Orcs try to burn down the town
-
-**Overview of Reaction Modules**: 
-
 **Introductions**: Go around in a circle and everyone introduces themselves and states the following. 
 
 - What is your name?
@@ -120,6 +102,5 @@ disableNextPrev:  true
 
 **Rewards**: Thank you for doing this. Giving back like this to enable people to have a fun time is a very generous thing to do. We hope that some baubles and tokens will show our gratitude. 
 
-- **T Shirts:** We have shirts for you folks as a thank you please take one. If we don't have one in your size let us know and we will mail you one.
 - **Goblin Stamps**: You get 100 Goblin Stamps per day. 
 - **Magic Item Draw**: We will raffle off a magic item. I don't know the specifics of how this works but I guess it comes from the treasure pool. 

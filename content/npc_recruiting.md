@@ -7,6 +7,8 @@ weight: 1
 
 **You cannot convert these people to PC’ing. They are a lost cause they will NEVER give you money.**
 
+Larping is a social engagement. Often telling people who you have will encourage more people to come. 
+
 ## Merch
 
 - Zines
