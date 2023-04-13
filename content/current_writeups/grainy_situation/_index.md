@@ -10,7 +10,7 @@ schedule: friday night
 plotline: The Rat Pack
 requirements: Stonewood City Pest and Sanitation complete
 
-description: The city's main food stores are overran by giant field rats. These rats will eat everything and spread disease. The city is asking the local adventurers to help clear the rats from the main grain store area. The city is offering a 30 silver reward to clear out the stores.
+description: The city's food stores are overran by giant field rats. TThe city is offering a 30 silver reward to the local adventurers to help clear the rats from the main grain store. 
 
 synopsis: >  
   A group of adventurers enter the grain stores of the city to clear out the Giant Field Rat infestation. The grain stores are dangerous, and sink holes are easy to step into. Strewn around the room are yellow plastic table cloths, which represent grain sink holes. If a PC steps or falls into a grain sink hole, they can not move the part in contact with the sinkhole until they are rescued on a three count of "I pull you free". They can pull out a stuck player on a three count, as long as they don't touch the grain. A player cannot free themselves from the grain. The Rats are immune to the sink holes and may walk freely.

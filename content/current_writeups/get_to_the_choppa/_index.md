@@ -12,9 +12,10 @@ cascade:
 plotline: Reforge Foereaver
 requirements: Open for Business module has been ran
 
-description: Balor has had a vision of the first shard of Foereaver in the Mausoleum of Fallen Heroes just past a room of black horned monsters in a room with snoring. The players can aquire this piece of Foereaver by going on a special run of the Mausoleam of Fallen heroes. 
+description: Balor had a vision of the first shard of Foereaver in the Mausoleum of Fallen Heroes. The shard is in a room with snoring past a room of black horned monsters. The players can aquire this shardof Foereaver by going on a special run of the Mausoleam of Fallen heroes. 
 
-synopsis:   The Mausoleum of Fallen Heroes is now open! Balor Ironleaf has had a vision of a piece of the Artifact weapon Foereaver in the Dungeon just past “just past a room of black horned monsters” (Floor 3) in a room with loud snoring. Balor comes to the players after the opening of the Mausoleum and tasks them with retrieving the shard of Foereaver for the quest to reforge it and will reward them.
+synopsis:   The Mausoleum of Fallen Heroes is now open! Balor Ironleaf has had a vision of a piece of the artifact weapon Foereaver in the Dungeon just past “just past a room of black horned monsters” (Floor 3) in a room with loud snoring. Balor offers a reward to the players after the opening of the Mausoleum and for them retrieving the shard of Foereaver.
+
 outcomes: 
   - The PCs defeat 3 floors of the Mausoleum and the side passage to get the shard of Foereaver 
   - The PCs fail to retrieve the shard of Foereaver and it will remain till it is recovered but may move deeper with passing events
