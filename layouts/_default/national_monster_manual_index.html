@@ -36,7 +36,7 @@
 </thead>
 <tbody>
 
-{{ range where .Pages ".Params.Layout" "IN"  (slice "national_monster_card" ) }} 
+{{ range sort (where .Pages ".Params.Layout" "IN"  (slice "national_monster_card" ) )  ".Params.Name" }} 
 
 
 {{ $immune_to := (slice ) }} 
@@ -82,7 +82,7 @@
 
 
   <tr>
-    <td><a href="{{.Permalink}}"> {{ .Params.name }}</a></td>
+    <td><a href="{{.Permalink}}"> {{ if .Params.name }}{{ .Params.name }}{{ else  }}{{ .Params.Title }}{{ end }}</a></td>
     <td>{{ .Params.type | title }}</td>
     <td>{{ .Params.apl }}</td>
     <td>{{ delimit  $motivation ", "  }} </td>
