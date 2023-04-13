@@ -9,6 +9,9 @@ description: A party to celebrate the untapping of the bristle bock complete wit
 synopsis: Lil bristle took took credit for the work that the adventurers did. He had the brewery name a beer after him. The whole town is invited to his a grand celebration to commemorate the victory that the town had over the orcs. Every attendee gets a big glass mug.
 layout: module
 author: Scott Bennett
+props:
+  - Bristle Bock Sign
+  - Large Glass Tankards
 Requirements: 
   - Opening Module 
 rumors: |
@@ -19,22 +22,4 @@ rumors: |
   ~Scribe of Stonewood
 ---
 
-![/bristle_bock.svg](/bristle_bock.svg "{width='10'}" )
-
-### Bristle's Speech
-
-
-
-
-
-https://www.hopculture.com/bock-beer/
-
- We're going to make a big sign for it. 
-
-Uh, everybody is going to get there's going to be little taste or glasses for everyone. 
-
-There's going to be A special song will have, we'll have a musical interlude.
-
-Bristle Bash
-
-- props - what are you serving as the beer and in what containers?
+- 

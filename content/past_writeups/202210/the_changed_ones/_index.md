@@ -37,7 +37,6 @@ treasure:
  - Gems
  - Evaluate Items
  - Coins
-running_notes:
 
 rumors: >
   These terrible monsters are powered by some sorcery I am unfamiliar with. I have not seen this magic on Tyrra in my lifecycle, but I am familiar with its origins. Do not engage them alone! There are 6 powerful ones and then lesser ones. I have killed as many as I physically and spiritually can, but we need outside help. The Order is mobilizing to fight but we need more time. Rise up and we will join you. You are not alone Stonewood.
