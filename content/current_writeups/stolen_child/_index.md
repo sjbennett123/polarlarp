@@ -41,12 +41,7 @@ running_notes: |
   - Varyn is a widower with a child from his deceased wife.
   - The Pawn's goal is to beat down the PCs. 
   - The Bishop will come in and rob the PCs of magic items, which will go into the Tarrasch cashe.
-roles:
-  - Varyn Gilchek, Father
-  - Tarrasch Bishop, Qel'zak Elos, Litch
-  - Tarrasch White Pawn, Leviathan, Lesser Undead
-  - Tarrasch Black Pawn, Chaos Caster
-  - Tarrasch Black Pawn, Fighter
+
 number_of_cast_members: 
   - 1 plus 4 or more -
   - 1-Varyn

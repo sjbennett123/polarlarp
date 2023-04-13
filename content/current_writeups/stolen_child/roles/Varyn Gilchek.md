@@ -1,4 +1,3 @@
-```
 ---
 title: Varyn Gilchek
 
@@ -17,4 +16,3 @@ body: 50
 costuming: Poor townsperson clothes
 
 ---
-```

@@ -12,7 +12,7 @@ cascade:
 plotline: Reforge Foereaver
 requirements: Open for Business module has been ran
 
-description: Balor has had a vision of the first shard of Foereaver in the Mausoleum of Fallen Heroes just past a room of black horned monsters in a room with snoring
+description: Balor has had a vision of the first shard of Foereaver in the Mausoleum of Fallen Heroes just past a room of black horned monsters in a room with snoring. The players can aquire this piece of Foereaver by going on a special run of the Mausoleam of Fallen heroes. 
 
 synopsis:   The Mausoleum of Fallen Heroes is now open! Balor Ironleaf has had a vision of a piece of the Artifact weapon Foereaver in the Dungeon just past “just past a room of black horned monsters” (Floor 3) in a room with loud snoring. Balor comes to the players after the opening of the Mausoleum and tasks them with retrieving the shard of Foereaver for the quest to reforge it and will reward them.
 outcomes: 
@@ -25,7 +25,7 @@ props:
   - Shard of Foereaver
   - Lever
 
-treasure: Production Item, Components, Coins, Magic Item Ring of the Champion
+treasure: Production Item, Components, Coins
 hook: Balor comes to the tavern seeking 5-6 brave adventurers to quest into the Mausoleum of Fallen Heroes for a shard of Foeraver
 scenes: 
   - 
@@ -55,10 +55,9 @@ magic_items:
       - 2 Times per Day Cure Mortal Wounds 40
       - 1 Time per Day Poison Shield
 rumors: |
-  “Adventurers, I have had a vision, Foereaver called out to me…. I know where a piece of it is being kept that isnt in the hand of the Bloody Fist. Come ask me after the Mausoleum is reopened on the second day of the market this gather… I can give you its location but i won't post it here cause the Bloody Fist might try to intercept. This weapon is something they fear, that is all I can say…”
+  Adventurers, I have had a vision, Foereaver called out to me. I know where a piece of it is being kept that isn't in the hand of the Bloody Fist. Come ask me after the Mausoleum is reopened on the second day of the market this gather. I can give you its location but I won't post it here because the Bloody Fist might try to intercept. This weapon is something they fear, that is all I can say.
 
   Balor Ironleaf
-
   Captain and Guildmaster of the Black Anvil Mercenary Company
 
 ---
