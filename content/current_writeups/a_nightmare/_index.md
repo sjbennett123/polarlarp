@@ -13,5 +13,3 @@ synopsis: >
   Every night for the past few weeks you have been troubled by terrible dreams. When you wake up you are covered in sweat and cannot shake a feeling of doom.
 ---
 
-
-

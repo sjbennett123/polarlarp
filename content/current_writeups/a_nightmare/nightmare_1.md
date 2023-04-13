@@ -1,10 +1,5 @@
 ---
-title: "Nightmare"
-
-description: A Nightmare
-
-
-
+title: "A Nurturing Nightmare"
 ---
 
 {{< audio src="/audio/a_nightmare.mp3" class="something" >}}

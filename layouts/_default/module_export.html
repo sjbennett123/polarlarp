@@ -1,4 +1,5 @@
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $skip_cards := .Params.skip_cards }} 
 {{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern_setup" "townsfolk" "randoms" nil) }}
 
 
@@ -186,8 +187,7 @@
 {{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
 
 {{ .Content }} 
-
-
+{{ if eq $skip_cards nil }} 
 {{ range where .Pages ".Params.Layout" "=="  "role"  }}
 
 
@@ -275,17 +275,7 @@
     
     
     
-{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
-<h2>{{ $module_title }} : {{ .Title }}</h2>
-{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
-{{- end -}}
-
-{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
-<h2>{{ $module_title }} : {{ .Title }}</h2>
-{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
-
-{{- end -}}
 
 
 {{ range where .Pages ".Params.Layout" "=="  "national_monster_card"  }}
@@ -386,8 +376,19 @@
 {{ end }} 
 
 
+{{ end }}<!--  end skip cards  -->
 
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+<h2>{{ $module_title }} : {{ .Title }}</h2>
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
 
+{{- end -}}
+
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+<h2>{{ $module_title }} : {{ .Title }}</h2>
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+
+{{- end -}}
 {{ end }}
 
 
