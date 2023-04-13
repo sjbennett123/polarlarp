@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry
 reviewer: Scott Bennett
 
-schedule: Reaction
+schedule: reaction
 plotline: Family Recipes
 requirements: The players decide to return the treasure to the Tarrasch or at least pretend to. Lead into from the module "Emergency Help Wanted"
 

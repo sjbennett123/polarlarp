@@ -5,7 +5,7 @@ Layout: module
 author: Brittney Perry
 reviewer: Mary Courtney
 
-schedule: Reaction
+schedule: reaction
 plotline: Family Recipes
 requirements: Players find and take the Tarrasch treasure chest.
 
