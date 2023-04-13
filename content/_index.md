@@ -61,6 +61,12 @@ disableNextPrev:  true
 - **Drink Water and Eat**: Try to drink a glass of water before you go on a module. 
 - **Pace Yourself**: A weekend is a long time. There is no shame in taking a break. 
 
+**Keep a positive energy in the NPC Shack**
+
+- Don't talk about the good old days.
+- Don't compare yourself to other running teams.
+- Take a break or take a nap. If you can't keep good spirits excuse yourself.
+
 **We are the face of the event. We hold ourselves to a higher standard.** 
 
 - Be respectful to both the players and to the other cast members.

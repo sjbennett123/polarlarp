@@ -1,9 +1,9 @@
 ---
-title: Elemental, Earth Knight
+title: Earth Elemental Knight
 layout: national_monster_card
 monster_manual: 
 
-Name: 
+Name: Elemental, Earth Knight
 Body_points: 150
 Strength_bonus: 18
 threshold: 15
