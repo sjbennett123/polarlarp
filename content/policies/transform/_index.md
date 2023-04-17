@@ -6,8 +6,10 @@ draft: false
 ---
 
 {{% notice note %}}
-This is a work in progress any questions or comments talk to the Comitte
+This is a work in progress any questions or comments talk to the Committee
 {{% /notice %}}
+
+[Changes](./changes)
 
 ## You Have Become a Monster
 
