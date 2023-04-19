@@ -1,9 +1,10 @@
 ---
 title: " Nero postmortem"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+
 weight: 1
 ---
+There is a temptation to just kind of get on your soapbox and not speak to the question at hand. 
+
 ## Rate the Event
 
 *(go around and ask everyone)*

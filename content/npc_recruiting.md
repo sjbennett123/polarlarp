@@ -11,10 +11,16 @@ Larping is a social engagement. Often telling people who you have will encourage
 
 ## Merch
 
+If you are interested send me your address 
+
 - Zines
+  - Orc
+  - Stonewood
+  - Transform Packet
+
 - Shirt
-  - If you are interested send me your address and shirt size and if you want a black or grey shirt. I'll send you out a shirt. 
-- Coffee mug
+  - Black or grey 
+  - Shirt Size
 - Hydro flask
 - Game maps
 
@@ -28,6 +34,8 @@ Larping is a social engagement. Often telling people who you have will encourage
 
 You are not going to get anywhere unless you ask. Be direct but let them say no. 
 
+ - mention other attendees.
+
 *Would you be interested in coming to NPC a NERO event that Chris Colland and I are running on April 7’th? We are running an orc invasion and I want to have 20 NPC's. I would love to get to game with you again. This is the campsite information.*  [*https://gloryforthefist.netlify.app/events/camps/camp_sequanota/*](https://gloryforthefist.netlify.app/events/camps/camp_sequanota/)
 
 ## No
@@ -38,9 +46,11 @@ You are not going to get anywhere unless you ask. Be direct but let them say no.
 
 **Confirmed people get a call the day of the event.** 
 
- - Send a shirt.
+ - Send 
+   - Merch
+   - Writeup book
+
  - Send a link to the website with writeups.
- - Send writeup book if they want one.
  - Keep up the excitement. It only counts when they are there at the site. No investment means it's easy to flake.  
 
 ## Maybe
