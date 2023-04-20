@@ -15,35 +15,22 @@ description: A nice Lutheran summer camp with heated stone cabins.
 - **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
 - **Video**: [Summer Camp Video](https://www.youtube.com/watch?v=bcycnxE5T2k)
 - **WiFi**: Yes! In the Tavern
+- **Cell Phone Service**: Pretty good!
 - **Privacy**: Other folks are using the camp!
+- **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
+- **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
+- **Showers**: Each cabin has 2 showers.
+- **Bathrooms**: Each cabin has it's own bathroom.
+- **Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
+- **Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
+- **Smoking**:  Put cigarette butts in trays or cans. Do not smoke in the cabins. 
+- **Bird Seed Packets**: The camp site does not allow bird seed packets.
+- **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
 
+---
 ## Arriving at the Campsite
 
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the main camp area. You will pass a large building called the "Enrichment Center". You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the tavern, NPC Shack, and module building. Check in also takes place in this building. 
-
-## Camp Details
-
-**Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
-
-**Heat**: The stone cabins are very well heated with a huge heat blower in them. 
-
-**Showers**: Each cabin has 2 showers.
-
-**Bathrooms**: Each cabin has it's own bathroom.
-
-**Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
-
-**Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
-
-**Smoking**:  Put cigarette butts in trays or cans. Do not smoke in the cabins. 
-
-**Bird Seed Packets**: The camp site does not allow bird seed packets.
-
-**Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
-
-**Cell Phone Service**: Pretty good!
-
----
 
 ## Nearby Supplies
 
