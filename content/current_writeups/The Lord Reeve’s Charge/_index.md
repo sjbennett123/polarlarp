@@ -10,14 +10,14 @@ weight:
 plotline: 
 requirements: 
 
-description: Kyumiri Cryptinth comes to town to ask a large task of the adventurers. Moutesque must be reclaimed house by house if needed, striking during the Day is the best edge we have.
+description: Kyumiri Cryptinth comes to town to ask a large task of the adventurers. Moutesque must be reclaimed house by house if needed, striking during the day is the best edge we have.
 synopsis:   
 outcomes: 
 
 
 number_of_cast_members: 
 Roles: 
-
+  - Kyumiri Cryptinth
 props: 
 makeup: 
 treasure: 

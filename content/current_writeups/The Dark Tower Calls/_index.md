@@ -17,7 +17,9 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
+  - Solomon Zeneth
+  - Demitri Revendreth
+  - Valdrick
 props: 
 makeup: 
 treasure: 

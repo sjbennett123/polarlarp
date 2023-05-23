@@ -1,5 +1,5 @@
 ---
-title: Suspended by the Throad
+title: Suspended by the Throat
 Layout: module
 
 author: Chris Colland
@@ -17,7 +17,9 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
+  - A groundskeeper 
+  - A servant of Demitri Revendreth 
+  - risen dead Feral 
 props: 
 makeup: 
 treasure: 

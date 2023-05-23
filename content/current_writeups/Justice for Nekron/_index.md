@@ -10,13 +10,15 @@ weight:
 plotline: 
 requirements: 
 
-description: A Speaker of Nekron and a Blade go Nekron were killed In the early hours of the morning on a walk. They saw the Lycan flee into the town so they have rounded up suspects and want help finding the Killer.
+description: A Speaker of Nekron and a Blade of Nekron were killed In the early hours of the morning on a walk. They saw the Lycan flee into the town so they have rounded up suspects and want help finding the Killer.
 synopsis:   
 outcomes: 
 
 
 number_of_cast_members: 
 Roles: 
+  - A Speaker of Nekron 
+  - Blade of Nekron
 
 props: 
 makeup: 

@@ -17,8 +17,10 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
+ - Kilgorn 
+ - Catacomb spirits
 
-props: 
+props: Foereavers core
 makeup: 
 treasure: 
 magic_items:

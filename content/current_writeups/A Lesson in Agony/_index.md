@@ -17,8 +17,9 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
+  - spirits of fallen Order of Oblivion’s Edge
 
-props: 
+props: Agony Box
 makeup: 
 treasure: 
 magic_items:
@@ -35,7 +36,7 @@ hook:
 scenes: 
   - 
     oog: 
-    ig: 
+    ig: Obsidian Black Chamber
     flee_point: 
 
 non_standard_effects: 

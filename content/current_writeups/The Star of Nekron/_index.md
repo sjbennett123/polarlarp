@@ -17,8 +17,9 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
+  - Children of the Stars Speaker
 
-props: 
+props: Star of Nekron Pamphlet
 makeup: 
 treasure: 
 magic_items:

@@ -17,7 +17,8 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
+  - citizens of Cryptinith 
+  - A Feral pack
 props: 
 makeup: 
 treasure: 

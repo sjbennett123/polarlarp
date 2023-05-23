@@ -10,14 +10,14 @@ weight:
 plotline: 
 requirements: 
 
-description: A local merchant in Cryptinith has been shorted on a trade deal. The matter was brought to the Lord Reeve and he was headed to deal with it but now that there are adventurers, a test of their persuasion and investigation is called
+description: A local merchant in Cryptinith has been shorted on a trade deal. The matter was brought to the Lord Reeve and he was headed to deal with it but now that there are adventurers, a test of their persuasion and investigation is called.
 synopsis:   
 outcomes: 
 
 
 number_of_cast_members: 
 Roles: 
-
+  - A local merchant
 props: 
 makeup: 
 treasure: 
