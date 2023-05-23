@@ -1,6 +1,6 @@
 ---
 title: Laws of Cryptinith
-Layout: plotline_overview
+
 ---
 
 These Laws are to PROTECT the citizens of Cryptinith, they may seem extreme in some regards but they have ensured us 20 years of peace and 20 more if they are followed. The “Feral” are to be slain and treated just like Undead as they have been known to conspire with them.
