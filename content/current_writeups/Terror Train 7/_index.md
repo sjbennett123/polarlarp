@@ -1,16 +1,16 @@
 ---
-title: 
+title: Terror Train 7 (Graveyard)
 Layout: module
 
-author: 
+author: Chris Colland
 reviewer: 
 
-schedule:
+schedule: saturday early afternoon
 weight: 
 plotline: 
 requirements: 
 
-description:
+description: 6. 1. Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The seventh target is the Graveyard
 synopsis:   
 outcomes: 
 

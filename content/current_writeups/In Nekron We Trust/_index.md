@@ -1,11 +1,11 @@
 ---
-title: 
+title: In Nekron We Trust
 Layout: module
 
-author: 
+author: Chris Colland
 reviewer: 
 
-schedule:
+schedule: saturday early afternoon
 weight: 
 plotline: 
 requirements: 

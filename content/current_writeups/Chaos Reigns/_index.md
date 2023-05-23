@@ -1,16 +1,16 @@
 ---
-title: 
+title: Chaos Reigns
 Layout: module
 
-author: 
+author: Chris Colland
 reviewer: 
 
-schedule:
+schedule: Saturday Afternoon
 weight: 
 plotline: 
 requirements: 
 
-description:
+description: Chaos seeped into the mind of Solomon Zeneth, his sanity was already unstable but now in his madness he has called forth Chaos creatures from a Chaos Node in Moutesque that must be sealed.
 synopsis:   
 outcomes: 
 

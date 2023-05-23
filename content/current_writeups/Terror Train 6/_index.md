@@ -5,7 +5,7 @@ Layout: module
 author: Chris Colland
 reviewer: 
 
-schedule:
+schedule: saturday early afternoon
 weight: 
 plotline: 
 requirements: 

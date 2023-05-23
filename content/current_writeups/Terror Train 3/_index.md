@@ -1,11 +1,11 @@
 ---
-title: Terror Train 3(Ducal Manor)
+title: Terror Train 3 (Ducal Manor)
 Layout: module
 
-author: 
+author: Chris Colland
 reviewer: 
 
-schedule:
+schedule: saturday early afternoon
 weight: 
 plotline: 
 requirements: 

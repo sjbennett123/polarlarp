@@ -1,5 +1,5 @@
 ---
-title: To Stonewood
+title: Terror Train 5 (Infirmary)
 Layout: module
 
 author: Chris Colland
@@ -10,7 +10,7 @@ weight:
 plotline: 
 requirements: 
 
-description: A vision is given to Kilgorn that the Catacomb spirits are calling out to him. Foereavers core is waiting to be found since the Orcs are gone.
+description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The fifth target is the Infirmary
 synopsis:   
 outcomes: 
 
