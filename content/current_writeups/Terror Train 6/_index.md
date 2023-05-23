@@ -10,7 +10,7 @@ weight:
 plotline: 
 requirements: 
 
-description: 4. 1. Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The second target is the Oblivion's Edge Library
+description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The second target is the Oblivion's Edge Library
 synopsis:   
 outcomes: 
 

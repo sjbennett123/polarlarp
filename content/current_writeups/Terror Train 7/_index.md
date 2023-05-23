@@ -10,7 +10,7 @@ weight:
 plotline: 
 requirements: 
 
-description: 6. 1. Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The seventh target is the Graveyard
+description: Moutesque City must be reclaimed by Kyumiri Cryptinith’s decree. The seventh target is the Graveyard
 synopsis:   
 outcomes: 
 
