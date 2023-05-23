@@ -17,8 +17,10 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
-props: 
+  - Solomon Zeneth
+  - Chaos Imps
+  - Chaos Knight 
+props: Chaos Node
 makeup: 
 treasure: 
 magic_items:

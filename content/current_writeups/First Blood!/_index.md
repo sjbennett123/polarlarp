@@ -17,7 +17,7 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
+  - the Feral
 props: 
 makeup: 
 treasure: 

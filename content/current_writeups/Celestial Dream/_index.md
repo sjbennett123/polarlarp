@@ -17,7 +17,7 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
+  - The “Star Child”
 props: 
 makeup: 
 treasure: 

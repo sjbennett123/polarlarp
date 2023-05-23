@@ -17,7 +17,8 @@ outcomes:
 
 number_of_cast_members: 
 Roles: 
-
+  - Chaos Imps
+  - Chaos Knight 
 props: 
 makeup: 
 treasure: 
