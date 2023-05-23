@@ -1,1 +1,0 @@
-Looking for a strapping young group to clear out the rats from my farm. Will pay 10 silver, and you keep the bounty. The farm is located west out of town, at the second crossroad.

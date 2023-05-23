@@ -46,6 +46,8 @@ type: "docs"
 
 ### Install Python
 
+This is optional it's really just for Yamllint and you can do that at yamllint.com. I don't think you really need it unless you are doing a LOT of Yaml. 
+
 - https://www.python.org/downloads/
 - https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
 - Install Yamllint

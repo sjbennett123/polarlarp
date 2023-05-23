@@ -7,7 +7,7 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 ---
 
 - **Address**: 84 Osage Road, New Manchester, WV 26056
-- **GPS**: USE THIS FOR DIRECTIONS! 
+- **GPS**: USE THIS FOR DIRECTIONS! 40.545454187001056, -80.59292467546774
 - **Google Maps**: [Tomlinson Run State Park](https://goo.gl/maps/qBbR9WZ72GPFZZsZA)
 - **Website**: [wvstateparks.com](https://wvstateparks.com/park/tomlinson-run-state-park/)
 - **Office Phone**: [(304) 564-3651](tel:304-564-3651)
