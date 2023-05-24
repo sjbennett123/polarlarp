@@ -1,106 +1,118 @@
 ---
-title: "POLAR NPC Resources"
+title: "Welcome to Polar"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 weight: 1
-disableNextPrev:  true
+---
+# **✪ [Register for an Event]({{< ref "/events" >}}) ✪**
+
+------
+
+## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
+{{%expand "FAQ" %}}
+
+**Is Mark Zuckerbeg an asshole?**
+
+Yes.
+
+**Is this the way that most communication about the game is done?**
+
+ Also Yes.
+
+**What if I don't use Facebook due to  reasonable ethical and privacy related concerns?** 
+
+You can get bent.
+
+{{% /expand%}}
+
+## [Facebook In Game](https://www.facebook.com/groups/3408485185934076/)  
+{{%expand "FAQ" %}}
+
+**Are we a live action game.**
+
+Yes.
+
+**Do we use a Facebook page to try to mimic old posts on a message board even though it's not the same at all.**
+
+ Of course we do! Post as your character and be a keyboard warrior. It's great. 
+
+{{% /expand%}}
+
+## [Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+{{%expand "FAQ" %}} 
+
+**Does anyone actually use discord?** 
+
+Not really!
+
+**Do you have any rules?**
+
+Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly.
+{{% /expand%}}
+
+## [New Player Information]({{< ref "/new_players" >}})  
+
+{{%expand "FAQ" %}}
+
+**Can I read a rulebook?** 
+
+Nope!
+
+**Do you expect me to play this anyway?** 
+
+Of course! Just fake it till you make it. 
+
+**What playtests are being used**
+
+Well there is a list on the facebook page... see above for the details on that. . But you just are supposed to know.  Maybe try tuning into a numbers channel that might have the most up to date informaiton.
+
+{{% /expand%}}
 
 ---
 
-[PC INFORMATION CLICK HERE]({{< ref "/pc_information" >}})
+  **4 Core Conduct Rules**
 
----
+1. **Hold**: When there is a Hold head down, eyes closed. We do not require players to go down on one knee. Everyone that hears the Hold call needs to loudly repeat the call so that it is easily heard by any bystanders. The Lay On call need to be repeated by the players in the same way.
+2. **Sneaking**: Any rogueing (robbing) of cabins requires that a Marshal to be present. Any items out in the open are fair game. Out of Game items need to be placed completely under your bed. If there is not room under the bed, the container with the Out of Game items must be clearly marked with ‘OOG’ to designate it as being Out of Game. Remember when stealing game items you have to take the prop and not the just the Item Tag. Items that belong to a different character or are Local Chapter Only to another chapter must be kept in a car for the duration of the event. All Out of Game merchant wares are **NOT** In Game and if you steal them it’s illegal in real life.
+3. **Body Contact:** Nothing you wouldn’t want your grandmother to see. No sharing of beds or ‘Physical Role-Play’.
+4. **No Drugs and Alcohol:** No illegal drugs or alcohol are allowed on site. If you are under 21 smoking is also against the rules. If you are taking prescription drugs, make sure to inform both the Marshals and the Medics.
 
-{{% children %}}
+**Medic:** When someone is hurt, first call a Hold, then call for a Medic. If you have any medical issues, be sure to inform the Medics for the event are John Thompson and Kat Burns.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2ca01790-1d50-4bc8-9849-2eff6e193b56/deploy-status)](https://app.netlify.com/sites/gloryforthefist/deploys)
+**Marshals:** If there any rules issues please contact a Marshal. Marshals for the event are Ken Courtney, Donnie Leight, Mike Mack ,and Erin Albert Jamison.
 
----
+**Skill Sheets**: Mark your skills off on a skill sheet between encounters.
 
-## [Current Event]({{< ref "/current_writeups" >}})
+**Auto-maxout**: NERO POLAR is an Auto-maxout chapter.
 
-## [<i class="fa fa-video"></i> Weekly Writer Check In - Google Hangouts <i class="fa fa-video"></i> ](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
+**White Headband (Out of Game):** You are In Game unless you are wearing a white headband. NPC's can go Out of Game by placing a hand or weapon on top of their head to go out of game quickly but will be using white headbands if they are Out of Game for an extended period of time.
 
-- ↑ Up there is a link you can click on it! You can also go to [gloryforthefist.netlify.app/writersroom](https://gloryforthefist.netlify.app/writersroom)
-- <i class="fa fa-clock"></i> Tuesdays from 8 PM - 9 PM - Starts on time.... Ends on time. <i class="fa fa-clock"></i>
-- Follow the writers guidelines available at [gloryforthefist.netlify.app/writing]({{< ref "/writing" >}})
-- This is not a place to write from scratch. This is to review and prioritize so that we can write on our own and be coordinated. 
-- Use a real webcam if possible. We have loaner webcams you are welcome to. 
-- Keep focused on the work don't have distractions up... Discord, Facebook, Facebook Messenger, Netflix, Pornhub, Twitter, Grindr.... <u>it can wait an hour I promise you.</u>
-- First we go around and ask what you have been working on and if you need any help.
-  - Are you waiting on review for any of your work.
-  - What have you worked on in the past week.
-  - What are you working on this week.
-  - What props do you need.
-- Then we talk about modules in depth.
-  - Workshop how to improve something.
-  - How to solve a problem.
-- Sometimes we do a special meeting. 
-  - The event just before the event we review the event with our NPC's.
-  - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
-  - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
-- All writeups **must** be completed 2 weeks before the event to be reviewed by another plot team. They will check for Nonstandard effects and consistency. Ideally we would do this sooner than that so that feedback could be incorporated before having copies printed but this is the deadline. 
+**Orange Headband (Page Status):** Some players at the event cannot enter combat and are playing as a Page. A player playing as a Page should never be struck with a boffer weapon or a packet. In order to attack a Page, point a weapon or packet at the Page and state either “**I kill you, Page!**”(Death), or “**I down you, Page**” (Bleeding Out). A player within 5 feet of the Page, may choose to defend the Page and block the attack. To do so, the player must state “**I defend you**” and role-play accordingly. A person cannot defend a Page if they do not have a weapon, shield, or other ability to do so. Encounters that are non-combat will have an orange sash on the module hook and any Adventure Cards that are non-combat will be clearly marked.
 
-## [Prop tracking - Trello ](https://trello.com/b/A6eLvFdV/polar-props)
+**Wards**: All Wards must have Marshal Notes affixed to the door.
 
-- Make sure your props are on the list and in the order that you need them. 
+**Transforms:**. POLAR does not have an active Transform packet.  *Do not ask if your Transform goes up for an encounter.* 
 
-## [Module Writeups for Feedback - Dropbox](https://www.dropbox.com/scl/fo/xy8dqwc9ozq9bzuzdh3fy/h?dl=0&rlkey=76lz7t41srkz8zj64oxhe6wud)
+**Craftsman <Type>:** The skill Craftsman <Type> explicitly records your character's mundane occupation, outside of adventuring. Characters with these skills may be provided with additional information by the Running Staff. During check in record which Craftsman <Type> skills your character has on the sign in form. *Do not ask the Running Staff if your character knows additional information based on your Craftsman <Type> skill. The Running Staff will tell you if it is applicable and what additional information your character knows.
 
-- Install the app https://www.dropbox.com/install.  
-- Ask to be invited to the Dropbox folder. This will synchronize all of the Writeups and Resources to your computer. 
-- This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
-- Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
+**Non-Standard Effects:** If there are Non-Standard Effects on a module or encounter the Running Staff will ask you if you are accept the Non-Standard Effects. If you do not accept the effects you will have the opportunity to leave the encounter or in some situations another effect may be substituted.
 
----
-# NPC Speech
+**Rules Issues from the Last Event:** No recorded rules issues. Seems fishy to me too but I guess that's how it is!
 
-**Take Care of Yourselves:** The most important thing is your health. You are probably not used to this level of activity. 
+**Cars**: Lock your car and, if possible, park it out of sight.
 
-- **Stretch**: Yes it looks lame. Yes you should still do it. 
-- **Drink Water and Eat**: Try to drink a glass of water before you go on a module. 
-- **Pace Yourself**: A weekend is a long time. There is no shame in taking a break. 
+**Camp Boundaries:** We will announce these when this speech is given
 
-**Keep a positive energy in the NPC Shack**
+**Smoking Areas**: Smoke in the Pavilion and put the cigarette butts away.
 
-- Don't talk about the good old days.
-- Don't compare yourself to other running teams.
-- Take a break or take a nap. If you can't keep good spirits excuse yourself.
+**Game End**: Game will be ending at 3:00 am. Adventure Cards, and Town Encounters may still be ran if there are NPC’s awake. Plot starts at 9:00 am.
 
-**We are the face of the event. We hold ourselves to a higher standard.** 
+**Clean Up:** We require that everyone clean up an area of the camp before leaving. See a Marshal to be assigned a clean up responsibility.
 
-- Be respectful to both the players and to the other cast members.
-- Don't enable or condone bad behavior. If you see something say something. 
-- Focus on the small stuff. Make the small roles sing. Make the ordinary sets special. 
-- Be dramatic when playing your roles. Don't phone your performance.
+**Offsite**: All players need to be offsite by 10:00 AM. Sunday Morning.
 
-**Tour of NPC Shack**: Everyone is going to need to know the organization of the NPC Shack and help keep it organized. This organization is a work in progress and after the event we should discuss any improvement ideas you have. The stuff here was donated please be considerate and help make it last.
+**Leaving Early:** If leaving early make sure to do clean up and checkout. Also if you are considering it let plot know ahead of time so that we can plan. 
 
-- **Clock**: We have a large clock set up in the shack. If you can please wear a watch.
-- **Computer**: This is somone's personal computer. Please be kind to it. All the writeups are on it as well as a local copy of our website. Show that it works to print. 
-- **White Head Band**: Have one on your person. If you see a player that does not have one offer to give them one and replace it when you get back to shack. 
-- **Pencils**: Carry a golf pencil with you. 
-- **Costumes**: When you are done make sure the costume is put away.
-- **Belts**: When you are using a tabard wear a belt.
-- **Masks**: When you are done using a mask wipe it down so it does not get anyone sick.
-- **Packets**: After fights don't mix wet packets back in with the fresh packets. it will cause them to decompose. 
+**NPC Shifts:** . If you do an npc shift you get the npc speech. God just NPC for the weekend. 
 
-**Secrecy**: You will learn things while running that are intended to be secret from the players. It will also need to be firewalled in your brain from the knowledge you have when you PC. Sometimes you will need to "Play Dumb" when you PC. 
-
-- Some of what you learn will be common knowledge and will be fine to know as your character. If you have any questions speak to an event director and they can help you sort this out.
-
-**Overview of writeups**: This event may be different than many of you are used to, we have a lot more structure and writing than you have probably seen in the past. This might seem stifling, but we hope that we can convince you that can make for great experience for both you and the players.
-
-**Introductions**: Go around in a circle and everyone introduces themselves and states the following. 
-
-- What is your name?
-- What about the event they are you excited about?
-- What roles do you not want to do? 
-
-
-**Overview of [Campsite]({{< ref "/camps" >}})**: Map, Module Sites, Dangers
-
-**Rewards**: Thank you for doing this. Giving back like this to enable people to have a fun time is a very generous thing to do. We hope that some baubles and tokens will show our gratitude. 
-
-- **Goblin Stamps**: You get 100 Goblin Stamps per day. 
-- **Magic Item Draw**: We will raffle off a magic item. I don't know the specifics of how this works but I guess it comes from the treasure pool. 
+**Event survey**: Please complete the [Event Survey](/event_survey). We can't get better if we don't gather feedback. 

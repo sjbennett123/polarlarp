@@ -7,36 +7,10 @@
 
 <p>Event Registration closes the week before an event on Friday.</p>
 <h2 id="upcoming_events">Upcoming Events</h2>
-{{ range  .Params.events }}
-<h4>{{ .date }}  ~  {{ .title | title }}    {{ if .facebook_link }}<a href="https://www.facebook.com/events/1317732195737709"><i class="fab fa-facebook"></i></a>{{ end }}</h4>
-<p id="in_game_location"><b>Event Type: </b> {{ .type }} </p>
-<p><b>In Game Location: </b> The town of {{ title .ig_town }} in the barony of {{ title .ig_barony }}</p>
-<p><b>Campsite: </b> {{ .oog_location }}    </p>
-<p><b>Event Director: </b> {{ .event_director }}    </p>
-<p><b>Registration Deadline: </b> </p><!--January 1 Every person must prepay there is no option to pay on site. -->
-<p><b>PC Onsite: </b>   </p><!--January 14 , 10 AM-->
-<p><b>Game Start: </b>   </p><!--January 14, 12 PM-->
-<p><b>Game End: </b>   </p><!--January 14, 5 PM-->
-<p><b>PC Offsite: </b>    </p><!--January 14, 7 PM-->
-<p><b>Notes: </b>{{ .notes }}</p>
-<p></p>
-{{ end }} 
-{{ .Content }} 
-
-<h2>Fees</h2>
-
-<h2>Weekend Events</h3>
-
-<li>$60.00 for the weekend for players 18 and older to PC.</li>
-<li>$40.00 for the weekend for players 14 to 17 years old to PC.</li>
-<li>New players play for free but must PC their first event.</li>
-<li>NPC's play for free!
-
-<h3>Feast Events</h3>
-
-<li>$45.00 for the day. </li>
-<li>There is no new player discount. A new player will be awarded a free event at a later time.</li>
-<li>NPC Cost There is no NPC discount.</li>
-<li><b>We will be collecting cans for the Greater Pittsburgh Community Food Bank. Each can is worth 10 goblin stamps and is greatly appreciated.</b></li>
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ range (where $event_pages "Layout" "event_schedule") }}
+{{ $myTime1 := .Params.event_date | time }}
+   <p><a href="{{.Permalink}}"><b>{{ $myTime1.Format "Jan 02, 2006"}} </b> {{ .Title }}</a></p>
+{{- end -}}
 
 {{ partial "footer.html" . }}
