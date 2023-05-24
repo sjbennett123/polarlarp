@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+{{ $myTime1 := .Params.event_date | time }}
+
+<p><b>Event Date:</b> {{ $myTime1.Format "January 02, 2006" }}</p>
+<p><b>In Game Location:</b> {{ .Params.ig_location }}</p>
+<p><b>Out of Game location:</b> {{ .Params.Title }}</p>
+<p><b>Event Director:</b> {{ .Params.Title }}</p>
+<p><b>Event Type:</b> {{ .Params.type }}</p>
+<p><b>Facebook Link:</b> {{ .Params.facebook_link }}</p>
+
+{{ partial "footer.html" . }}

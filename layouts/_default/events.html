@@ -9,8 +9,14 @@
 <h2 id="upcoming_events">Upcoming Events</h2>
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 {{ range (where $event_pages "Layout" "event_schedule") }}
+
 {{ $myTime1 := .Params.event_date | time }}
-   <p><a href="{{.Permalink}}"><b>{{ $myTime1.Format "Jan 02, 2006"}} </b> {{ .Title }}</a></p>
+{{ $now := now  | time }}
+
+    {{ if gt $myTime1  $now }}
+       <p><a href="{{.Permalink}}"><b>{{ $myTime1.Format "January 02, 2006"}}</b> {{ .Title }}</a></p>
+    {{- end -}}
 {{- end -}}
+
 
 {{ partial "footer.html" . }}

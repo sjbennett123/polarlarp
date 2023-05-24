@@ -1,4 +1,4 @@
-baseURL = 'https://gloryforthefist.netlify.app'
+baseURL = 'https://polarlarp.netlify.app'
 languageCode = 'en-us'
 title = 'Polar Larp'
 theme = 'hugo-theme-learn'
