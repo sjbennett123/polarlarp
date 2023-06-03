@@ -1,8 +1,11 @@
 ---
 title: "Scott Bennett"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+hidden: true
+
 ---
 
-The Man the myth the legend!
+![Scott bennett](/staff/scott_bennett.jpg)
 
+Scott's been doing this shit for a long time. He loves Heavy Metal music,  Bullet Hell Shooters, and IPA Beers. He was once co-gm of the NERO Elkins game (RIP) and ran dozens of events at ARGO. 
+
+He manages the Polar Website and his personal website can be found at [www.scottjbennett.com](www.scottjbennett.com)
