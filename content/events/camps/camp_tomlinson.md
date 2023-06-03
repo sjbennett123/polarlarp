@@ -7,13 +7,14 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 ---
 
 - **Address**: 84 Osage Road, New Manchester, WV 26056
-- **GPS**: USE THIS FOR DIRECTIONS! 40.545454187001056, -80.59292467546774
+- **GPS**: USE THIS FOR DIRECTIONS! [40.545454187001056, -80.59292467546774](https://goo.gl/maps/FMH1qFqK2ToXp1M47)
 - **Google Maps**: [Tomlinson Run State Park](https://goo.gl/maps/qBbR9WZ72GPFZZsZA)
 - **Website**: [wvstateparks.com](https://wvstateparks.com/park/tomlinson-run-state-park/)
 - **Office Phone**: [(304) 564-3651](tel:304-564-3651)
 - **Email Address**: [tomlinsonrunsp@wv.gov](mailto:tomlinsonrunsp@wv.gov)
 
-Once you enter the campsite's main road, its about 1/2 a mile until you reach the main camp area. You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the tavern and module building. Check in also takes place in this building. 
+When you come in, go straight at the first turn and keep going. After the dam when you come up a big hill turn right and then we are the first camp there. 
+
 
 **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
 
@@ -33,7 +34,9 @@ Once you enter the campsite's main road, its about 1/2 a mile until you reach th
 
 **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
 
-**Cell Phone Service**: Pretty good!
+**Cell Phone Service**: Bad!
+
+**WiFi**: NOPE
 
 **Max Capacity**: 
 

@@ -3,19 +3,14 @@
 
 
 <p>We want to provide the best LARPing experience possible, <b>as often as possible</b>. Please register now. It’s going to be a great event!</p>
-<p>You need to sign up for the database before you can register for an event. <a href="http://nerolarponline.com">nerolarponline.com</a></p>
+<p>You need to sign up for the national character database before you can register for an event.<a href="http://nerolarponline.com">nerolarponline.com</a></p>
 
 <p>Event Registration closes the week before an event on Friday.</p>
 <h2 id="upcoming_events">Upcoming Events</h2>
-{{ $event_pages := where $.Site.Pages "Section" .Section }}
-{{ range (where $event_pages "Layout" "event_schedule") }}
+{{ $event_pages := where (where $.Site.Pages "Section" .Section) lt .Params.date now }}
 
-{{ $myTime1 := .Params.event_date | time }}
-{{ $now := now  | time }}
-
-    {{ if gt $myTime1  $now }}
-       <p><a href="{{.Permalink}}"><b>{{ $myTime1.Format "January 02, 2006"}}</b> {{ .Title }}</a></p>
-    {{- end -}}
+{{ range  $event_pages  }}
+       <p><a href="{{.Permalink}}"><b>{{ .Params.date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
 {{- end -}}
 
 

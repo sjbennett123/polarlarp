@@ -8,7 +8,7 @@ weight: 1
 
 ------
 
-## [Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
+## [<i class="fab fa-facebook"></i>  Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
 {{%expand "FAQ" %}}
 
 **Is Mark Zuckerbeg an asshole?**
@@ -25,7 +25,7 @@ You can get bent.
 
 {{% /expand%}}
 
-## [Facebook In Game](https://www.facebook.com/groups/3408485185934076/)  
+## [<i class="fab fa-facebook"></i>  Facebook In Game](https://www.facebook.com/groups/3408485185934076/)  
 {{%expand "FAQ" %}}
 
 **Are we a live action game.**
@@ -38,7 +38,7 @@ Yes.
 
 {{% /expand%}}
 
-## [Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+## [<i class="fab fa-discord"></i>   Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
 {{%expand "FAQ" %}} 
 
 **Does anyone actually use discord?** 
