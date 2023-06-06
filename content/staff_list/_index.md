@@ -1,5 +1,5 @@
 ---
-title: "Current Staff Positions"
+title: "Staff"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
@@ -36,7 +36,7 @@ They can help with just about anything, or direct you toward the person who can!
 - Donnie Leight 
 - Stephen Dupree 
 - Devin Pusateri
-- Chris Colland  
+- [Chris Colland](./chris_colland) 
 
 ## Event Director
 
@@ -67,6 +67,8 @@ Open - Per Plot Committee
 ## Web Site
 
 200GS / Month
+
+Maintain event schedules, policies, and staff information. Converts that data into usable formats such as zines. If you have any content you think would be a good fit for the website hit him up.
 
 - [Scott Bennett](./scott_bennett) 
 
