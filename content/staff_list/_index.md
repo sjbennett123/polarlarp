@@ -68,7 +68,7 @@ Open - Per Plot Committee
 
 200GS / Month
 
-- Stephen Dupree 
+- [Scott Bennett](./scott_bennett) 
 
 ## Trailer
 

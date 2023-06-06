@@ -5,6 +5,8 @@ title: "POLAR Goblin  Stamp  Policy"
 
 ## POLAR GOBLIN STAMP POLICY - AWARDS
 
+POLAR is looking for all of your old Magic Item reps which have expired. I will give 25 Goblin Stamps for each rep you turn in at an event. Get it while its HOT.
+
 BOARD OF DIRECTORS – 325 GS / MONTH
 
 GENERAL MANAGER – 400 GS / MONTH
