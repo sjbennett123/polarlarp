@@ -74,3 +74,4 @@ Well there is a list on the facebook page... see above for the details on that. 
 
 ---
 
+POLAR LARP LLC. Is a nonprofit organization. It was registered on Someday in 2022! 
