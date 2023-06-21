@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-Where Fantasy Meets Reality
+![/polar.png](/polar.png "{width='10%'}" )
 
 # **✪ [Register for an Event]({{< ref "/events" >}}) ✪**
 
