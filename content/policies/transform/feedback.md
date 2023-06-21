@@ -2,6 +2,17 @@
 title: feedback
 ---
 
+## Scott Bennett
+
+group formal effects and cantrips
+have a note that formal effects and cantrips do not require components at the start of the document
+match style for left side of page to right side of page
+    extra body +30    --- +30 Body
+why does magical beast revive get a description. nothing else gets a description
+"as per cantrip rules" 
+
+
+
 ## Chris Mcgrath
 
 I personally think that Transforms should be a little more Unique, and a little more involved to get than just finding scrolls and comps, as you are taking on the visage of x-creature, that creature should be the one ALLOWING you the ability to do that.
