@@ -19,14 +19,14 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Cell Phone Service**: Terrible
 - **Privacy**: Pretty secluded
 - **Beds**: very nice with matresses you just need blankets and a pillow.
-- **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
-- **Showers**: Each cabin has 2 showers.
-- **Bathrooms**: Each cabin has it's own bathroom.
-- **Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
-- **Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
-- **Smoking**:  Put cigarette butts in trays or cans. Do not smoke in the cabins. 
-- **Bird Seed Packets**: The camp site does not allow bird seed packets.
-- **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
+- **Heat**: 
+- **Showers**: 
+- **Bathrooms**: 
+- **Assigned Cabins**: 
+- **Reserving Cabins:** 
+- **Smoking**:  
+- **Bird Seed Packets**: 
+- **Camp Boundaries**: 
 
 ---
 
@@ -40,8 +40,9 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 #### Dollar General 
 
-- **Address**: 1297 W Pitt St, Jennerstown, PA 15547
+- **Address**: 2745 Veterans Blvd, New Manchester, WV 26056
 - **Phone**: [(724) 302-4910](tel:724-302-4910)
+- +13049192350
 - **Hours**: 8AM - 9PM
 - **Website**: [dollargeneral.com](https://www.dollargeneral.com/store-directory/pa/jennerstown/6081.html)
 - **Distance from Camp:** 4 min (1.6 miles)
