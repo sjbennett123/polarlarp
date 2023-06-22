@@ -17,14 +17,14 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Cell Phone Service**: Terrible
 - **Privacy**: Pretty secluded
 - **Beds**: very nice with matresses you just need blankets and a pillow.
-- **Heat**: 
-- **Showers**: 
-- **Bathrooms**: 
+- **Heat**: No
+- **Showers**: Showers yes! Very nice bathhouse got accessible as well
+- **Bathrooms**: very nice got accessible as well
 - **Assigned Cabins**: 
-- **Reserving Cabins:** 
-- **Smoking**:  
-- **Bird Seed Packets**: 
-- **Camp Boundaries**: 
+- **Reserving Cabins:** yes, they sleep 10 each. 2 single beds main room. 2 side rooms with 2 bunk beds in each
+- **Smoking**:  yes, clean up butts
+- **Bird Seed Packets**: yes
+- **Camp Boundaries**: woodline paths unexplored and overgrown. Behind PC cabins is drop off to road
 
 ---
 
