@@ -12,33 +12,27 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Website**: [wvstateparks.com](https://wvstateparks.com/park/tomlinson-run-state-park/)
 - **Office Phone**: [(304) 564-3651](tel:304-564-3651)
 - **Email Address**: [tomlinsonrunsp@wv.gov](mailto:tomlinsonrunsp@wv.gov)
+- 
+- 
+- **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
+- **WiFi**: Yes! In the Tavern
+- **Cell Phone Service**: Terrible
+- **Privacy**: Pretty secluded
+- **Beds**: very nice with matresses you just need blankets and a pillow.
+- **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
+- **Showers**: Each cabin has 2 showers.
+- **Bathrooms**: Each cabin has it's own bathroom.
+- **Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
+- **Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
+- **Smoking**:  Put cigarette butts in trays or cans. Do not smoke in the cabins. 
+- **Bird Seed Packets**: The camp site does not allow bird seed packets.
+- **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
+
+---
+
+## Arriving at the Campsite
 
 When you come in, go straight at the first turn and keep going. After the dam when you come up a big hill turn right and then we are the first camp there. 
-
-
-**Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
-
-**Heat**: The stone cabins are very well heated with a huge heat blower in them. 
-
-**Showers**: Each cabin has 2 showers.
-
-**Bathrooms**: Each cabin has it's own bathroom.
-
-**Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
-
-**Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
-
-**Smoking**:  Put cigarette butts in trays or cans.
-
-**Bird Seed Packets**: The camp site does not allow bird seed packets.
-
-**Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
-
-**Cell Phone Service**: Bad!
-
-**WiFi**: NOPE
-
-**Max Capacity**: 
 
 ---
 
