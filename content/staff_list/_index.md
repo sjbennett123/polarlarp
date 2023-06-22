@@ -13,13 +13,13 @@ These are more than staff positions; these positions grow and determine where PO
 
 There are 5 voting members and 2 trustees. If there is a vote the members vote but if one of them cannot make it the trustees can vote in their stead. 
 
-- John Thompson - President
-- Stephen Dupree - Vice President
-- Treasurer - Dr. Kimberly Dupree 
-- Secretary - Kiera Phillips 
-- Player Rep - Donnie Leight 
-- Trustee - Mike Mack 
-- Trustee - Devin Pusateri 
+- John Thompson
+- Kiera Phillips 
+- Donnie Leight 
+- Mike Mack 
+- Devin Pusateri 
+- Chris Colland
+- Erin Albert Jamison
 
 ## General Manager
 
@@ -34,17 +34,17 @@ They can help with just about anything, or direct you toward the person who can!
 250 GS / Month
 
 - Donnie Leight 
-- Stephen Dupree 
 - Devin Pusateri
 - [Chris Colland](./chris_colland) 
+- Danielle Regula
+- Clinton Russell Snyder
+- Mary Courtney
 
 ## Event Director
 
 500 GS / Event
 
 Open - Per Plot Committee 
-
-- 
 
 ## Head Marshal
 
@@ -86,15 +86,16 @@ Open - 1 Position
 
 Open - 1 Positions
 
-- Bobby Lee White 
-- 
+- Bobby Lee White
+- Joe Tate
 
 ## Safety Marshal
 
 200 GS / Month
 
 - Donnie Leight 
-- Erin Albert Jamison
+- Chris Colland
+- Toni Pusateri
 
 ## Marketing / Recruitment
 
@@ -102,15 +103,15 @@ Open - 1 Positions
 
 Open - 2 Positions
 
-- 
-- 
+- Tim Caudill
+- Travis Marcum
 
 ## New Player Coordinator
 
 200GS / Month
 
-- Ian Pergl 
-- Julia McCurry 
+- Bobby White
+- Joe Tate
 
 ## Tavern
 
@@ -120,7 +121,7 @@ Open - 2 Positions
 
 - Kiera Phillips 
 - Cheryl Preaux-Suchacek 
-- 
+- Open - 1 Positions
 
 ## Staff Medic
 
@@ -134,19 +135,18 @@ If you have a rules question, please talk to one of them! If a marshal makes a r
 
 50 GS / Game Day 
 
-Open - Per Head Marshal  5 - Open Positions
+Open - Per Head Marshal  Open per Head Marshal
 
-- 
--  
--  
--  
-- 
+- Joe Tate
+- Vince Errico
+- Scott Strohm
+- Open - 2 Positions
 
 ## Formal Marshal 
 
 50 GS / Game Day 
 
-Open - Per Head Marshal 4 Open Positions =
+Open - Per Head Marshal 4 Open Positions.
 
 - Ken Courtney 
 
@@ -162,4 +162,10 @@ If you have any kind of injury, illness, or allergic reaction, please talk to on
 - Michael Kebert 
 - Erin Albert Jamison 
 - Joanna Jarvis  
-- 
+- Catherine Elizabeth Anastasia Burns
+
+## Race Packet Coordinator
+
+200 GS / Month
+
+- Josh Wilson
