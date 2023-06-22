@@ -13,8 +13,10 @@ weight: 1
 ------
 
 ## [<i class="fab fa-facebook"></i>  Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
+
 ## [<i class="fab fa-facebook"></i>  Facebook In Game](https://www.facebook.com/groups/3408485185934076/)  
-## [<i class="fab fa-discord"></i>   Discord](https://www.facebook.com/groups/348666906438615/permalink/802964631008838/)  
+
+## [<i class="fab fa-discord"></i>   Discord](https://discord.gg/XJeNyEKA)  
 {{%expand "FAQ" %}}
 
 **Do you have any rules?**
