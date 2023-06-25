@@ -13,11 +13,11 @@ weight: 1
 # **✪ [Register for an Event]({{< ref "/events" >}}) ✪**
 
 ------
-## [<i class="fa fa-chess-rook"></i> Nero International](https://www.nerolarponline.com/)
+<h2><a href="https://www.nerolarponline.com/" target="_blank"><i class="fa fa-chess-rook"></i> Nero International</a></h2>
 
-## [<i class="fab fa-facebook"></i> Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
+<h2><a href="https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL" target="_blank"><i class="fab fa-facebook"></i> Facebook Out of Game</a></h2>
 
-## [<i class="fab fa-facebook"></i> Facebook In Game](https://www.facebook.com/groups/3408485185934076/?sorting_setting=CHRONOLOGICAL)  
+<h2><a href="https://www.facebook.com/groups/3408485185934076/?sorting_setting=CHRONOLOGICAL" target="_blank"><i class="fab fa-facebook"></i> Facebook In Game</a></h2>
 
 ## [<i class="fab fa-discord"></i> Discord](https://discord.gg/XJeNyEKA)
 

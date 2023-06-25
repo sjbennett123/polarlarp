@@ -8,9 +8,9 @@
 <p>Event Registration closes the week before an event on Friday.</p>
 <h2 id="upcoming_events">Upcoming Events</h2>
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
-
-
+{{ $event_pages }}
 {{ $event_pages := where $event_pages ".Params.Layout" "=="  "event_schedule" }}
+{{ $event_pages }}
 
 {{ range  sort $event_pages ".Params.date" }}
        <p><a href="{{.Permalink}}"><b>{{ .Params.date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
