@@ -2,7 +2,13 @@
 {{- $gamestart := .Params.event_date | time -}}
 
 {{- $gameend := $gamestart.AddDate 0 0 2 -}}
-
+<font size="5">  
+<p style="text-align:left">
+<a href="{{- .Params.facebook_link -}}" target="_blank"><i class="fab fa-facebook"></i></a>
+<a href="{{- .Params.facebook_link -}}"></a>
+<i class="fa fa-calendar"></i>
+<i class="fab fa-paypal"></i></p>
+</font>  
 <p><b>Event Date:</b> {{ $gamestart.Format "January 02, 2006" }}</p>
 <p><b>PC Onsite:</b> {{ $gamestart.Format "Monday January 02, 2006" }} 5:00 pm</p>
 <p><b>Game Start:</b> {{ $gamestart.Format "Monday January 02, 2006" }} 9:00 pm</p>
@@ -10,11 +16,21 @@
 <p><b>PC Offsite:</b> {{ $gameend.Format "Monday January 02, 2006" }} 10:00 am</p>
 <hr> 
 <p><b>In Game Location:</b> {{ .Params.ig_location }}</p>
-<p><b>Out of Game location:</b> {{ .Params.Title }}</p>
+<p><b>Out of Game location:</b> 
+{{ $oog_location := .Params.oog_location }}
+
+{{ if eq $oog_location "Camp Sequanota" }} 
+<a href="/events/camps/camp_sequanota">Camp Sequanota</a>
+{{ else if eq $oog_location "Racoon Creek State Park Group Camp 3" }} 
+<a href="/events/camps/racoon_creek_state_park_camp_3">Racoon Creek State Park Group Camp 3 </a>
+{{ else if eq $oog_location "Tomlinson Run State Park" }} 
+<a href="/events/camps/camp_tomlinson">Tomlinson Run State Park</a>
+{{ else }}
+{{ $oog_location }}
+{{ end }} </p>
 <p><b>Event Director:</b> {{ .Params.event_director  }}</p>
 <p><b>Event Type:</b> {{ .Params.type }}</p>
 <hr>
-<p style="text-align:center"><a href="{{- .Params.facebook_link -}}"><i class="fab fa-facebook"></i></a>       <i class="fa fa-calendar"></i></p>
-<i class="fab fa-paypal"></i>
+
 {{ partial "footer.html" . }}
 

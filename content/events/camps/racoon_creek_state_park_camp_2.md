@@ -1,5 +1,5 @@
 ---
-title: "Racoon Creek State Park"
+title: "Racoon Creek State Park Group Camp 2"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 description: A rustic camp that has hosted thousands of larp events over the years. 
