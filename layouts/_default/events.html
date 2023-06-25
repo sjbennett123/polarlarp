@@ -22,7 +22,7 @@
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 {{ $event_pages := where $event_pages ".Params.Layout" "=="  "event_schedule" }}
 
-{{ range  sort $event_pages ".Params.event_date" }}
+{{ range  sort $event_pages ".Params.event_date" "desc" }}
 {{ $event_date := .Params.event_date | time }}
 {{ $current_date := now | time }} 
    {{ if (lt $event_date.Unix  $current_date.Unix) }} 
