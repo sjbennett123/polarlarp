@@ -13,19 +13,15 @@ weight: 1
 # **✪ [Register for an Event]({{< ref "/events" >}}) ✪**
 
 ------
+## [<i class="fa fa-chess-rook"></i> Nero International](https://www.nerolarponline.com/)
 
-## [<i class="fab fa-facebook"></i>  Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
+## [<i class="fab fa-facebook"></i> Facebook Out of Game](https://www.facebook.com/groups/348666906438615?sorting_setting=CHRONOLOGICAL)  
 
-## [<i class="fab fa-facebook"></i>  Facebook In Game](https://www.facebook.com/groups/3408485185934076/?sorting_setting=CHRONOLOGICAL)  
+## [<i class="fab fa-facebook"></i> Facebook In Game](https://www.facebook.com/groups/3408485185934076/?sorting_setting=CHRONOLOGICAL)  
 
-## [<i class="fab fa-discord"></i>   Discord](https://discord.gg/XJeNyEKA)
-{{%expand "FAQ" %}}
+## [<i class="fab fa-discord"></i> Discord](https://discord.gg/XJeNyEKA)
 
-**Do you have any rules?**
-Change your in server name(nickname) into your first name and last name so we can know who you are and address you properly.
-{{% /expand%}}
-
-## [New Player Information]({{< ref "/new_players" >}})
+## [<i class="fa fa-chess-pawn"></i> New Player Information]({{< ref "/new_players" >}})
 
 ---
 

@@ -1,31 +1,31 @@
 ---
-title: What Should I Bring To The Event?
+title: "Packing List"
+date: 2022-11-10T10:33:21-05:00
+draft: false
 ---
 
-Here is a list of useful items to bring to your first (and subsequent) NERO events.  Remember that items such as clothing will differ depending on the time of year.  Of course you don't have to bring everything listed below.
+a non-comprehensive list of things to help you make sure that you're bringing everything that you need for game this weekend.
 
-**Costuming** - Cloaks, dresses, skirts, shirts, period-looking jewelry, pants, belts.
+- **Base Clothes & Weather Clothes** - It's getting down to 43-47 degrees at night, so make sure to pack long sleeve / long legged black pants and shirts, as well as getting up to 70 during the day, so an alternative short sleeve shirt to wear under your costuming.  Bring a hat of some sort for the cold nights.
+- **Footwear** - Try to wear boots or non-descript sneakers, but Somerset is notoriously muddy so safety over function.  Bring a few extra pair of socks.
+-  **costuming**, including pouches, belts, weapons, shields, packets, cantrip tomes, and a personal light spell.
 
-**Armor** - Chain, leather, arm/leg guards, coifs.
 
-**Weapons** - NERO-safe weapons, extra duct tape and parts to make weapons - many break! 
+## Camping/ Sleeping Gear
 
-**Spell packets** - Cloth (orange for gasses), birdseed, elastics, extra packets (white with NPC written on them) for NPC camp.
+A set of sleeping clothing, and your toiletries, baby wipes, bug spray, sleeping bag / blankets and a pillow.  Strongly recommend 
 
-**Clothes** - Warm undergarments, sleepwear, waterproof socks, sturdy boots, extra clothes for those rainy events, long underwear, extra socks, scarves, and gloves.
+- Toothbrush, Toothpaste,
+-  Hair Brush, 
+- Deodorant, 
+- Body Wash
+- Towel, Soap & Toilet Paper. 
+-  earplugs
 
-**Toiletries** - Sinks, showers, and bathrooms are available. Bring cosmetics, towels, shower shoes, medicines, inhalers, makeup remover, mirror, first aid kit, bug repellant, and sunscreen.
+**bottled water**.   Somerset ground water is notoriously filthy without additional filtration.
 
-**Racial Items** - Makeup, ears, horns, feathers, fur, claws, tails, teeth, Spirit Gum.
+**Snacks**. 
 
-**In-Game Items** - Money, journals, spell books, personal tokens/items, magic items (and tags), components.
+**Sunscreen** if you're sensitive to UV.
 
-**Bedding** - Sleeping bags, blankets, pillows.
-
-**Money** - For any trips off-site if you forget anything, for food in the Tavern, for registrations.
-
-**Resources** - Rulebook, players guides, website information, newsletters.
-
-**Extras** - Firewood, food, props, items your character might use, traps, gifts, garbage bags.
-
- 
+**Cash** (this is a Cash-only event)

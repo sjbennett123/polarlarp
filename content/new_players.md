@@ -8,6 +8,9 @@ weight: 1
 
 [Legal Release]({{< ref "/legal_release" >}}) [PDF](/nero_polar_legal_release.pdf)
 
+[Packing List]({{< ref "/packing_list" >}})
+
+
 As long as you are on site and your child stays in the same cabin, they can play at 14.
 
 ---
