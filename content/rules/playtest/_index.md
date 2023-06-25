@@ -12,3 +12,7 @@ Each NERO chapter abides by the rules listed in this book. Additionally, these r
 - Foam Weapon
 - PvE Celestial
 - Unified refitting
+
+## Full List of Playtests
+
+{{% children description="true" %}}
