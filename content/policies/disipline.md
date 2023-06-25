@@ -1,5 +1,5 @@
 ---
-title: "POLAR Disciplinary Policy*"
+title: "POLAR Disciplinary Policy"
 
 ---
 

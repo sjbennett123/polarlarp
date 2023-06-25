@@ -2,15 +2,17 @@
 {{- $event_date := .Params.event_date | time -}}
 
 {{- $gameend := $event_date.AddDate 0 0 2 -}}
+{{- $oog_location := .Params.oog_location -}}
+
 <font size="5">  
 <p style="text-align:left">
 <a href="{{- .Params.facebook_link -}}" target="_blank"><i class="fab fa-facebook"></i></a>
-<a href="{{- .Params.facebook_link -}}"></a>
 <i class="fa fa-calendar"></i>
-<a href="https://www.paypal.com/cgi-bin/webscr?business=webmaster@polarlarp.org&cmd=_xclick&currency_code=USD&amount=60&item_name={{ $event_date.Format "January 02, 2006" }}&display='1'"><i class="fab fa-paypal"></i></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?business=webmaster@polarlarp.org&cmd=_xclick&currency_code=USD&amount=60&item_name={{- $event_date.Format "January 02, 2006" -}}&display='1'"><i class="fab fa-paypal"></i></a>
 item_name
 </p>
 </font>  
+
 <p><b>Event Date:</b> {{ $event_date.Format "January 02, 2006" }}</p>
 <p><b>PC Onsite:</b> {{ $event_date.Format "Monday January 02, 2006" }} 5:00 pm</p>
 <p><b>Game Start:</b> {{ $event_date.Format "Monday January 02, 2006" }} 9:00 pm</p>
@@ -19,7 +21,6 @@ item_name
 <hr> 
 <p><b>In Game Location:</b> {{ .Params.ig_location }}</p>
 <p><b>Out of Game location:</b> 
-{{ $oog_location := .Params.oog_location }}
 
 {{ if eq $oog_location "Camp Sequanota" }} 
 <a href="/events/camps/camp_sequanota">Camp Sequanota</a>
@@ -30,7 +31,13 @@ item_name
 {{ else }}
 {{ $oog_location }}
 {{ end }} </p>
-<p><b>Event Director:</b> {{ .Params.event_director  }}</p>
+<p><b>Event Director:</b>
+ {{ if eq .Params.event_director "Chris Colland" }}
+<a href="/staff/chris_colland">Chris Colland</a>
+ {{ else}}
+ {{ .Params.event_director }} 
+  {{ end }} 
+</p>
 <p><b>Event Type:</b> {{ .Params.type }}</p>
 <hr>
 
