@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-{{- $gamestart := .Params.date | time -}}
+{{- $gamestart := .Params.event_date | time -}}
 
 {{- $gameend := $gamestart.AddDate 0 0 2 -}}
 

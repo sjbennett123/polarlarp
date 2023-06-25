@@ -5,16 +5,29 @@
 <p>We want to provide the best LARPing experience possible, <b>as often as possible</b>. Please register now. It’s going to be a great event!</p>
 <p>You need to sign up for the national character database before you can register for an event.<a href="http://nerolarponline.com">nerolarponline.com</a></p>
 
-<p>Event Registration closes the week before an event on Friday.</p>
+<p>Event Registration closes the week before an event on Friday. You can attend without registering for an additional 10 Dollars. You must also print and bring your character sheet with you to the event. </p>
 <h2 id="upcoming_events">Upcoming Events</h2>
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
-{{ $event_pages }}
 {{ $event_pages := where $event_pages ".Params.Layout" "=="  "event_schedule" }}
-{{ $event_pages }}
 
-{{ range  sort $event_pages ".Params.date" }}
-       <p><a href="{{.Permalink}}"><b>{{ .Params.date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
+{{ range  sort $event_pages ".Params.event_date" }}
+{{ $event_date := .Params.event_date | time }}
+{{ $current_date := now | time }} 
+   {{ if (ge $event_date.Unix  $current_date.Unix) }} 
+       <p><a href="{{.Permalink}}"><b>{{ $event_date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
+   {{- end -}}
 {{- end -}}
 
+<h2 id="upcoming_events">Past Events</h2>
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $event_pages := where $event_pages ".Params.Layout" "=="  "event_schedule" }}
+
+{{ range  sort $event_pages ".Params.event_date" }}
+{{ $event_date := .Params.event_date | time }}
+{{ $current_date := now | time }} 
+   {{ if (lt $event_date.Unix  $current_date.Unix) }} 
+       <p><a href="{{.Permalink}}"><b>{{ $event_date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
+   {{- end -}}
+{{- end -}}
 
 {{ partial "footer.html" . }}
