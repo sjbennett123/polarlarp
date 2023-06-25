@@ -25,4 +25,4 @@ weight: 1
 
 ---
 
-Pennsylvania Live Action Organization of Roleplaying Inc. is a nonprofit organization. It was registered on Someday in 2022! 
+<p style="font-family:'Courier New'">Pennsylvania Live Action Organization of Roleplaying Inc. is a nonprofit organization. It was registered on Someday in 2022! </p>

@@ -1,17 +1,19 @@
 {{ partial "header.html" . }}
-{{- $gamestart := .Params.event_date | time -}}
+{{- $event_date := .Params.event_date | time -}}
 
-{{- $gameend := $gamestart.AddDate 0 0 2 -}}
+{{- $gameend := $event_date.AddDate 0 0 2 -}}
 <font size="5">  
 <p style="text-align:left">
 <a href="{{- .Params.facebook_link -}}" target="_blank"><i class="fab fa-facebook"></i></a>
 <a href="{{- .Params.facebook_link -}}"></a>
 <i class="fa fa-calendar"></i>
-<i class="fab fa-paypal"></i></p>
+<a href="https://www.paypal.com/cgi-bin/webscr?business=webmaster@polarlarp.org&cmd=_xclick&currency_code=USD&amount=60&item_name={{ $event_date.Format "January 02, 2006" }}"><i class="fab fa-paypal"></i></a>
+item_name
+</p>
 </font>  
-<p><b>Event Date:</b> {{ $gamestart.Format "January 02, 2006" }}</p>
-<p><b>PC Onsite:</b> {{ $gamestart.Format "Monday January 02, 2006" }} 5:00 pm</p>
-<p><b>Game Start:</b> {{ $gamestart.Format "Monday January 02, 2006" }} 9:00 pm</p>
+<p><b>Event Date:</b> {{ $event_date.Format "January 02, 2006" }}</p>
+<p><b>PC Onsite:</b> {{ $event_date.Format "Monday January 02, 2006" }} 5:00 pm</p>
+<p><b>Game Start:</b> {{ $event_date.Format "Monday January 02, 2006" }} 9:00 pm</p>
 <p><b>Game End:</b> {{ $gameend.Format "Monday January 02, 2006" }} 2:00 am </p>
 <p><b>PC Offsite:</b> {{ $gameend.Format "Monday January 02, 2006" }} 10:00 am</p>
 <hr> 
