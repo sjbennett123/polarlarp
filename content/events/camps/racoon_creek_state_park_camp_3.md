@@ -7,7 +7,7 @@ hidden: false
 ---
 
 - **Address**: 3000 State Route 18 Hookstown, PA 15050
-- **GPS**: USE THIS FOR DIRECTIONS 40.17949564028885, -79.10447822702073
+- **GPS**: USE THIS FOR DIRECTIONS [40.51222817139827, -80.45541840578919](https://goo.gl/maps/68MRVEXHLQa4d9dF7)
 - [Racoon Creek State Park: Google Maps](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
 - [State Park Website for Racoon Creek State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/RaccoonCreekStatePark/Pages/default.aspx)
 - **Beds**: Just springs or plywood boards with **no mattresses**, so bring bedding (at least a mattress). 

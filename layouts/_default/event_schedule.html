@@ -9,7 +9,7 @@
 <a href="{{- .Params.facebook_link -}}" target="_blank"><i class="fab fa-facebook"></i></a>
 <i class="fa fa-calendar"></i>
 <a href="https://www.paypal.com/cgi-bin/webscr?business=webmaster@polarlarp.org&cmd=_xclick&currency_code=USD&amount=60&item_name={{- $event_date.Format "January 02, 2006" -}}&display='1'"><i class="fab fa-paypal"></i></a>
-item_name
+
 </p>
 </font>  
 
@@ -20,23 +20,23 @@ item_name
 <p><b>PC Offsite:</b> {{ $gameend.Format "Monday January 02, 2006" }} 10:00 am</p>
 <hr> 
 <p><b>In Game Location:</b> {{ .Params.ig_location }}</p>
-<p><b>Out of Game location:</b> 
+<p><b>Out of Game location: </b>
 
-{{ if eq $oog_location "Camp Sequanota" }} 
+{{- if eq $oog_location "Camp Sequanota" -}} 
 <a href="/events/camps/camp_sequanota">Camp Sequanota</a>
-{{ else if eq $oog_location "Racoon Creek State Park Group Camp 3" }} 
+{{- else if eq $oog_location "Racoon Creek State Park Group Camp 3" -}} 
 <a href="/events/camps/racoon_creek_state_park_camp_3">Racoon Creek State Park Group Camp 3 </a>
-{{ else if eq $oog_location "Tomlinson Run State Park" }} 
+{{- else if eq $oog_location "Tomlinson Run State Park" -}} 
 <a href="/events/camps/camp_tomlinson">Tomlinson Run State Park</a>
-{{ else }}
-{{ $oog_location }}
-{{ end }} </p>
+{{- else -}}
+{{- $oog_location -}}
+{{- end -}} </p>
 <p><b>Event Director:</b>
  {{ if eq .Params.event_director "Chris Colland" }}
 <a href="/staff/chris_colland">Chris Colland</a>
  {{ else}}
  {{ .Params.event_director }} 
-  {{ end }} 
+ {{ end }} 
 </p>
 <p><b>Event Type:</b> {{ .Params.type }}</p>
 <hr>
