@@ -50,3 +50,16 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 Great for snacks, bottled water or a last minute energy drink.
 
+---
+
+## Nearby Food
+
+
+
+## Nearby Hotels
+
+Holiday Inn Express Newell-Chester WV, an IHG Hotel
+
+14 Minutes 6.9 Miles
+
+https://goo.gl/maps/shctezKzHJJhs9gY7
