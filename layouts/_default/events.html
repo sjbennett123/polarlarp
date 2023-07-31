@@ -1,5 +1,28 @@
 {{ partial "header.html" . }}
 
+<h2 id="upcoming_events">Upcoming Events</h2>
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $event_pages := where $event_pages ".Params.Layout" "=="  "event_schedule" }}
+
+{{ range  sort $event_pages ".Params.event_date" }}
+{{ $event_date := .Params.event_date | time }}
+{{ $current_date := now | time }} 
+   {{ if (ge $event_date.Unix  $current_date.Unix) }} 
+       <p><a href="{{.Permalink}}"><b>{{ $event_date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
+   {{- end -}}
+{{- end -}}
+
+<h2 id="upcoming_events">Past Events</h2>
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $event_pages := where $event_pages ".Params.Layout" "=="  "event_schedule" }}
+
+{{ range  sort $event_pages ".Params.event_date" "desc" }}
+{{ $event_date := .Params.event_date | time }}
+{{ $current_date := now | time }} 
+   {{ if (lt $event_date.Unix  $current_date.Unix) }} 
+       <p><a href="{{.Permalink}}"><b>{{ $event_date.Format "January 02, 2006" }}</b> {{ title  .Title }}</a></p>
+   {{- end -}}
+{{- end -}}
 
 
 <p>We want to provide the best LARPing experience possible, <b>as often as possible</b>. Please register now. It’s going to be a great event!</p>

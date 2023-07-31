@@ -4,8 +4,9 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
-As you can see, POLAR has some openings. Please PM me if interested in accepting any position. Thanks Much!!!!
-These are more than staff positions; these positions grow and determine where POLAR goes in the future. This is all of our game as a community. Let's make it the best game possible!!!!
+As you can see, POLAR has some openings. Please contact the General Manager John Tompson if interested in accepting any position. 
+
+These are more than staff positions; these positions grow and determine where POLAR goes in the future. This is all of our game as a community. Let's make it the best game possible!
 
 ## Board of Directors
 
@@ -18,7 +19,7 @@ There are 5 voting members and 2 trustees. If there is a vote the members vote b
 - Donnie Leight 
 - Mike Mack 
 - Devin Pusateri 
-- Chris Colland
+- [Chris Colland](./chris_colland)
 - Erin Albert Jamison
 
 ## General Manager
@@ -35,7 +36,7 @@ They can help with just about anything, or direct you toward the person who can!
 
 - Donnie Leight 
 - Devin Pusateri
-- [Chris Colland](./chris_colland) 
+- [Chris Colland](./chris_colland)
 - Danielle Regula
 - Clinton Russell Snyder
 - Mary Courtney
@@ -94,7 +95,7 @@ Open - 1 Positions
 200 GS / Month
 
 - Donnie Leight 
-- Chris Colland
+- [Chris Colland](./chris_colland)
 - Toni Pusateri
 
 ## Marketing / Recruitment
