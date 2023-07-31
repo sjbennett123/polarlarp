@@ -17,7 +17,7 @@ hidden: false
 - **Bathrooms**: Communal bathrooms. BEWARE THE SPIDER!
 - **Bird Seed Packets**: NOPE!  The camp site does not allow bird seed packets.
 - **Smoking**:  put cigarette butts in trays cans.
-- **Campsite Map**:  put cigarette butts in trays cans.
+- **Campsite Map**:  [Camp 3 Campsite Map](racoon_creek_state_park_camp_3.png)
 - **Smoking**:  put cigarette butts in trays cans.
 
 ## Nearby Supplies
