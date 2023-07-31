@@ -10,6 +10,7 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **GPS**: USE THIS FOR DIRECTIONS! [40.545454187001056, -80.59292467546774](https://goo.gl/maps/FMH1qFqK2ToXp1M47)
 - **Google Maps**: [Tomlinson Run State Park](https://goo.gl/maps/qBbR9WZ72GPFZZsZA)
 - **Website**: [wvstateparks.com](https://wvstateparks.com/park/tomlinson-run-state-park/)
+- **Facebook**: [Tomlinson Run State Park Foundation](https://www.facebook.com/TomlinsonRunStateParkFoundation/) Oftentimes serves breakfast in the summer on Saturday.
 - **Office Phone**: [(304) 564-3651](tel:304-564-3651)
 - **Email Address**: [tomlinsonrunsp@wv.gov](mailto:tomlinsonrunsp@wv.gov)
 - **Campsite Map**: [Trail Map](/TomlinsonRunStateParkMap.png)
