@@ -12,11 +12,11 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Website**: [wvstateparks.com](https://wvstateparks.com/park/tomlinson-run-state-park/)
 - **Office Phone**: [(304) 564-3651](tel:304-564-3651)
 - **Email Address**: [tomlinsonrunsp@wv.gov](mailto:tomlinsonrunsp@wv.gov)
-- **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
+- **Campsite Map**: [Trail Map](/TomlinsonRunStateParkMap.png)
 - **WiFi**: Nope
 - **Cell Phone Service**: Terrible
 - **Privacy**: Pretty secluded
-- **Beds**: very nice with matresses you just need blankets and a pillow.
+- **Beds**: very nice with mattresses you just need blankets and a pillow.
 - **Heat**: No
 - **Showers**: Showers yes! Very nice bathhouse got accessible as well
 - **Bathrooms**: very nice got accessible as well
@@ -39,7 +39,7 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 #### Dollar General 
 
 - **Address**: 2745 Veterans Blvd, New Manchester, WV 26056
-- **Phone**: [(304) 919-2350](tel: 304-919-2350)
+- **Phone**: [(304) 919-2350](tel:304-919-2350)
 - **Hours**: 8AM - 9PM
 - **Website**: [dollargeneral.com](https://www.dollargeneral.com/store-directory/pa/jennerstown/6081.html)
 - **Distance from Camp:** 4 min (1.6 miles)
