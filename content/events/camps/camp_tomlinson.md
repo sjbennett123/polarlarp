@@ -19,7 +19,7 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Privacy**: Pretty secluded
 - **Beds**: very nice with mattresses you just need blankets and a pillow.
 - **Heat**: No
-- **Showers**: Showers yes! Very nice bathhouse got accessible as well
+- **Showers**: Showers yes! Very nice bathhouse is hadicapped accessible.
 - **Bathrooms**: very nice got accessible as well
 - **Assigned Cabins**: 
 - **Reserving Cabins:** yes, they sleep 10 each. 2 single beds main room. 2 side rooms with 2 bunk beds in each
@@ -39,6 +39,8 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 ## Nearby Supplies
 
+Giant Eagle: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
+
 #### Dollar General
 
 - **Address**: 2745 Veterans Blvd, New Manchester, WV 26056
@@ -50,16 +52,74 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 Great for snacks, bottled water or a last minute energy drink.
 
----
-
 ## Nearby Food
 
+Most nearby food is in Chester or across the river from Chester in East Liverpool, OH, about 8 miles up Route 8 - there's a Taco Bell and McDonalds and Subway in Chester and a Dairy Queen in East Liverpool. There are two places in New Manchester, which is much closer, and a few places in New Cumberland - including a Subway and a McDonalds, which is south on Route 8.
 
+## Nearby hospitals
+
+East Liverpool City Hospital: https://goo.gl/maps/c57n6ekbQaMogiuD6
+
+Weirton Medical Center Main Hospital: https://goo.gl/maps/c57n6ekbQaMogiuD6
+
+Anything else is much further away, those two are your best bets.
+
+## Nearby Pharmacies
+
+Giant Eagle: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
+
+Rite Aid: https://goo.gl/maps/Yp9jD3urL26Fi6aq7
+
+Walgreens: https://goo.gl/maps/euSzBWf2Stev8cgK9
+
+There are no Urgent Care facilities within a short drive, the closest one is a MedExpress in Weirton: https://goo.gl/maps/CuwRXL2fd3y8VSAJ7, there's also one in Wintersville, OH: https://goo.gl/maps/Ly6S7e494ia4Tbte7 and one in Aliquippa: https://goo.gl/maps/sNgjtahvP5vf7Ymq9
+
+## Nearby Car Repair
+
+None of these are very close.
+
+O'Reilly Auto Parts: https://goo.gl/maps/L1VH24A2t3zoeH8Q6
+
+AutoZone: https://goo.gl/maps/fi5bzZU1dXEKXdsDA
+
+Tire Country: https://goo.gl/maps/mVujde9havkD9WBk7 (Only open 9:30-noon on Saturday, not open on Sunday)
+
+Jerry's Auto Repair: https://goo.gl/maps/n4AnLUB6Z8bD96x38 (Only open 10am-2pm Saturday, not open Sunday)
+
+Geibel's Auto: https://goo.gl/maps/X38wiqa3fhrvMzQV7 (Open 9am-2pm Saturday, not open Sunday)
+
+New Cumberland Borough Services:
+
+[https://www.cityofnewcumberland.net/](https://www.google.com/url?q=https%3A%2F%2Fwww.cityofnewcumberland.net%2F&sa=D&sntz=1&usg=AOvVaw3LfuU0NvoA5hw4D0wRY4V6)
+
+[104 N Court St New Cumberland WV 26047](https://www.google.com/maps/search/104+N+Court+St+New+Cumberland+WV+26047?entry=gmail&source=g)
+
+(304) 564-3383
+
+Parks and Recreation Department: 304-564-3383 EXT - 205
+
+Police Department Information (General questions only, not 911 stuff): 304-564-3383 EXT - 205
+
+1[04 N Court St., New Cumberland, WV 26047](https://www.google.com/maps/search/04+N+Court+St.,+New+Cumberland,+WV+26047?entry=gmail&source=g)
+
+Fire Department Information (general questions only, not 911 stuff)
+
+304-564-3829
+
+[301 N Chester St., New Cumberland, WV 26047](https://www.google.com/maps/search/301+N+Chester+St.,+New+Cumberland,+WV+26047?entry=gmail&source=g)
 
 ## Nearby Hotels
+
+A couple of hotels are in Chester or Newell, WV or East Liverpool, OH.
 
 Holiday Inn Express Newell-Chester WV, an IHG Hotel
 
 14 Minutes 6.9 Miles
 
 https://goo.gl/maps/shctezKzHJJhs9gY7
+
+Holiday Inn Express Newell-Chester, WV: https://goo.gl/maps/t4TrDy4rGTJs9dQs5
+
+Andrews Motel, Chester, WV: https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
+
+Vista Motel, East Liverpool, OH: https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
