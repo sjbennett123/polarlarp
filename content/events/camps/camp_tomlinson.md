@@ -27,7 +27,7 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Bird Seed Packets**: yes
 - **Camp Boundaries**: woodline paths unexplored and overgrown. Behind PC cabins is drop off to road
 
-![/images/tomlinson_run_group_camp_map.png](/images/tomlinson_run_group_camp_map.png)
+![/images/tomlinson_run_group_camp_map.jpg](/images/tomlinson_run_group_camp_map.jpg)
 
 ---
 
