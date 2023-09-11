@@ -1,4 +1,4 @@
-baseURL = 'https://polarlarp.netlify.app'
+baseURL = 'https://polarlarp.org'
 languageCode = 'en-us'
 title = 'Polar Larp'
 theme = 'hugo-theme-learn'
