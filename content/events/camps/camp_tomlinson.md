@@ -57,6 +57,16 @@ Great for snacks, bottled water or a last minute energy drink.
 
 Most nearby food is in Chester or across the river from Chester in East Liverpool, OH, about 8 miles up Route 8 - there's a Taco Bell and McDonalds and Subway in Chester and a Dairy Queen in East Liverpool. There are two places in New Manchester, which is much closer, and a few places in New Cumberland - including a Subway and a McDonalds, which is south on Route 8.
 
+Breakfast
+
+EatnPark
+
+Address: 226 Three Springs Dr, Weirton, WV 26062
+
+**Menu**: [eatnpark.com](http://www.eatnpark.com/menu)
+
+**[Phone](https://www.google.com/search?sca_esv=568067093&rlz=1C1ONGR_enUS1014US1014&sxsrf=AM9HkKlV1CoFzOZ42A7st_TvxAjnOoEySA:1695602293785&q=eat'n+park+-+weirton,+wv+phone&ludocid=3584536745838380958&sa=X&ved=2ahUKEwiTz5rjwsSBAxWSGFkFHRSHCIwQ6BN6BAhLEAI):** (304) 723-5179
+
 ## Nearby hospitals
 
 East Liverpool City Hospital: https://goo.gl/maps/c57n6ekbQaMogiuD6
