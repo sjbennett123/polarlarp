@@ -61,7 +61,7 @@ Breakfast
 
 EatnPark
 
-Address: 226 Three Springs Dr, Weirton, WV 26062
+**Address**: 226 Three Springs Dr, Weirton, WV 26062
 
 **Menu**: [eatnpark.com](http://www.eatnpark.com/menu)
 
