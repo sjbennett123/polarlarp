@@ -25,7 +25,8 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 - **Reserving Cabins:** yes, they sleep 10 each. 2 single beds main room. 2 side rooms with 2 bunk beds in each
 - **Smoking**:  yes, clean up butts
 - **Bird Seed Packets**: yes
-- **Camp Boundaries**: woodline paths unexplored and overgrown. Behind PC cabins is drop off to road
+- **Camp Boundaries**: woodline paths unexplored and overgrown. Behind PC cabins is drop off to road.
+- **Do not close the doors on the cabins all the way or they will lock** 
 
 ![/images/tomlinson_run_group_camp_map.jpg](/images/tomlinson_run_group_camp_map.jpg)
 
