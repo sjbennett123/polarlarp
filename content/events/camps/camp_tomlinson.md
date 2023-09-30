@@ -76,27 +76,28 @@ Anything else is much further away, those two are your best bets.
 
 ### East Liverpool City Hospital
 
-425 W 5th St, East Liverpool, OH 43920
-
-https://www.elch.org
-
-https://goo.gl/maps/c57n6ekbQaMogiuD6
+- **Address**: 425 W 5th St, East Liverpool, OH 43920
+- website: https://www.elch.org
+- Google Maps: https://goo.gl/maps/c57n6ekbQaMogiuD6
 
 ### Weirton Medical Center Main Hospital
 
-https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
-
-https://maps.app.goo.gl/4CBhFBkq4jPpYGgA8
-
-
+- website: https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
+- Google Maps:  https://maps.app.goo.gl/4CBhFBkq4jPpYGgA8
 
 ## Nearby Pharmacies
 
-Giant Eagle: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
+### Giant Eagle
 
-Rite Aid: https://goo.gl/maps/Yp9jD3urL26Fi6aq7
+- Google Maps: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
 
-Walgreens: https://goo.gl/maps/euSzBWf2Stev8cgK9
+### Rite Aid
+
+- https://goo.gl/maps/Yp9jD3urL26Fi6aq7
+
+### Walgreens
+
+- https://goo.gl/maps/euSzBWf2Stev8cgK9
 
 ## Urgent Care
 
