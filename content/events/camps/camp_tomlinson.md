@@ -57,23 +57,27 @@ Great for snacks, bottled water or a last minute energy drink.
 
 Most nearby food is in Chester or across the river from Chester in East Liverpool, OH, about 8 miles up Route 8 - there's a Taco Bell and McDonalds and Subway in Chester and a Dairy Queen in East Liverpool. There are two places in New Manchester, which is much closer, and a few places in New Cumberland - including a Subway and a McDonalds, which is south on Route 8.
 
-Breakfast
+**Breakfast**
 
-EatnPark
+### Eat n' Park
 
-**Address**: 226 Three Springs Dr, Weirton, WV 26062
-
-**Menu**: [eatnpark.com](http://www.eatnpark.com/menu)
-
-**[Phone](https://www.google.com/search?sca_esv=568067093&rlz=1C1ONGR_enUS1014US1014&sxsrf=AM9HkKlV1CoFzOZ42A7st_TvxAjnOoEySA:1695602293785&q=eat'n+park+-+weirton,+wv+phone&ludocid=3584536745838380958&sa=X&ved=2ahUKEwiTz5rjwsSBAxWSGFkFHRSHCIwQ6BN6BAhLEAI):** (304) 723-5179
+- **Address**: 226 Three Springs Dr, Weirton, WV 26062
+- **Menu**: [eatnpark.com](http://www.eatnpark.com/menu)
+- **Phone:** (304) 723-5179
 
 ## Nearby hospitals
 
-East Liverpool City Hospital: https://goo.gl/maps/c57n6ekbQaMogiuD6
-
-Weirton Medical Center Main Hospital: https://goo.gl/maps/c57n6ekbQaMogiuD6
-
 Anything else is much further away, those two are your best bets.
+
+### East Liverpool City Hospital
+
+https://goo.gl/maps/c57n6ekbQaMogiuD6
+
+### Weirton Medical Center Main Hospital
+
+https://goo.gl/maps/c57n6ekbQaMogiuD6
+
+
 
 ## Nearby Pharmacies
 
@@ -83,23 +87,35 @@ Rite Aid: https://goo.gl/maps/Yp9jD3urL26Fi6aq7
 
 Walgreens: https://goo.gl/maps/euSzBWf2Stev8cgK9
 
+## Urgent Care
+
 There are no Urgent Care facilities within a short drive, the closest one is a MedExpress in Weirton: https://goo.gl/maps/CuwRXL2fd3y8VSAJ7, there's also one in Wintersville, OH: https://goo.gl/maps/Ly6S7e494ia4Tbte7 and one in Aliquippa: https://goo.gl/maps/sNgjtahvP5vf7Ymq9
 
 ## Nearby Car Repair
 
 None of these are very close.
 
-O'Reilly Auto Parts: https://goo.gl/maps/L1VH24A2t3zoeH8Q6
+### O'Reilly Auto Parts
 
-AutoZone: https://goo.gl/maps/fi5bzZU1dXEKXdsDA
+https://goo.gl/maps/L1VH24A2t3zoeH8Q6
 
-Tire Country: https://goo.gl/maps/mVujde9havkD9WBk7 (Only open 9:30-noon on Saturday, not open on Sunday)
+### AutoZone
 
-Jerry's Auto Repair: https://goo.gl/maps/n4AnLUB6Z8bD96x38 (Only open 10am-2pm Saturday, not open Sunday)
+ https://goo.gl/maps/fi5bzZU1dXEKXdsDA
 
-Geibel's Auto: https://goo.gl/maps/X38wiqa3fhrvMzQV7 (Open 9am-2pm Saturday, not open Sunday)
+### Tire Country
 
-New Cumberland Borough Services:
+https://goo.gl/maps/mVujde9havkD9WBk7 (Only open 9:30-noon on Saturday, not open on Sunday)
+
+### Jerry's Auto Repair
+
+ https://goo.gl/maps/n4AnLUB6Z8bD96x38 (Only open 10am-2pm Saturday, not open Sunday)
+
+### Geibel's Auto
+
+ https://goo.gl/maps/X38wiqa3fhrvMzQV7 (Open 9am-2pm Saturday, not open Sunday)
+
+### New Cumberland Borough Services
 
 [https://www.cityofnewcumberland.net/](https://www.google.com/url?q=https%3A%2F%2Fwww.cityofnewcumberland.net%2F&sa=D&sntz=1&usg=AOvVaw3LfuU0NvoA5hw4D0wRY4V6)
 
@@ -129,8 +145,14 @@ Holiday Inn Express Newell-Chester WV, an IHG Hotel
 
 https://goo.gl/maps/shctezKzHJJhs9gY7
 
-Holiday Inn Express Newell-Chester, WV: https://goo.gl/maps/t4TrDy4rGTJs9dQs5
+Holiday Inn Express Newell-Chester, WV:
 
-Andrews Motel, Chester, WV: https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
+ https://goo.gl/maps/t4TrDy4rGTJs9dQs5
 
-Vista Motel, East Liverpool, OH: https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
+Andrews Motel, Chester, WV:
+
+ https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
+
+Vista Motel, East Liverpool, OH: 
+
+;https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
