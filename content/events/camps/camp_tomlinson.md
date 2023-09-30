@@ -44,6 +44,7 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 - **Address**: 619 Bradshaw Ave, East Liverpool, OH 43920
 -  https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
+-  **distance from camp**: 
 
 #### Dollar General
 
@@ -59,6 +60,16 @@ Great for snacks, bottled water or a last minute energy drink.
 ## Nearby Food
 
 Most nearby food is in Chester or across the river from Chester in East Liverpool, OH, about 8 miles up Route 8 - there's a Taco Bell and McDonalds and Subway in Chester and a Dairy Queen in East Liverpool. There are two places in New Manchester, which is much closer, and a few places in New Cumberland - including a Subway and a McDonalds, which is south on Route 8.
+
+Taco Bell
+
+mcdonalds
+
+Subway
+
+Dairy Queen
+
+
 
 **Breakfast**
 
@@ -82,7 +93,7 @@ Anything else is much further away, those two are your best bets.
 
 ### Weirton Medical Center Main Hospital
 
-- website: https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
+- Website: https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
 - Google Maps:  https://maps.app.goo.gl/4CBhFBkq4jPpYGgA8
 
 ## Nearby Pharmacies
@@ -103,6 +114,18 @@ Anything else is much further away, those two are your best bets.
 
 There are no Urgent Care facilities within a short drive, the closest one is a MedExpress in Weirton: https://goo.gl/maps/CuwRXL2fd3y8VSAJ7, there's also one in Wintersville, OH: https://goo.gl/maps/Ly6S7e494ia4Tbte7 and one in Aliquippa: https://goo.gl/maps/sNgjtahvP5vf7Ymq9
 
+### MedExpress in Weirton:
+
+-  https://goo.gl/maps/CuwRXL2fd3y8VSAJ7,
+
+### Wintersville, OH:
+
+-  https://goo.gl/maps/Ly6S7e494ia4Tbte7
+
+### Aliquippa:
+
+-  https://goo.gl/maps/sNgjtahvP5vf7Ymq9
+
 ## Nearby Car Repair
 
 None of these are very close.
@@ -117,33 +140,32 @@ https://goo.gl/maps/L1VH24A2t3zoeH8Q6
 
 ### Tire Country
 
-https://goo.gl/maps/mVujde9havkD9WBk7 (Only open 9:30-noon on Saturday, not open on Sunday)
+- https://goo.gl/maps/mVujde9havkD9WBk7 
+- hours: Only open 9:30-noon on Saturday, not open on Sunday
 
 ### Jerry's Auto Repair
 
- https://goo.gl/maps/n4AnLUB6Z8bD96x38 (Only open 10am-2pm Saturday, not open Sunday)
+-  https://goo.gl/maps/n4AnLUB6Z8bD96x38 
+
+- hours: (Only open 10am-2pm Saturday, not open Sunday)
 
 ### Geibel's Auto
 
- https://goo.gl/maps/X38wiqa3fhrvMzQV7 (Open 9am-2pm Saturday, not open Sunday)
+-  https://goo.gl/maps/X38wiqa3fhrvMzQV7 (Open 9am-2pm Saturday, not open Sunday)
 
 ### New Cumberland Borough Services
 
-[https://www.cityofnewcumberland.net/](https://www.google.com/url?q=https%3A%2F%2Fwww.cityofnewcumberland.net%2F&sa=D&sntz=1&usg=AOvVaw3LfuU0NvoA5hw4D0wRY4V6)
+- **website**: [https://www.cityofnewcumberland.net/](https://www.google.com/url?q=https%3A%2F%2Fwww.cityofnewcumberland.net%2F&sa=D&sntz=1&usg=AOvVaw3LfuU0NvoA5hw4D0wRY4V6)
 
-[104 N Court St New Cumberland WV 26047](https://www.google.com/maps/search/104+N+Court+St+New+Cumberland+WV+26047?entry=gmail&source=g)
+- **address**: [104 N Court St New Cumberland WV 26047](https://www.google.com/maps/search/104+N+Court+St+New+Cumberland+WV+26047?entry=gmail&source=g)
 
-(304) 564-3383
+- (304) 564-3383
 
-Parks and Recreation Department: 304-564-3383 EXT - 205
+- Parks and Recreation Department: 304-564-3383 EXT - 205
 
-Police Department Information (General questions only, not 911 stuff): 304-564-3383 EXT - 205
+- Police Department Information (General questions only, not 911 stuff): 304-564-3383 EXT - 205
 
-1[04 N Court St., New Cumberland, WV 26047](https://www.google.com/maps/search/04+N+Court+St.,+New+Cumberland,+WV+26047?entry=gmail&source=g)
-
-Fire Department Information (general questions only, not 911 stuff)
-
-304-564-3829
+- Fire Department Information (general questions only, not 911 stuff): 304-564-3829
 
 [301 N Chester St., New Cumberland, WV 26047](https://www.google.com/maps/search/301+N+Chester+St.,+New+Cumberland,+WV+26047?entry=gmail&source=g)
 
@@ -153,18 +175,18 @@ A couple of hotels are in Chester or Newell, WV or East Liverpool, OH.
 
 Holiday Inn Express Newell-Chester WV, an IHG Hotel
 
-14 Minutes 6.9 Miles
+- 14 Minutes 6.9 Miles
 
-https://goo.gl/maps/shctezKzHJJhs9gY7
+- https://goo.gl/maps/shctezKzHJJhs9gY7
 
 Holiday Inn Express Newell-Chester, WV:
 
- https://goo.gl/maps/t4TrDy4rGTJs9dQs5
+-  https://goo.gl/maps/t4TrDy4rGTJs9dQs5
 
 Andrews Motel, Chester, WV:
 
- https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
+-  https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
 
 Vista Motel, East Liverpool, OH: 
 
-;https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
+- https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
