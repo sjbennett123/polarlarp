@@ -40,7 +40,10 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 ## Nearby Supplies
 
-Giant Eagle: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
+### Giant Eagle
+
+- **Address**: 619 Bradshaw Ave, East Liverpool, OH 43920
+-  https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
 
 #### Dollar General
 
@@ -64,18 +67,26 @@ Most nearby food is in Chester or across the river from Chester in East Liverpoo
 - **Address**: 226 Three Springs Dr, Weirton, WV 26062
 - **Menu**: [eatnpark.com](http://www.eatnpark.com/menu)
 - **Phone:** (304) 723-5179
+-  **Hours**: 7 AM–11 PM
+-  **Distance from Camp**: 26 min (14.8 miles) via WV-2 S
 
-## Nearby hospitals
+## Nearby Hospitals
 
 Anything else is much further away, those two are your best bets.
 
 ### East Liverpool City Hospital
 
+425 W 5th St, East Liverpool, OH 43920
+
+https://www.elch.org
+
 https://goo.gl/maps/c57n6ekbQaMogiuD6
 
 ### Weirton Medical Center Main Hospital
 
-https://goo.gl/maps/c57n6ekbQaMogiuD6
+https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
+
+https://maps.app.goo.gl/4CBhFBkq4jPpYGgA8
 
 
 
