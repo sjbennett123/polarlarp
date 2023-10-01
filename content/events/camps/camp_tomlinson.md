@@ -44,16 +44,16 @@ When you come in, go straight at the first turn and keep going. After the dam wh
 
 - **Address**: 619 Bradshaw Ave, East Liverpool, OH 43920
 -  https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
--  **distance from camp**: 
+-  **distance from camp**: 19 min (10.8 miles)
 
-#### Dollar General
+### Dollar General
 
 - **Address**: 2745 Veterans Blvd, New Manchester, WV 26056
 - **Phone**: [(304) 919-2350](tel:304-919-2350)
-- **Hours**: 8AM - 9PM
-- **Website**: [dollargeneral.com](https://www.dollargeneral.com/store-directory/pa/jennerstown/6081.html)
-- **Distance from Camp:** 4 min (1.6 miles)
-- **Google Maps**: [Dollar General](https://www.google.com/maps/place/Dollar+General/@40.1633058,-79.0812317,17z/data=!4m15!1m8!3m7!1s0x89cb211c03d0bb43:0x6b20a864422a46fd!2s1297+W+Pitt+St,+Boswell,+PA+15531!3b1!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F11bw3y5p29!3m5!1s0x89cb21005ff4d80d:0xc075b58a9fa04be8!8m2!3d40.1633058!4d-79.0812317!16s%2Fg%2F1hc4_hlyq)
+- **Hours**: 8AM - 10PM
+- **Website**: [dollargeneral.com](https://www.dollargeneral.com/store-directory/wv/new-manchester/17731)
+- **Distance from Camp:** 6 min (2.3 miles)
+- **Google Maps**: [Dollar General](https://maps.app.goo.gl/iEKMX6DUgZnrwJYc7)
 
 Great for snacks, bottled water or a last minute energy drink.
 
@@ -61,17 +61,19 @@ Great for snacks, bottled water or a last minute energy drink.
 
 Most nearby food is in Chester or across the river from Chester in East Liverpool, OH, about 8 miles up Route 8 - there's a Taco Bell and McDonalds and Subway in Chester and a Dairy Queen in East Liverpool. There are two places in New Manchester, which is much closer, and a few places in New Cumberland - including a Subway and a McDonalds, which is south on Route 8.
 
-Taco Bell
+### Taco Bell
 
-mcdonalds
+- **Address:** 449 Carolina Ave, Chester, WV 26034
+- google maps: https://maps.app.goo.gl/dEeaECM5LyHXC2dn6
 
-Subway
+### McDonalds
+- **Address:**
 
-Dairy Queen
+### Subway
+- **Address:**
 
-
-
-**Breakfast**
+### Dairy Queen
+- **Address:**
 
 ### Eat n' Park
 
@@ -80,6 +82,7 @@ Dairy Queen
 - **Phone:** (304) 723-5179
 -  **Hours**: 7 AM–11 PM
 -  **Distance from Camp**: 26 min (14.8 miles) via WV-2 S
+-  https://maps.app.goo.gl/VMwKBtE4Nj4bWZAG7
 
 ## Nearby Hospitals
 
@@ -88,41 +91,46 @@ Anything else is much further away, those two are your best bets.
 ### East Liverpool City Hospital
 
 - **Address**: 425 W 5th St, East Liverpool, OH 43920
-- website: https://www.elch.org
-- Google Maps: https://goo.gl/maps/c57n6ekbQaMogiuD6
+- **Website**: https://www.elch.org
+- **Google Maps**: https://goo.gl/maps/c57n6ekbQaMogiuD6
 
 ### Weirton Medical Center Main Hospital
 
-- Website: https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
-- Google Maps:  https://maps.app.goo.gl/4CBhFBkq4jPpYGgA8
+- **Website**: https://www.weirtonmedical.com/blog/locations/weirton-medical-center-main-hospital/
+- **Google Maps**:  https://maps.app.goo.gl/4CBhFBkq4jPpYGgA8
 
 ## Nearby Pharmacies
 
 ### Giant Eagle
 
-- Google Maps: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
+- **Google Maps**: https://goo.gl/maps/7Et6gQQ1MmgTR5hm6
 
 ### Rite Aid
 
-- https://goo.gl/maps/Yp9jD3urL26Fi6aq7
+- **Google Maps**: https://goo.gl/maps/Yp9jD3urL26Fi6aq7
 
 ### Walgreens
 
-- https://goo.gl/maps/euSzBWf2Stev8cgK9
+- **Google Maps**: https://goo.gl/maps/euSzBWf2Stev8cgK9
 
 ## Urgent Care
 
 There are no Urgent Care facilities within a short drive, the closest one is a MedExpress in Weirton: https://goo.gl/maps/CuwRXL2fd3y8VSAJ7, there's also one in Wintersville, OH: https://goo.gl/maps/Ly6S7e494ia4Tbte7 and one in Aliquippa: https://goo.gl/maps/sNgjtahvP5vf7Ymq9
 
-### MedExpress in Weirton:
+### MedExpress in Weirton
 
--  https://goo.gl/maps/CuwRXL2fd3y8VSAJ7,
+-  **google maps**: https://goo.gl/maps/CuwRXL2fd3y8VSAJ7
+-  **address**: 218 Three Springs Dr, Weirton, WV 26062
+-  **website**: [medexpress.com](https://www.medexpress.com)
+-  **distance** 
 
-### Wintersville, OH:
+### Trinity Express Care - Wintersville
 
--  https://goo.gl/maps/Ly6S7e494ia4Tbte7
+-  google maps: https://goo.gl/maps/Ly6S7e494ia4Tbte7
+-  **address**: 150 Main St, Wintersville, OH 43953
+-  [https://trinityhealth.com](https://trinityhealth.com)
 
-### Aliquippa:
+### MedExpress Urgent Care Aliquippa
 
 -  https://goo.gl/maps/sNgjtahvP5vf7Ymq9
 
@@ -132,11 +140,11 @@ None of these are very close.
 
 ### O'Reilly Auto Parts
 
-https://goo.gl/maps/L1VH24A2t3zoeH8Q6
+- google maps: https://goo.gl/maps/L1VH24A2t3zoeH8Q6
 
 ### AutoZone
 
- https://goo.gl/maps/fi5bzZU1dXEKXdsDA
+-  google maps: https://goo.gl/maps/fi5bzZU1dXEKXdsDA
 
 ### Tire Country
 
@@ -153,40 +161,50 @@ https://goo.gl/maps/L1VH24A2t3zoeH8Q6
 
 -  https://goo.gl/maps/X38wiqa3fhrvMzQV7 (Open 9am-2pm Saturday, not open Sunday)
 
-### New Cumberland Borough Services
+## New Cumberland Borough Services
 
 - **website**: [https://www.cityofnewcumberland.net/](https://www.google.com/url?q=https%3A%2F%2Fwww.cityofnewcumberland.net%2F&sa=D&sntz=1&usg=AOvVaw3LfuU0NvoA5hw4D0wRY4V6)
 
 - **address**: [104 N Court St New Cumberland WV 26047](https://www.google.com/maps/search/104+N+Court+St+New+Cumberland+WV+26047?entry=gmail&source=g)
 
-- (304) 564-3383
+- **phone**: (304) 564-3383
 
-- Parks and Recreation Department: 304-564-3383 EXT - 205
+### Parks and Recreation Department
 
-- Police Department Information (General questions only, not 911 stuff): 304-564-3383 EXT - 205
+-  **phone**: 304-564-3383 EXT - 205
 
-- Fire Department Information (general questions only, not 911 stuff): 304-564-3829
+### Police Department 
 
-[301 N Chester St., New Cumberland, WV 26047](https://www.google.com/maps/search/301+N+Chester+St.,+New+Cumberland,+WV+26047?entry=gmail&source=g)
+- **phone**: (General questions only, not 911 stuff): 304-564-3383 EXT - 205
+
+### Fire Department 
+
+- **phone**: (general questions only, not 911 stuff): 304-564-3829
+- **address**: [301 N Chester St., New Cumberland, WV 26047](https://www.google.com/maps/search/301+N+Chester+St.,+New+Cumberland,+WV+26047?entry=gmail&source=g)
 
 ## Nearby Hotels
 
 A couple of hotels are in Chester or Newell, WV or East Liverpool, OH.
 
-Holiday Inn Express Newell-Chester WV, an IHG Hotel
+### Holiday Inn Express Newell-Chester WV
 
-- 14 Minutes 6.9 Miles
+- **distance from campsite**: 14 Minutes 6.9 Miles
+- **google maps**: https://goo.gl/maps/shctezKzHJJhs9gY7
 
-- https://goo.gl/maps/shctezKzHJJhs9gY7
+### Holiday Inn Express Newell-Chester, WV
 
-Holiday Inn Express Newell-Chester, WV:
+-  **google maps**: https://goo.gl/maps/t4TrDy4rGTJs9dQs5
+-  **website**: [https://www.ihg.com/holidayinnexpress/](https://www.ihg.com/holidayinnexpress/hotels/us/en/newell/nwell/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-NWELL)
 
--  https://goo.gl/maps/t4TrDy4rGTJs9dQs5
+### Andrews Motel, Chester, WV
 
-Andrews Motel, Chester, WV:
+-  **google maps**: https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
+-  **address**: 12269 Ohio River Blvd, Chester, WV 26034
+-  [http://www.grantboston.com/andrews/](http://www.grantboston.com/andrews/web-content/index.html)
+-  phone number: +13043872800
 
--  https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
+### Vista Motel, East Liverpool, OH
 
-Vista Motel, East Liverpool, OH: 
-
-- https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
+- **google maps**: https://goo.gl/maps/hSEw4BrS9H4Q8VdR9
+- **address**: 721 Edwards St, East Liverpool, OH 43920
+- **phone number**: +13303852881
