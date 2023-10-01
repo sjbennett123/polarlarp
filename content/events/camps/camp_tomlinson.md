@@ -91,7 +91,7 @@ Anything else is much further away, those two are your best bets.
 ### East Liverpool City Hospital
 
 - **Address**: 425 W 5th St, East Liverpool, OH 43920
-- **Website**: https://www.elch.org
+- **Website**: [elch.org](https://www.elch.org)
 - **Google Maps**: https://goo.gl/maps/c57n6ekbQaMogiuD6
 
 ### Weirton Medical Center Main Hospital
