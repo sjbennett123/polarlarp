@@ -18,3 +18,6 @@ Every Tuesday  folks are invited to come sit with us if you want to come hang ou
 Doors open around 3:30 and we are there to get a table between 3:30-3:45 we just need a number to give them so they will accommodate.
 
 This is a STANDING Invitation.
+
+<img src="/images/logos/ryans_creek_house.jpg" alt="tomlinson_run_group_sign" style="height:100px;">
+
