@@ -34,6 +34,8 @@ description: "A Rustic State Park with similar accommodations to Racoon Creek."
 
 ## Arriving at the Campsite
 
+<img src="/images/tomlinson_run_group_sign.jpg" alt="tomlinson_run_group_sign" style="height:100px;">
+
 When you come in, go straight at the first turn and keep going. After the dam when you come up a big hill turn right and then we are the first camp there. 
 
 ---
@@ -64,7 +66,7 @@ Most nearby food is in Chester or across the river from Chester in East Liverpoo
 ### Taco Bell
 
 - **Address:** 449 Carolina Ave, Chester, WV 26034
-- google maps: https://maps.app.goo.gl/dEeaECM5LyHXC2dn6
+- **google maps**: https://maps.app.goo.gl/dEeaECM5LyHXC2dn6
 
 ### McDonalds
 - **Address:**
@@ -154,7 +156,6 @@ None of these are very close.
 ### Jerry's Auto Repair
 
 -  https://goo.gl/maps/n4AnLUB6Z8bD96x38 
-
 - hours: (Only open 10am-2pm Saturday, not open Sunday)
 
 ### Geibel's Auto
@@ -164,9 +165,7 @@ None of these are very close.
 ## New Cumberland Borough Services
 
 - **website**: [https://www.cityofnewcumberland.net/](https://www.google.com/url?q=https%3A%2F%2Fwww.cityofnewcumberland.net%2F&sa=D&sntz=1&usg=AOvVaw3LfuU0NvoA5hw4D0wRY4V6)
-
 - **address**: [104 N Court St New Cumberland WV 26047](https://www.google.com/maps/search/104+N+Court+St+New+Cumberland+WV+26047?entry=gmail&source=g)
-
 - **phone**: (304) 564-3383
 
 ### Parks and Recreation Department
@@ -201,7 +200,7 @@ A couple of hotels are in Chester or Newell, WV or East Liverpool, OH.
 -  **google maps**: https://goo.gl/maps/1Ep9x2kv2HrYSkCL7
 -  **address**: 12269 Ohio River Blvd, Chester, WV 26034
 -  [http://www.grantboston.com/andrews/](http://www.grantboston.com/andrews/web-content/index.html)
--  phone number: +13043872800
+-  **phone number**: +13043872800
 
 ### Vista Motel, East Liverpool, OH
 
