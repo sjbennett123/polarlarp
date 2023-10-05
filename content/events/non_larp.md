@@ -1,3 +1,7 @@
+---
+title: non larp events
+---
+
 - Cook outs at a Park
 - Bowling Nights
 - Axe Throwing
@@ -6,5 +10,5 @@
 - General Meet n Greet at a Kareoke Place.......
 
  find out where eveyrone is from and try to do it within reason of the majority 
- 
+
  stagger events of where to have things
