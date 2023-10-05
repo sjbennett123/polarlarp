@@ -19,7 +19,7 @@ weight: 1
 
 <h2><a href="https://www.facebook.com/groups/3408485185934076/?sorting_setting=CHRONOLOGICAL" target="_blank"><i class="fab fa-facebook"></i> Facebook In Game</a></h2>
 
-## [<i class="fab fa-discord"></i> Discord](https://discord.gg/XJeNyEKA)
+## [<i class="fab fa-discord"></i> Discord](https://polarlarp.org/discord)
 
 ## [<i class="fa fa-chess-pawn"></i> New Player Information]({{< ref "/new_players" >}})
 
