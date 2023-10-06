@@ -6,13 +6,16 @@ draft: false
 
 Each NERO chapter abides by the rules listed in this book. Additionally, these rules can be modified and new rules added by official NERO play tests. The NERO International Office makes available an official list of rules that are being play tested on their website www.nerolarp.com. Each chapter must make available a list of the play tests that they are using, so that players attending events at a chapter can find out ahead of time which play tests will be in use.
 
-## In use at polar 
-- Properties (estates)
-- Workshops
-- Foam Weapon
-- PvE Celestial
-- Unified refitting
+**These playtests are re-evaluated every 3 months.** 
 
-## Full List of Playtests
+## In use at POLAR
+
+- [Properties (Personal  Estates  System)](https://polarlarp.org/rules/playtest/playtest_properties/)
+- [Workshops](https://polarlarp.org/rules/playtest/playtest_workshops/)
+- [Foam Weapon Bonus](https://polarlarp.org/rules/playtest/playtest_foam_weapon/)
+- [Celestial PvE Bonus](https://polarlarp.org/rules/playtest/playtest_pve_cel/)
+- [Unified Refitting](https://polarlarp.org/rules/playtest/playtest_unified_refitting/)
+
+## Full List of NERO Playtests
 
 {{% children description="true" %}}
