@@ -14,7 +14,13 @@ Each NERO chapter abides by the rules listed in this book. Additionally, these r
 - [Workshops](https://polarlarp.org/rules/playtest/playtest_workshops/)
 - [Foam Weapon Bonus](https://polarlarp.org/rules/playtest/playtest_foam_weapon/)
 - [Celestial PvE Bonus](https://polarlarp.org/rules/playtest/playtest_pve_cel/)
-- [Unified Refitting](https://polarlarp.org/rules/playtest/playtest_unified_refitting/)
+- [Unified Refitting](/rules/playtest/playtest_unified_refitting/)
+- [Racial Traits](/rules/playtest/playtest_racial_traits/)
+- [Transform](https://polarlarp.org/rules/playtest/transform/)
+
+## Zines
+
+Transform
 
 ## Full List of NERO Playtests
 

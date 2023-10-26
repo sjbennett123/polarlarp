@@ -10,3 +10,4 @@ content/current_writeups/current_writeups_lightweight_site.lnk
 public/*
 !public/_redirects
 *.afdesign~lock~
+*.afpub~lock~

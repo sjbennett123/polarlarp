@@ -2,8 +2,11 @@
 title: "Workshops"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+Version: 1.0.1 
+Updated: July 29, 2014
+Authors: Ian Petley, Jerry Boyd and Nick Denny
+Approved: Joseph Valenti
 ---
-
 
 **Version**: 1.0.1 
 
@@ -11,7 +14,7 @@ draft: false
 
 **Authors**: Ian Petley, Jerry Boyd and Nick Denny
 
-**Approved By**:  Joseph Valenti
+**Approved By**:  
 
 
 It is possible to become more productive in making Production items if you have access to a workshop that specializes in making them. A character with a workshop can make additional Levels of items to a maximum of their Base Production Level. There are specialized workshops for making:
