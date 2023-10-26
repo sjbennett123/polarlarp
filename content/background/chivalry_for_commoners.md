@@ -1,10 +1,12 @@
 ---
 title: "Chivalry For Commoners"
-
-
+layout: zine_national
+cover_thumbnail: /zines/chivalry_for_commoners_cover_front_thumbnail.png
+draft: true
 ---
 
 By Dame Anastasia 
+
 County Knight of Dragonshire
 
 ## Part One: The Code of Chivalry

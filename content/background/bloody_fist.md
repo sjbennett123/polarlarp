@@ -1,12 +1,9 @@
 ---
 title: "Notes and Observations on the Bloody Fist "
-date: 2022-11-10T10:33:21-05:00
-draft: false
 github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/background/bloody_fist.md
-
+layout: zine
+cover_thumbnail: /zines/bloody_fist_cover_front_thumbnail.png
 ---
-
-![/bloodyfist.svg](/bloodyfist.svg "{width='10%'}" )
 
 These notes have been collected at great cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 

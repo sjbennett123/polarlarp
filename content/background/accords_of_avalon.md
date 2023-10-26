@@ -2,9 +2,14 @@
 title: "Accords of Avalon"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+layout: zine_national
+cover: /zines/accords_of_avalon_cover_front.png
+cover_thumbnail: /zines/accords_of_avalon_cover_front_thumbnail.png
+cover_pdf:
+pages_pdf:
+spreads_pdf:
+affinity_publisher: 
 ---
-
-[PDF Single Pages](/accords_of_avalon.pdf)
 
 # Precepts of a Civilized and Cultured Society
 

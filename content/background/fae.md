@@ -1,7 +1,7 @@
 ---
 title: "Fae"
-date: 2022-11-10T10:33:21-05:00
-draft: false
+layout: zine_national
+cover_thumbnail: /zines/fae_handbook_cover_thumbnail.png
 ---
 
 The NERO Fae and Cursed handbook was written by Noah Mason and Clinton Snyder based off the previous works of Dr. Mathew Sims for Joseph Valenti. It is intended to be used in conjunction with the NERO Rule Book and the Tyrran Cosmology. Please be sure to read these other books in the NERO LARP game world of Tyrra.

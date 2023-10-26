@@ -1,7 +1,8 @@
 ---
 title: "Stonewood Dwarves"
 pdf: /stonewood_dwarves.pdf
-
+layout: zine
+cover_thumbnail: /zines/stonewood_dwarves_cover_front_thumbnail.png
 ---
 
 # History of the Stonewood Dwarves

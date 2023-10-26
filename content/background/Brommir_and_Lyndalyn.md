@@ -1,5 +1,5 @@
 ---
-title: Brommir_and_Lyndalyn
+title: Brommir and Lyndalyn
 ---
 
 And in this age Karg Stonefist had a son, Brommir. Who grew to be a mighty hunter. Fast as the stag, strong as the bear, and fierce as the wolf. And he grew to a head taller then the men of his tribe and his father was proud. Brommir, upon coming of age, took his rite of passage. Though he would not hunt a boar, or bear, or other beast as the men of his tribe had done. For story told of a great white stag that dwelt deep in the forest, in the land of the elves. And hearing of this, Brommir proclaimed before his father and all his tribe that he would slay the creature and bring back its hide as a mighty trophy for his tribe. And so Brommir departed from his lands to the east, where story and truth mingled like dirt and leaf amongst the land of the elves.
