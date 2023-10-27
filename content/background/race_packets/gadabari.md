@@ -2,54 +2,6 @@
 title: GADABARI 
 ---
 
-
-
-
-
-
-
-![img](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_28d2/AC/Temp/msohtmlclip1/01/clip_image002.jpg)
-
- 
-
-THE GADABARI (GYPSY)
-
-CULTURE GUIDE©
-
-***A NERO GAME SYSTEM Publication\***
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/deadk/AppData/Local/Packages/oice_16_974fa576_32c1d314_28d2/AC/Temp/msohtmlclip1/01/clip_image004.jpg) |
-
-
-
-
-
-
-
-THE GADBARI (GYPSY) CULTURE
-
-GUIDE
-
-Revision 2.50: minor edits and image movement. 5/09/2017 Revision 2.10: name changed from Gypsy to Gadabari. 3/27/2016 Revision 2.05: culture guide completed. 10/12/2015
-
- 
-
- 
-
- 
-
-**W****RITTEN AND** **E****DITED BY**
-
-**R. G. A****LLEN**
-
- 
-
- 
-
 WITH SPECIAL THANKS TO
 
  
@@ -66,7 +18,7 @@ For Use in the Tyrran Campaign World at Official NERO LARP Events.
 
  
 
-Visit [http://NeroLarp.com ](http://nerolarp.com/)and [http://NeroLarpnline.com ](http://nerolarpnline.com/)for more information.
+Visit [http://NeroLarp.com ](http://nerolarp.com/) and [http://NeroLarpnline.com ](http://nerolarpnline.com/) for more information.
 
  
 
@@ -464,63 +416,33 @@ The Farewell Ceremony itself is deceptively simple. A pyre is built and the dead
 
 Finally, when the Ababina is done, the Bandolier steps forward once again, and lights a torch from the (by now) smoldering pyre. From this, she then lights the camp’s central bonfire (extinguished at the beginning of the ceremony).
 
- 
-
 Food, dance, and drinking now commence. The Gadabari leave no monuments to their dead: no tombs, no stones, no plots, etc. Once the fire has consumed everything, they leave the ashes to scatter on the winds. In this, their Passing is much as their Living was.
-
-
 
 #### Clan Rites
 
- 
-
 There are other Rites amongst the Gadabari, but they are of a different nature.
-
- 
 
 Where the previous ones were personal, the following are Clan oriented. These Rites are handed down by an oral tradition amongst all the Clans and are strictly adhered to. Therefore, like the personal Rites, there is still some deviation from one Clan to the next.
 
- 
-
 #### Ascension:
-
- 
 
 Although the Rite of Ascension is actually performed after the farewell of a Bandolier, it is actually begun years before in most cases.
 
- 
-
 At the Joining Ceremony of the child chosen to assume tribal leadership upon the passing of the current Bandolier, she is named heir. If she is accepted as such by the Clan, then she will assume the position upon the death or at the request of the current Bandolier. The Ascension Rite is actually a reaffirmation of the already approved succession.
-
- 
 
 In the case of a new Clan forming, the Bandolier is chosen by those who wish to follow her.
 
- 
-
 #### Path of Wisdom:
-
- 
 
 The Path of Wisdom Ceremony is essentially the same as the Rite of Ascension, but for the Clan position of Ababina instead of Bandolier. In all other aspects, all parts of the ritual are followed with the appropriate flourishes and nuances as only a gypsy can give.
 
- 
-
 #### Gadabari Rituals and Gathers
-
- 
 
 In addition to Gadabari Rites, there are also Gadabari Rituals. Unlike Earth or Celestial Rituals, these many times require little or no components. Transcriber’s Note: Make sure you have a marshal on hand when you even consider doing any of these.
 
- 
-
 #### Becoming:
 
- 
-
 Known to Gorgios as “Race Change to Gadabari.” this is the Ritual of Becoming of the Gadabari. This Ritual requires all the components and the scroll needed for a Race Change Formal, as well as the Clan Cup.
-
- 
 
 A potion is prepared from the components, which is then added to the wine within the Cup. At the height of the festivities, the one to be changed drinks from the Cup and either dies (if his spirit was truly not of the Gadabari) or is granted his first vision (as his “third eye” grows). [Note: If the person dies they can receive a life spell.] Rarely do gypsies ask their Didikai to Become, as there is a likelihood of their death. The Gadabari must be certain that the person has a Gadabari Spirit before even bringing his request to the Ababina. After she reads the portents and omens, she will then approach the Bandolier, and together, they decide if this person is acceptable, and if so, the Ritual goes forward. If not, than the Gadabari Friend remains as he is - Gorgio and Didikai.
 
@@ -532,23 +454,13 @@ A potion is prepared from the components, which is then added to the wine within
 
 **WAYMEET:**
 
- 
-
 This is the annual meeting of the Gadabari. It is held every year as close to the Summer Solstice as possible (around June 21 or so, at gathers held between May 21 and July 21).
-
- 
 
 Celebrations are held, including weddings. Challenges and games of skill are held, as well.
 
- 
-
 At this celebration of brotherhood, the Clans present all gather in a circle. Either the highest “ranking” (usually the eldest) Bandolier, or the one hosting the ‘Meet takes her Clan’s Spirit- Cup, fills it, and passes it around to all those assembled. At this time, all Gadabari present who have drunk from the cup are granted a vision (*A gift just for you-from the devious minds of the Plot Committee, depending what Plot has in mind, so be warned!*).
 
-
-
 ## SPIRITMEET:
-
- 
 
 Their New Year’s celebration [*Traditionally celebrated on the 1st of November, but often celebrated at any gather that takes place between October 15 and November 15th*], being the seasonal opposite of the Waymeet, is also its Ceremonial opposite. In the summer, they look to the future for hope, while in the winter they look to the past for wisdom. For this, a Spirit is summoned to converse with the Ababina or Bandolier of the tribe. This spirit must be of a Gadabari to be summoned, and the longer the time since it’s passing, the more difficult it will be to contact.
 
@@ -556,79 +468,41 @@ Their New Year’s celebration [*Traditionally celebrated on the 1st of November
 
 The spirit is non-corporeal, and can neither affect or be affected by the corporeal world. The participating Gadabari gather beforehand to decide whom they wish to contact, and to which questions they seek the answers. The Spirit will only be able to maintain its presence for five minutes, so have your questions ready!
 
- 
-
 When they are ready to begin, they stand in a semi-circle. The Ababina steps forward with the Clan’s Spirit Cup. She and the Cup become the focus for the ritual, as those gathered watch her. She then speaks the name of the Spirit they wish to contact.
-
- 
 
 After the first time, she lays out a small piece of bread. After the second, she pours half of the wine contained in the Cup upon the ground. The third time, she dips a glass dagger in the remaining wine in the cup, and then allows 3 drops of wine to fall on the ground.
 
- 
-
 At this point, they await the Spirit’s arrival. Questions are then asked and answered, and the Spirit thanked for its attendance and assistance. The rest of the wine is poured out upon the ground, and then the Spirit departs.
-
- 
 
 *(Note: the Gadabari players wishing to do this must contact the Plot Committee in advance with the name of who they wish to contact as well as what they will ask, and receive Plot’s approval, or the ritual will fail!)*
 
- 
-
 ## RITUAL GADABARI CURSE:
-
- 
 
 Unlike a normal Gadabari Curse, there is no known way to remove a Ritual Gadabari Curse. Gadabari who wish to bestow a Ritual Curse must write to Plot with their request.
 
- 
-
 The Component for the Ritual is as follows: a glass dagger, with which the caster will kill herself at the end of the casting. This death is not necessarily permanent, although the one casting such a Curse will not resurrect until the Curse is ended, as it is their Spirit which maintains the Curse.
-
- 
 
 The Curse itself cannot be lifted, but it must be worded so it contains either one contingency by which it can be removed, or a time limit which will end it. For example, “Unto the tenth generation” or “Until the stone of dread is found.”
 
- 
-
 *(Note: the Gadabari player wishing to do this must contact the Plot Committee in advance with*
-
-
 
 *the name of who they wish to curse in this fashion as well as what form the curse will take, and receive Plot’s approval, or the ritual will fail!)*
 
- 
-
 #### RITUAL MARHIME:
-
- 
 
 This is the name given to the rite of casting out a Gadabari from Gadabari Society. Anyone, at any time, may choose to leave a Clan. This is quite common and acceptable. To be thrown out, or Cast Out, however, is a serious matter.
 
- 
-
 The Ritual is performed only on the direst of Gadabari villains and can be performed only if the Kris and a majority of the Clan agree to it. (It must also be arranged with the Plot Committee beforehand, or it will fail) Four members of the Clan stand, one at each “corner” (North, South, East, and West), while the Bandolier and Ababina stand just outside of the area.
-
- 
 
 The Ababina lights a candle, while the Bandolier holds a glass dagger and the Clan cup filled with wine. Both the cup and the dagger are passed to the Healer, who is the first of the four, and he in turn passes it around, as follows:
 
- 
-
 With the blade held over the cup, the Healer speaks “[Target person’s name] Marhime I name him! Marhime he, and all who stand with him! Let none who Heal aid him, for he is dead to us!” He then dips the dagger in the wine and allows one drop to fall to the ground in the center of the four.
-
- 
 
 The Healer then passes both to the Fighter, who says “[Target person’s name] Marhime I name him! Marhime he, and all who stand with him! Let none who Fight protect him, for he is dead to us!” She then dips the dagger in the wine and allows one drop to mingle with the first on the ground.
 
- 
-
 Third, the Celestial scholar is passed both dagger and cup, and states “[Target person’s name] Marhime I name him! Marhime he, and all who stand with him! Let the Stars be blind to him, for he is as dead to us!” Once again, the dagger is dipped in the wine and one drop mingles with first two before the cup and dagger are passed to the final member of the four.
 
- 
-
 The Rogue states “[Target person’s name] Marhime I name him! Marhime he, and all who stand with him! Let all who alter possessions feel free to prey upon him, for he is as dead to us!” This is followed by a final dipping of the dagger into the wine and a final drop of wine mingling with the first three.
-
- 
 
 After the four have spoken, the Ababina and Bandolier retrieve the dagger and cup. The Ababina takes the candle and places it upon the area where the wine was spilled by the four. The Bandolier then raises the dagger and “stabs” the candle, thereby putting it out. “[Target person’s name] Marhime, he is, and as such dead to us. So be it!”
 
