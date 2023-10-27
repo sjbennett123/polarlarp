@@ -8,7 +8,7 @@ title: Myrr and the Sarr
 
 The Sarr are a race of intelligent and civilized feline-humanoids that live in a kingdom known as Myrr, which is just west of Lake Quentari, across from the Elven lands. They look like humanoid cats.
 
-Sarr do not refer to themselves as Sarr. The word they use for  themselves is “Gorbé.” When the Gorbé first settled in Myrr, they were met by Quentari elves. In their first communications the elves asked, “What are you?” and pointed at the Gorbé. They replied, “Sarh,” which means “head.” The Gorbé had misunderstood and thought the elves were pointing at their heads.
+Sarr do not refer to themselves as Sarr. The word they use for themselves is “Gorbé.” When the Gorbé first settled in Myrr, they were met by Quentari elves. In their first communications the elves asked, “What are you?” and pointed at the Gorbé. They replied, “Sarh,” which means “head.” The Gorbé had misunderstood and thought the elves were pointing at their heads.
 
 Gorbé are color-blind and have a heightened sense of smell, which allows them to detect disease or poison but does not allow them to identify it. Something that smells unpleasant to a human will smell twice as bad to a Gorbé. They can detect poisons by smell and those few Gorbé who go adventuring sometimes join on with a group as food testers and or bodyguards. Although they cannot see different colors, their other senses are very sharp and they have exceptionally quick reflexes. In addition, Gorbé are resistant to disease.
 
@@ -26,9 +26,9 @@ The Gorbé are a matriarchal society, the females outnumbering the males 4 to 1.
 
 Families within Myrr usually live within a compound of “apartments” where the entire extended family lives. All Gorbé of the generation older than oneself are referred to as “mother” or “father,” all Gorbé of the same generation are referred to as “brother” or “sister,” and those of a younger generation are referred to as “son” or “daughter.”
 
-They are fierce warriors and hunters, but enjoy competing with one another for sport, they do not make war upon each other, or their neighbors, without good cause. Being patient, a Gorbé will not forget a wrong done to him  or her. A  Gorbé  will wait, sometimes years, for just the right moment to get revenge. 'Cat and mouse is a great game as long as you are not the mouse,' goes an old saying. The killing of a fellow Gorbé, even through inaction, can be frowned upon to the point of banishment from Clans or death.
+They are fierce warriors and hunters, but enjoy competing with one another for sport, they do not make war upon each other, or their neighbors, without good cause. Being patient, a Gorbé will not forget a wrong done to him or her. A Gorbé will wait, sometimes years, for just the right moment to get revenge. 'Cat and mouse is a great game as long as you are not the mouse,' goes an old saying. The killing of a fellow Gorbé, even through inaction, can be frowned upon to the point of banishment from Clans or death.
 
-The highest form of treason is fighting between families, even worse is the causing of war between two Matriarch’s families. Being convicted of such a crime usually means death or banishment from Clan. A traveler is quite safe among  the Gorbé, unless he or she violates their laws or commits a grave breach of hospitality.
+The highest form of treason is fighting between families, even worse is the causing of war between two Matriarch's families. Being convicted of such a crime usually means death or banishment from Clan. A traveler is quite safe among the Gorbé, unless he or she violates their laws or commits a grave breach of hospitality.
 
 The Gorbé quite often find themselves outside of their homelands, as they suffer from the wanderlust that most races also endure. When the Gorbé make their way out into Tyrra, they tend to find one another and form informal packs. Gorbé dwellings, or Cathouses as the humans call them, are common in most towns. Though several of the big cats hunt alone, this is not true of the Gorbé, who seem to find comfort in the presence of others of their kind. There will always be loners, of course, and most Gorbé respect these choices.
 
@@ -43,17 +43,20 @@ The Gorbé race was originally 12 clans, of which each clan is separated into tr
 
 ### Description of the Race
 
-There are several different clans of Gorbé, each of which has a different cat form. There are currently nine Gorbé clans—the big cats: Lion (Shir), Tiger (Nimeshab), Leopard (Palang), Jaguar (Barg), and Puma (Shen); and the small cats: Lynx (Neshan), Cheetah (Sari), Ocelot (Kamar), and Marguay  (Darre). Each clan uses a different precious stone or metal fashioned into beads, which are worn in the hair or on the clothes as a clan marker.
+There are several different clans of Gorbé, each of which has a different cat form. There are currently nine Gorbé clans—the big cats: Lion (Shir), Tiger (Nimeshab), Leopard (Palang), Jaguar (Barg), and Puma (Shen); and the small cats: Lynx (Neshan), Cheetah (Sari), Ocelot (Kamar), and Marguay (Darre). Each clan uses a different precious stone or metal fashioned into beads, which are worn in the hair or on the clothes as a clan marker.
 
 Shir (of Shakar)
+
 The Lion clan does not rule Myrr; they merely are predominately found in Shakar. They are the only truly social sect of Gorbé. Being truly social entails interacting with other races and species of Gorbé, inter-breeding if desired, involving themselves politically and actively in the communities to which they belong. Shir are able to breed at any time of the year, and all Shir females in a given area will breed around the same time; making all Shir births in an area happen around the same time. Shir females will readily adopt as their own any orphan Shir they come across. (This motherly instinct may transfer to other species in areas where few Gorbé are found) Female Shir tend to stay with their families, while males will strike out for adventure as soon as they reach maturity, before settling down. A Shir family, therefore, will be composed of an average of 1-7 males and 20 females. Males will defend the family they are allied with and the territory owned by that family to the death. They have a distinctive roar, and are opportunistic hunters and eaters. A Shir will tend to have an “if I can kill it, it must be good for me” mentality with regard to food. This mentality extends to the procurement of food, clothing, shelter and anything else that gets in the way politically or socially. If a female has mated, for example, and another female attempts to move in on her territory, it will be a simple matter of who is stronger as opposed to whom is “right”. This attitude can be extended or taken over- board, as the player sees fit for the character.
 
 Nimeshab (of Darqai)
+
 The stripes of the Tiger Gorbé are unique to each individual, as fingerprints are to humans. In the same way, the Tiger Gorbé are unique individuals. They are solitary but not anti-social, gathering to choose a mate, life mating, and forming social family groups. When not in groups, mothers and daughters will travel and stay together. The Nimeshab perform ambush hunts at dusk or dawn. Their first hunt, the Bhamesid, represents the passage from childhood into adulthood, and will often be the most important ceremonies of their lives. It is performed alone, and can take up to 3 weeks to complete. The prize from the hunt normally consists of the brain of the carcass, which is returned to the family group. The Nimeshab can swim well, and will often submerge in water to keep cool. For this reason, they generally do not prefer to settle in areas without a ready water supply. Tiger Gorbé are known for their keen sense of tracking and locating other species, their ability to locate a good, fresh water supply and their ability to find adequate shelter in a pinch.
 
 They are agile, keen hunters with a bloodlust topped only by that of the Palang. In solitude, a Tiger is more of an observer than a pouter. He or She will almost always gravitate toward those of similar mindset, whether they be of the same class, race or even a similar taste for blood. This gravitation has caused an unusual migration of the Nimeshab to more social environments then previously recorded. They have most recently been taking title and accepting Masterships, which was heretofore un-heard of in Tyrra.
 
 Palang (of Nishapur)
+
 The Leopard clan trades in exotic animals, such as monkeys, which are used as pets, as well as food. There are 2 sub-clans of the Palang: the Palangre (Leopard Gorbé) and the Palangra (Snow Leopard Gorbé).
 
 Palangre:
@@ -160,7 +163,7 @@ Shakar is a city on the central plains of Myrr. The Lion clan controls the regio
 
 Durqai
 
-Durqai is a city in the Dasht-i-Lut in northern Myrr that is controlled by the Tiger clan (Nimeshab). Durqai is the artistic center of Myrr as well as housing several major schools of healing. Durqai also exports large amounts of silk, spices, and incense. Upon entering Durqai once finds oneself looking down a long tiled street which ends in a beautiful marble building. This is the Promenade and the Gallery. The Promenade is lined with statues of Gorbé heroes and the stalls of the marketplace.  The mosaics, which make up the tiled street, tell stories of the war with the Sand Goblins in the Dasht-i-Lut forty years ago. The Gallery is where artworks from all over Myrr are predominately displayed.
+Durqai is a city in the Dasht-i-Lut in northern Myrr that is controlled by the Tiger clan (Nimeshab). Durqai is the artistic center of Myrr as well as housing several major schools of healing. Durqai also exports large amounts of silk, spices, and incense. Upon entering Durqai once finds oneself looking down a long tiled street which ends in a beautiful marble building. This is the Promenade and the Gallery. The Promenade is lined with statues of Gorbé heroes and the stalls of the marketplace. The mosaics, which make up the tiled street, tell stories of the war with the Sand Goblins in the Dasht-i-Lut forty years ago. The Gallery is where artworks from all over Myrr are predominately displayed.
 
 Behind the Gallery is the Asmara School of Necromancy and Weapon-mastery. The current Grand Matriarch's grandmother founded the school during the Goblin Wars. It is still the leading school of the arts of war in Myrr.
 
@@ -245,7 +248,7 @@ Neshan of Darvaza: Grand Matriarch: Anah Karbala, a female in her late twenties.
 
 Influential Families:
 - Rashid: The Rashid are dealers of lumber. They export hardwood to cities all throughout Myrr, especially to the island of Jauf.
-- Tamrah: The Tamrah family builds furniture from the hardwoods of the forest.  Some of their furniture is sold directly from Darvaza, but most is sold in Durqai, where artists decorate it for sale.
+- Tamrah: The Tamrah family builds furniture from the hardwoods of the forest. Some of their furniture is sold directly from Darvaza, but most is sold in Durqai, where artists decorate it for sale.
 - Sari: This family is made up mostly of hunters, but they have also been great supporters of the forest expansion plan.
 
 Barg of Jauf: Grand Matriarch: Samar Baqura, an elderly female who has been in poor health, Samar is expected to be dead by the end of the year.
@@ -318,7 +321,7 @@ It would be a great dishonor to the dead Gorbé and his or her family not to con
 
 Re-Creation and Mating
 
-Gorbé females come into “heat” once or twice a year; this is the only time of year that they can conceive. Litters usually have two to six children that are physically mature in two years.  They are not considered adults until their sixteenth birthday.
+Gorbé females come into “heat” once or twice a year; this is the only time of year that they can conceive. Litters usually have two to six children that are physically mature in two years. They are not considered adults until their sixteenth birthday.
 
 Gorbé do not marry; they mate for life and even this usually only occurs between two Gorbé who are truly committed to one another or for political reasons. Gorbé are not often monogamous; life mating is the closest thing to Gorbé marriage. . When a female comes into heat is it the responsibility of her family to see that she mates appropriately, if at all. All Gorbé are considered Family.
 
@@ -424,7 +427,7 @@ Ladies, please remember that the matriarchal way of life gives you influence, bu
 Please note: the makeup shown are SUGGESTIONS…There are many varieties of each species. Feel free to be CREATIVE!
 
 Shir (Lion)
-   
+
 Nimeshab (Tiger)
 
 Palang (Leopard)
