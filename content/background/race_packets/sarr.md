@@ -9,6 +9,7 @@ title: Myrr and the Sarr
 The Sarr are a race of intelligent and civilized feline-humanoids that live in a kingdom known as Myrr, which is just west of Lake Quentari, across from the Elven lands. They look like humanoid cats.
 
 Sarr do not refer to themselves as Sarr. The word they use for  themselves is “Gorbé.” When the Gorbé first settled in Myrr, they were met by Quentari elves. In their first communications the elves asked, “What are you?” and pointed at the Gorbé. They replied, “Sarh,” which means “head.” The Gorbé had misunderstood and thought the elves were pointing at their heads.
+
 Gorbé are color-blind and have a heightened sense of smell, which allows them to detect disease or poison but does not allow them to identify it. Something that smells unpleasant to a human will smell twice as bad to a Gorbé. They can detect poisons by smell and those few Gorbé who go adventuring sometimes join on with a group as food testers and or bodyguards. Although they cannot see different colors, their other senses are very sharp and they have exceptionally quick reflexes. In addition, Gorbé are resistant to disease.
 
 They are also very fierce, and may not seem too civilized to non-Gorbé.
@@ -17,8 +18,8 @@ They usually kill by tearing their victims apart and they are in great demand as
 
 Gorbé do not approve of the use of celestial magics; being more instinctually attuned to the earth, they prefer and understand earth magics much better.
 
-The only Gorbé who have studied and accept Celestial magic are the Shir and the 'lost' Clan, the Kalobagh. Chaos is the accepted, legal form of battle magic within the Gorbé Clans. The Gorbé are, however, completely opposed to Necromancy with regard to the creation and control of undead. These things are considered atrocities against the Earth, and Gorbé are taught from birth to respect and defend the sanctity
-of the Earth. The destruction of the corrupt Gorbé that practice this form of Necromancy is quite common, obliterations being the rule rather than the exception. The Gorbé have a few problems with human laws. Though most Gorbé will argue strongly about the distinct differences between Battle Magic and Necromancy, they won’t openly defy the law. Now, this is not to say that Gorbé healers won’t whip off a few Cause Mortal Wounds when they’re with people they trust or if they’re in a more lenient kingdom, but generally obliteration is enough of a threat to keep their itchy Chaos fingers in check.
+The only Gorbé who have studied and accept Celestial magic are the Shir and the 'lost' Clan, the Kalobagh. Chaos is the accepted, legal form of battle magic within the Gorbé Clans. The Gorbé are, however, completely opposed to Necromancy with regard to the creation and control of undead. These things are considered atrocities against the Earth, and Gorbé are taught from birth to respect and defend the sanctity of the Earth. The destruction of the corrupt Gorbé that practice this form of Necromancy is quite common, obliterations being the rule rather than the exception. The Gorbé have a few problems with human laws. Though most Gorbé will argue strongly about the distinct differences between Battle Magic and Necromancy, they won’t openly defy the law. Now, this is not to say that Gorbé healers won't whip off a few Cause Mortal Wounds when they’re with people they trust or if they're in a more lenient kingdom, but generally obliteration is enough of a threat to keep their itchy Chaos fingers in check.
+
 The Gorbé sometimes have difficulty adapting to the customs and habits of non-Gorbé. They especially do not understand why Humans and others allow dogs in their towns and farms, and they have difficulty getting along with some of the other races on Tyrra. Most Gorbé, however, have managed to adjust to the ways of civilization.
 
 The Gorbé are a matriarchal society, the females outnumbering the males 4 to 1. In Gorbé society, females give the family its name as well as being the only members of society able to inherit and/or hold a title. A Grand Matriarch, the eldest female of the eldest family, rules each clan. A council made up of the eldest female from each family assists her. This eldest female holds the title of “Sandaj”, a rough translation being “lady,” no matter how rich, poor, old, or young she is. A council of the eldest females of the other families assists her in her duties. Ladyships are inherited, while the title of “Sangar,” or dame, is earned. It is very difficult to gain such an honor, and anyone that you encounter in game with such a title deserves your character’s respect.
@@ -36,7 +37,7 @@ The Gorbé quite often find themselves outside of their homelands, as they suffe
 The Gorbé’s Origins are shrouded in mystery. Most say they originated in a northern land, but settlements or outposts have been found as far south as Jahavra, and there are rumors of several lost settlements, some further south and some in the northern climes. One is
 rumored to be in a place near the barony of Sahde.
 
-There has been very little research done on the origins of the Gorbé, because they have	only recently begun to settle in cities. The Gorbé say	that their legends indicate that they have been on Tyrra for many thousands of years, but the Elves say that records of them are almost nonexistent, and believe them to be recent arrivals in the world.
+There has been very little research done on the origins of the Gorbé, because they have only recently begun to settle in cities. The Gorbé say that their legends indicate that they have been on Tyrra for many thousands of years, but the Elves say that records of them are almost nonexistent, and believe them to be recent arrivals in the world.
 
 The Gorbé race was originally 12 clans, of which each clan is separated into tribes or families, which will usually live together, depending on which clan, some being more nomadic than others. All Gorbé have a deep sense of family, putting it before anything else. Even in the nomadic tribes this is deeply evident, since family units or harems usually travel together.
 
@@ -121,7 +122,7 @@ Patií of Yekshah
 
 The Patií (pronounced: Pa - tie) are well known for their hunting prowess, as nocturnal hunters they have no equal in the Sarr realm. They live in the extreme southern regions of the Nishapur Forest. Their city of Yekshah is located in the southwest corner of the Nishapur Forest. The Patií are a strange clan, they did not start as a separate breed of Sarr at the founding of Myrr, but were castoffs from the other Sarr clans. Occasionally black panther Sarr are born to any number of other Sarr clans especially the Leopard, Puma, and Jaguar Clans. Over time these Black Panther Sarr who were considered by most Sarr as anomalies because of their color, came together and formed their own clan. Recognition by the other clans did not come until the Great War against the Sand Goblins. The múhala (the faithful) as they called themselves, served as scouts for the clans and warned of the final great offensive by the sand goblins. This allowed the Gorbe to prepare themselves to meet the goblins attack. At the height of the battle, fully one half of the múhala died defending the Grand Matriarch of Shir Clan when she and her guard got separated from the main host. In recognition of their bravery and courage they were recognized as a Clan of their own in Sarr society. Black Panther Sarrs breed true to their color and are known as khakhun (pureblood). The Patií welcome other Black Panther Sarrs born of other clans into their midst, they are known as khahek (lost ones). They are treated fairly and have all the rights khakhun have except the right to hold title or participate in council. If khahek mate and have children, the children are considered khakhun. The Patií is a tolerant culture and treats visitors with respect and is especially respectful of females of any race. Unlike the other Sarr clans Patií welcome Garbe (having experienced ostracization by their own race) and treat them as khahek although they will never hold title but, their children will be considered khakhun if they are born Black Panther and one of the parents is Black Panther. The Patií have great healers, fighters and they also make the best rogues. The population is roughly 30% male and 70% female making it commonplace for a male to have more than one mate. Both parents raise the children although the female takes care of the children's formal education. Patií are very communal and seldom leave the confines of their territory. Those few who do leave to adventure have done so for a specific reason. One reason in particular is the Life Quest, otherwise known as shaokah. The Life Quest is exactly what it implies; the Sarr is looking for the meaning of his or her life, what is their purpose? This quest could take years to complete.
 
-1.2	Myrr
+1.2 Myrr
 
 Ancient Myrr is the land of the Gorbé, and lies across Lake Quentari from the Elven kingdom. It is a land of great variety, with deserts to the north and west, and a huge primeval forest to the south. Each clan lives in a different part of Myrr, and is noted for its own specialty. For example: The Khiva, or cheetah, clan raise horses, the Lynx clan trades in fine hardwood, and the Jaguar clan of Lake Jauf in the northwestern part of Myrr are boat builders. The town that is most familiar to those who travel to Myrr by boat is Kashan, which is situated on a peninsula jutting far out into the lake. The Marguay clan lives here, and they are the best fisher folk of the Gorbé.
 
@@ -131,24 +132,24 @@ Slavery is also legal in Myrr, although it is much more like indentured servitud
 
 1.2a
 Cities in Myrr
-CITY	
-DESCRIPTI ON	POPULATION	CLAN	MARKER
-Shakar	Walled City	4200	Lion/Shir	Gold
-Durqai	Walled City	3800	Tiger/Nimesha
-b	Silver
-Nishapur	City	2700	Leopard/Palan g	Ruby
-Khiva	Town	2500	Cheetah/Sari	Emerald
-Darvaza	Town	2200	Lynx/Neshan	Diamond
-Jauf	Town	2000	Jaguar/Barg	Sapphire
-Khurma	Town	1700	Puma/Shen	Turquoise
-Shiraz	Walled Town	1200	Ocelot/Kamar	Amber
-Kashan	Village	700	Marguay/Darre	Amethyst
-Yekshah	City	1500	Black Panther/
-Patií	Opal
-Shahpur	*** SPECIAL
-***	*** SPECIAL
-***	*** SPECIAL
-***	*** SPECIAL
+CITY 
+DESCRIPTI ON POPULATION CLAN MARKER
+Shakar Walled City 4200 Lion/Shir Gold
+Durqai Walled City 3800 Tiger/Nimesha
+b Silver
+Nishapur City 2700 Leopard/Palan g Ruby
+Khiva Town 2500 Cheetah/Sari Emerald
+Darvaza Town 2200 Lynx/Neshan Diamond
+Jauf Town 2000 Jaguar/Barg Sapphire
+Khurma Town 1700 Puma/Shen Turquoise
+Shiraz Walled Town 1200 Ocelot/Kamar Amber
+Kashan Village 700 Marguay/Darre Amethyst
+Yekshah City 1500 Black Panther/
+Patií Opal
+Shahpur *** SPECIAL
+*** *** SPECIAL
+*** *** SPECIAL
+*** *** SPECIAL
 ***
 
 
@@ -214,47 +215,47 @@ For Female Titles of Respect, see the Gorbé Section in the beginning of this pa
 
 Grand Matriarchs and Influential Families
 
-Shir of Shakar:	Grand Matriarch: Shirvan Utahl is a very old and dignified female. She strongly supports the practice of Celestial Magic only being used by the Lion clan.
+Shir of Shakar: Grand Matriarch: Shirvan Utahl is a very old and dignified female. She strongly supports the practice of Celestial Magic only being used by the Lion clan.
 
 Influential Families:
 - Ramishk: The Ramishk family founded the Shakar School of Celestial Studies. They have continued to teach in the school into the present.
 - Bandar: The Bandar family is the hereditary protecting family of the city. They provide the town guard while the Sandaj functions as the city magistrate. (Contact Jade Whitney at tristmere@earthlink.net to play a member of the Bandar family.)
 - Tabriz : The Tabriz family manufactures paper; they are also the keepers of The Archives, which contain research materials, which do not pertain to Celestial Magic’s.
 
-Nimeshab of Durqai:	Grand Matriarch: Shusthar Asmara is a middle-aged female and a great artist. She is also a great warrior, a fact reflected in her scarred face. Despite her frightening appearance, she is very kind.
+Nimeshab of Durqai: Grand Matriarch: Shusthar Asmara is a middle-aged female and a great artist. She is also a great warrior, a fact reflected in her scarred face. Despite her frightening appearance, she is very kind.
 
 Influential families:
 - Birjand: The Birjand family founded and continues to run one of the larger schools of earth magic in Durqai.
 - Anar: The Anar family produces fine silks. There are also many famous sculptors in the family. Largely Anar sculptors produced the Marble Gardens in Shakar.
 - Mirabad: “The Storm of Myrr” one of three white tiger families in Myrr, they led the war against the goblins in Dasht-i-Lut. The Mirabad family manufactures incense, which is widely used in Myrr. (Contact Jade Whitney at tristmere@earthlink.net to play a member of the Mirabad family.)
-Palang of Nishapur:	Grand Matriarch: Jahrum Tabr, Called “Madar” or “mother” by all of
+Palang of Nishapur: Grand Matriarch: Jahrum Tabr, Called “Madar” or “mother” by all of
 Nishapur, this middle-aged female has given birth to ten litters. She became Grand Matriarch in her sixteenth year. In that year she had the town moved from the ground up into the trees to avoid orc raids.
 
 Influential Families:
 - Haddar: The Haddar family has held a monopoly on bananas for the past decade. Bananas are a major export from the jungle.
 - Doshtar: The Doshtar family are rope makers. Rope is very important in Nishapur for the building of walkways between the trees.
 - Sarbaz: The Sarbaz are a family of hunters and warriors. They have always been at the forefront of Nishapur’s defenses.
-Sari of Khiva:	Grand Matriarch: Najran Suud, a very young female who has only been matriarch for a year. When her predecessor died, Najran was barely an adult. Since her accession, she has begun a policy of growing grain on Khiva lands; this policy has met resistance from many Gorbé.
+Sari of Khiva: Grand Matriarch: Najran Suud, a very young female who has only been matriarch for a year. When her predecessor died, Najran was barely an adult. Since her accession, she has begun a policy of growing grain on Khiva lands; this policy has met resistance from many Gorbé.
 Influential Families:
 - Bakhtiari: The Bakhtiari are breeders of horses. Their animals are used mostly for riding; they do not breed many horses for food.
 - Shahrud: A legendary warrior family whose name means “thunder,” a name given to them because they could be heard over the plains from a great distance, the Shahrud are a family of cattle and sheep breeders.
 - Astera: The Astera family was virtually unknown two years ago. When Najran Suud installed the policy of grain growing, the Astera family became one of the first families to take advantage of the situation. They began planting grain and have become a great favorite of the young Grand Matriarch.
 
-Neshan of Darvaza:	Grand Matriarch: Anah Karbala, a female in her late twenties. Anah has been Grand Matriarch for the past decade. In the past five years she has begun a project to expand the size of the Darvazan Forest. She wishes to avoid a time when the forest could be entirely cut down.
+Neshan of Darvaza: Grand Matriarch: Anah Karbala, a female in her late twenties. Anah has been Grand Matriarch for the past decade. In the past five years she has begun a project to expand the size of the Darvazan Forest. She wishes to avoid a time when the forest could be entirely cut down.
 
 Influential Families:
 - Rashid: The Rashid are dealers of lumber. They export hardwood to cities all throughout Myrr, especially to the island of Jauf.
 - Tamrah: The Tamrah family builds furniture from the hardwoods of the forest.  Some of their furniture is sold directly from Darvaza, but most is sold in Durqai, where artists decorate it for sale.
 - Sari: This family is made up mostly of hunters, but they have also been great supporters of the forest expansion plan.
 
-Barg of Jauf:	Grand Matriarch: Samar Baqura, an elderly female who has been in poor health, Samar is expected to be dead by the end of the year.
+Barg of Jauf: Grand Matriarch: Samar Baqura, an elderly female who has been in poor health, Samar is expected to be dead by the end of the year.
 
 Her daughter Zabul will take her place. The Baqura are a fishing family.
 
 Influential Families:
 - Sa’in: The Sa’in family are shipbuilders. They specialize in the larger ships used on Lake Quentari, not the smaller boats used to sail Lake Jauf.
 - Ormara: The Ormara family grows pears. Gorbé do not eat them; instead they are either fed to animals or exported to Wolvaera and Quentari.
-Shen of Khurma:	Grand Matriarch: Dianna Saji, a middle-aged Sandaj who is unusual due to the fact that she is human. She had married the previous Sandaj’s son, and when the Sandaj died, Dianna was next in line. She met resistance at first, until her understanding of humans was shown to be of great asset in trade agreements.
+Shen of Khurma: Grand Matriarch: Dianna Saji, a middle-aged Sandaj who is unusual due to the fact that she is human. She had married the previous Sandaj’s son, and when the Sandaj died, Dianna was next in line. She met resistance at first, until her understanding of humans was shown to be of great asset in trade agreements.
 
 Influential Families:
 - Yabrin: The Yabrin family are metal workers. They do not work decorative metal; they make weapons and armor.
@@ -267,13 +268,13 @@ Influential Families:
 - Saravan: The Saravan family breeds camels, but it is no secret in Myrr that many members of this family hire out their services as assassins.
 - Qain: This family has run the alchemy guild for many years. For a price they will teach the recipes of some of the simpler poisons, but they jealously guard the recipes for the more complex elixirs.
 
-Darre of Kashan:	Grand Matriarch: Ardistan Mahabad, an elderly female is the first Grand Matriarch from this family. The Raji died in a fire that destroyed their home three years ago. They were the last ruling family of the Darre.
+Darre of Kashan: Grand Matriarch: Ardistan Mahabad, an elderly female is the first Grand Matriarch from this family. The Raji died in a fire that destroyed their home three years ago. They were the last ruling family of the Darre.
 
 Influential Families:
 - Nafud: The Nafud family are merchants; they bring quite a bit of money into Myrr. Not only do they bring goods from Myrr into Quentari; they also bring merchants from Quentari and beyond.
 - Dahna: The Dahna are fishermen as well as owning two of Kashan’s three inns the Fishing Net and Merchant’s Roost.
 
-### 1.2	c Culture
+### 1.2 c Culture
 
 Honor
 
@@ -400,7 +401,7 @@ A newborn Gorbé is given a blessing at birth. All Gorbé are empowered to perfo
 
 The meaning is the same no matter what words are used, and several variants exist. The scholar raising the child from the ground and pronouncing its name concludes the ceremony. Those present generally will reply to the naming with the statement, “Walk with honor and the Earth.”
 
-1.3	Playing a Gorbé
+1.3 Playing a Gorbé
 
 1.3a Advantages/Disadvantages Advantages
 
@@ -418,12 +419,12 @@ Remember that you come from a separate race, a different society, and that when 
 
 Ladies, please remember that the matriarchal way of life gives you influence, but if you fail to show the men any respect, you’ll soon find your orders ignored. Ask for things instead of demanding them and the rewards will be mutual. Remember also that you are part feline… behave as such. One player carried around an antique-style spray bottle, and ‘sprayed’ the things he liked, wanted, or felt that he possessed. Enjoy yourself and remember… it’s a game. Play.
 
-1.3	c Makeup/Costuming
+1.3 c Makeup/Costuming
 
 Please note: the makeup shown are SUGGESTIONS…There are many varieties of each species. Feel free to be CREATIVE!
 
 Shir (Lion)
- 	 
+   
 Nimeshab (Tiger)
 
 Palang (Leopard)
@@ -442,7 +443,7 @@ Darre (Margay)
 
 Patií of Yekshah
 
-## 1.4	Tales
+## 1.4 Tales
 
 ### Tales of a Gorbé
 
