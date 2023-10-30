@@ -1,0 +1,4 @@
+---
+title: spellbook
+layout: spellbook
+---
