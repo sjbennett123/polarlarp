@@ -1,6 +1,6 @@
 ---
-title: non larp events
-hidden: true
+title: Community Events
+layout: single
 ---
 
 - Cook outs at a Park

@@ -3,7 +3,7 @@ title: "Racoon Creek State Park Group Camp 3"
 date: 2022-11-10T10:33:21-05:00
 draft: false
 description: A rustic camp that has hosted thousands of larp events over the years. 
-hidden: false
+toc_hide: true
 ---
 
 - **Address**: 3000 State Route 18 Hookstown, PA 15050
