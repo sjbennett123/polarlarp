@@ -1,0 +1,299 @@
+spells:
+ -  name: 
+    Type: Broad
+    Duration: Instant
+    School: Celestial
+    Cost: 2 Components
+    Incant: I grant these eyes a Wizard’s Sense
+    Effect: I
+ -  name: Armored to Magic
+    full_name: fullIndessa’s Dweomer Barrier
+    Type: Personal Duration: Day School: Both
+    Cost: 0 Components
+    Incant: I grant myself armor to <spelltype>
+    Effect: > 
+      The caster gains a dumb magic shield which may go under their normal protectives and will protect them from the first spell of a given type which hits them. A shield magic or reflect magic will come into play before an Armored to Magic does. The types are based upon the casters school and are as follows...
+      
+      Earth... Gift, Curse, Mystic Force, Chaos, Earth, Command, and Summoned Force. 
+      
+      Celestial... I Call Forth, Mystic Force, Imprison, Command, and Summoned Force.
+      
+      The Armored to Magic will be triggered by any spell (incanted, spellstrike, or magic; but NOT arcane, physical, or elemental) which has the above word in its incant.
+      
+      Only one Armored to Magic may be in effect at a given time. Armored to Magic is lost if caster dies and requires a life spell. A new casting of Armored to Magic will replace an old casting of it.
+      
+      OOG Note... The caster must call <Type> Shield when the effect is triggered
+ -  name: Carrier Immunity
+    full_name: Karvecki's Protection From Dweomered Claws
+    Type: Personal Duration: Invoked School: Both
+    Cost: 1 Component
+    Incant: I grant myself carrier immunity to <effect>
+    Effect: The formal caster who uses a carrier immunity may declare one carrier type from which they may invoke a limited immunity where they choose to not take any extra effect other than damage. The type of carrier attack is chosen at the time of the casting of this cantrip and may not be changed except by the casting of a second carrier immunity which removes the first. For example a formal caster who runs into a pack of Yellowjackets swinging paralyze and has cast Carrier Immunity <Paralysis> may choose to become immune to the carrier attack paralyze of a particular yellowjacket attacking him. To become immune to a second yellowjacket attacking him he would have to invoke a second use from the casting. If the caster suddenly comes face to face with a creature swinging wither they would have to cast a brand new carrier immunity to wither before they could use the immunity and they would lose all remaining charges of the carrier immunity to paralysis. The following are not considered carrier attacks for the purpose of this cantrip: Magic, Silver, Flame, Ice, Lightning, Stone, and Normal.  Only one Carrier Immunity may be in effect at a given time. Carrier Immunity is lost if caster dies and requires a life spell. A second casting of Carrier Immunity will replace an old casting of it. 
+    oog_notes: The caster must call “I Invoke Carrier Immunity <carrier type> against you” to the opponent to activate it and then call no effect <carrier type> when struck.
+ -  name: Channeling
+    full_name: Erol's Mnemonic Spellstrike
+    Type: Personal 
+    Duration: Day 
+    School: Both
+    Cost: 2 Components
+    Incant: I grant myself the ability of channeling
+    Effect: Allows two spells from the memory of the formal caster to be delivered as a spellstrike. The spells must be of a level less than or equal to the number of levels the caster has of the appropriate school of formal magic and must be of the same school as the channeling cantrip which was cast. Thus a caster with nine levels of formal magic earth could spellstrike any earth spell by casting channeling. A caster with seven levels of formal magic earth could spellstrike any seventh level or lower earth spell by casting channeling. Neither of these casters can use an earth channeling cantrip to spellstrike a celestial spell.  The caster chooses when to use these spellstrikes. Only one Channeling may be in effect at a given time. Channeling is lost if caster dies and requires a life spell. 
+    oog_notes: The caster must say the full incant of the spell being channeled and then strike the target with their weapon while calling spellstrike <Name of spell just incanted> <Option for spell just incanted>.
+ -  name: CONTINGENCY
+    full_name: Karvecki's Grant of Hope
+    Type: Personal
+    Duration: Day
+    School: Both
+    Cost: 2 Components
+    Incant: I grant myself a <spellname> spell contingent upon my <trigger state>
+    Effect: One spell from the memory of the caster is used and placed in a state in which it will take effect on the caster if a certain condition is met. The conditions for earth magic are Charmed, Cursed, Death, Magically Bound (Pin, Bind, Web, Confine), Paralyzed, Poisoned, Silenced, Sleeping, or Unconsciousness. The conditions for celestial magic are Charmed, Imprisoned, Magically Bound (Pin, Bind, Web, Confine), Silenced, Sleeping, or Unconsciousness. The contingent spell is triggered as soon as the caster enters the triggering state and may neither be stopped by anything nor may the caster choose not to invoke the contingency. A new casting of contingency will replace an old casting of it. Contingency is lost if the caster resurrects. The contingent spell will still trigger a shield magic, the caster may chose to accept the spell if he is in a state capable of accepting a spell.
+    oog_note: The caster must call Contingency <spell> when the spell is triggered.
+ -  name: COPY FORMAL CANTRIP
+    full_name: Pasadelin's Cantrip Duplication
+    Type: Item
+    Duration: Year 
+    School: Both
+    Cost: 1 Component
+    Incant: I scribe this cantrip into my tome
+    OOG Note: The Caster is responsible for initial placement of the Mark in a manner that does not destroy or damage personal property. The possessor of the item is responsible thereafter for placement of the Mark. The caster must touch the target during the incantation and breaking of the components. This cantrip in no way confers indestructibility upon the marked item.
+ -  name: MAGIC DELIVERENCE
+    full_name: Erol's Innate Aura
+    Effect: This cantrip will copy any cantrip of the same school from one Cantrip Tome to another Cantrip Tome which has free space. Limitations on the use and copying of certain cantrips may be included in their text in a given tome. The caster must touch both the book which is the source of the cantrip being copied and the book which is the destination.
+ -  name: Enchant Cantrip Tome
+    full_name: Tamir's Enchanted Tome
+    Type: Item Duration: Year School: Both
+    Cost: 2 Components
+    Incant: I enchant this book as an <school> cantrip tome
+    Effect: This cantrip causes a book with minimum dimensions of 6" by 4" to become usable as a Cantrip Tome. A Cantrip Tome can hold up to 10 cantrips of its school. The book used must have a value of at least 10 gold. A Cantrip Tome may not have any other formal magic cast upon it or it will cease functioning. The caster must touch the tome being enchanted. The tome enchanted is still a shatterable object and is vulnerable to any force which may destroy a normal book.
+    name: Imbue
+    full_name: Yolathurn’s Transfer of Spell Ability
+    Type: Spirit Duration: Day School: Both
+    Cost: 1 Component
+    Incant: I enchant you with a <Spell Name> spell imbued from my knowledge
+    Effect: This cantrip allows the caster to touch cast an additional spell from memory into the spirit of another. The target of the spell then gets the ability to cast that spell as if from their own memory for the remainder of the day. Once they cast the spell it is used from memory as normal.
+    OOG Note: The caster should give the recipient both a cantrip tag indicating the imbue and the spell tag for the spell that was imbued.
+ -  name: Mark
+    full_name: Madaline's Magical Imprint
+    Type: Personal Duration: Day School: Both
+    Cost: 0 Components
+    Incant: I grant myself the ability of magic deliverance
+    Effect: Allows one spell from the memory of the formal caster to be delivered as magic instead of by full incantation. The spell must be of a level less than or equal to the number of levels the caster has of the appropriate school of formal magic and must be of the same school as the magic deliverance cantrip which was cast. Thus a caster with nine levels of formal magic earth could cast as magic any earth spell by casting magic deliverance. A caster with seven levels of formal magic earth could cast as magic any seventh level or lower earth spell by casting magic deliverance.  Neither of these casters can use an earth magic deliverance cantrip to cast a celestial spell as magic. The caster chooses when to deliver this spell as magic. Only one magic deliverance may be in effect at any given time. As per the rules for delivering a spell as magic the caster must be able to speak but need not have use of their arms as “Magic” is an innate ability. A magic deliverance is lost if the caster dies and requires a life spell.
+    OOG Note: When used the caster must state Magic <spellname> <option for that spell>
+ -  name: Rendering
+    full_name: Tamir's Temporary Indestructibility
+    Type: Item
+    Duration: Hour
+    School: Both
+    Cost: 1 Component
+    Incant: I enchant this <item> to be rendered invulnerable to harm
+    Effect: Renders one object immune to the effects of the spells Shatter and Destroy and most physical harm including acid, flame, and explosive damage for a period of one hour. The object may be no larger than 6 feet in its largest dimension. Massive mechanical damage will still destroy and object under the effects of Rendering. The caster must touch the item being rendered during the full incantation and the breaking of the components.
+ -  name: 
+    Type: Item Duration: 2 Year 
+    School: Both
+    Cost: 1 Component
+    Incant: I scribe a mark upon this <item>
+    Effect: The caster may place a Mark of up to 4" by 4" and any two colors upon a target item. The caster decides what the Mark looks like.
+ 
+ -  name: SPIRIT MARK
+    full_name: Madaline's Magical Spirit Imprint
+    Type: Spirit
+    Duration: 2 Year
+    School: Both
+    Cost: 1 Component
+    Incant: I scribe a spirit mark upon this being
+    Effect: The caster may place a spirit mark of up to 4" by 4" and any two colors upon a target person with a spirit. The caster decides what the spirit mark looks like and where it is. The spirit mark will appear on any body the spirit, which has been marked, is within, it will appear in an equivalent place to where it was originally placed. The spirit mark will always be on that body part containing the spirit if parts of the body are separated. When the body is reformed through resurrection, the Spirit Mark will be upon the identical location it was on before resurrection. The caster must touch the target during the incantation and breaking of the components.
+    OOG Note: The Caster is responsible for initial placement of the Spirit Mark with suitable makeup or prosthetics. As with gypsy curse the player subject to the Spirit Mark may bargain for a different one with the caster placing the Spirit Mark if it is uncomfortable or personally offensive.
+ -  name: SPIRIT UNMARK
+    full_name: Madaline's Spirit Imprint Eraser
+    Type: Spirit Duration: Instant School: Both
+    Cost: 1 Component
+    Incant: I remove this spirit mark
+    Effect: This will remove a spirit mark of the appropriate school from a spirit which has one. The caster must touch the target during the incantation and breaking of the components.
+ -  name: UNMARK
+    full_name: Madaline's Imprint Eraser
+    Type: Item
+    Duration: Instant School: Both
+    Cost: 1 Component Incant: I remove this mark
+    Effect: This will remove a Mark of the appropriate school from an item which has one. The caster must touch the target during the incantation and breaking of the components. 
+ -  name: BANE OF THE DEAD/BOON OF THE DEAD
+    full_name: Yolaturn’s Dead Strike/Yolathurn’s Dead Strength
+    Type: Offensive Duration: Concentration School: Earth
+    Cost: 1 Component
+    Incant:	By the earth I bane the dead... Magic Harm Undead... Magic Harm Undead.../By chaos I boon the dead... Magic Help Undead... Magic Help Undead ...
+    Effect: At the time of casting, the caster plants both feet. As long as both feet remain planted and the cantrip is not disrupted as per normal spell rules, the caster may throw a packet after completing the incant “Magic Harm Undead” or “Magic Help Undead”. While the cantrip is in effect, the caster can perform no other skill nor cast any other spell or cantrip. Each packet thrown acts as a separate spell equivalent to a Harm Undead or a Help Undead depending on the form of the cantrip cast.
+ -  name: ELDRITCH BLESS
+    full_name: Var’s Superior Protection
+    Type: Personal Duration: Day School: Earth
+    Cost: 0 Components
+    Incant: I grant myself the power of an eldritch bless
+    Effect: This cantrip gives the caster 10 extra body points. These points are the first body points lost to damage. As long as these body points last they will protect the caster so spells may be cast while taking damage. If a Bless and/or Greater Bless are also present, they are lost before the Eldritch Bless.  If the caster dies and requires a life spell the Eldritch Bless is lost
+ -  name: FIELD RESURECTION/FIELD ABJURATION
+    full_name: Benevolence's Instantaneous Resurrection/Benevolence’s Spirit Banishment
+    Type: Spirit Duration: Instant School: Earth
+    Cost: 0 Components
+    Incant: By the earth I resurrect this spirit/By chaos I abjure this spirit
+    Effect: >
+        Field resurrection allows a single spirit to be resurrected directly in front of the caster, without the need for a circle. This occurs in the time it takes to cast this cantrip with the target if the cantrip resurrecting at only one body. In all other ways this resurrection is identical to a normal resurrection. A spirit may refuse to resurrect when called to a field resurrection, instead seeking to resurrect as normal. If this happens the cantrip is wasted and may not be redirected to another spirit. The caster must be aware that a spirit has just left to resurrect in the area, they gain no special sense for spirits. A spirit seeking resurrection will feel the call of a field resurrection as if it were an earth circle.
+        
+        Field abjuration will prevent a spirit in need of resurrection from being able to be resurrected using the field resurrection cantrip but will in no other way affect the resurrection of a spirit.
+        
+        The caster must be within 10’ of the spirit to be field resurrected or field abjured at the time of casting of this cantrip.
+    OOG Note: To use this cantrip a caster must carry life stones with them and have the bag and draw witnessed by a marshal for later reporting. A hold may not be called for this. Any field resurrection must be reported to those responsible for tracking resurrection as soon as possible following the casting of the cantrip. The marshal is required to inform the target of the cantrip that they do not have to resurrect and if they do they return immediately at one body.
+ -  name: FORCED MARCH/EXHAUSTION
+    full_name: Olvenca’s Light Feet/Olvenca’s Damning Fatigue
+    Type: Broad 
+    Duration: Day 
+    School: Earth
+    Cost: 2 Components
+    Incant: By the earth I sustain these men/By chaos I exhaust these men
+    Effect: Forced march allows 5 men per level of earth formal magic of the caster to travel at full normal pace for a day. The magic of the cantrip will sustain their pace.  A man cannot be affected by more than one forced march in a 24-hour period. The caster must touch each target of the forced march immediately following the snapping of the components. No other action may be taken or skill be used other than to designate the targets by touch.
+    Exhaustion will cause 5 men per level of earth formal magic of the caster to be exhausted and only travel at half- normal pace for the next day. The targets of exhaustion must be within 10’ of the caster per level of earth formal magic possessed by the caster when this cantrip is cast. A man cannot be affected by more than one exhaustion in a 24-hour period.
+ -  name: HEALER'S GRACE
+    full_name: Johovan’s Grace
+    Type: Personal Duration: Invoked School: Earth Cost: 1 Component
+    Incant: I grant myself healer’s grace
+    Effect: The caster of this cantrip gains the carrier attack healing against one opponent when invoked. Any undead hit with the carrier attack healing takes double damage. As with all carrier attacks this may not heal anyone. This works on melee but not ranged attacks. If the caster dies and requires a life spell the healer’s grace is lost.
+ -  name: HEALING POOL/DEFILING POOL
+    full_name: Yolathurn’s Pool of Purity/Yolathurn’s Putrid Pool
+    Type: Personal Duration: Day School: Earth Cost: 1 Component
+    Incant: By the earth I create a healing pool/ By chaos I create a defiling pool
+    Effect: Healing pool allows the caster to create, for themselves, a pool of elemental healing of 50 points plus 10 points per level per level of earth formal magic possessed by the caster, to a maximum of twenty five levels (300 points) which may only be touch cast as 10 elemental healing. The effect is lost if the caster dies and needs a life spell. Defiling pool is a pool of elemental chaos with the same limits as the healing pool. A caster may have both a healing pool and a defiling pool at the same time but not more than one of each. If the caster takes body damage during the call of “10 elemental healing” or “10 elemental chaos”, that 10 point casting fails and is lost to the pool but the rest of the pool remains.
+ -  name: INCREASE HARVEST/BLIGHT
+    full_name: Bin’Aven’s Plentiful Earth/Bin’Aven’s Poisoned Ground
+    Type: Broad Duration: Instant School: Earth
+    Cost: 2 Components
+    Incant: By the earth I increase this harvest/By chaos I blight this land
+    Effect: Increase Harvest will increase the food production of 10 acres of farmland per level of earth formal magic of the caster by one category. The area affected must be continuous.
+    Blight causes 10 acres of farmland per level of earth formal magic of the caster to decrease food production by one category. The area affected must be continuous. The caster is the center of effect of this cantrip.
+ -  name: ORALE/ROUT
+    full_name: Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
+    Type: Broad
+    Duration: Battle 
+    School: Earth
+    Cost: 2 Components
+    Incant: By the earth I raise morale/By chaos I rout these men
+    Effect: Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category.
+    Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category.
+    The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster.
+ -  name: PURIFY WELL/POISON WELL
+    full_name: Lucin’s Purity/Lucin’s Taint
+    Type: Broad Duration: Instant School: Earth
+    Cost: 2 Components
+    Incant: By the earth I purify this well/By chaos I poison this well
+    Effect: Purify Well will cause one well, cistern, spring, or most non-flowing water sources to become clean, pure water free of disease and taints. Poison well will cause one well, cistern, spring, or most non-flowing water sources to become impure and cause slow sickness in any who drink from it. The caster must touch the well to be purified or poisoned.
+ -  name: REPLENISH/CORRUPT
+    full_name: Bin’Aven’s Natural Enhancement/Bin’Aven’s Unnatural Growth
+    Type: Broad Duration: Instant School: Earth
+    Cost: 2 Components
+    Incant: By the earth I replenish this land/By chaos I corrupt this land.
+    Effect: Replenish will bring a 10’ by 10’ area per level of earth formal magic of the caster more in line with the natural progression in the area. This will undo the effects of corruption and chaos upon the land in slow increments. Corruption will cause an area to become more out of line with the natural flow in an area, impassible thorns and brambles may grow, fertile areas may become swamp like, pools of chaos will become more likely to develop. This will affect a 10’ by 10’ area per level of earth formal magic of the caster rendering it harder to develop and use. The caster is the center of this cantrip's effect.
+    OOG Note: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum.
+ -  name: RIDERS ON THE WIND/FOUNDERING MOUNTS
+    full_name: Sydello’s Equine Enhancement/Sydello’s Equine Eliminator
+    Type: Broad Duration: Day School: Earth
+    Cost: 2 Components
+    Incant: I call upon the Earth to make these horses fleet/By chaos I founder these mounts
+    Effect: Allows 1 horse per level of earth formal magic of the caster to travel at maximal pace for their entire normal movement in one day. Regular stops for food and water are still needed but while riding a gallop may be sustained. A horse may not be affected by more than one riders on the wind in a 24-hour period.  The caster must touch each target of the horses to be affected by the riders on the wind immediately following the snapping of the components.
+    No other action may be taken or skill be used other than to designate the targets by touch.
+    Foundering mounts will cause 1 horse per level of earth formal magic of the caster to be exhausted and only travel at half normal pace for the next day. The targets of foundering mounts must be within 10’ of the caster per level of earth formal magic possessed by the caster when this cantrip is cast. A horse cannot be affected by more than one foundering mounts in a 24-hour period.
+ -  name: TYRRA'S CLAW
+    full_name: Angat’s Rake
+    Type: Personal Duration: Hour School: Earth Cost: 1 Component
+    Incant: I grant myself a Claw from Tyrra
+    Effect: The caster grows one shortsword-sized claw that they may used for one hour. The claw does a base damage of five dagger blows and the damage may not be increased by skill. The Tyrra’s Claw takes no special skill to wield and may be conjured into either the caster’s primary hand or off-hand and used. Once conjured the Tyrra’s Claw may not be switched between hands. The casting of two Tyrra’s Claw cantrips will allow the caster to wield a claw in each hand.
+    OOG Note: The caster must have and use a red claw phys rep as the claw created by this cantrip.
+ -  name: BOLTSTORM
+
+ -  name: ELEMENT'S FURY
+    full_name: Runewind’s Elemental Bombardment
+    Type: Offensive Duration: Concentration
+    School: Celestial
+    Cost: 1 Component
+    Incant: I grant myself a boltstorm to throw... 10 elemental <Flame, Ice, Lightning, or Stone>... 10 elemental <same element>…
+    Effect: At the time of casting, the caster must choose a single element; flame, ice, lightning, or stone; and plant both feet. As long as both feet remain planted and the cantrip is not disrupted as per normal spell rules, the caster may throw a packet after completing the incant “10 elemental <type>“. The elemental chosen may not be changed without casting another boltstorm. While the cantrip is in effect, the caster can perform no other skill nor cast any other spell or cantrip. Each packet thrown acts as a separate elemental attack doing 10 points of the chosen element in damage to the target. The call “10 elemental <type>” is considered part of the verbal and like any other verbal the cantrip is lost if the caster takes body damage, performs an in game skill, or speaks other words to interrupt the verbal.
+ -  name: DEVESTATING CHARGE
+    full_name: Gintain’s Thunderous Charge
+    Type: Broad Duration: Hour School: Celestial Cost: 2 Components
+    Incant: By the stars may these lances strike true
+    Effect: When cast upon a group of lancers containing up to two men for every level of celestial formal magic of the caster this cantrip will render their lances so they will not break for the next charge and give them all the equivalent of a +1 damage aura per five levels of celestial formal magic of the caster for that charge (up to a maximum of +5). The caster must touch each target of the devastating charge immediately following the snapping of the components. No other action may be taken or skill be used other than to designate the targets by touch.
+ -  name: ELDRITCH SHIELD
+    full_name: PanTarsa’s Superior Protective Field
+    Type: Personal Duration: Day School: Celestial Cost: 0 Components
+    Incant: I grant myself an Eldritch Shield
+    Effect: This cantrip gives the caster 10 extra armor points. These extra points are the first armor points lost due to damage. As long as these points last they will protect the caster so spells may be cast while taking damage. If a shield and/or greater shield are also present they are lost before the eldritch shield. If the caster dies and requires a life spell the eldritch shield is lost.
+ 
+ -  name: Karvecki’s Planar Conduit
+    Type: Offensive Duration: Day School: Celestial Cost: 2 Components
+    Incant: I grant myself <Flame, Ice, Lightning, or Stone>‘s Fury
+    Effect: The caster may choose an element (Flame, Ice, Lightning, or Stone) which they receive a pool of 50 points plus 10 points per level of celestial formal magic of the caster to a maximum of twenty five levels (300 points).
+The caster may throw attacks of 10 elemental <type> until the pool is used up. The caster may only have one Element’s Fury at any time.  Thus a caster with ten levels of formal magic gains a pool of 150 points which they may throw as 10 elemental <type>. This pool is lost if the caster dies and requires a life spell. A new casting of Element’s Fury will replace an old casting of it. Casting the elemental packets follow the same rules as casting a spell and thus may not be done if taking body damage or if the caster cannot speak or use their hands.
+ -  name: ELEMENT'S WAY
+    full_name: Tuscon’s Elemental Aura
+    Type: Personal Duration: Invoked School: Celestial Cost: 1 Component
+    Incant: I grant myself the way of <Flame, Ice, Lightning, or Stone>
+    Effect: The caster may choose an element (Flame, Ice, Lightning, or Stone) which they may invoke to swing as a carrier attack against a chosen opponent. The caster chooses which of the four elements they will swing when they invoke the use and may change elements when they invoke this again. Only one element’s way may be in effect at a given time. The caster may invoke this against multiple opponents but if they change the carrier type then the first carrier ends. This works on melee but not ranged attacks. The element’s way is lost if the caster dies and requires a life spell.
+ -  name: ENCHANT ENGINE
+    full_name: Gintain’s mighty Siege Engine
+    Type: Broad Duration: Hour School: Celestial Cost: 2 Components
+    Incant: By the stars may this engine strike true
+    Effect: Gives a siege engine the equivalent of a +1 damage aura per two levels of celestial formal magic of the caster. The caster must touch the siege engine being enchanted during the full incantation and snapping of the components.
+    OOG Note: This bonus may never be placed on a weapon to be used in NERO safe combat.
+ -  name: LEVEL GROUND
+    full_name: Holace’s Smooth Path
+    Duration: Hour School: Celestial Cost: 1 Component
+    Incant: I grant myself an ethereal sword
+    Effect: The caster gains a short sword sized ethereal Sword for one hour, it is made of their own spirit and an extension there of. An ethereal Sword may not be disarmed or shattered. The sword does a base damage of five dagger blows and the damage may not be increased by skill. The Etherial Sword takes no special skill to wield and may be conjured into either the caster’s primary hand or off-hand and used. Once conjured the Etherial Sword may not be switched between hands. The casting of two Etherial Sword cantrips will allow the caster to wield a claw in each hand.
+    OOG note: The caster must have and use a red shortsword phys rep as the sword created by this cantrip.
+ -  name: FORTIFY DEFENSE
+    full_name: Anvicia’s Fortress
+    Type: Broad Duration: Day School: Celestial Cost: 2 Components
+    Incant: By the stars may these defenses be fortified
+    Effect: Increases the rating of any one defensive structure of 10’ x 10’ per level of celestial formal magic possessed by the caster for the period of one day. The caster must be within the structure being fortified. The structure may have a number of floors equal to the levels of celestial formal magic of the caster. If cast following a weaken defense this will counter its effects. Multiple casters can add their casting together to cover a larger structure, but they calculate their own areas and then add them together, they do not calculate a single area by adding their levels of formal magic.
+    OOG Note: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may fortify a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’.
+ -  name: FURY'S STRENGTH
+    full_name: Kodos' Strength Of The Bear
+    Type: Personal Duration: Invoked School: Celestial Cost: 0 Components
+    Incant: I grant myself Fury's Strength
+    Effect: The formal caster will gain a strength of +2 (+1 in each hand) against one opponent when this cantrip is invoked, using one of its charges. This strength is not cumulative with any other strength the caster may have and only the greater strength will function. With this strength the caster may rip from pins taking 2 points of body damage or increase the damage of a two-handed weapon by 2 points or a one-handed weapon by one point and nothing else. Fury's strength is lost if the caster dies and requires a life spell. Only one fury’s strength may be in effect at a given time.
+ 
+Duration: Instant School: Celestial Cost: 2 Components
+Incant: By the stars may this ground be leveled
+Effect: An area 10’ x 10’ per level of celestial formal magic possessed by the caster is leveled and made one category more useful for building or travel. This has no effect on developed areas of land.  The caster is the center of effect of this cantrip.
+OOG Note: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum.
+LORE
+Indessa’s Sight of Attributes
+Type: Item Duration: Instant School: Celestial Cost: 1 Component
+Incant: I grant myself the vision to see the lore of what is before me
+Effect: One item for every two levels of formal celestial magic, rounded up, possessed by the caster is identified to the caster as if using a permanent celestial circle. This may not be used to identify anything that has a spirit.
+OOG Note: The caster of this cantrip must give the tag for the cantrip to an appropriate person with access to the magic item tags. A hold may not be called for this the knowledge comes to the caster as they get the tags.
+MAGIC KEY
+Anvicia’s Key
+Type: Item Duration: Instant School: Celestial Cost: 1 Component
+Incant: I build a magic key
+Effect: This cantrip will cause any one locking mechanism touched by the caster immediately upon casting this cantrip to unlock or lock (at the choice of the caster). Some locks may be built with complex multiple mechanisms and may require more than one casting of this cantrip to open it.
+ 
+
+
+Type: Broad
+ 
+ -  name: WEAKEN DEFENSE
+    full_name: Anvicia’s Undoing
+    Duration: Instant School: Celestial Cost: 2 Components
+    Incant: By the stars may these defenses be weakened
+    Effect: Weaken defense decreases the rating of any one defensive structure of 10’ x 10’ per level of celestial formal magic possessed by the caster the damage to the defenses remains until repaired or fortified (using the cantrip fortify defense). The weakening takes ten minutes to take effect and is obvious in its progress during those ten minutes.
+    The caster must touch the structure to be weakened. Multiple casters can add their casting together to cover a larger structure, but they calculate their own areas and then add them together, they do not calculate a single area by adding their levels of formal magic.
+    OOG Note: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may Weaken a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’.
+    Type: Broad
+
+ -  name: WIZARD'S SENSE
+    full_name: Buronto’s Vision
+    Type: Broad
+    Duration: Instant
+    School: Celestial
+    Cost: 2 Components
+    Incant: I grant these eyes a Wizard’s Sense
+    Effect: I
+    Duration: Instant School: Celestial Cost: 2 Components
+    Incant: I grant these eyes a Wizard’s Sense
+    Effect: Increases the rating of one scout per level of celestial formal magics possessed by the caster by one degree. The scouts gain a preternatural increase of their senses making them more effective. The caster must touch each target of the Wizard’s Sense immediately following the snapping of the components. No other action may be taken or skill be used other than to designate the targets by touch.
+    OOG Note: This will give no additional effects to a PC in play.
