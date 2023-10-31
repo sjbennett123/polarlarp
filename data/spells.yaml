@@ -2,6 +2,7 @@
 spells:
  -  name: Awaken
     incantation: I command you to awaken.
+    level: 4
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -12,6 +13,7 @@ spells:
     
  -  name: Banish
     incantation: With eldrich force I banish you.
+    level: 9
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -22,6 +24,7 @@ spells:
     
  -  name: Bind
     incantation: With mystic force I bind you.
+    level: 4
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -33,6 +36,7 @@ spells:
  -  name: Bless
     incantation: I grant you the power of a bless.
     Celestial: No
+    level: 1
     Scroll: No
     Earth: Yes
     Potion: Yes
@@ -42,6 +46,7 @@ spells:
     
  -  name: Calm
     incantation: I command you to be calm.
+    level: 4
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -52,6 +57,7 @@ spells:
     
  -  name: Calm Animal
     incantation: I command this animal to be calm.
+    level: 1
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -62,6 +68,7 @@ spells:
     
  -  name: Cause Critical Wounds
     incantation: I call upon chaos to cause critical wounds 30.
+    level: 6
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -72,6 +79,7 @@ spells:
     
  -  name: Cause Disease
     incantation: I call upon chaos to cause disease.
+    level: 3
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -82,6 +90,7 @@ spells:
     
  -  name: Cause Light Wounds
     incantation: I call upon chaos to cause light wounds 5.
+    level: 1
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -92,6 +101,7 @@ spells:
     
  -  name: Cause Mortal Wounds
     incantation: I call upon chaos to cause mortal wounds 40.
+    level: 8
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -102,6 +112,7 @@ spells:
     
  -  name: Cause Serious Wounds
     incantation: I call upon chaos to cause serious wounds 20.
+    level: 4
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -112,6 +123,7 @@ spells:
     
  -  name: Cause Wounds
     incantation: I call upon chaos to cause wounds 10
+    level: 2
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -122,6 +134,7 @@ spells:
     
  -  name: Charm
     incantation: I command you to be charmed.
+    level: 7
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -132,6 +145,7 @@ spells:
     
  -  name: Circle of Harmony
     incantation: With eldrich force I build a circle of harmony
+    level: 6
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -142,6 +156,7 @@ spells:
     
  -  name: Circle of Power
     incantation: With eldrich force I build a circle of power.
+    level: 9
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -152,6 +167,7 @@ spells:
     
  -  name: Confine
     incantation: With mystic force I confine you.
+    level: 8
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -161,6 +177,7 @@ spells:
     description: This spell snares the arms of its victim, binding them straight to its sides, and immobilizes the victim completely from the neck down making them helpless. The victim may talk freely, but may not use any game skills requiring use of the arms, including using a weapon or shield, casting a spell, or activating a gas globe. The victim may not walk, run, or be moved in any way Any item the victim is holding cannot be dropped. However, since the effect allows the victim to be searched, anyone else can choose to physically remove a hand-held item from the victim by simply “searching” them. Even a victim with Superhuman Strength cannot prevent himself from being “searched” in this manner. This spell does not prevent the victim from being given a Killing Blow.
     
  -  name: Control Undead
+    level: 2
     incantation: I call upon chaos to control undead.
     Celestial: No
     Scroll: No
@@ -172,6 +189,7 @@ spells:
     
  -  name: Corruption
     incantation: I call upon chaos to corrupt you.
+    level: 8
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -182,6 +200,7 @@ spells:
     
  -  name: Create Undead
     incantation: I call upon chaos to create undead.
+    level: 7
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -192,6 +211,7 @@ spells:
     
  -  name: Cure Critical Wounds
     incantation: I call upon the earth to cure crtical wounds 30.
+    level: 6
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -202,6 +222,7 @@ spells:
     
  -  name: Cure Disease
     incantation: I call upon the earth to cure diease.
+    level: 3
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -212,6 +233,7 @@ spells:
     
  -  name: Cure Light Wounds
     incantation: I call upon the earth to cure light wounds 5.
+    level: 1
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -222,6 +244,7 @@ spells:
     
  -  name: Cure Mortal Wounds
     incantation: I call upon the earth to cure mortal wounds 40.
+    level: 8
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -232,6 +255,7 @@ spells:
     
  -  name: Cure Serious Wounds
     incantation: I call upon the earth to cure serious wounds 20
+    level: 4
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -242,6 +266,7 @@ spells:
     
  -  name: Cure Wounds
     incantation: I call upon the earth to cure wounds 10.
+    level: 2
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -252,6 +277,7 @@ spells:
     
  -  name: Curse
     incantation: I curse you with destruction.
+    level: 7
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -262,6 +288,7 @@ spells:
     
  -  name: Death
     incantation: I grant you the gift of death.
+    level: 9
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -272,6 +299,7 @@ spells:
     
  -  name: Delayed Endow
     incantation: I grant you the power of a delayed endow.
+    level: 2
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -282,6 +310,7 @@ spells:
     
  -  name: Desecrate
     incantation: I call upon chaos to desecrate you.
+    level: 4
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -292,6 +321,7 @@ spells:
     
  -  name: Destroy
     incantation: I summon a force to destroy your <item>.
+    level: 6
     Celestial: Yes
     Scroll: Yes
     Earth: Yes 
@@ -302,6 +332,7 @@ spells:
     
  -  name: Destroy Undead
     incantation: I call upon the earth to destroy undead 70.
+    level: 7
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -312,6 +343,7 @@ spells:
     
  -  name: Detect Magic
     incantation: I call fourth mystic power to detect magic.
+    level: 2
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -322,6 +354,7 @@ spells:
     
  -  name: Dispel Magic
     incantation: I call fourth mystic power to dispel magic.
+    level: 8
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -332,6 +365,7 @@ spells:
     
  -  name: Displacement
     incantation: I grant you the power of a displacement.
+    level: 8
     Celestial: Yes
     Scroll: No
     Earth: No
@@ -342,6 +376,7 @@ spells:
     
  -  name: Dragon's Breath
     incantation: I call fourth a dragon's breath 40.
+    level: 8
     Celestial: Yes
     Scroll: Yes
     Earth: No
@@ -352,6 +387,7 @@ spells:
     
  -  name: Eldrich Blast
     incantation: I call fourth a <flame ice lightning or stone> blast 45.
+    level: 9
     Celestial: Yes
     Scroll: No
     Earth: No
@@ -362,6 +398,7 @@ spells:
     
  -  name: Elemental Blade
     incantation: I grant you the power of an elemental blade.
+    level: 4
     Celestial: Yes
     Scroll: Yes
     Earth: No
@@ -372,6 +409,7 @@ spells:
     
  -  name: Elemental Shield
     incantation: I grant you the power of an elemental shield.
+    level: 6
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -382,6 +420,7 @@ spells:
     
  -  name: Empathic Healing
     incantation: I call upon the earth to transfer <effect>.
+    level: 2
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -392,6 +431,7 @@ spells:
     
  -  name: Enchanted Blade
     incantation: I grant you the power of an enchanted blade.
+    level: 6
     Celestial: Yes
     Scroll: Yes
     Earth: No
@@ -402,6 +442,7 @@ spells:
     
  -  name: Endow
     incantation: I grant you the power of an endow.
+    level: 1
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -412,6 +453,7 @@ spells:
     
  -  name: Enflame
     incantation: I summon a force to enflame your <item> 20.
+    level: 6
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -422,6 +464,7 @@ spells:
     
  -  name: Extended Hearth
     incantation: With eldrich force I build an extended hearth.
+    level: 7
     Celestial: Yes
     Scroll:  No
     Earth: Yes
@@ -432,6 +475,7 @@ spells:
     
  -  name: Flame Bolt
     incantation: I call fourth a flame Bolt 20.
+    level: 4
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -442,6 +486,7 @@ spells:
     
  -  name: Free Undead
     incantation: I call upon chaos to free undead.
+    level: 1
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -452,6 +497,7 @@ spells:
     
  -  name: Fumble
     incantation: I summon a force to fumble your <item>.
+    level: 1
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -462,6 +508,7 @@ spells:
     
  -  name: Guardian of the Four
     incantation: I grant you the power of a <fire, ide, lightning or stone> shield.
+    level: 7
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -471,7 +518,8 @@ spells:
     description: This spell grants a shield to fire, ice, lightning, or stone as determined by the caster at the time of casting. This will nearly always be the first protective spell lost if it is appropriate to defend against an attack and will be used before a Shield Magic, Elemental Shield, Magic Armor or any other automatic protective effect other than Displacement which still comes before this spell. This spell will defend against packet delivered attacks and weapon delivered attacks as long as the damage or effect type is appropriate. For combined effects such as Enflame where the spell is both a fire attack and another effect this spell will protect against both. A player may have only a single casting of this spell upon them if another casting is placed upon them it will replace the prior one. When struck by an appropriate attack the spell automatically goes off the target may not choose to accept the spell and save this protection for later. This protective will be set off prior to any more general protective such as a Shield Magic. The caster may choose to accept a touch cast effect under the protection of this spell. When used, the call is “<fire, ice, lightning, stone> Shield.”
     
  -  name: Harm Undead
-    incantation: I call upon the earth to harm undead
+    incantation: I call upon the earth to harm undead.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -482,6 +530,7 @@ spells:
     
  -  name: Help Undead
     incantation: I call upon chaos to help undead.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -492,6 +541,7 @@ spells:
     
  -  name: Ice Bolt
     incantation: I call fourth an ice bolt 15.
+    level: 3
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -502,6 +552,7 @@ spells:
     
  -  name: Ice Storm
     incantation: I call fourth an ice storm 35.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -512,6 +563,7 @@ spells:
     
  -  name: Illumination
     incantation: I grant you the power of illumination.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -522,6 +574,7 @@ spells:
     
  -  name: Imprision
     incantation: With eldrich force I build a prison.
+    level: 9
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -532,6 +585,7 @@ spells:
     
  -  name: Improved Hearth
     incantation: With eldrich force I build an improved hearth.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -542,6 +596,7 @@ spells:
     
  -  name: Inspiration
     incantation: I grant you the gift of inspiration.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -552,6 +607,7 @@ spells:
     
  -  name: Lesser Divestiture
     incantation: With eldrich force I remove your investiture.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -562,6 +618,7 @@ spells:
     
  -  name: Lesser Investiture
     incantation: With eldrich force I grant you investiture.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -572,6 +629,7 @@ spells:
     
  -  name: Life
     incantation: I grant you the gift of life.
+    level: 9
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -582,6 +640,7 @@ spells:
     
  -  name: Lightning Bolt
     incantation: I call fourth a lightning bolt 10.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -592,6 +651,7 @@ spells:
     
  -  name: Lightning Storm
     incantation: I call fourth a lightning storm 30
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -602,6 +662,7 @@ spells:
     
  -  name: Magic Armor
     incantation: I grant you the power of a magic armor.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -612,6 +673,7 @@ spells:
     
  -  name: Magic Missle
     incantation: I call fourth a magic missle 5.
+    level: 1
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -622,6 +684,7 @@ spells:
     
  -  name: Magic Storm
     incantation: I call fourth a magic storm 5.
+    level: 9
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -632,6 +695,7 @@ spells:
     
  -  name: Mystic Lock
     incantation: With eldrich force I build a mystic lock.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -642,6 +706,7 @@ spells:
     
  -  name: Paralyze
     incantation: I curse you with paralysis.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -652,6 +717,7 @@ spells:
     
  -  name: Pin
     incantation: With mystic force I pin you.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -662,6 +728,7 @@ spells:
     
  -  name: Poison Shield
     incantation: I grant you the power of a poison shield.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -671,7 +738,8 @@ spells:
     description: This spell protects the recipient from the next attack with the word “poison” in the verbal. It is then immediately used up. It will not protect against ingested elixirs. When used, the call is “Poison Shield.”
     
  -  name: Purify Blood
-    incantation: I call upon the earth to purify your blood
+    incantation: I call upon the earth to purify your blood.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -682,6 +750,7 @@ spells:
     
  -  name: Refit Armor
     incantation: I summon a force to refit this armor.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -692,6 +761,7 @@ spells:
     
  -  name: Reflect Magic
     incantation: I call fourth mystic power to reflect magic.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -702,6 +772,7 @@ spells:
     
  -  name: Regeneration
     incantation: I call upon the earth to regenerate you.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -712,6 +783,7 @@ spells:
     
  -  name: Release
     incantation: With mystic force I release you.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -722,6 +794,7 @@ spells:
     
  -  name: Remove Curse
     incantation: I rid you of your curse.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -732,6 +805,7 @@ spells:
     
  -  name: Remove Drain
     incantation: I rid you of your drain.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -742,6 +816,7 @@ spells:
     
  -  name: Remove Fear
     incantation: I rid you of your fear.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -752,6 +827,7 @@ spells:
     
  -  name: Remove Physical Affliction
     incantation: I rid you of your physical affliction.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -762,6 +838,7 @@ spells:
     
  -  name: Remove Weakness
     incantation: I rid you of your weakness.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -772,6 +849,7 @@ spells:
     
  -  name: Repel
     incantation: With mystic force I repel you.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -782,6 +860,7 @@ spells:
     
  -  name: Restore Limbs
     incantation: I call upon the earth to restore you limbs.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -792,6 +871,7 @@ spells:
     
  -  name: Sanctuary
     incantation: I call upon the earth to grant you sanctuary.
+    level: 4
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -802,6 +882,7 @@ spells:
     
  -  name: Shatter
     incantation: I summon a force to shatter your <item>.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -812,6 +893,7 @@ spells:
     
  -  name: Shield
     incantation: With eldrich force I grant you a shield 5.
+    level: 1
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -822,6 +904,7 @@ spells:
     
  -  name: Shield Magic
     incantation: I call fourth mystic power to shield magic.
+    level: 5
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -832,6 +915,7 @@ spells:
     
  -  name: Shun
     incantation: I command you to shun me.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -842,6 +926,7 @@ spells:
     
  -  name: Shun Animal
     incantation: I command this animal to shun me.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -852,6 +937,7 @@ spells:
     
  -  name: Silence
     incantation: I command you to silence.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: Yes
@@ -862,6 +948,7 @@ spells:
     
  -  name: Silver Aura
     incantation: I grant you the power of a silver aura.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -872,6 +959,7 @@ spells:
     
  -  name: Sleep
     incantation: I command you to sleep.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -882,6 +970,7 @@ spells:
     
  -  name: Stabilize
     incantation: I call upon the earth to stabilize you.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -892,6 +981,7 @@ spells:
     
  -  name: Stone Bolt
     incantation: I call fourth a stone bolt 25.
+    level: 5
     Celestial: Yes
     Scroll: Yes
     Earth: No 
@@ -902,6 +992,7 @@ spells:
     
  -  name: Taint Blood
     incantation: I call upon chaos to taint your blood.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -912,6 +1003,7 @@ spells:
     
  -  name: Tarry
     incantation: I grant you the gift of tarrying.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -922,6 +1014,7 @@ spells:
     
  -  name: Trap Undead
     incantation: I call upon the earth to trap undead.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -932,6 +1025,7 @@ spells:
     
  -  name: Turn Undead
     incantation: I Call upon the earth to turn undead.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -942,6 +1036,7 @@ spells:
     
  -  name: Unparalyze
     incantation: I rid you of your paralysis.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -952,6 +1047,7 @@ spells:
     
  -  name: Ward
     incantation: With eldrich force I build a ward.
+    level: 0
     Celestial: Yes
     Scroll: No
     Earth: No 
@@ -962,6 +1058,7 @@ spells:
     
  -  name: Weakness
     incantation: I curse you with weakness.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes
@@ -972,6 +1069,7 @@ spells:
     
  -  name: Web
     incantation: With mystic force I web you.
+    level: 0
     Celestial: Yes
     Scroll: Yes
     Earth: Yes
@@ -982,6 +1080,7 @@ spells:
     
  -  name: Wither Limb
     incantation: I call upon chaos to wither your <Limb>.
+    level: 0
     Celestial: No
     Scroll: No
     Earth: Yes

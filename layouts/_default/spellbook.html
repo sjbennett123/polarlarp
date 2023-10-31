@@ -1,21 +1,40 @@
+{{- $spell_reference := index .Site.Data "spells" }}
+{{- $spells_items := $spell_reference.spells }}
+{{-  if  .Params.school   }}
+        {{-  if  eq .Params.school  "earth"  }}{{- $spells_items := where $spells_items ".earth" "==" true}} {{ end }} 
+
+        {{-  if  eq .Params.school  "Celestial"  }}Celestial{{ end }} 
+{{ end }} 
+
+
+{{ $spell_level := 0 }} 
+
 {{ partial "header.html" . }}
 
 {{ .Content }}
+{{ $levels := (slice 1 2 3 4 5 6 7 8 9 0) }}
 
-{{- $spell_reference := index .Site.Data "spells" }}
-{{- $spells_items := $spell_reference.spells }}
 
-{{ range $spells_items }}
-            <h2>{{ .name }}</h2>
-                <p><b>Incantation: </b>{{ .incantation }}</p>
-                <p><b>Celestial: </b>{{ .Celestial }}</p>
-                <p><b>Scroll: </b>{{ .Scroll }}</p>
-                <p><b>Earth: </b>{{ .Earth }}</p>
-                <p><b>Potion: </b>{{ .Potion }}</p>
-                <p><b>Manifold: </b>{{ .Manifold }}</p>
-                <p><b>Duration: </b>{{ .Duration }}</p>
-                <p><b>Description: </b>{{ .description }}</p>
+<p> P is for potion S is for scroll M is for Manifold
 
+{{ range $levels }}
+                <h3>{{ . }}</h3>
+                {{ $spell_level = . }} 
+    {{ range  $spells_items }}
+        {{- if ( eq .level $spell_level )   }} 
+
+                <h3>{{ .name }}</h3>
+                    <p><b>Incantation: </b>{{ .incantation }}</p>
+                    <p><b>Level: </b>{{ .level }}</p>
+                    <p><b>School: </b> {{ if .Celestial }}Celestial {{ end }}
+                                       {{ if .Scroll }} (S) {{ end }}
+                                       {{ if .Earth }} Earth {{ end }}
+                                       {{ if .Potion }} (P) {{ end }}
+                                       {{ if .Manifold }} (M) {{ end }} </p>
+                    <p><b>Duration: </b>{{ .Duration }}</p>
+                    <p><b>Description: </b>{{ .description | markdownify }}</p>
+                    {{ end }} 
+    {{ end }}
 {{ end }}
 
 <footer class="footline">

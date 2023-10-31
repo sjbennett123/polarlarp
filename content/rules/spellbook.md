@@ -1,6 +1,7 @@
 ---
 title: spellbook
 layout: spellbook
+school: earth
 ---
 
 ### Zine Design
