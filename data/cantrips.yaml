@@ -4,7 +4,8 @@ cantrips:
     full_name: Indessa’s Dweomer Barrier
     Type: Personal
     Duration: Day
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 0
     Incantation: I grant myself armor to <spelltype>
     oog_notes: The caster must call <Type> Shield when the effect is triggered
@@ -26,7 +27,8 @@ cantrips:
     full_name: Karvecki's Protection From Dweomered Claws
     Type: Personal
     Duration: Invoked
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I grant myself carrier immunity to <effect>
     oog_notes: The caster must call “I Invoke Carrier Immunity <carrier type> against you” to the opponent to activate it and then call no effect <carrier type> when struck.
@@ -42,7 +44,8 @@ cantrips:
     full_name: Erol's Mnemonic Spellstrike
     Type: Personal
     Duration: Day
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 2
     Incantation: I grant myself the ability of channeling
     oog_notes: The caster must say the full incant of the spell being channeled and then strike the target with their weapon while calling spellstrike <Name of spell just incanted> <Option for spell just incanted>.
@@ -52,7 +55,8 @@ cantrips:
     full_name: Karvecki's Grant of Hope
     Type: Personal
     Duration: Day
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 2
     Incantation: I grant myself a <spellname> spell contingent upon my <trigger state>
     oog_notes: The caster must call Contingency <spell> when the spell is triggered.
@@ -71,7 +75,8 @@ cantrips:
     full_name: Pasadelin's Cantrip Duplication
     Type: Item
     Duration: Year
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I scribe this cantrip into my tome
     Effect: >
@@ -80,7 +85,8 @@ cantrips:
     full_name: Tamir's Enchanted Tome
     Type: Item
     Duration: Year
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 2
     Incantation: I enchant this book as an <school> cantrip tome
     Effect: >
@@ -89,7 +95,8 @@ cantrips:
     full_name: Yolathurn’s Transfer of Spell Ability
     Type: Spirit
     Duration: Day
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I enchant you with a <Spell Name> spell imbued from my knowledge
     oog_notes: The caster should give the recipient both a cantrip tag indicating the imbue and the spell tag for the spell that was imbued.
@@ -99,7 +106,8 @@ cantrips:
     full_name: Madaline's Magical Imprint
     Type: Item
     Duration: 2 Year
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I scribe a mark upon this <item>
     oog_notes: The Caster is responsible for initial placement of the Mark in a manner that does not destroy or damage personal property. The possessor of the item is responsible thereafter for placement of the Mark. The caster must touch the target during the incantation and breaking of the components. This cantrip in no way confers indestructibility upon the marked item.
@@ -109,7 +117,8 @@ cantrips:
     full_name: Erol's Innate Aura
     Type: Personal
     Duration: Day
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 0
     Incantation: I grant myself the ability of magic deliverance
     oog_notes: When used the caster must state Magic <spellname> <option for that spell>
@@ -119,7 +128,8 @@ cantrips:
     full_name: Tamir's Temporary Indestructibility
     Type: Item
     Duration: Hour
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I enchant this <item> to be rendered invulnerable to harm
     Effect: >
@@ -128,7 +138,8 @@ cantrips:
     full_name: Madaline's Magical Spirit Imprint
     Type: Spirit
     Duration: 2 Year
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I scribe a spirit mark upon this being
     oog_notes: The Caster is responsible for initial placement of the Spirit Mark with suitable makeup or prosthetics. As with gypsy curse the player subject to the Spirit Mark may bargain for a different one with the caster placing the Spirit Mark if it is uncomfortable or personally offensive.
@@ -138,7 +149,8 @@ cantrips:
     full_name: Madaline's Spirit Imprint Eraser
     Type: Spirit
     Duration: Instant
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I remove this spirit mark
     Effect: >
@@ -147,7 +159,8 @@ cantrips:
     full_name: Madaline's Spirit Imprint Eraser
     Type: Item
     Duration: Instant
-    School: Both
+    Earth: Yes
+    Celestial: Yes
     Cost: 1
     Incantation: I remove this mark
     Effect: >
@@ -165,7 +178,7 @@ cantrips:
     full_name: Var’s Superior Protection
     Type: Personal
     Duration: Day
-    School: Earth
+    Earth: Yes
     Cost: 0
     Incantation: I grant myself the power of an eldritch bless
     Effect: >
@@ -174,7 +187,7 @@ cantrips:
     full_name: Benevolence's Instantaneous Resurrection/Benevolence’s Spirit Banishment
     Type: Spirit
     Duration: Instant
-    School: Earth
+    Earth: Yes
     Cost: 0
     Incantation: By the earth I resurrect this spirit/By chaos I abjure this spirit
     oog_notes: To use this cantrip a caster must carry life stones with them and have the bag and draw witnessed by a marshal for later reporting. A hold may not be called for this. Any field resurrection must be reported to those responsible for tracking resurrection as soon as possible following the casting of the cantrip. The marshal is required to inform the target of the cantrip that they do not have to resurrect and if they do they return immediately at one body.
@@ -190,7 +203,7 @@ cantrips:
     full_name: Olvenca’s Light Feet/Olvenca’s Damning Fatigue
     Type: Broad
     Duration: Day
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation:  By the earth I sustain these men/By chaos I exhaust these men
     Effect: >
@@ -202,7 +215,7 @@ cantrips:
     full_name: Johovan’s Grace
     Type: Personal
     Duration: Invoked
-    School: Earth
+    Earth: Yes
     Cost: 1
     Incantation: I grant myself healer’s grace
     Effect: >
@@ -211,7 +224,7 @@ cantrips:
     full_name: Yolathurn’s Pool of Purity/Yolathurn’s Putrid Pool
     Type: Personal
     Duration: Day
-    School: Earth
+    Earth: Yes
     Cost: 1
     Incantation: By the earth I create a healing pool/ By chaos I create a defiling pool
     Effect: >
@@ -220,7 +233,7 @@ cantrips:
     full_name: Bin’Aven’s Plentiful Earth/Bin’Aven’s Poisoned Ground
     Type: Broad
     Duration: Day
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation: By the earth I increase this harvest/By chaos I blight this land
     Effect: >
@@ -232,7 +245,7 @@ cantrips:
     full_name: Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
     Type: Broad
     Duration: Battle
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation: By the earth I raise morale/By chaos I rout these men
     Effect: >
@@ -241,7 +254,7 @@ cantrips:
     full_name: Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
     Type: Broad
     Duration: Battle
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation: By the earth I raise morale/By chaos I rout these men
     Effect: >
@@ -250,7 +263,7 @@ cantrips:
     full_name: Lucin’s Purity/Lucin’s Taint
     Type: Broad
     Duration: Instant
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation: By the earth I purify this well/By chaos I poison this well
     Effect: >
@@ -259,7 +272,7 @@ cantrips:
     full_name: Bin’Aven’s Natural Enhancement/Bin’Aven’s Unnatural Growth
     Type: Broad
     Duration: Instant
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation:  By the earth I replenish this land/By chaos I corrupt this land.
     oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum.
@@ -272,7 +285,7 @@ cantrips:
     full_name: Sydello’s Equine Enhancement/Sydello’s Equine Eliminator
     Type: Broad
     Duration: Day
-    School: Earth
+    Earth: Yes
     Cost: 2
     Incantation: I call upon the Earth to make these horses fleet/By chaos I founder these mounts
     Effect: >
@@ -284,7 +297,7 @@ cantrips:
     full_name: Angat’s Rake
     Type: Personal
     Duration: Hour
-    School: Earth
+    Earth: Yes
     Cost: 1
     Incantation: I grant myself a Claw from Tyrra
     oog_notes: The caster must have and use a red claw prop as the claw created by this cantrip.
@@ -303,7 +316,7 @@ cantrips:
     full_name: Gintain’s Thunderous Charge
     Type: Broad
     Duration: Hour
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: By the stars may these lances strike true
     Effect: >
@@ -312,7 +325,7 @@ cantrips:
     full_name: PanTarsa’s Superior Protective Field
     Type: Personal
     Duration: Day
-    School: Celestial
+    Celestial: Yes
     Cost: 0
     Incantation: I grant myself an Eldritch Shield
     Effect: >
@@ -321,7 +334,7 @@ cantrips:
     full_name: Karvecki’s Planar Conduit
     Type: Offensive
     Duration: Day
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: I grant myself <Flame, Ice, Lightning, or Stone>‘s Fury
     Effect: >
@@ -333,7 +346,7 @@ cantrips:
     full_name: Tuscon’s Elemental Aura
     Type: Personal
     Duration: Invoked
-    School: Celestial
+    Celestial: Yes
     Cost: 1
     Incantation: I grant myself the way of <Flame, Ice, Lightning, or Stone>
     Effect: >
@@ -342,7 +355,7 @@ cantrips:
     full_name: Gintain’s Mighty Siege Engine
     Type: Broad
     Duration: Hour
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: By the stars may this engine strike true
     oog_notes: This bonus may never be placed on a weapon to be used in NERO safe combat.
@@ -352,7 +365,7 @@ cantrips:
     full_name: Tuscon’s Blade
     Type: Personal
     Duration: Hour
-    School: Celestial
+    Celestial: Yes
     Cost: 1
     Incantation: I grant myself an ethereal sword
     oog_notes: The caster must have and use a red shortsword prop as the sword created by this cantrip.
@@ -362,7 +375,7 @@ cantrips:
     full_name: Anvicia’s Fortress
     Type: Broad
     Duration: Day
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: By the stars may these defenses be fortified
     oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may fortify a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’.
@@ -372,7 +385,7 @@ cantrips:
     full_name: Kodos' Strength Of The Bear
     Type: Personal
     Duration: Invoked
-    School: Celestial
+    Celestial: Yes
     Cost: 0
     Incantation: I grant myself Fury's Strength
     Effect: >
@@ -381,7 +394,7 @@ cantrips:
     full_name: Holace’s Smooth Path
     Type: Broad
     Duration: Instant
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: By the stars may this ground be leveled
     oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum.
@@ -391,7 +404,7 @@ cantrips:
     full_name: Indessa’s Sight of Attributes
     Type: Item
     Duration: Instant
-    School: Celestial
+    Celestial: Yes
     Cost: 1
     Incantation: I grant myself the vision to see the lore of what is before me
     oog_notes: The caster of this cantrip must give the tag for the cantrip to an appropriate person with access to the magic item tags. A hold may not be called for this the knowledge comes to the caster as they get the tags.
@@ -401,7 +414,7 @@ cantrips:
     full_name: Anvicia’s Key
     Type: Item
     Duration: Instant
-    School: Celestial
+    Celestial: Yes
     Cost: 1
     Incantation: I build a magic key
     Effect: >
@@ -410,7 +423,7 @@ cantrips:
     full_name: Anvicia’s Undoing
     Type: Broad
     Duration: Instant
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: By the stars may these defenses be weakened
     oog_notes:  For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may Weaken a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’.
@@ -426,7 +439,7 @@ cantrips:
     full_name: Buronto’s Vision
     Type: Broad
     Duration: Instant
-    School: Celestial
+    Celestial: Yes
     Cost: 2
     Incantation: I grant these eyes a Wizard’s Sense
     oog_notes: This will give no additional effects to a PC in play.
