@@ -45,9 +45,12 @@
 {{ range  $cantrip_items }}
 
                 <h3>{{ .name }}</h3>
+                    <p><b>Level: </b>Cantrip</p>
                     <p><b>Incantation: </b>{{ .Incantation }}</p>
                     <p><b>Type: </b>{{ .Type }}</p>
-                    <p><b>School: </b> {{ .School }}</p>
+                    <p><b>School: </b>{{ if .Celestial }}Celestial {{ end }}
+                                      {{ if .Earth }} Earth {{ end }}
+                                       </p>
                     <p><b>Duration: </b>{{ .Duration }}</p>
                     <p><b>Component Cost: </b>{{ .Cost }}</p>
                     {{ if .oog_notes }}<p><b>Out of Game Notes: </b>{{ .oog_notes }}</p>{{ end }}

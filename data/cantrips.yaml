@@ -12,7 +12,7 @@ cantrips:
       The caster gains a dumb magic shield which may go under their normal protectives and will protect them from the first spell of a given type which hits them. A shield magic or reflect magic will come into play before an Armored to Magic does. The types are based upon the casters school and are as follows...
       
       
-      Earth... Gift, Curse, Mystic Force, Chaos, Earth, Command, and Summoned Force. 
+      Earth... Gift, Curse, Mystic Force, Chaos, Earth, Command, and Summoned Force.
       
       
       Celestial... I Call Forth, Mystic Force, Imprison, Command, and Summoned Force.
@@ -57,13 +57,13 @@ cantrips:
     Incantation: I grant myself a <spellname> spell contingent upon my <trigger state>
     oog_notes: The caster must call Contingency <spell> when the spell is triggered.
     Effect: >
-      One spell from the memory of the caster is used and placed in a state in which it will take effect on the caster if a certain condition is met. 
+      One spell from the memory of the caster is used and placed in a state in which it will take effect on the caster if a certain condition is met.
       
       
-      The conditions for earth magic are Charmed, Cursed, Death, Magically Bound (Pin, Bind, Web, Confine), Paralyzed, Poisoned, Silenced, Sleeping, or Unconsciousness. 
+      The conditions for earth magic are Charmed, Cursed, Death, Magically Bound (Pin, Bind, Web, Confine), Paralyzed, Poisoned, Silenced, Sleeping, or Unconsciousness.
       
       
-      The conditions for celestial magic are Charmed, Imprisoned, Magically Bound (Pin, Bind, Web, Confine), Silenced, Sleeping, or Unconsciousness. 
+      The conditions for celestial magic are Charmed, Imprisoned, Magically Bound (Pin, Bind, Web, Confine), Silenced, Sleeping, or Unconsciousness.
       
       
       The contingent spell is triggered as soon as the caster enters the triggering state and may neither be stopped by anything nor may the caster choose not to invoke the contingency. A new casting of contingency will replace an old casting of it. Contingency is lost if the caster resurrects. The contingent spell will still trigger a shield magic, the caster may chose to accept the spell if he is in a state capable of accepting a spell.
@@ -236,7 +236,7 @@ cantrips:
     Cost: 2
     Incantation: By the earth I raise morale/By chaos I rout these men
     Effect: >
-      Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category. Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category. The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster. 
+      Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category. Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category. The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster.
  -  name: Purify Well/Poison Well
     full_name: Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
     Type: Broad
@@ -347,7 +347,7 @@ cantrips:
     Incantation: By the stars may this engine strike true
     oog_notes: This bonus may never be placed on a weapon to be used in NERO safe combat.
     Effect: >
-        Gives a siege engine the equivalent of a +1 damage aura per two levels of celestial formal magic of the caster. The caster must touch the siege engine being enchanted during the full incantation and snapping of the components. 
+        Gives a siege engine the equivalent of a +1 damage aura per two levels of celestial formal magic of the caster. The caster must touch the siege engine being enchanted during the full incantation and snapping of the components.
  -  name: Ethereal Sword
     full_name: Tuscon’s Blade
     Type: Personal
@@ -364,8 +364,8 @@ cantrips:
     Duration: Day
     School: Celestial
     Cost: 2
-    Incantation: By the stars may these defenses be fortified 
-    oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may fortify a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’. 
+    Incantation: By the stars may these defenses be fortified
+    oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may fortify a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’.
     Effect: >
         Increases the rating of any one defensive structure of 10’ x 10’ per level of celestial formal magic possessed by the caster for the period of one day. The caster must be within the structure being fortified. The structure may have a number of floors equal to the levels of celestial formal magic of the caster. If cast following a weaken defense this will counter its effects. Multiple casters can add their casting together to cover a larger structure, but they calculate their own areas and then add them together, they do not calculate a single area by adding their levels of formal magic.
  -  name: Fury's Strength
@@ -387,7 +387,6 @@ cantrips:
     oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum.
     Effect: >
         An area 10’ x 10’ per level of celestial formal magic possessed by the caster is leveled and made one category more useful for building or travel. This has no effect on developed areas of land. The caster is the center of effect of this cantrip.
-        
  -  name: Lore
     full_name: Indessa’s Sight of Attributes
     Type: Item
@@ -406,7 +405,7 @@ cantrips:
     Cost: 1
     Incantation: I build a magic key
     Effect: >
-        This cantrip will cause any one locking mechanism touched by the caster immediately upon casting this cantrip to unlock or lock (at the choice of the caster). Some locks may be built with complex multiple mechanisms and may require more than one casting of this cantrip to open it. 
+        This cantrip will cause any one locking mechanism touched by the caster immediately upon casting this cantrip to unlock or lock (at the choice of the caster). Some locks may be built with complex multiple mechanisms and may require more than one casting of this cantrip to open it.
  -  name: weaken defense
     full_name: Anvicia’s Undoing
     Type: Broad
@@ -416,7 +415,7 @@ cantrips:
     Incantation: By the stars may these defenses be weakened
     oog_notes:  For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum. Two casters with 2 levels each may Weaken a structure of 20’x20’ plus 20’x20’ (i.e. 40’ x 20’) not 40’ x 40’.
     Effect: >
-        Weaken defense decreases the rating of any one defensive structure of 10’ x 10’ per level of celestial formal magic possessed by the caster the damage to the defenses remains until repaired or fortified (using the cantrip fortify defense). The weakening takes ten minutes to take effect and is obvious in its progress during those ten minutes. 
+        Weaken defense decreases the rating of any one defensive structure of 10’ x 10’ per level of celestial formal magic possessed by the caster the damage to the defenses remains until repaired or fortified (using the cantrip fortify defense). The weakening takes ten minutes to take effect and is obvious in its progress during those ten minutes.
         
         
         The caster must touch the structure to be weakened.
@@ -430,6 +429,6 @@ cantrips:
     School: Celestial
     Cost: 2
     Incantation: I grant these eyes a Wizard’s Sense
-    oog_notes: This will give no additional effects to a PC in play. 
+    oog_notes: This will give no additional effects to a PC in play.
     Effect: >
         Increases the rating of one scout per level of celestial formal magics possessed by the caster by one degree. The scouts gain a preternatural increase of their senses making them more effective. The caster must touch each target of the Wizard’s Sense immediately following the snapping of the components. No other action may be taken or skill be used other than to designate the targets by touch.
