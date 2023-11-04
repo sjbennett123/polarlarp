@@ -1,6 +1,8 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 /discord                 https://discord.gg/JSJKgXfdHG
-                         
+/fboog                   https://www.facebook.com/groups/348666906438615
+/fbig                    https://www.facebook.com/groups/3408485185934076
+
 /event_survey            https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
 /writersroom             https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122
 /ideas                   https://forms.gle/j3n8CiwL9dvjQNsL9
