@@ -207,7 +207,7 @@ cantrips:
     Incantation: I grant myself healer’s grace
     Effect: >
       The caster of this cantrip gains the carrier attack healing against one opponent when invoked. Any undead hit with the carrier attack healing takes double damage. As with all carrier attacks this may not heal anyone. This works on melee but not ranged attacks. If the caster dies and requires a life spell the healer’s grace is lost.
- -  name: healing pool/defiling pool
+ -  name: Healing Pool/Defiling Pool
     full_name: Yolathurn’s Pool of Purity/Yolathurn’s Putrid Pool
     Type: Personal
     Duration: Day
@@ -216,36 +216,93 @@ cantrips:
     Incantation: By the earth I create a healing pool/ By chaos I create a defiling pool
     Effect: >
       Healing pool allows the caster to create, for themselves, a pool of elemental healing of 50 points plus 10 points per level per level of earth formal magic possessed by the caster, to a maximum of twenty five levels (300 points) which may only be touch cast as 10 elemental healing. The effect is lost if the caster dies and needs a life spell. Defiling pool is a pool of elemental chaos with the same limits as the healing pool. A caster may have both a healing pool and a defiling pool at the same time but not more than one of each. If the caster takes body damage during the call of “10 elemental healing” or “10 elemental chaos”, that 10 point casting fails and is lost to the pool but the rest of the pool remains.
+ -  name: Increase Harvest/Blight
+    full_name: Bin’Aven’s Plentiful Earth/Bin’Aven’s Poisoned Ground
+    Type: Broad
+    Duration: Day
+    School: Earth
+    Cost: 2
+    Incantation: By the earth I increase this harvest/By chaos I blight this land
+    Effect: >
+      Increase Harvest will increase the food production of 10 acres of farmland per level of earth formal magic of the caster by one category. The area affected must be continuous.
+      
+      
+      Blight causes 10 acres of farmland per level of earth formal magic of the caster to decrease food production by one category. The area affected must be continuous. The caster is the center of effect of this cantrip. 
+ -  name: Morale/Rout
+    full_name: Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
+    Type: Broad
+    Duration: Battle
+    School: Earth
+    Cost: 2
+    Incantation: By the earth I raise morale/By chaos I rout these men
+    Effect: >
+      Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category. Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category. The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster. 
+ -  name: Purify Well/Poison Well
+    full_name: Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
+    Type: Broad
+    Duration: Battle
+    School: Earth
+    Cost: 2
+    Incantation: By the earth I raise morale/By chaos I rout these men
+    Effect: >
+      Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category. Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category. The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster.
+ -  name: Purify Well/Poison Well
+    full_name: Lucin’s Purity/Lucin’s Taint
+    Type: Broad
+    Duration: Instant
+    School: Earth
+    Cost: 2
+    Incantation: By the earth I purify this well/By chaos I poison this well
+    Effect: >
+        Purify Well will cause one well, cistern, spring, or most non-flowing water sources to become clean, pure water free of disease and taints. Poison well will cause one well, cistern, spring, or most non-flowing water sources to become impure and cause slow sickness in any who drink from it. The caster must touch the well to be purified or poisoned.
+ -  name: Replenish/Corrupt
+    full_name: Bin’Aven’s Natural Enhancement/Bin’Aven’s Unnatural Growth
+    Type: Broad
+    Duration: Instant
+    School: Earth
+    Cost: 2
+    Incantation:  By the earth I replenish this land/By chaos I corrupt this land.
+    oog_notes: For each level of formal magic of the caster both dimensions increase by 10’ so someone with 2 levels has a 20’ x 20’ maximum and someone with 8 levels has an 80’ x 80’ maximum.
+    Effect: >
+        Replenish will bring a 10’ by 10’ area per level of earth formal magic of the caster more in line with the natural progression in the area. This will undo the effects of corruption and chaos upon the land in slow increments.
+        
+        
+        Corruption will cause an area to become more out of line with the natural flow in an area, impassible thorns and brambles may grow, fertile areas may become swamp like, pools of chaos will become more likely to develop. This will affect a 10’ by 10’ area per level of earth formal magic of the caster rendering it harder to develop and use. The caster is the center of this cantrip's effect.
+ -  name: Riders on the Wind/Foundering Mounts
+    full_name: Sydello’s Equine Enhancement/Sydello’s Equine Eliminator
+    Type: Broad
+    Duration: Day
+    School: Earth
+    Cost: 2
+    Incantation: I call upon the Earth to make these horses fleet/By chaos I founder these mounts
+    Effect: >
+        Allows 1 horse per level of earth formal magic of the caster to travel at maximal pace for their entire normal movement in one day. Regular stops for food and water are still needed but while riding a gallop may be sustained. A  horse may not be affected by more than one riders on the wind in a 24-hour period. The caster must touch each target of the horses to be affected by the riders on the wind immediately following the snapping of the components.
+        
+        
+        No other action may be taken or skill be used other than to designate the targets by touch.  Foundering mounts will cause 1 horse per level of earth formal magic of the caster to be exhausted and only travel at half normal pace for the next day. The targets of foundering mounts must be within 10’ of the caster per level of earth formal magic possessed by the caster when this cantrip is cast. A horse cannot be affected by more than one foundering mounts in a 24-hour period.
+ -  name: Tyrra's Claw
+    full_name: Angat’s Rake
+    Type: Personal
+    Duration: Hour
+    School: Earth
+    Cost: 1
+    Incantation: I grant myself a Claw from Tyrra
+    oog_notes: The caster must have and use a red claw prop as the claw created by this cantrip.
+    Effect: >
+        The caster grows one shortsword-sized claw that they may used for one hour. The claw does a base damage of five dagger blows and the damage may not be increased by skill. The Tyrra’s Claw takes no special skill to wield and may be conjured into either the caster’s primary hand or off-hand and used. Once conjured the Tyrra’s Claw may not be switched between hands. The casting of two Tyrra’s Claw cantrips will allow the caster to wield a claw in each hand.
+ -  name: Boltstorm
+    full_name: Runewind’s Elemental Bombardment
+    Type: Offensive
+    Duration: Concentration
+    School: Celestial
+    Cost: 1
+    Incantation: I grant myself a boltstorm to throw... 10 elemental <Flame, Ice, Lightning, or Stone>... 10 elemental <same element>…
+    Effect: >
+        At the time of casting, the caster must choose a single element; flame, ice, lightning, or stone; and plant both feet. As long as both feet remain planted and the cantrip is not disrupted as per normal spell rules, the caster may throw a packet after completing the incant “10 elemental <type>“. The elemental chosen may not be changed without casting another boltstorm. While the cantrip is in effect, the caster can perform no other skill nor cast any other spell or cantrip. Each packet thrown acts as a separate elemental attack doing 10 points of the chosen element in damage to the target. The call “10 elemental <type>” is considered part of the verbal and like any other verbal the cantrip is lost if the caster takes body damage, performs an in game skill, or speaks other words to interrupt the verbal.
 
-
-
-INCREASE HARVEST/BLIGHT
-Bin’Aven’s Plentiful Earth/Bin’Aven’s Poisoned Ground
-Type: Broad
-Duration: Instant
-School: Earth
-Cost: 2 Components
-Incant: By the earth I increase this harvest/By chaos I blight this land
- Effect: Increase Harvest will increase the food production of 10 acres of farmland per level of earth formal magic of
-the caster by one category. The area affected must be continuous.
- Blight causes 10 acres of farmland per level of earth formal magic of the caster to decrease food production by
-one category. The area affected must be continuous. The caster is the center of effect of this cantrip. 
-
-MORALE/ROUT
-Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
-Type: Broad
-Duration: Battle
-School: Earth
-Cost: 2 Components
-Incant: By the earth I raise morale/By chaos I rout these
-men
- Effect: Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category.  Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category.  The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster. 
-
-PURIFY WELL/POISON WELL
-Lucin’s Purity/Lucin’s Taint
-Type: Broad
-Duration: Instant
-School: Earth
-Cost: 2 Components
-Incant: By the earth I purify this well/By chaos I poison this well
- Effect: Purify Well will cause one well, cistern, spring, or most non-flowing water sources to become clean, pure water free of disease and taints. Poison well will cause one well, cistern, spring, or most non-flowing water sources to become impure and cause slow sickness in any who drink from it. The caster must touch the well to be purified or poisoned.
+Type: 
+Duration: 
+School: 
+Cost: 1 Component
+Incant: 
+ Effect: 
