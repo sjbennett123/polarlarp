@@ -2,8 +2,8 @@
 cantrips:
  -  name: Armored to Magic
     full_name: Indessa’s Dweomer Barrier
-    Type: Personal 
-    Duration: Day 
+    Type: Personal
+    Duration: Day
     School: Both
     Cost: 0
     Incantation: I grant myself armor to <spelltype>
@@ -17,21 +17,20 @@ cantrips:
       
       Celestial... I Call Forth, Mystic Force, Imprison, Command, and Summoned Force.
       
+      
       The Armored to Magic will be triggered by any spell (incanted, spellstrike, or magic; but NOT arcane, physical, or elemental) which has the above word in its incant.
       
       
       Only one Armored to Magic may be in effect at a given time. Armored to Magic is lost if caster dies and requires a life spell. A new casting of Armored to Magic will replace an old casting of it.
-      
-      
  -  name: Carrier Immunity
     full_name: Karvecki's Protection From Dweomered Claws
-    Type: Personal 
-    Duration: Invoked 
+    Type: Personal
+    Duration: Invoked
     School: Both
     Cost: 1
     Incantation: I grant myself carrier immunity to <effect>
     oog_notes: The caster must call “I Invoke Carrier Immunity <carrier type> against you” to the opponent to activate it and then call no effect <carrier type> when struck.
-    Effect: > 
+    Effect: >
       The formal caster who uses a carrier immunity may declare one carrier type from which they may invoke a limited immunity where they choose to not take any extra effect other than damage. The type of carrier attack is chosen at the time of the casting of this cantrip and may not be changed except by the casting of a second carrier immunity which removes the first. For example a formal caster who runs into a pack of Yellowjackets swinging paralyze and has cast Carrier Immunity <Paralysis> may choose to become immune to the carrier attack paralyze of a particular yellowjacket attacking him. To become immune to a second yellowjacket attacking him he would have to invoke a second use from the casting. If the caster suddenly comes face to face with a creature swinging wither they would have to cast a brand new carrier immunity to wither before they could use the immunity and they would lose all remaining charges of the carrier immunity to paralysis.
       
       
@@ -41,8 +40,8 @@ cantrips:
       Only one Carrier Immunity may be in effect at a given time. Carrier Immunity is lost if caster dies and requires a life spell. A second casting of Carrier Immunity will replace an old casting of it.
  -  name: Channeling
     full_name: Erol's Mnemonic Spellstrike
-    Type: Personal 
-    Duration: Day 
+    Type: Personal
+    Duration: Day
     School: Both
     Cost: 2
     Incantation: I grant myself the ability of channeling
@@ -57,7 +56,7 @@ cantrips:
     Cost: 2
     Incantation: I grant myself a <spellname> spell contingent upon my <trigger state>
     oog_notes: The caster must call Contingency <spell> when the spell is triggered.
-    Effect: > 
+    Effect: >
       One spell from the memory of the caster is used and placed in a state in which it will take effect on the caster if a certain condition is met. 
       
       
@@ -71,20 +70,20 @@ cantrips:
  -  name: Copy Formal Cantrip
     full_name: Pasadelin's Cantrip Duplication
     Type: Item
-    Duration: Year 
+    Duration: Year
     School: Both
     Cost: 1
     Incantation: I scribe this cantrip into my tome
-    Effect: > 
+    Effect: >
         This cantrip will copy any cantrip of the same school from one Cantrip Tome to another Cantrip Tome which has free space. Limitations on the use and copying of certain cantrips may be included in their text in a given tome. The caster must touch both the book which is the source of the cantrip being copied and the book which is the destination.
  -  name: Enchant Cantrip Tome
     full_name: Tamir's Enchanted Tome
     Type: Item
-    Duration: Year 
+    Duration: Year
     School: Both
     Cost: 2
     Incantation: I enchant this book as an <school> cantrip tome
-    Effect: > 
+    Effect: >
         This cantrip causes a book with minimum dimensions of 6" by 4" to become usable as a Cantrip Tome. A Cantrip Tome can hold up to 10 cantrips of its school. The book used must have a value of at least 10 gold. A Cantrip Tome may not have any other formal magic cast upon it or it will cease functioning. The caster must touch the tome being enchanted. The tome enchanted is still a shatterable object and is vulnerable to any force which may destroy a normal book.
  -  name: Imbue
     full_name: Yolathurn’s Transfer of Spell Ability
@@ -94,7 +93,7 @@ cantrips:
     Cost: 1
     Incantation: I enchant you with a <Spell Name> spell imbued from my knowledge
     oog_notes: The caster should give the recipient both a cantrip tag indicating the imbue and the spell tag for the spell that was imbued.
-    Effect: > 
+    Effect: >
         This cantrip allows the caster to touch cast an additional spell from memory into the spirit of another. The target of the spell then gets the ability to cast that spell as if from their own memory for the remainder of the day. Once they cast the spell it is used from memory as normal.
  -  name: MARK
     full_name: Madaline's Magical Imprint
@@ -103,8 +102,8 @@ cantrips:
     School: Both
     Cost: 1
     Incantation: I scribe a mark upon this <item>
-    oog_notes: The Caster is responsible for initial placement of the Mark in a manner that does not destroy or damage personal property. The possessor of the item is responsible thereafter for placement of the Mark. The caster must touch the target during the incantation and breaking of the components. This cantrip in no way confers indestructibility upon the marked item. 
-    Effect: > 
+    oog_notes: The Caster is responsible for initial placement of the Mark in a manner that does not destroy or damage personal property. The possessor of the item is responsible thereafter for placement of the Mark. The caster must touch the target during the incantation and breaking of the components. This cantrip in no way confers indestructibility upon the marked item.
+    Effect: >
         The caster may place a Mark of up to 4" by 4" and any two colors upon a target item. The caster decides what the Mark looks like.
  -  name: Magic Deliverence
     full_name: Erol's Innate Aura
@@ -113,8 +112,8 @@ cantrips:
     School: Both
     Cost: 0
     Incantation: I grant myself the ability of magic deliverance
-    oog_notes: When used the caster must state Magic <spellname> <option for that spell> 
-    Effect: > 
+    oog_notes: When used the caster must state Magic <spellname> <option for that spell>
+    Effect: >
       Allows one spell from the memory of the formal caster to be delivered as magic instead of by full incantation. The spell must be of a level less than or equal to the number of levels the caster has of the appropriate school of formal magic and must be of the same school as the magic deliverance cantrip which was cast. Thus a caster with nine levels of formal magic earth could cast as magic any earth spell by casting magic deliverance. A caster with seven levels of formal magic earth could cast as magic any seventh level or lower earth spell by casting magic deliverance. Neither of these casters can use an earth magic deliverance cantrip to cast a celestial spell as magic. The caster chooses when to deliver this spell as magic. Only one magic deliverance may be in effect at any given time. As per the rules for delivering a spell as magic the caster must be able to speak but need not have use of their arms as “Magic” is an innate ability. A magic deliverance is lost if the caster dies and requires a life spell.
  -  name: Rendering
     full_name: Tamir's Temporary Indestructibility
@@ -123,7 +122,7 @@ cantrips:
     School: Both
     Cost: 1
     Incantation: I enchant this <item> to be rendered invulnerable to harm
-    Effect: > 
+    Effect: >
       Renders one object immune to the effects of the spells Shatter and Destroy and most physical harm including acid, flame, and explosive damage for a period of one hour. The object may be no larger than 6 feet in its largest dimension. Massive mechanical damage will still destroy and object under the effects of Rendering. The caster must touch the item being rendered during the full incantation and the breaking of the components.
  -  name: Spirit Mark
     full_name: Madaline's Magical Spirit Imprint
@@ -132,8 +131,8 @@ cantrips:
     School: Both
     Cost: 1
     Incantation: I scribe a spirit mark upon this being
-    oog_notes: The Caster is responsible for initial placement of the Spirit Mark with suitable makeup or prosthetics. As with gypsy curse the player subject to the Spirit Mark may bargain for a different one with the caster placing the Spirit Mark if it is uncomfortable or personally offensive. 
-    Effect: > 
+    oog_notes: The Caster is responsible for initial placement of the Spirit Mark with suitable makeup or prosthetics. As with gypsy curse the player subject to the Spirit Mark may bargain for a different one with the caster placing the Spirit Mark if it is uncomfortable or personally offensive.
+    Effect: >
       The caster may place a spirit mark of up to 4" by 4" and any two colors upon a target person with a spirit. The caster decides what the spirit mark looks like and where it is. The spirit mark will appear on any body the spirit, which has been marked, is within, it will appear in an equivalent place to where it was originally placed. The spirit mark will always be on that body part containing the spirit if parts of the body are separated. When the body is reformed through resurrection, the Spirit Mark will be upon the identical location it was on before resurrection. The caster must touch the target during the incantation and breaking of the components.
  -  name: Spirit Unmark
     full_name: Madaline's Spirit Imprint Eraser
@@ -142,7 +141,7 @@ cantrips:
     School: Both
     Cost: 1
     Incantation: I remove this spirit mark
-    Effect: > 
+    Effect: >
       This will remove a spirit mark of the appropriate school from a spirit which has one. The caster must touch the target during the incantation and breaking of the components.
  -  name: Unmark
     full_name: Madaline's Spirit Imprint Eraser
@@ -151,7 +150,7 @@ cantrips:
     School: Both
     Cost: 1
     Incantation: I remove this mark
-    Effect: > 
+    Effect: >
       This will remove a Mark of the appropriate school from an item which has one. The caster must touch the target during the incantation and breaking of the components.
  -  name: Bane of the Dead/Boon of the Dead
     full_name: Yolaturn’s Dead Strike/Yolathurn’s Dead Strength
@@ -160,7 +159,7 @@ cantrips:
     School: Earth
     Cost: 1
     Incantation: By the earth I bane the dead... Magic Harm Undead... Magic Harm Undead...  /By chaos I boon the dead... Magic Help Undead ... Magic Help Undead ...
-    Effect: > 
+    Effect: >
       At the time of casting, the caster plants both feet. As long as both feet remain planted and the cantrip is not disrupted as per normal spell rules, the caster may throw a packet after completing the incant “Magic Harm Undead” or “Magic Help Undead”. While the cantrip is in effect, the caster can perform no other skill nor cast any other spell or cantrip. Each packet thrown acts as a separate spell equivalent to a Harm Undead or a Help Undead depending on the form of the cantrip cast.
  -  name: Eldritch Bless
     full_name: Var’s Superior Protection
@@ -169,7 +168,7 @@ cantrips:
     School: Earth
     Cost: 0
     Incantation: I grant myself the power of an eldritch bless
-    Effect: > 
+    Effect: >
       This cantrip gives the caster 10 extra body points. These points are the first body points lost to damage. As long as these body points last they will protect the caster so spells may be cast while taking damage. If a Bless and/or Greater Bless are also present, they are lost before the Eldritch Bless. If the caster dies and requires a life spell the Eldritch Bless is lost.
  -  name: Field Resurection/Field Abjuration
     full_name: Benevolence's Instantaneous Resurrection/Benevolence’s Spirit Banishment
@@ -178,8 +177,8 @@ cantrips:
     School: Earth
     Cost: 0
     Incantation: By the earth I resurrect this spirit/By chaos I abjure this spirit
-    oog_notes: To use this cantrip a caster must carry life stones with them and have the bag and draw witnessed by a marshal for later reporting. A hold may not be called for this. Any field resurrection must be reported to those responsible for tracking resurrection as soon as possible following the casting of the cantrip. The marshal is required to inform the target of the cantrip that they do not have to resurrect and if they do they return immediately at one body. 
-    Effect: > 
+    oog_notes: To use this cantrip a caster must carry life stones with them and have the bag and draw witnessed by a marshal for later reporting. A hold may not be called for this. Any field resurrection must be reported to those responsible for tracking resurrection as soon as possible following the casting of the cantrip. The marshal is required to inform the target of the cantrip that they do not have to resurrect and if they do they return immediately at one body.
+    Effect: >
       Field resurrection allows a single spirit to be resurrected directly in front of the caster, without the need for a circle. This occurs in the time it takes to cast this cantrip with the target if the cantrip resurrecting at only one body. In all other ways this resurrection is identical to a normal resurrection. A spirit may refuse to resurrect when called to a field resurrection, instead seeking to resurrect as normal. If this happens the cantrip is wasted and may not be redirected to another spirit. The caster must be aware that a spirit has just left to resurrect in the area, they gain no special sense for spirits. A spirit seeking resurrection will feel the call of a field resurrection as if it were an earth circle.
       
       
@@ -194,6 +193,59 @@ cantrips:
     School: Earth
     Cost: 2
     Incantation:  By the earth I sustain these men/By chaos I exhaust these men
-    Effect: > 
+    Effect: >
       Forced march allows 5 men per level of earth formal magic of the caster to travel at full normal pace for a day. The magic of the cantrip will sustain their pace. A man cannot be affected by more than one forced march in a 24-hour period. The caster must touch each target of the forced march immediately following the snapping of the components. No other action may be taken or skill be used other than to designate the targets by touch.
-      Exhaustion will cause 5 men per level of earth formal magic of the caster to be exhausted and only travel at halfnormal pace for the next day. The targets of exhaustion must be within 10’ of the caster per level of earth formal magic possessed by the caster when this cantrip is cast. A man cannot be affected by more than one exhaustion in a 24-hour period. 
+      
+      
+      Exhaustion will cause 5 men per level of earth formal magic of the caster to be exhausted and only travel at halfnormal pace for the next day. The targets of exhaustion must be within 10’ of the caster per level of earth formal magic possessed by the caster when this cantrip is cast. A man cannot be affected by more than one exhaustion in a 24-hour period.
+ -  name: Healer's Grace
+    full_name: Johovan’s Grace
+    Type: Personal
+    Duration: Invoked
+    School: Earth
+    Cost: 1
+    Incantation: I grant myself healer’s grace
+    Effect: >
+      The caster of this cantrip gains the carrier attack healing against one opponent when invoked. Any undead hit with the carrier attack healing takes double damage. As with all carrier attacks this may not heal anyone. This works on melee but not ranged attacks. If the caster dies and requires a life spell the healer’s grace is lost.
+ -  name: healing pool/defiling pool
+    full_name: Yolathurn’s Pool of Purity/Yolathurn’s Putrid Pool
+    Type: Personal
+    Duration: Day
+    School: Earth
+    Cost: 1
+    Incantation: By the earth I create a healing pool/ By chaos I create a defiling pool
+    Effect: >
+      Healing pool allows the caster to create, for themselves, a pool of elemental healing of 50 points plus 10 points per level per level of earth formal magic possessed by the caster, to a maximum of twenty five levels (300 points) which may only be touch cast as 10 elemental healing. The effect is lost if the caster dies and needs a life spell. Defiling pool is a pool of elemental chaos with the same limits as the healing pool. A caster may have both a healing pool and a defiling pool at the same time but not more than one of each. If the caster takes body damage during the call of “10 elemental healing” or “10 elemental chaos”, that 10 point casting fails and is lost to the pool but the rest of the pool remains.
+
+
+
+INCREASE HARVEST/BLIGHT
+Bin’Aven’s Plentiful Earth/Bin’Aven’s Poisoned Ground
+Type: Broad
+Duration: Instant
+School: Earth
+Cost: 2 Components
+Incant: By the earth I increase this harvest/By chaos I blight this land
+ Effect: Increase Harvest will increase the food production of 10 acres of farmland per level of earth formal magic of
+the caster by one category. The area affected must be continuous.
+ Blight causes 10 acres of farmland per level of earth formal magic of the caster to decrease food production by
+one category. The area affected must be continuous. The caster is the center of effect of this cantrip. 
+
+MORALE/ROUT
+Lucin’s Enhanced Morale/Lucin’s Devastation Of Hope
+Type: Broad
+Duration: Battle
+School: Earth
+Cost: 2 Components
+Incant: By the earth I raise morale/By chaos I rout these
+men
+ Effect: Morale will boost the over all morale of 10 men per level of formal magic of the caster by one category.  Rout will decrease the overall morale of 10 men per level of formal magic of the caster by one category.  The men who are the targets of this ritual must be within 10’ of the caster per level of earth formal magic possessed by the caster. 
+
+PURIFY WELL/POISON WELL
+Lucin’s Purity/Lucin’s Taint
+Type: Broad
+Duration: Instant
+School: Earth
+Cost: 2 Components
+Incant: By the earth I purify this well/By chaos I poison this well
+ Effect: Purify Well will cause one well, cistern, spring, or most non-flowing water sources to become clean, pure water free of disease and taints. Poison well will cause one well, cistern, spring, or most non-flowing water sources to become impure and cause slow sickness in any who drink from it. The caster must touch the well to be purified or poisoned.
