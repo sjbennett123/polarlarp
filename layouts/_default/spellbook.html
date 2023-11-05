@@ -1,20 +1,18 @@
+{{ partial "header.html" . }}
+
 {{ $levels := (slice 1 2 3 4 5 6 7 8 9 ) }}
 {{ $spell_level := 0 }} 
 {{- $spell_reference := index .Site.Data "spells" }}
 {{- $spells_items := $spell_reference.spells }}
-{{-  if  .Params.school   }}
-        {{-  if  eq .Params.school  "earth"  }}{{- $spells_items := where $spells_items ".earth" "==" true}} {{ end }} 
-        {{-  if  eq .Params.school  "Celestial"  }}Celestial{{ end }} 
-{{ end }} 
+{{- $spells_filtered := "" }}
+{{ if  ("!=" .Params.school  nil) }} {{ $spells_filtered := (slice 1 2 3 4 5 6 7 8 9 ) }}{{ end }}
 
 {{- $cantrip_reference := index .Site.Data "cantrips" }}
 {{- $cantrip_items := $cantrip_reference.cantrips }}
 
+{{ $spells_items | len}}
+{{ $spells_filtered | len}}
 
-
-
-
-{{ partial "header.html" . }}
 
 {{ .Content }}
 
