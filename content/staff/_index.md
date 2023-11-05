@@ -8,6 +8,8 @@ As you can see, POLAR has some openings. Please contact the General Manager John
 
 These are more than staff positions; these positions grow and determine where POLAR goes in the future. This is all of our game as a community. Let's make it the best game possible!
 
+[changes](./changes)
+
 ## Board of Directors
 
 250 GS / Month
