@@ -8,6 +8,10 @@ weight: 2
 
 [PDF Spreads](/nero_rulebook_spreads.pdf)
 
+[ninth_edition_eratta](./ninth_edition_eratta)
+
+[ninth_edition_changelog](./ninth_edition_changelog)
+
 # Cedits
 
 The NERO Rule Book is © 1990, 1991, 1992, 1993, 1994, 1997, 1999, 2011, 2014 by Joseph Valenti
@@ -30,11 +34,16 @@ Mount Gilead NC 27306
 
 Barnesville GA 30204
 
-(914) 309-7718
+[(914) 309-7718](tel:9143097718)
 
-Jvalenti@nerolarp.com
+[Jvalenti@nerolarp.com](mailto:Jvalenti@nerolarp.com)
 
-www.nerolarp.com
+[www.nerolarp.com](www.nerolarp.com)
+
+## Edited and Complied by:
+
+## Designers
+
 
 # Chapter 1 : Getting Started
 
