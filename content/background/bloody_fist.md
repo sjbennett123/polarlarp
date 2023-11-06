@@ -255,21 +255,22 @@ Some would call him cowardly but he is far from it. He acts from the shadows sen
 
 ##### A Warning to Stonewood
 
-Attention vile disruptors of Stonewood,
-
-I Val’kaz the Ruthless, 3rd Blade General of the Bloody Fist, Ahroun's Terror, drinker of fear, smasher of dreams do issue the following warning for your transgressions against the Bloody Fist:
-
-Stonewood shall be surrendered unto the Bloody Fist upon winters end in 3 months. We do not wish to deploy our full tactics and military to remove the invaders to our rightfully claimed land but we shall if you force our hand. Those who wish to be spared our fury may take this brief time to prepare for our arrival and greet us with open arms as we provided safety and protection for the last season before this incident. Those who wish to still remain loyal to the Bloody Fist may do so by swearing it before your mayor Little Bristle. He shall keep tabs on who wishes to live within our good graces and who who wishes to bite the Fist that feeds. 
-
-Those who stay and raise up arms against us know this, we will hunt you like prey, we will rend the flesh from your bones, we will drink your blood from the skulls of the fallen, we will spare no man, woman, dwarf, elf, or child who fights us. The choice is yours, but I Val’Kaz the Ruthless will show you why I am named such if you cross me. You will be turning your head to check the shadows for me when my breed of terror strikes if war is declared upon our arrival. 
-
-Please do think this through carefully, we may sound like bloodthirsty savages but there are darker forces than us that lurk in your Elysia which we will give you shelter from. All we ask in return is your cooperation and loyalty tithes. 
-
-We will see you in 3 months time, I pray you make the correct decision for your own good and the good of Stonewood. The mighty Hopeflayer sends his regards and wishes your families well this winter and that you remember who it was that gave you a second chance where others would not.
-
-~Val’kaz the Ruthless
-
-3rd Blade General of the Bloody Fist
+> Attention vile disruptors of Stonewood,
+>
+> I Val’kaz the Ruthless, 3rd Blade General of the Bloody Fist, Ahroun's Terror, drinker of fear, smasher of dreams do issue the following warning for your transgressions against the Bloody Fist:
+>
+> Stonewood shall be surrendered unto the Bloody Fist upon winters end in 3 months. We do not wish to deploy our full tactics and military to remove the invaders to our rightfully claimed land but we shall if you force our hand. Those who wish to be spared our fury may take this brief time to prepare for our arrival and greet us with open arms as we provided safety and protection for the last season before this incident. Those who wish to still remain loyal to the Bloody Fist may do so by swearing it before your mayor Little Bristle. He shall keep tabs on who wishes to live within our good graces and who who wishes to bite the Fist that feeds. 
+>
+> Those who stay and raise up arms against us know this, we will hunt you like prey, we will rend the flesh from your bones, we will drink your blood from the skulls of the fallen, we will spare no man, woman, dwarf, elf, or child who fights us. The choice is yours, but I Val’Kaz the Ruthless will show you why I am named such if you cross me. You will be turning your head to check the shadows for me when my breed of terror strikes if war is declared upon our arrival. 
+>
+> Please do think this through carefully, we may sound like bloodthirsty savages but there are darker forces than us that lurk in your Elysia which we will give you shelter from. All we ask in return is your cooperation and loyalty tithes. 
+>
+> We will see you in 3 months time, I pray you make the correct decision for your own good and the good of Stonewood. The mighty Hopeflayer sends his regards and wishes your families well this winter and that you remember who it was that gave you a second chance where others would not.
+>
+> ~Val’kaz the Ruthless
+>
+> 3rd Blade General of the Bloody Fist
+>
 
 #### Mal-Valoance the Devourer (The Tactician)
 
