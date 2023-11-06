@@ -1,5 +1,36 @@
 {{ partial "header.html" . }}
+<img src="{{ .Params.front_cover_image }}" alt="{{ .Params.title }} Cover">
 
+<div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
+        <span>
+            Credits
+    	</span>
+    </div>
+    <div class="expand-content" style="display: none;">
+        {{ .Params.credits | markdownify }}
+    </div>
+</div>
+<div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
+        <span>
+            Files
+    	</span>
+    </div>
+    <div class="expand-content" style="display: none;">
+        <p><b>book_block:</b> 
+             <a href="{{ .Params.book_block_pdf }}">PDF</a> 
+             <a href="{{ .Params.book_block_affinity_publisher }}">Affinity Publisher</a></p>
+      
+        <p> <b> Cover:</b> 
+            <a href="{{ .Params.front_cover_pdf }}">Front Cover PDF</a> 
+            <a href="{{ .Params.back_cover_pdf }}"> Back Cover PDF</a> 
+            <a href="{{ .Params.cover_affinity_publisher }}">Cover Affinity Publisher</a></p>
+        
+    </div>
+</div>
 {{ .Content }}
 
 

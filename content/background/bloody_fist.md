@@ -3,7 +3,39 @@ title: "Notes and Observations on the Bloody Fist "
 github_link:  https://github.com/sjbennett123/polarlarp/blob/main/content/background/bloody_fist.md
 layout: zine
 cover_thumbnail: /zines/bloody_fist_cover_front_thumbnail.png
+credits:  |
+      This is part of the Zine Library for the NERO Live Action Roleplaying game. For more details about this game please check out Nero International at nerolarp.com and the local POLAR chapter at polarlarp.com.
+
+      If you know anyone that wants a copy of this send an email to the POLAR staff at zines@polarlarp.org and we will ship one out for you!
+
+      The contents of this document are available to characters in the game world of Tyrra and can be known by your NERO character if it would make sense for them to have read this document.
+
+      **Written by\:** Chris Colland (Truesephiroth13@yahoo.com) and Scott Bennett (deadkid@gmail.com) with contributions by Mary Courtney
+    
+      **Editing by\:** Scott Bennett (deadkid@gmail.com) and Stephen Dupree
+    
+      **Layout by\:** Scott Bennett
+
+      **Licensed Under Creative Commons**\: Attribution 
+      
+      you are free to\:
+      
+        - Share — copy and redistribute the material in any medium or format
+        - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+book_block_pdf: /zines/bloody_fist.pdf
+book_block_affinity_publisher: /zines/bloody_fist.afpub
+front_cover_pdf: /zines/bloody_fist_cover_front.pdf
+front_cover_image: /zines/bloody_fist_cover_front.png
+back_cover_pdf: /zines/bloody_fist_cover_back.pdf
+cover_affinity_publisher: /zines/bloody_fist_cover.afpub
+
 ---
+
+
+
+
+
 
 These notes have been collected at great cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
