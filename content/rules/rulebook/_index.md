@@ -8,6 +8,34 @@ weight: 2
 
 [PDF Spreads](/nero_rulebook_spreads.pdf)
 
+# Cedits
+
+The NERO Rule Book is © 1990, 1991, 1992, 1993, 1994, 1997, 1999, 2011, 2014 by Joseph Valenti
+
+The NERO name and logo is a registered trademark of NERO International Holding co., Inc.
+
+This book is for use in official NERO games only.
+
+Use of these rules by purchaser in any unsanctioned game where admission is charged is prohibited.
+
+No part of this book may be reproduced, stored in or introduced into a retrieval system or transmitted, in whole or in part, by any means (electronic, mechanical, photocopying, recording, or otherwise) without expressed written permission of NERO.
+
+Purchase of this book implies acceptance of the above terms.
+
+Joseph Valenti
+
+2763 NC Highway 731 West
+
+Mount Gilead NC 27306
+
+Barnesville GA 30204
+
+(914) 309-7718
+
+Jvalenti@nerolarp.com
+
+www.nerolarp.com
+
 # Chapter 1 : Getting Started
 
 ## Introduction
