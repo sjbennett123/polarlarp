@@ -4,7 +4,10 @@ title: logos and icons
 
 
 
-bloody fist
+Polar LARP Logo
 
-vindale
+Bloody Fist
 
+Blackthorne Hunter Family
+
+The Star of Nekron
