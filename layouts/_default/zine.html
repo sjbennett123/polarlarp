@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<img src="{{ .Params.front_cover_image }}" alt="{{ .Params.title }} Cover">
+<a href="{{ .Params.mixam_printlink }}"><img src="{{ .Params.front_cover_image }}" alt="{{ .Params.title }} Cover"></a>
 
 <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
