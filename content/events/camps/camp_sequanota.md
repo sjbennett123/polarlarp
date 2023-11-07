@@ -32,6 +32,8 @@ description: A nice Lutheran summer camp with heated stone cabins.
 
 Once you enter the campsite's main road, its about 1/2 a mile until you reach the main camp area. You will pass a large building called the "Enrichment Center". You will pass a swimming pool on the left, then come up a slight grade and enter the main camp area. Cabins are on the left. The main road continues and dead ends into a parking area. A large dining hall on your left as you approach the parking area is the tavern, NPC Shack, and module building. Check in also takes place in this building. 
 
+![camp_sequanota](/images/camp_sequanota.png)
+
 ## Nearby Supplies
 
 #### Dollar General 
