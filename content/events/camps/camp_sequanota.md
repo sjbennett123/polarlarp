@@ -18,15 +18,16 @@ description: A nice Lutheran summer camp with heated stone cabins.
 - **Cell Phone Service**: Pretty good!
 - **Privacy**: Other folks are using the camp!
 - **Beds**: Pretty legit, fairly thick and comfy.  Just bring a blanket and pillow.
-- **Heat**: The stone cabins are very well heated with a huge heat blower in them. 
+- **Heat**: The stone cabins are very well heated with a huge heat blower in them easy to control.
+- **Windows**: Windows have curtains on them.
 - **Showers**: Each cabin has 2 showers.
-- **Bathrooms**: Each cabin has it's own bathroom.
+- **Bathrooms**: Each cabin has it's own bathroom.  2 toilets and 2 sinks are in every cabin.
+- **Electric**: Standard electric sockets are available.
 - **Assigned Cabins**: The game will assign you a cabin before the event or at checkin. 
 - **Reserving Cabins:** Cabins sleep 8. if fewer than 8 people want to reserve a cabin cover the difference in cost at the full event cost for each empty bed. 
 - **Smoking**:  Put cigarette butts in trays or cans. Do not smoke in the cabins. 
 - **Bird Seed Packets**: The camp site does not allow bird seed packets.
 - **Camp Boundaries**: The main area you saw was in and a few paths you saw odd were in. Anything on the hill to the right will not be used at this event.
-
 ---
 ## Arriving at the Campsite
 
