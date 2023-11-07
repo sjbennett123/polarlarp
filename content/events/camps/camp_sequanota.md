@@ -51,7 +51,7 @@ Great for snacks, bottled water or a last minute energy drink.
 
 
 - **Address**: 1598 W Pitt St, Jennerstown, PA 15547
-- **Phone**: [(814) 629-5577](tel: 814-629-5577)
+- **Phone**: [(814) 629-5577](tel:814-629-5577)
 - **Distance from Camp:** 4 min (1.6 miles)
 - **Hours**: Saturday 10AM–9PM , Sunday 9:57AM–4PM
 - **Google Maps:** [Country Snack Shak](https://goo.gl/maps/fsHToMPtj3vYnvws7)
@@ -113,7 +113,7 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 #### Walmart
 
 - **Address**: 2028 N Ctr Ave, Somerset, PA 15501
-- **Phone**: (814) 445-7008
+- **Phone**: [(814) 445-7008](tel:8144457008)
 - **Hours**: 6am - 11pm
 - **Website**: [walmart.com](https://www.walmart.com/store/1765-somerset-pa)
 - **Distance from Camp**: 18 min (11.5 miles)
@@ -122,7 +122,7 @@ Most places are closed on the weekends nearby , your best bet for weekend servic
 #### NAPA Auto Parts in Ligonier
 
 - **Address**: 324 E Main St, Ligonier, PA 15658
-- **Phone**: [(724) 238-9566](tel:724-238-9566)
+- **Phone**: [(724) 238-9566](tel:7242389566)
 - **Hours**: Fri:8:00 AM-6:00 PM, Sat:8:00 AM-5:00 PM, Sun:10:00 AM-2:00 PM
 - **Website**: [napaonline.com](https://www.napaonline.com/en/pa/ligonier/store/24211)
 - **Distance from Camp**: 17 min (11.1 miles)
@@ -143,7 +143,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 #### Excela Health Latrobe Hospital
 
 - **Address**: 1 Mellon Way, Latrobe, PA 15650
-- **Phone**:  [(724) 537-1000](tel:724-537-1000)
+- **Phone**:  [(724) 537-1000](tel:7245371000)
 - **Website**: [excelahealth.org](https://www.excelahealth.org/locations/latrobe-hospital/)
 - **Hours**: 24h
 - **Distance from Camp**: 36 min (23.5 miles)
@@ -152,7 +152,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 #### UPMC Somerset Hospital
 
 - **Address**: 225 S Center Ave, Somerset, PA 15501
-- **Phone**:  [(814) 443-5000](tel:814-443-5000)
+- **Phone**:  [(814) 443-5000](tel:8144435000)
 - **Website**: [somersethospital.com](https://somersethospital.com)
 - **Hours**: 24h
 - **Distance from Camp**: closest, around 23 minute drive
@@ -162,7 +162,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 #### Conemaugh Memorial Hospital 
 
 - **Address**: 1086 Franklin St, Johnstown, PA 15905
-- **Phone**: (814) 534-9000
+- **Phone**: [(814) 534-9000](tel:8145349000)
 - **Hours**: 24h
 - **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
 - **Google Maps**:  https://goo.gl/maps/J8VmCzYLJLpSYdTbA
@@ -175,7 +175,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 #### MedExpress near UPMC Somerset
 
 - **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
-- **Phone**: [(814) 443-4740 ](tel:814-443-4740)
+- **Phone**: [(814) 443-4740 ](tel:8144434740)
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: open til 8pm
 - **Distance from Camp**: 21 minutes drive, 
@@ -186,7 +186,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 - **Address**: 1450 Scalp Ave #1000, Johnstown, PA 15904
 - **Hours**: open til 8pm
-- **Phone**:  [(814) 269-5200](tel:814-269-5200)
+- **Phone**:  [(814) 269-5200](tel:8142695200)
 -  **Distance from Camp**: 24 minutes drive
 - **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
 
@@ -199,7 +199,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 #### iCare
 - **Address**: 100 Susan Dr, Johnstown, PA 15905
-- **Phone**: (814) 255-1963
+- **Phone**: [(814) 255-1963](tel:8142551963)
 - **Distance from Camp**:  24 minutes drive
 - **Hours**:  8am-6pm
 - **Website**: [icaremedical.com](http://www.icaremedical.com/)
@@ -210,7 +210,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 #### Walmart Pharmacy
 
 - **Address**:  2028 N Ctr Ave, Somerset, PA 15501
-- **Phone**: (814) 443-6963
+- **Phone**: [(814) 443-6963](tel:8144436963)
 - **Hours**: Friday 9AM–8PM Saturday 9AM–7PM Sunday 10AM–6PM
 - **Distance from Camp**: 17 minutes south
 - **Google Maps:** [Walmart Pharmacy](https://goo.gl/maps/gNkzbxhBGwaDzzjU6)
@@ -218,7 +218,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 #### Giant Eagle Pharmacy
 
 - **Address**:  117 S Walnut St, Ligonier, PA 15658
-- **Phone**: (724) 238-0342
+- **Phone**: [(724) 238-0342](tel:7242380342)
 - **Hours**: Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
 - **Distance from Camp**: 17 minutes northwest
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
@@ -230,7 +230,7 @@ The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type 
 
 #### Days Inn by Wyndham Somerset PA I-70 I-76
 - **Address**:  125 Lewis Dr, Somerset, PA 15501
-- **Phone**: (814) 445-8788
+- **Phone**: [(814) 445-8788](tel:8144458788)
 - **Website**: [wyndhamhotels.com](https://www.wyndhamhotels.com/days-inn/somerset-pennsylvania/days-inn-somerset-pa-i-70%20i-76/overview?brand_id?CID=LC:DI::GGL:RIO:National:03770&iata=00093796) 
 - **Hours**: Check-in time: 3:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 minutes northwest
