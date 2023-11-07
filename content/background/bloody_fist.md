@@ -29,7 +29,7 @@ front_cover_pdf: /zines/bloody_fist_cover_front.pdf
 front_cover_image: /zines/bloody_fist_cover_front.png
 back_cover_pdf: /zines/bloody_fist_cover_back.pdf
 cover_affinity_publisher: /zines/bloody_fist_cover.afpub
-
+mixam_printlink: https://mixam.com/print-on-demand/644c7c21a1c8c2042edafb36
 ---
 
 
@@ -212,6 +212,8 @@ The Bloody Fist are known to use war drums and horns. They believe this inspires
 
 ## Current Structure of the Bloody Fist
 
+![banner_of_the_fist.jpg](/zines/bloody_fist_organization_1.png)
+
 ### The Black Shadow
 
 No one has seen or heard the Black Shadow speak but Ahroun when the deal was struck with the Bloody Fist. The full details are only known to Ahroun and the Black Shadow, but not a soul questions the word of Ahroun when he spoke the words of power and granted The Black Shadow's blessing to his fellow Bloody Fist. The rumor is he is a shapeless entity who can appear as an elf in black robes when a deal is struck. The power granted to the Bloody Fist was a form of “Draconic Power” but the true nature of its source remains unknown. 
@@ -270,7 +272,6 @@ Some would call him cowardly but he is far from it. He acts from the shadows sen
 > ~Val’kaz the Ruthless
 >
 > 3rd Blade General of the Bloody Fist
->
 
 #### Mal-Valoance the Devourer (The Tactician)
 

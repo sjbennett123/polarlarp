@@ -3,6 +3,13 @@ title: "Stonewood Dwarves"
 pdf: /stonewood_dwarves.pdf
 layout: zine
 cover_thumbnail: /zines/stonewood_dwarves_cover_front_thumbnail.png
+book_block_pdf: /zines/stonewood_dwarves.pdf
+book_block_affinity_publisher: /zines/stonewood_dwarves_cover.afpub
+front_cover_pdf: /zines/stonewood_dwarves_cover_front.pdf
+front_cover_image: /zines/stonewood_dwarves_cover_front.png
+back_cover_pdf: /zines/stonewood_dwarves_cover_back.pdf
+cover_affinity_publisher: /zines/stonewood_dwarves_cover.afpub
+mixam_printlink: https://mixam.com/print-on-demand/654989e61d4a1a0d3ac428d9
 ---
 
 # History of the Stonewood Dwarves

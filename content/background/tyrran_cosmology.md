@@ -2,6 +2,7 @@
 title: "The Tyrran Cosmology"
 layout: zine_national
 cover_thumbnail: /zines/tyrran_cosmology_cover_front_thumbnail.png
+mixam_printlink: https://mixam.com/print-on-demand/653a93d34b8c41179c08c9cb
 ---
 > *It has taken many years to produce the work you are about to read. Many have dedicated their time and even given their lives to produce it. We have performed many experiments, used all evidence available, and even used the formal magic Sands of Time powered by what was possibly the largest gathering of Arch-Wizards ever assembled in order to glance back further than any have before, to the events of the First Elemental War.*
 >
