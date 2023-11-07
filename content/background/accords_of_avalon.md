@@ -9,6 +9,7 @@ cover_pdf:
 pages_pdf:
 spreads_pdf:
 affinity_publisher: 
+mixam_printlink: https://mixam.com/print-on-demand/65498f2d1d4a1a0d3ac42906
 ---
 
 # Precepts of a Civilized and Cultured Society
