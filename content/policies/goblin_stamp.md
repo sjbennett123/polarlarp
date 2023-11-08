@@ -3,7 +3,7 @@ title: "POLAR Goblin  Stamp  Policy"
 
 ---
 
-## POLAR GOBLIN STAMP POLICY - AWARDS
+## Awards
 
 POLAR is looking for all of your old Magic Item reps which have expired. I will give 25 Goblin Stamps for each rep you turn in at an event. Get it while its HOT.
 
@@ -93,7 +93,7 @@ DONATION – FULL COSTUME – 150 GS
 
 DONATION – CANNED FOOD – 10 GS
 
-## POLAR GOBLIN STAMP POLICY - PURCHASES
+## Purchases
 
 PURCHASE CANTRIP PAGE – 15 – GS / PAGE
 
