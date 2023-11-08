@@ -12,3 +12,4 @@ public/*
 *.afdesign~lock~
 *.afpub~lock*
 *.afphoto~lock~
+.gitattributes~
