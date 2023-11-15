@@ -40,10 +40,25 @@ Barnesville GA 30204
 
 [www.nerolarp.com](www.nerolarp.com)
 
-## Edited and Complied by:
+Edited and Compiled by:
 
-## Designers
+Melissa Brannon, Dan Comstock, Tim Delong Nicholas Denny, Mike Ennis, David Epstein, Michael Golosovker, Tiny Hughes, Rebecca King, Noah Mason, Ryan Massey, Mitchell Meconi, Robert Poulin, Matthew Sims, Charles Smith, Kevin Sterbakov, Joseph Valenti, Fred Watson, John Zeigler, Sarah Clark, and many, many others
 
+Designers:
+
+Adam Taylor, Heidi Morris-Taylor
+
+Lead Photographer: Joanna Becker
+
+Contributing Photographers:
+
+Scott Erb Photography, George Short, Damien Turi, Erin Nicholson, Sarah Clark, Ivey Hardy, Brian Wamsher, Denise Beucler, Rebecca Kindergan, Angel Williamson, Tony Lopes, NorthCoastNero. Sheena Osbome, David Acosta
+
+Special thanks
+
+To Sonya Maizell for writing the introductory story
+
+The NERO Game System is intended to allow players and staff hours of live-action fun without any amount of play stoppage. It is the responsibility of the players and staff to remember this when reading and interpreting the rules. We have done our best to clear up vagaries and make these rules sound, and we will continue to do so in the future. Still, players and staff should avoid constantly trying to find loopholes or language that allows them to do things that are against the spirit of the rules. The NERO International Office will determine the spirit of the rules in all cases where interpretation is disputed.
 
 # Chapter 1 : Getting Started
 
