@@ -4,6 +4,38 @@ date: 2022-11-10T10:33:21-05:00
 draft: false
 ---
 
+## Credits
+
+NERO ™ Formal Magic System is © 1997, 1998, 1999, 2000, 2011 by Joseph Valenti and or NERO International Holding Co., Inc.
+
+The NERO name and logo is a registered trademark of Joseph Valenti and or NERO International Holding Co. Inc.
+
+This book is for use in official NERO games only.
+
+Use of these rules by purchaser in any unsanctioned game where admission is charged is prohibited.
+
+No part of this book may be reproduced, stored in or introduced into a retrieval system or transmitted, in whole or in part, by any means (electronic, mechanical, photocopying, recording, or otherwise) without expressed written permission of NERO.
+
+Purchase of this book implies acceptance of the above terms.
+
+---
+
+Joseph Valenti 
+
+2763 NC Highway 731 
+
+West Mount Gilead NC 27306 
+
+Barnesville GA 30204
+
+(914) 309-7718
+
+[Jvalenti@nerolarp.com](mailto:Jvalenti@nerolarp.com)
+
+[www.nerolarp.com](www.nerolarp.com)
+
+## Introduction
+
 Welcome to the NERO® Formal Magic System©. The system may be modified from time to time by NERO International. Suggestions for modifications to these rules should be directed to NERO International at jvalenti@nerolarp.com with “NERO FORMAL MAGIC” as the subject. These rules may not be modified in any way by the NERO chapters, nor can any game effects change the way these rules work. Local chapters may not alter the mechanics of any of the rules contained in this rulebook. This includes “weekend” effects as well as “area-specific” effects. None of these types of effects are ever allowed under any circumstances. Scrolls may not contain modifications or flaws of any kind, except to make the scroll unable to be copied or destructible. The scrolls listed here may not be changed in any way. If used, they must be used exactly as written. Urgent questions and interpretations of these rules will be left to the local Formal Magic marshal. Any questions, interpretations, and local rulings should be brought to the attention of NERO International, which serves as final arbitrator of these rules. NERO International will not overturn decisions made by the local Formal Magic Marshal unless it is absolutely necessary, although wording may be added to the system to negate any confusion in the future.
 
 ## Definition of Basic Terms
