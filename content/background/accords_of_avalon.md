@@ -36,6 +36,8 @@ credits: |
   Printed with kind permission from NERO International.
 
   All Material Copyright 2003-2018 By NERO and or Joseph Valenti , All Rights Reserved
+
+  Content ©1986-2023 by NERO International Holding Co., Inc., and Joseph Valenti, All Rights Reserved.
 ---
 
 
