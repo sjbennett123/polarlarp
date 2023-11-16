@@ -1,5 +1,5 @@
 ---
-title: elysia
+title: Elysia
 layout: map
 cover_thumbnail: /images/maps/elysia_illustrated_map_thumbnail.png
 ---

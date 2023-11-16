@@ -1,5 +1,5 @@
 ---
-title: woodhaven
+title: Woodhaven
 layout: map
 cover_thumbnail: /images/maps/woodhaven_illustrated_map_thumbnail.png
 ---

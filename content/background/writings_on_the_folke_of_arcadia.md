@@ -15,8 +15,6 @@ credits: |
   Content ©1986-2023 by NERO International Holding Co., Inc., and Joseph Valenti, All Rights Reserved.
 ---
 
-The NERO Fae and Cursed handbook was written by Noah Mason and Clinton Snyder based off the previous works of Dr. Mathew Sims for Joseph Valenti. It is intended to be used in conjunction with the NERO Rule Book and the Tyrran Cosmology. Please be sure to read these other books in the NERO LARP game world of Tyrra.
-
 ## Introduction
 
 The Faerie are a group of races all originating in a plane which borders directly on the plane of Tyrra and makes numerous direct connections to Tyrra itself. All Fae are immune to sleep and charm, they are all highly susceptible to the touch of cold iron (which are normal weapons), extremely resistant to magic and silver weapons and have no metabalism. All Fae view time as a whole instead of a segmented thing, this unique vision of the past and future makes them all immune to any effects which alter memory. Another thing all of Faerie have in common is the belief that freedom of choice, expression and personal desire are among the paramount matters of existence.
