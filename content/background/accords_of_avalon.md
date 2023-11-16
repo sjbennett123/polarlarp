@@ -2,15 +2,42 @@
 title: "Accords of Avalon"
 date: 2022-11-10T10:33:21-05:00
 draft: false
-layout: zine_national
+layout: zine
 cover: /zines/accords_of_avalon_cover_front.png
 cover_thumbnail: /zines/accords_of_avalon_cover_front_thumbnail.png
-cover_pdf:
-pages_pdf:
-spreads_pdf:
-affinity_publisher: 
+front_cover_image: /zines/accords_of_avalon_cover_front.png
+cover_affinity_publisher: /zines/accords_of_avalon_cover.afpub
+book_block_pdf: /zines/accords_of_avalon.pdf
+book_block_affinity_publisher: /zines/accords_of_avalon.afpub
 mixam_printlink: https://mixam.com/print-on-demand/65498f2d1d4a1a0d3ac42906
+credits: |
+  This is part of the Zine Library for the NERO Live Action Roleplaying game. For more details about this game please check out Nero International at nerolarp.com and the local POLAR chapter at polarlarp.org.
+
+  The contents of this document are available to characters in the game world of Tyrra and can be known by your NERO character if it would make sense for them to have read this document.
+
+  Concept by: Joseph Valenti
+
+  Written By: Justin Godey 2002-2003
+
+  Additional Material: Mickey Golosovker
+
+  Edited By: Katherine Fleming & Joseph Valenti
+
+  Material Taken From: The Customs Of The Kingdom Of Evendarr
+
+  Layout by: Scott Bennett
+
+  Illustrations by: Anonymous circa 1565
+
+   https://www.metmuseum.org/art/collection/search/705218
+ 
+  Page Decorations: Sir Gilbert Hay
+
+  Printed with kind permission from NERO International.
+
+  All Material Copyright 2003-2018 By NERO and or Joseph Valenti , All Rights Reserved
 ---
+
 
 # Precepts of a Civilized and Cultured Society
 

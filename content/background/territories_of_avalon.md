@@ -1,5 +1,5 @@
 ---
-title: terratories of avalon
+title: territoriesof avalon
 layout: map_national
 cover_thumbnail: /images/maps/territories_of_avalon_thumbnail.png
 ---

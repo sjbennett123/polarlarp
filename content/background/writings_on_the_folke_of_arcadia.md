@@ -1,8 +1,17 @@
 ---
-title: "Fae"
-layout: zine_national
+title: Writings on the Folke of Arcadia
+layout: zine
 cover_thumbnail: /zines/fae_handbook_cover_thumbnail.png
+front_cover_pdf: /zines/fae_handbook_cover_front.pdf
+front_cover_image: /zines/fae_handbook_cover_front.png
 mixam_printlink: https://mixam.com/print-on-demand/65498e571d4a1a0d3ac428fb
+credits: |
+  This is part of the Zine Library for the NERO Live Action Roleplaying game. For more details about this game please check out Nero International at nerolarp.com and the local POLAR chapter at polarlarp.org.
+  The contents of this document are available to characters in the game world of Tyrra and can be known by your NERO character if it would make sense for them to have read this document.
+  Written by: Clinton Snyder and Noah Mason based off the previous works of Dr. Mathew Sims
+  Layout by: Scott Bennett
+  Illustrations by: Warwick Goble
+  Printed with kind permission from NERO International. 
 ---
 
 The NERO Fae and Cursed handbook was written by Noah Mason and Clinton Snyder based off the previous works of Dr. Mathew Sims for Joseph Valenti. It is intended to be used in conjunction with the NERO Rule Book and the Tyrran Cosmology. Please be sure to read these other books in the NERO LARP game world of Tyrra.
