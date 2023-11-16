@@ -2,13 +2,31 @@
 title: "Staff"
 date: 2022-11-10T10:33:21-05:00
 draft: false
+Board of Directors: 
+  - Kiera Phillips
+  - Donnie Leight
+  - Mike Mack
+  - Devin Pusateri 
+  - Chris Colland
+  - Erin Albert Jamison
+General Manager:
+  - Donnie Leight
+Owner:
+  - John Thompson
+Head Plot: 
+  - Clinton Russell Snyder 
+Plot Committee: 
+   - Donnie Leight 
+   - Devin Pusateri
+   - Chris Colland
+   - Mary Courtney
 ---
 
-As you can see, POLAR has some openings. Please contact the General Manager John Tompson if interested in accepting any position. 
+As you can see, POLAR has some openings. Please contact the General Manager if interested in accepting any position.
 
 These are more than staff positions; these positions grow and determine where POLAR goes in the future. This is all of our game as a community. Let's make it the best game possible!
 
-[changes](./changes)
+[Changes](./changes)
 
 ## Board of Directors
 
@@ -16,13 +34,13 @@ These are more than staff positions; these positions grow and determine where PO
 
 There are 5 voting members and 2 trustees. If there is a vote the members vote but if one of them cannot make it the trustees can vote in their stead. 
 
-- John Thompson
-- Kiera Phillips 
-- Donnie Leight 
-- Mike Mack 
+- Kiera Phillips
+- Donnie Leight
+- Mike Mack
 - Devin Pusateri 
+- Chris Colland
+- Erin Albert Jamison 
 - [Chris Colland](./chris_colland)
-- Erin Albert Jamison
 
 ## General Manager
 
@@ -30,18 +48,24 @@ They can help with just about anything, or direct you toward the person who can!
 
 400GS / Month
 
-- John Thompson 
+- Donnie Leight
+
+## Owner
+
+- John Thompson
+
+## Head of Plot
+
+- Clinton Russell Snyder 
 
 ## Plot Committee 
 
 250 GS / Month
 
-- Donnie Leight 
 - Devin Pusateri
 - [Chris Colland](./chris_colland)
-- Danielle Regula
-- Clinton Russell Snyder
 - Mary Courtney
+- Donnie Leight
 
 ## Event Director
 
@@ -59,19 +83,19 @@ Open - Per Plot Committee
 
 200 GS / Month
 
-- Ken Courtney 
+- Jessica White
 
 ## Character Records
 
 200 GS / Month
 
-- Ken Courtney 
+- Jessica White
 
 ## Web Site
 
 200GS / Month
 
-Maintain event schedules, policies, and staff information. Converts that data into usable formats such as zines. If you have any content you think would be a good fit for the website hit him up.
+Maintains event schedules, policies, and staff information. Converts that data into usable formats such as zines. If you have any content you think would be a good fit for the website hit him up. [webmaster@polarlarp.org](mailto:webmaster@polarlarp.org)
 
 - [Scott Bennett](./scott_bennett) 
 
@@ -113,8 +137,10 @@ Open - 2 Positions
 
 200GS / Month
 
-- Bobby White
-- Joe Tate
+email to [newplayer@polarlarp.org](mailto:newplayer@polarlarp.org)
+
+- Bobby White  
+- Josh Wilson  
 
 ## Tavern
 
