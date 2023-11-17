@@ -4,7 +4,8 @@ layout: zine
 cover_thumbnail: /zines/fae_handbook_cover_thumbnail.png
 front_cover_pdf: /zines/fae_handbook_cover_front.pdf
 front_cover_image: /zines/fae_handbook_cover_front.png
-back_cover_pdf: /zines/fae_handbook.pdf
+book_block_pdf: /zines/fae_handbook.pdf
+book_block_affinity_publisher: /zines/fae_handbook.afpub
 mixam_printlink: https://mixam.com/print-on-demand/65498e571d4a1a0d3ac428fb
 credits: |
   This is part of the Zine Library for the NERO Live Action Roleplaying game. For more details about this game please check out Nero International at nerolarp.com and the local POLAR chapter at polarlarp.org.
