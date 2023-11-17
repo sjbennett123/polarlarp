@@ -9,11 +9,17 @@ book_block_affinity_publisher: /zines/fae_handbook.afpub
 mixam_printlink: https://mixam.com/print-on-demand/65498e571d4a1a0d3ac428fb
 credits: |
   This is part of the Zine Library for the NERO Live Action Roleplaying game. For more details about this game please check out Nero International at nerolarp.com and the local POLAR chapter at polarlarp.org.
+
   The contents of this document are available to characters in the game world of Tyrra and can be known by your NERO character if it would make sense for them to have read this document.
+
   Written by: Clinton Snyder and Noah Mason based off the previous works of Dr. Mathew Sims
+
   Layout by: Scott Bennett
+
   Illustrations by: Warwick Goble
+
   Printed with kind permission from NERO International. 
+
   Content ©1986-2023 by NERO International Holding Co., Inc., and Joseph Valenti, All Rights Reserved.
 ---
 
