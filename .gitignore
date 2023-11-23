@@ -13,3 +13,4 @@ public/*
 *.afpub~lock*
 *.afphoto~lock~
 .gitattributes~
+*.rpp-bak

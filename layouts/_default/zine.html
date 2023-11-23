@@ -31,8 +31,14 @@
         <p> <b> Mixam Printlink:</b> 
           
             <a href="{{ .Params.mixam_printlink }}">{{ .Params.Title }} Mixam Printlink</a></p>
-        
-    </div>
+   
+        <p> <b> Audio</b> <a href="/audio/{{ .Params.mp3 }}"> Reaper</a> <a href="/audio/{{ .Params.reaper }}"> MP3</a> 
+
+<audio controls preload="metadata">
+<source src="/audio/{{ .Params.mp3 }}" type="audio/mpeg">
+<figcaption>{{ .Params.Title }}</figcaption>
+</audio>
+    </div></p>
 </div>
 {{ .Content }}
 

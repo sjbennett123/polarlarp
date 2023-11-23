@@ -30,20 +30,22 @@ front_cover_image: /zines/bloody_fist_cover_front.png
 back_cover_pdf: /zines/bloody_fist_cover_back.pdf
 cover_affinity_publisher: /zines/bloody_fist_cover.afpub
 mixam_printlink: https://mixam.com/print-on-demand/644c7c21a1c8c2042edafb36
+mp3:  ./bloody_fist.mp3
+reaper: ./bloody_fist.rpp
+youtube: 
+
 ---
 
-
-
-
+## Foreword
 
 
 These notes have been collected at great cost by the reformed Black Anvil Mercenary Company. Due to the nature of the Bloody Fist we can only guess at some of the deeper secrets that they hold but the information contained within this document is accurate to the best of our knowledge.
 
 ## Motivations for War
 
-While it is easy to think that the Bloody Fist are only motivated by their brutal nature that is far from the truth. Their driving goal is vengeance for the extinction they faced 20 years ago. From the ashes of this defeat their whole society has formed around resentment and hate. The time to resolve this enmity was while this hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
+While it is easy to think that the Bloody Fist are only motivated by their brutal nature, that is far from the truth. Their driving goal is vengeance for the extinction they faced 20 years ago. From the ashes of this defeat their whole society has formed around resentment and hate. The time to resolve this enmity was while this hatred simmered but now it has become a rolling boil. We have found that surrender is not an option for the Bloody Fist. If they are to die it will be in battle. 
 
-We have seen them employ whatever savage tactics they see fit. If they are commanded to capture all women and children from a village until the men submit, then they will. Public executions and necromantic humiliation are common.
+We have seen them employ whatever savage tactics that they see fit. If they are commanded to capture all the women and children from a village until the men submit, then they will. Public executions and necromantic humiliation are common.
 
 We believe that they can be settled with, but terms will be one sided. The Bloody Fist will demand compensation for 20 years of suffering and the deaths of all nobility responsible in the previous war.
 
@@ -58,11 +60,11 @@ A magical treaty was signed with the Bloody Fist.
 >
 > On this 14th day of May in the Year 593, let it be known that the Tribe of the Bloody Knuckles agreed to join the United Nations of the Bloody Fist and to follow all provisions of their treaty within the Duchy of Elysia as outlined below:
 >
-> - All Bloody Knuckles Ore will act nice and not bash any people of the Duke's Tribe
+> - All Bloody Knuckles Orc will act nice and not bash any people of the Duke's Tribe
 > - None of the Duke's Tribe will bash any Bloody Knuckles Orcs
 > - The Duke's Tribe will protect the Bloody Knuckle lands from invading tribes and bashers
 > - The Bloody Knuckles Tribe will come to help the Duke bash invaders if the Duke asks nice
-> - Bloody Knuckles Ores may come to town and not be bashed if they not have clubs
+> - Bloody Knuckles Orcs may come to town and not be bashed if they not have clubs
 > - The Duke's Tribe can cross Bloody Knuckle lands as long as they act nice
 >
 > This treaty is hereby signed by the leader of the Bloody Knuckle Tribe and the lawful representative of His Grace, Duke Azeroth Dragonheart
@@ -76,7 +78,7 @@ A magical treaty was signed with the Bloody Fist.
 #### The Rise of Olzen
 Olzen was originally an Oaken Wood Elf. He was cast out by the elves and race changed forcibly to an Orc. He then joined with the Bloody Fist. Originaly the Bloody Fist power structure was very barbaric and nomadic. It mostly relied on numbers and just wanted to smash anyone who opposed them. After Olzen joined the Bloody Fist, it became much more organized and fearsome. Olzen had an artifact, a welders glove with chain mail, that granted him tremendous power in battle. He also bargained with a Fae Prince to augment the strength of both him and the Bloody Fist. 
 
-The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once with a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
+The Bloody Fist led by Olzen committed heinous crimes against the Oaken Wood Eves. Shamans would try to obliterate the Oaken Wood Elves with formal magic. Olzen could walk the Winding of the Oaken Woods to move his troops, this made his army untrackable. The Bloody Fist had 4 generals who he blessed with powers. All of the generals were killed at once by a group led by Henet. Olzen was also slain in a pitched battle. The war lasted about 2 years.
 
 The heroes of Elysia put the remainder of the Bloody Fist to death by a witch hunt level of extermination. The surviving Bloody Fist ran into the darkened forests and hills of eastern Stonewood. 
 
@@ -174,7 +176,11 @@ The new Uruk-Hai Bloody Fist Orcs are faster, stronger, smarter, more savage, mo
 <!-- - [Go Ho Red Face Body Paint Makeup](https://www.amazon.com/dp/B0B6FQZB47/ref=cm_sw_r_api_i_JHTRSPNQ1H61821YN6Z9_0) -->
 <!-- - [Mermaid Scale Stencil](https://www.amazon.com/dp/B0B31D43B4?ref=ppx_pop_mob_ap_share&th=1)  -->
 
-The bloody fist orcs wear facepaint into battle. It is comprised of 3 components. A red tribal design said to be a mixture of human, dwarf, and elf blood. A white decoration on the chin neck and throat. is ground up bone used during that orc's rebirth ritual. Black scales are also present due to the deal they have with The Black Shadow.
+The bloody fist orcs wear facepaint into battle. It is comprised of 3 components. 
+
+- A red tribal design said to be a mixture of human, dwarf, and elf blood. 
+- A white decoration on the chin neck and throat. is ground up bone used during that orc's rebirth ritual. 
+- Black scales are also present due to the deal they have with The Black Shadow.
 
 ## Practices of the Bloody Fist
 
