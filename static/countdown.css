@@ -1,30 +1,3 @@
-    .countdown {
-      display: flex;
-    }
-
-    .countdown .day,
-    .countdown .hour,
-    .countdown .min,
-    .countdown .sec {
-      color: #2799ff;
-      padding: 1vw 3vw;
-      text-align: center;
-    }
-
-    .countdown .day .num,
-    .countdown .hour .num,
-    .countdown .min .num,
-    .countdown .sec .num {
-      display: block;
-      font-size: 8vw;
-      line-height: 1em;
-    }
-
-    .countdown .day .word,
-    .countdown .hour .word,
-    .countdown .min .word,
-    .countdown .sec .word {
-      display: block;
-      font-size: 2vw;
-      color: #8a99ab;
-    }
+version https://git-lfs.github.com/spec/v1
+oid sha256:25314bcd718afac655a40cd0f469170b3ed6d382c0c3c7285008f9e1b9bf47c2
+size 601
