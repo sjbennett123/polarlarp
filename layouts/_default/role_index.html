@@ -1,0 +1,72 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+
+<link rel="stylesheet" href="/tablesaw.css">
+<script src="/tablesaw.js"></script>
+<script src="/tablesaw-init.js"></script>
+
+<table class="tablesaw" data-tablesaw-mode="columntoggle" data-tablesaw-sortable data-tablesaw-sortable-switch tablesaw-swipe-shadow tablesaw-row-border>
+<thead>
+  <tr>
+    <th scope="col" data-tablesaw-priority="persist" data-tablesaw-sortable-col >Name</th>
+
+  </tr>
+</thead>
+<tbody>
+
+{{ range where .Pages ".Params.Layout" "IN"  (slice "role" ) }} 
+
+
+{{ $immune_to := (slice ) }} 
+{{ if .Params.immune_to }}
+{{ if not (reflect.IsSlice .Params.immune_to) }}{{ $immune_to = (slice .Params.immune_to ) }}
+{{ else  }} {{ $immune_to = append $immune_to .Params.immune_to }}
+{{ end }}
+{{ end }}
+
+{{ $vulnerabilities := (slice ) }} 
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities) }}{{ $vulnerabilities = (slice .Params.vulnerabilities ) }}
+{{ else  }} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}
+{{ end }}
+{{ end }}
+
+{{ $defensive_abilities := (slice ) }} 
+{{ if .Params.defensive_abilities }}
+{{ if not (reflect.IsSlice .Params.defensive_abilities) }}{{ $defensive_abilities = (slice .Params.defensive_abilities ) }}
+{{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
+{{ end }}
+{{ end }}
+
+{{ $offensive_abilities := (slice ) }} 
+{{ if .Params.offensive_abilities }}
+{{ if not (reflect.IsSlice .Params.offensive_abilities) }}{{ $offensive_abilities = (slice .Params.offensive_abilities ) }}
+{{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
+{{ end }}
+{{ end }}
+
+
+{{ $motivation := (slice ) }} 
+{{ if .Params.motivation }}
+{{ if not (reflect.IsSlice .Params.motivation) }}{{ $motivation = (slice (.Params.motivation | title)) }}
+{{ else  }} {{ $motivation = append $motivation .Params.motivation}}
+          {{ $motivations_to_title_case := (slice ) }}
+                                {{ range $motivation }}
+                                    {{ $latest_motivation := . | title }} 
+                                    {{ $motivations_to_title_case := $motivations_to_title_case |append  $latest_motivation }} 
+                                {{ $motivation = $motivations_to_title_case }}{{ end }}
+{{ end }}
+{{ end }}
+
+
+  <tr>
+    <td><a href="{{.Permalink}}"> {{ .Params.title }}</a></td>
+  </tr>
+{{ end }}
+</tbody>
+</table>
+
+
+{{ partial "footer.html" . }}

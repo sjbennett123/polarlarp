@@ -1,0 +1,198 @@
+{{- partial "header.html" . -}}
+
+
+<p>{{- .Params.description -}}</p>
+<h2 id="top_secret">Top Secret</h2>
+<span class="anchor" data-clipboard-text="https://gloryforthefist.netlify.app/current_writeups/#top_secret"><i class="fas fa-link fa-lg"></i></span>
+<img src="/top_secret.png" alt="/top_secret.png" title="{width='10%'}">
+<div style="text-align:center"><p>If you are PCing this event TURN BACK NOW!</p></div>
+{{- if .Content -}}
+<hr>
+{{- .Content -}}
+<hr>
+{{- end -}}
+{{ with .GetPage "./playlist" }}<p><a href="{{.Permalink}}">{{ .Title }}</a></p>{{ end }}
+
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+
+{{- if .Params.event_date -}}
+<h2>Time Until Event</h2>
+<!--   <div class="wrapper">
+    <div class="countdown" data-date="{{- .Params.event_date -}}" data-time="09:00">
+      <div class="day"><span class="num"></span><span class="word"></span></div>
+      <div class="hour"><span class="num"></span><span class="word"></span></div>
+      <div class="min"><span class="num"></span><span class="word"></span></div>
+      <div class="sec"><span class="num"></span><span class="word"></span></div>
+    </div
+    
+  <script type="text/javascript" src="/countdown.js"></script>
+  <script type="text/javascript" src="/countdown_init.js"></script> -->
+
+  <p>Modules must be reviewed 2 Weeks before the event</p>
+{{- end -}} 
+<h2>NPC Counts</h2>
+
+<!-- todo pull these values from google sheets directly-->
+<p>We are following these steps <a href="/npc_recruiting">NPC Recruiting Tips</a>. We are tracking the NPC’s <a href="https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0">in this list</a>. Current count is Staff: 8 Yes: 7 Maybe: 9 No: 10 . Remember to go over the details of <a href="/events/camps/camp_sequanota">Camp Sequanota</a>with them.</p>
+
+{{ if (where $event_pages "Layout" "plotline_overview") }}
+<h2>Plotline Overview</h2>
+{{ range (where $event_pages "Layout" "plotline_overview") }}
+      <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
+{{- end -}}
+{{- end -}}
+{{- if .Params.event_date -}}<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>{{- end -}}
+<p><h2>Modules To Run</h2></p>
+<p><b>{{- len (where $event_pages "Layout" "==" "module") -}}</b> Modules to run </p>
+{{ with .GetPage "./module_export" }}<p><a href="{{.Permalink}}">{{ .Title }}</a></p>{{ end }}
+
+<p>The modules below are in the order that we intend to run them in but plans will change and we will adapt. </p>
+
+<p><i class="fas fa-pencil-alt"></i> Indicates that the module needs to be reviewed</p>
+<p><i class="fa fa-user"></i> Indicates that the role cards are not attached to the module</p>
+{{- if .Params.event_date -}}
+<p>if there is not a writeup the module is not happening! Please turn in your writeups!</p> {{ end }}
+
+
+{{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil) }}
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<h3>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</h3>
+<p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      <p>{{- if .Params.reviewer  -}}{{- else -}}<i class="fas fa-pencil-alt"></i>{{- end -}} {{- if .Params.roles  -}}<i class="fa fa-user"></i>{{- end -}}{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a> {{ .Params.description -}} {{ if eq $current_schedule  nil }} -- Written by {{ title .Params.author -}}{{ end }}
+</p>
+{{ end }}
+
+{{ end }} 
+{{ end }}
+
+
+
+{{ if  where (where (where $event_pages "Layout" "==" "module" ) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil -}}
+
+<h3>Modules for Review</h3>
+<p><a href="https://gloryforthefist.netlify.app/writing/#reviewing-tips">Reviewing tips</a></p>
+{{ range sort (where (where (where .Pages "Layout" "IN" (slice "module" )) "Params.reviewer" "=" nil) "Params.synopsis" "!=" nil) .Params.author  -}}
+      <p><a href="{{.Permalink}}"><b>{{ title .Title }}</b></a>  Written by {{ title .Params.author -}} </p>
+{{- end -}}
+{{- end -}} 
+
+
+
+<h2>Treasure</h2>
+{{ .Params.formal_magic_components }}
+{{ .Params.production_list }}  
+{{- if .Params.event_date -}}
+
+<p> Treasure distribution is figured out from preregistration. That closes one week before the event.</p>  {{ end }} 
+
+{{- $magic_items := (slice ) -}}
+
+{{- if .Params.magic_items -}}
+    {{- $magic_items = append $magic_items .Params.magic_items -}}
+{{- end -}}
+
+ {{- range  where $event_pages ".Params.magic_items" "!=" nil -}}
+  {{- $permalink := .Permalink -}} 
+    {{- $module_name := .Title -}} 
+
+           {{- range .Params.magic_items -}} 
+                {{- $magic_item_to_add := dict "name" .name "description" .description "duration" .duration "effects" .effects "link" $permalink "module" $module_name "delimit" .delimit -}}
+                {{- $magic_items = append $magic_items (slice $magic_item_to_add) -}}
+           {{- end -}}
+    {{- end -}}
+    
+{{- if where $magic_items ".duration" "==" "2 Year" -}}
+<h4>Two Year Magic Items</h4>
+{{- end -}}
+{{- range  $magic_items  -}}
+{{- if ( eq .duration "2 Year" )   }} 
+<h5>{{ title .name }}</h5>
+<p><b>Description:</b> {{ .description }} </p>
+<p><b>Duration:</b> {{ .duration }}    </p>
+{{ if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end -}}
+{{ if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
+<p><b>Effects:</b> {{ delimit .effects ", " }} </p>
+{{ end }} 
+{{ end }}
+{{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "ne" "Delimited to 15th Level or Below" -}}
+<h4>One Year Magic Items</h4>
+{{- end -}}
+
+{{- range  $magic_items  }}
+{{- if and ( eq .duration "1 Year" ) ( ne .delimit "Delimited to 15th Level or Below") -}} 
+<h5>{{ title .name }}</h5>
+<p><b>Description:</b> {{ .description }} </p>
+<p><b>Duration:</b> {{ .duration }}    </p>
+{{- if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{ title .module }}</a></p> {{- end -}}
+{{- if .delimit }} <p><b>Delimit:</b> {{ .delimit }}   </p> {{ end }}
+<p><b>Effects:</b> {{ delimit .effects ", " }} </p>
+{{- end }} 
+{{- end }}
+{{- if where (where $magic_items ".duration" "==" "1 Year")  ".delimit" "==" "Delimited to 15th Level or Below" -}}
+<h4>One Year Magic Items Delimited to under 15'th Level</h4>
+{{- end }}
+
+{{- range  $magic_items  -}}
+{{- if and ( eq .duration "1 Year" ) ( eq .delimit "Delimited to 15th Level or Below") -}} 
+<h5>{{- title .name -}}</h5>
+<p><b>Description:</b> {{- .description -}} </p>
+<p><b>Duration:</b> {{- .duration -}}    </p>
+{{- if .module -}} <p><b>Module:</b> <a href="{{- .link -}}/#treasure">{{- title .module -}}</a></p> {{- end -}}
+{{- if .delimit -}} <p><b>Delimit:</b> {{- .delimit -}}   </p> {{- end -}}
+<p><b>Effects:</b> {{- delimit .effects ", " -}} </p>
+{{ end }} 
+
+
+
+
+{{ end }}
+
+
+
+{{- $rumors := (slice ) -}}
+{{- if  .Params.rumors -}} 
+    {{- $rumors = $rumors  | append .Params.rumors -}} 
+{{- end -}}
+
+    {{ range  $event_pages -}}
+           {{- if  .Params.rumors -}}{{- $rumors = $rumors  | append .Params.rumors -}}{{- end -}}
+    {{- end -}}
+
+{{- $rumors = $rumors | uniq -}} 
+{{- $rumors = $rumors | shuffle -}} 
+{{- if (gt ($rumors | len) 0) -}}
+<div id="rumors"> <h2>Rumors </h2>
+<p><b>{{- len $rumors -}}</b> Rumors to distribute to Discord and Facebook In Game Forum <a href="https://www.facebook.com/groups/3408485185934076"><i class="fab fa-facebook"></i></a> 
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FW2HgNr42%3Ffbclid%3DIwAR1CALfc-QzeB1RRQXvaH7aPy_0Xnaw7OXLSlozSWlLxGZy9D4J-LjL9RT0&h=AT3rt9uLVUb_zYG2PQnxsNYE6XN97sIkGBsqD1dHSXfF6JRWbsGlBl9oWCqzfvTqFeGXqvU4K0Wh84UTXzp7DFcuyTLIzGy88c6Stqpz7aIyW5e9uGOQ_Bn6WjxE6Ow3gQ&__tn__=H-R&c[0]=AT086kkl-gR21LxdBNC26D6_z4RNGxab-lltni4WiIl8lbKLtf8MRY-lk3e0AIM2MicVhg59hTHzxi4ePq53cRXFCWhqIGfr1qX5T_exW5TzaZhFPslzJZgzWdU214_m9wLDhwpFOROZcZDYw9mjVJEiVUl-9Kr7WFa1WU6KLFKFpkf_bFKep_ZsE6rwQ80AvkQ0-Da_AZ-dm1x73Col9A"><i class="fab fa-discord"></i></a></p><hr>
+{{- range $rumors -}}
+<p>{{- . | markdownify -}}</p>
+<div style="text-align:center"><p>~               ~</p></div>
+{{- end -}} 
+</p></div> 
+{{- end -}} 
+
+
+
+
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $module_components := (slice "makeup" "costuming" "props" "treasure" ) }}
+
+{{ range  $module_components }}
+{{ $current_component := . }} 
+
+<h2>{{ title $current_component }}</h2>
+
+{{- end -}}
+
+<h2>Source Code</h2>
+<p><a href="{{ .Params.github_url | default "https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups" }}"><i class="fab fa-github"></i></a></p>
+
+{{- partial "footer.html" . -}}

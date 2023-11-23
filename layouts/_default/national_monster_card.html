@@ -1,0 +1,94 @@
+{{ partial "header.html" . }}
+
+{{ .Content }} 
+<hr>
+  
+{{ $immune_to := (slice ) }} 
+{{ if .Params.immune_to }}
+{{ if not (reflect.IsSlice .Params.immune_to) }}{{ $immune_to = (slice .Params.immune_to ) }}
+{{ else  }} {{ $immune_to = append $immune_to .Params.immune_to }}
+{{ end }}
+{{ end }}
+
+{{ $vulnerabilities := (slice ) }} 
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities) }}{{ $vulnerabilities = (slice .Params.vulnerabilities ) }}
+{{ else  }} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}
+{{ end }}
+{{ end }}
+
+{{ $defensive_abilities := (slice ) }} 
+{{ if .Params.defensive_abilities }}
+{{ if not (reflect.IsSlice .Params.defensive_abilities) }}{{ $defensive_abilities = (slice .Params.defensive_abilities ) }}
+{{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
+{{ end }}
+{{ end }}
+
+{{ $offensive_abilities := (slice ) }} 
+{{ if .Params.offensive_abilities }}
+{{ if not (reflect.IsSlice .Params.offensive_abilities) }}{{ $offensive_abilities = (slice .Params.offensive_abilities ) }}
+{{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
+{{ end }}
+{{ end }}
+
+{{ $costuming := (slice ) }} 
+{{ if .Params.costuming }}
+{{ if not (reflect.IsSlice .Params.costuming) }}{{ $costuming = (slice .Params.costuming ) }}
+{{ else  }} {{ $costuming = append $costuming .Params.costuming }}
+{{ end }}
+{{ end }}
+
+{{ $makeup := (slice ) }} 
+{{ if .Params.makeup }}
+{{ if not (reflect.IsSlice .Params.makeup) }}{{ $makeup = (slice .Params.makeup ) }}
+{{ else  }} {{ $makeup = append $makeup .Params.makeup }}
+{{ end }}
+{{ end }}
+
+{{ $motivation := (slice ) }} 
+{{ if .Params.motivation }}
+{{ if not (reflect.IsSlice .Params.motivation) }}{{ $motivation = (slice (.Params.motivation | title)) }}
+{{ else  }} {{ $motivation = append $motivation .Params.motivation}}
+          {{ $motivations_to_title_case := (slice ) }}
+                                {{ range $motivation }}
+                                    {{ $latest_motivation := . | title }} 
+                                    {{ $motivations_to_title_case := $motivations_to_title_case |append  $latest_motivation }} 
+                                {{ $motivation = $motivations_to_title_case }}{{ end }}
+{{ end }}
+{{ end }}
+
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
+
+
+{{ if .Params.Body_points }}<p><b>Body Points:</b> {{ .Params.Body_points }}</p>{{ end }}
+{{ if .Params.Strength_bonus }}<p><b>Strength Bonus:</b> {{ .Params.Strength_bonus }}</p> {{ end }}
+{{ if .Params.threshold }}<p><b>Threshold:</b> {{ .Params.threshold }}</p> {{ end }}
+{{ if .Params.rips_from }}<p><b>Rips From:</b> {{ .Params.rips_from }}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.Type }}<p><b>Type:</b> {{ .Params.Type }}</p>{{ end }} 
+{{ if .Params.APL }}<p><b>APL:</b> {{ .Params.APL }}</p>{{ end }} 
+{{ if .Params.Inteligence }}<p><b>Inteligence:</b> {{ .Params.Inteligence }}</p>{{ end }} 
+{{ if .Params.Society }}<p><b>Society:</b> {{ .Params.Society }}</p>{{ end }} 
+{{ if .Params.Motivation }}<p><b>Motivation:</b> {{delimit  $motivation ", "  }}</p>{{ end }} 
+{{ if .Params.armor }}<p><b>Armor:</b> {{ .Params.armor }}</p>{{ end }} 
+{{ if .Params.offensive_abilities }}<p><b>Offensive Abilities:</b> {{ delimit $offensive_abilities ", " }}</p>{{ end }} 
+{{ if .Params.defensive_abilities }}<p><b>Defensive Abilities:</b> {{ delimit $defensive_abilities ", " }}</p>{{ end }} 
+{{ if .Params.vulnerabilities }}<p><b>Vulnerabilities:</b> {{ delimit $vulnerabilities ", " }}</p>{{ end }} 
+{{ if .Params.spells }}<p><b>Spells:</b> {{ .Params.spells }}</p>{{ end }} 
+{{ if .Params.pyramid }}<p><b>Pyramid:</b> {{ .Params.pyramid }}</p>{{ end }} 
+{{ if .Params.rec_treasure }}<p><b>Recomended Treasure:</b> {{ .Params.rec_treasure }}</p>{{ end }} 
+{{ if .Params.notes }}<p><b>Notes:</b> {{ .Params.notes }}</p>{{ end }} 
+{{ if .Params.weapon_use }}<p><b>Weapon Use:</b> {{ .Params.weapon_use }}</p>{{ end }} 
+{{ if .Params.claws }}<p><b>Claws:</b> {{ .Params.claws }}</p>{{ end }} 
+{{ if .Params.base_damage_call }}<p><b>Base Damage Call:</b> {{ .Params.base_damage_call }}</p>{{ end }} 
+{{ if .Params.at_death }}<p><b>At Death:</b> {{ .Params.at_death }}</p>{{ end }} 
+{{ if .Params.healed_by }}<p><b>Healed By:</b> {{ .Params.healed_by }}</p>{{ end }} 
+{{ if .Params.immune_to }}<p><b>Immune To:</b> {{ delimit $immune_to ", " }}</p>{{ end }} 
+{{ if .Params.Protectives }}<p><b>Protectives:</b> {{ .Params.Protectives }}</p>{{ end }} 
+{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{  .Params.descriptive_phrase  }}</p>{{ end }} 
+{{ if .Params.costuming }}<p><b>Costuming:</b> {{ delimit $costuming ", " }}</p>{{ end }} 
+{{ if .Params.makeup }}<p><b>Costuming:</b> {{ delimit $costuming ", " }}</p>{{ end }} 
+
+
+
+{{ partial "footer.html" . }}

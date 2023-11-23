@@ -1,0 +1,81 @@
+{{ partial "header.html" . }}
+{{ if .Params.description }}
+<div class="notices note"><p> {{ .Params.description  }}</p>
+</div>
+{{ end }} 
+
+
+
+
+{{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }}
+{{ if .Params.module_details }} {{ .Params.module_details }}  <hr>{{ end }} 
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }}
+{{- if .Params.names -}}
+{{- $current_name := .Params.names -}} 
+{{- $names := index .Site.Data "names" -}}
+{{- $orc_names := shuffle $names.orc  -}}
+<p><b>Names:</b> {{ delimit (first 5  $orc_names) ", " -}}</p>
+{{ end }}
+{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end }}
+{{ if .Params.weapons }}<p><b>Weapons:</b> {{ .Params.weapons }}</p>{{ end }}
+{{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
+
+{{ $magic := (slice ) }}
+{{ if .Params.magic }}
+{{ if not (reflect.IsSlice .Params.magic)}}{{ $magic = (slice .Params.magic) }}
+{{ else  }} {{ $magic = append $magic .Params.magic }}
+{{ end }}
+<p><b>Magic:</b> {{ delimit $magic ", "}}</p> {{- end -}}
+
+
+
+
+{{ $defenses := (slice ) }} 
+{{ if .Params.defenses }}
+{{ if not (reflect.IsSlice .Params.defenses) }}{{ $defenses = (slice .Params.defenses ) }}
+{{ else  }} {{ $defenses = append $defenses .Params.defenses }}
+{{ end }}
+<p><b>Defenses:</b> {{ delimit  $defenses ", " }}</p>
+{{ end }}
+
+
+
+{{ $abilities := (slice ) }}
+{{ if .Params.abilities }}
+{{ if not (reflect.IsSlice .Params.abilities)  }}{{ $abilities = (slice .Params.abilities ) }}
+{{ else }} {{ $abilities = append $abilities .Params.abilities }}
+{{ end }} 
+
+<p><b>Abilities:</b> {{ delimit $abilities ", "}}</p>
+{{ end }}
+
+{{ if  .Params.props }} 
+<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
+{{ end }}
+
+{{ if  .Params.costume }} 
+<p><b>Costume:</b> {{ delimit  .Params.costume ", " |  }}</p>
+{{ end }} 
+
+{{ if  .Params.makeup }} 
+<p><b>Makeup:</b> {{ delimit  .Params.makeup ", " |  }}</p>
+{{ end }} 
+
+
+{{ if  .Params.treasure }} 
+<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
+{{ end }} 
+{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
+
+{{ if .Params.killing_blow }} <p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p> {{ end}}
+{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }}
+{{ if .Params.speech }}<p><b>Speech:</b> {{ .Params.speech }}</p> {{ end }}
+{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics | markdownify}}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
+{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{ .Params.descriptive_phrase }}</p>{{ end }} 
+{{ if .Params.played_by }}<p><b>Played By:</b> {{ .Params.played_by }}</p>{{ end }} 
+
+{{ partial "footer.html" . }}

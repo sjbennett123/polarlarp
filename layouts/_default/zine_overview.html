@@ -1,0 +1,52 @@
+{{ $zine_pages := where $.Site.Pages "Section" .Section }}
+{{ $zine_pages := where $zine_pages ".Params.Layout" "=="  "zine" }}
+
+{{ $zine_national_pages := where $.Site.Pages "Section" .Section }}
+{{ $zine_national_pages := where $zine_national_pages ".Params.Layout" "=="  "zine_national" }}
+
+{{ $map_pages := where $.Site.Pages "Section" .Section }}
+{{ $map_pages := where $map_pages ".Params.Layout" "=="  "map" }}
+
+{{ $map_national_pages := where $.Site.Pages "Section" .Section }}
+{{ $map_national_pages := where $map_national_pages ".Params.Layout" "=="  "map_national" }}
+
+{{ $background_pages := where $.Site.Pages "Section" .Section }}
+{{ $background_pages := where $background_pages ".Params.Layout" "ne"  "zine" }}
+
+<h2 id="zines">POLAR Zines</h2>
+
+<p>
+{{ range  $zine_pages }}
+<a href="{{.Permalink}}"><img src="{{ .Params.cover_thumbnail }}" alt="{{ title  .Title }}" style=''></a>
+
+{{- end -}}
+</p>
+
+<h2 id="zines">NERO National Zines</h2>
+<p>
+{{ range  $zine_national_pages }}
+<a href="{{.Permalink}}"><img src="{{ .Params.cover_thumbnail }}" alt="{{ title  .Title }}" style=''></a>
+
+{{- end -}}
+</p>
+
+<h2 id="zines">POLAR Maps</h2>
+<p>
+{{ range  $map_pages }}
+<a href="{{.Permalink}}"><img src="{{ .Params.cover_thumbnail }}" alt="{{ title  .Title }}" style=''></a>
+
+{{- end -}}
+</p>
+
+<h2 id="zines">National Maps</h2>
+<p>
+{{ range  $map_national_pages }}
+<a href="{{.Permalink}}"><img src="{{ .Params.cover_thumbnail }}" alt="{{ title  .Title }}" style=''></a>
+
+{{- end -}}
+</p>
+
+<h2 id="zines">National Maps</h2>
+<p>
+<a href="./race_packets">Race Packets</a>
+</p>
