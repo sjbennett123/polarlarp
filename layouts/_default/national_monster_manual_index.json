@@ -1,0 +1,87 @@
+{{ $number_of_monsters := len (where .Pages ".Params.Layout" "=="  "national_monster_card")  }}
+[
+{{- range $index, $value := where .Pages ".Params.Layout" "IN"  (slice "national_monster_card" ) -}} 
+
+{{- $immune_to := (slice ) }} 
+{{- if .Params.immune_to }}
+{{- if not (reflect.IsSlice .Params.immune_to) }}{{ $immune_to = (slice .Params.immune_to ) }}
+{{- else  }} {{ $immune_to = append $immune_to .Params.immune_to }}
+{{- end }}
+{{- end }}
+
+{{- $vulnerabilities := (slice ) }} 
+{{- if .Params.vulnerabilities }}
+{{- if not (reflect.IsSlice .Params.vulnerabilities) }}{{ $vulnerabilities = (slice .Params.vulnerabilities ) }}
+{{- else  }} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}
+{{- end }}
+{{- end }}
+
+{{- $defensive_abilities := (slice ) }} 
+{{- if .Params.defensive_abilities }}
+{{- if not (reflect.IsSlice .Params.defensive_abilities) }}{{ $defensive_abilities = (slice .Params.defensive_abilities ) }}
+{{- else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
+{{- end }}
+{{- end }}
+
+{{- $offensive_abilities := (slice ) }} 
+{{- if .Params.offensive_abilities }}
+{{- if not (reflect.IsSlice .Params.offensive_abilities) }}{{ $offensive_abilities = (slice .Params.offensive_abilities ) }}
+{{- else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
+{{- end }}
+{{- end }}
+
+
+{{- $costuming := (slice ) -}} 
+{{- if .Params.costuming -}}
+{{- if not (reflect.IsSlice .Params.costuming) }}{{ $costuming = (slice .Params.costuming ) -}}
+{{- else  }} {{ $costuming = append $costuming .Params.costuming -}}
+{{- end -}}
+{{- end -}}
+
+
+{{ $motivation := (slice ) }} 
+{{ if .Params.motivation }}
+{{ if not (reflect.IsSlice .Params.motivation) }}{{ $motivation = (slice (.Params.motivation | title)) }}
+{{ else  }} {{ $motivation = append $motivation .Params.motivation}}
+          {{ $motivations_to_title_case := (slice ) }}
+                                {{ range $motivation }}
+                                    {{ $latest_motivation := . | title }} 
+                                    {{ $motivations_to_title_case := $motivations_to_title_case |append  $latest_motivation }} 
+                                {{ $motivation = $motivations_to_title_case }}{{ end }}
+{{- end -}}
+{{- end -}}
+    {"title": "{{- .Params.title -}}",
+    "name":"{{- .Params.name -}}",
+    "type": "{{- .Params.type | title -}}",
+    "apl":"{{- .Params.apl -}}",
+    "motivation":"{{- delimit  $motivation ", "  -}}",
+    "movement":"{{- .Params.movement -}}",
+    "Inteligence":"{{- .Params.Inteligence -}}",
+    "Body_points":"{{- .Params.Body_points -}}",
+    "armor": "{{- .Params.armor -}}",
+    "at_death": "{{- .Params.at_death -}}",
+    "healed_by": "{{- .Params.healed_by -}}",
+    "Strength_bonus":"{{- .Params.Strength_bonus -}}",
+    "threshold":"{{- .Params.threshold -}}",
+    "rips_from":"{{- .Params.rips_from -}}",
+    "weapon_use":"{{ .Params.weapon_use }}",
+    "claws":"{{ .Params.claws }}",
+    "base_damage_call":"{{ .Params.base_damage_call }}",
+    "immune_to":"{{ delimit $immune_to ", " }}",
+    "Protectives":"{{- .Params.Protectives -}}",
+    "offensive_abilities": "{{- delimit $offensive_abilities ", " -}}",
+    "defensive_abilities":"{{- delimit $defensive_abilities ", " -}}",
+    "vulnerabilities":"{{- delimit $vulnerabilities ", " -}}",
+    "spells":"{{- .Params.spells -}}",
+    "pyramid":"{{- .Params.pyramid -}}",
+    "healed_by": "{{ .Params.healed_by -}}",
+    "rec_treasure":"{{ .Params.rec_treasure -}}",
+    "notes":"{{ .Params.notes -}}",
+    "immune_to":"{{ delimit $immune_to ", " -}}",
+    "Society": "{{ .Params.Society -}}",
+    "descriptive_phrase": "{{  .Params.descriptive_phrase  }}",
+    "costuming": "{{ delimit $costuming ", " }}",
+    "monster_manual":"{{ .Params.monster_manual -}}"
+    }{{- if ne (add $index 1 ) $number_of_monsters -}}, {{ end -}}
+{{ end }}
+]

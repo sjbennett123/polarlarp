@@ -1,0 +1,19 @@
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+/discord                 https://discord.gg/JSJKgXfdHG
+/fboog                   https://www.facebook.com/groups/348666906438615
+/fbig                    https://www.facebook.com/groups/3408485185934076
+
+/event_survey            https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
+/writersroom             https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122
+/ideas                   https://forms.gle/j3n8CiwL9dvjQNsL9
+/photoupload             https://www.dropbox.com/request/sr08VoJUT2jTUUF4x2R9
+
+/orc                     https://gloryforthefist.netlify.app
+/gloryforthefist         https://gloryforthefist.netlify.app
+/deathtothecowardduke    https://gloryforthefist.netlify.app
+/orczine                 https://mixam.com/print-on-demand/644c7c21a1c8c2042edafb36
+
+/vampire                 https://vindalebynight.netlify.app
+/vampirezine             https://mixam.com/print-on-demand/64fd048a35ca8829038e7b74
+
+/prison                  https://cryptinthnocturna.netlify.app

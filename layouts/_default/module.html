@@ -1,0 +1,282 @@
+{{ partial "header.html" . }}
+
+<p><b>Written By:</b> {{ .Params.author -}}
+
+{{- if or (.Params.reviewer) (where .Pages ".Params.Layout" "=" "feedback") -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
+{{- if where .Pages ".Params.Layout" "=" "feedback"  -}} 
+    {{- range where .Pages ".Params.Layout" "IN"  (slice "feedback" ) -}}
+            <a href="{{- .Permalink -}}"> {{ .Params.author }} </a>
+    {{- end -}}
+</p>
+</div>
+{{- end -}}
+
+{{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
+
+<div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
+{{- $requirements := (slice ) -}}
+{{- if .Params.requirements -}} 
+{{- if not (reflect.IsSlice .Params.requirements) -}}{{- $requirements = (slice .Params.requirements ) -}}
+{{- else -}} {{- $requirements = append $requirements .Params.requirements -}}{{- end -}} 
+{{- end -}}
+
+{{- if .Params.schedule -}}{{- $schedule := print "Run on " ( title .Params.schedule )  -}}{{- $requirements = append $requirements (slice ( $schedule ) ) -}} {{- end -}}
+
+{{- if $requirements -}}
+<div id ="requirements"> 
+<p><b>Requirements:</b></p>
+    {{- range  $requirements -}}
+    <li>{{- . -}}</li>
+    {{- end -}}
+</div>
+{{ end }}
+
+ {{- if .Params.background -}}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify -}}</p></div>{{- end -}}
+
+
+{{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
+
+{{- if .Params.outcomes -}} 
+{{- $outcomes := (slice ) -}} 
+{{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
+{{ else  }} {{ $outcomes = append $outcomes .Params.outcomes }}{{ end }} 
+<div id= "outcomes" ><p><b>Outcomes:</b></p>
+<ol>
+    {{ range $outcomes }}
+    <li>{{ . }}</li>
+    {{ end }}
+</ol></div>
+{{ end }}
+
+<div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
+
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+<div id="roles"><p><b>Roles:</b> 
+{{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+{{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+{{ if (ne $index 0) }}, {{ end }}
+<a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
+    {{- end -}}
+{{ end }}
+</p></div>
+{{- end }}
+{{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
+<div id="misc"><p><b>Misc: </b>
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- title .Title -}}</a>
+{{- end -}}
+
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- title .Title -}}</a>{{- end -}}</p></div>
+{{- end -}}
+
+<!-- props convert to array if string on module -->
+
+{{ $props := (slice ) }}
+{{ if  .Params.props }} 
+{{ $props = $props  | append .Params.props }}
+{{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
+                      {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+    {{ end }}
+{{ end }}
+
+{{ $props = $props  | uniq }}
+{{ if (gt ($props | len) 0) }}
+<div id="props"> <p><b>Props: </b> 
+{{ delimit $props ", "}}
+</p></div> 
+{{ end }}
+
+
+{{ $makeup := (slice ) }}
+{{ if  .Params.makeup }} 
+{{ $makeup = $makeup  | append .Params.makeup }} {{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
+           {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
+    {{ end }}
+{{ end }}
+{{ $makeup := $makeup | uniq }} 
+{{ if (gt ($makeup | len) 0) }}
+<div id="makeup"> <p><b>Makeup: </b>
+{{ delimit $makeup ", "}}
+</p></div> 
+{{ end }}
+
+{{ $costuming := (slice ) }}
+{{ if  .Params.costuming }}
+{{ $costuming =  $costuming |append .Params.costuming }}
+{{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" )  }}
+             {{ if .Params.costuming }}  {{ $costuming =  $costuming |append .Params.costuming }} {{ end }}
+    {{ end }}
+{{ end }}
+{{ $costuming := $costuming | uniq }}
+{{ if (gt ($costuming | len) 0) }}
+<div id="costuming"><p><b>Costuming:</b>
+{{ delimit $costuming  ", "}}
+</p></div> 
+{{ end }}
+
+
+
+
+
+
+
+
+{{ if or (.Params.treasure)  (.Params.magic_items) }}
+<div id="treasure"> <p><b>Treasure:</b>
+{{- $treasure := (slice ) -}} 
+{{ if not (reflect.IsSlice .Params.treasure) }}{{ $treasure = (slice .Params.treasure ) }}
+{{ else  }} {{ $treasure = append $treasure .Params.treasure }} {{- end -}} 
+{{ delimit  $treasure ", " -}}
+{{ $magic_items := (slice )  }}
+{{- if .Params.magic_items -}}
+    {{- $magic_items = append $magic_items .Params.magic_items -}}
+{{- end -}}
+{{- if (gt ($magic_items | len) 0) -}}
+
+{{- range  $index,$magic_items  -}}
+,
+<b><i>{{- title .name -}}(</b></i>
+<b>Description:</b> {{ .description }}
+<b>Duration:</b> {{ title .duration }}
+<b>Effects:</b> {{ delimit .effects ", " }}<b>)</b>
+{{ end }} 
+{{ end }}
+</p></div>
+{{ end }}
+
+{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify }}</p></div> {{ end }} 
+
+<div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 
+
+{{ if  .Params.scenes }} 
+<div id="scenes"><p><b>Scenes:</b> {{ range .Params.scenes }}
+      <ul><b>In Game:</b> {{ .ig}} 
+      <b>Out of Game:</b> {{ .oog}} 
+      <b>Flee Point:</b> {{ .flee_point}}</ul>
+   {{ end }}</div>
+{{ end}}
+
+{{ if .Params.non_standard_effects }}<div id="non_standard_effects"> <p><b>Non Standard Effects:</b> {{ .Params.non_standard_effects }}</p> </div> {{ end }} 
+{{ if .Params.rules_clarifications }}<div id="rules_clarifications"> <p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> </div> {{ end }} 
+{{ if .Params.craftsman_information }}<div id="craftsman_information"><p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p></div> {{ end }} 
+{{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
+{{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
+
+{{ .Content }} 
+
+{{ if .Params.reviewer }} 
+{{ else }} 
+
+<!--Tooltip Scripts & Settings-->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+
+<script>
+tippy('#brief',{ 
+  content: 'This is a one or two sentence description of the module. Don’t put any mystery in here be as simple and direct as possible.',});
+</script>
+
+<script>
+tippy('#requirements',{ 
+  content: 'The conditions that need met for the module to be ran. If the module needs run at night or must be ran after another module.',});
+</script>
+
+<script>
+tippy('#synopsis',{ 
+  content: 'This is the meat and potatoes of the write-up. Be as verbose as you can and explain all the ins and outs of the adventure. Someone should be able to run the module with just the information here. The rest of the writeup will make it really shine but you will need to spell it out here. "',});
+</script>
+
+<script>
+tippy('#outcomes',{ 
+  content: 'The things you can see coming of the module. Think about stuff like how the players can lose and how the players might not follow what you have planned. This section is really important for when you have a bunch of modules that you string together or a pitched battle.',});
+</script>
+
+<script>
+tippy('#roles',{ 
+  content: 'These are the different roles that the cast members will be playing for the encounter. Each role will be given the module sheet and the role card. Remember that the Hook needs a role card too.',});
+</script>
+
+<script>
+tippy('#running_notes',{ 
+  content: 'This is the guidance that you would give a runner. Often the things you want to put there belong in the Synopsis or the Background. Try to reserve this for advice about how to make the encounter run smoothly.',});
+</script>
+
+
+<script>
+tippy('#non_standard_effects',{ 
+  content: 'Anything that does not conform to the NERO rules will go here. These deviations will be detailed at the start of the module.',});
+</script>
+
+<script>
+tippy('#rules_clarifications',{ 
+  content: 'What rules are heavily used on the encounter that would do with some clarification.',});
+</script>
+
+
+<script>
+tippy('#treasure',{ 
+  content: 'Any tags that are needed for the encounter, generally you will divvy the treasure for each of the different roles if this is not the case mark it down. Remember that the treasure for a module is often the MOST important thing for the players even though it can be easy to forget about.',});
+</script>
+
+<script>
+tippy('#transforms',{ 
+  content: '"Do transforms go up? Which ones?',});
+</script>
+
+<script>
+tippy('#scenes',{ 
+  content: 'List out all of the scenes that will be used in the module. If there is a cave with 5 rooms write out 5 scenes. Detail any setup that is needed. Detail both the Out of Game setup that is needed as well as what the scene is in the game. Possibly give a description that the runner can read as box Text. Don’t detail the Tavern or The Town as a scene. It is assumed that part of the module will interact with the players that are away from the module area due',});
+</script>
+
+<script>
+tippy('#rumors',{ 
+  content: 'the key to a good story',});
+</script>
+
+<script>
+tippy('#hook',{ 
+  content: 'This is how the players get on the module. All modules need a hook of some sort even if its the players find an Adventure Card in the woods or the players tell the game master that they are going to the Forgotten City.',
+  arrow: true,
+  });
+   
+</script>
+
+<script>
+tippy('#makeup',{ 
+  content: 'Makeup.',});
+</script>
+
+<script>
+tippy('#number_of_cast_members',{ 
+  content: 'Give a range. The fewer cast members that CAN run a module the better dont get too ambitious and write a module that requires 10-15 NPCs. Often you will have mooks that will be able to be added to a scene to flesh it out.',
+  arrow: true,
+  });
+</script> 
+
+<script>
+tippy('#craftsman_information',{ 
+  content: 'Craftsman Information',
+  arrow: true,
+  });
+</script> 
+
+<script>
+tippy('#props',{ 
+  content: 'list the props',
+  arrow: true,
+
+  });
+</script> 
+
+{{ end }} 
+
+
+{{ partial "footer.html" . }}

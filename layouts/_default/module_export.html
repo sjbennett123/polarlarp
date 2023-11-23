@@ -1,0 +1,398 @@
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $skip_cards := .Params.skip_cards }} 
+{{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern_setup" "townsfolk" "randoms" nil) }}
+
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<h3>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</h3>
+<p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
+      <p>{{ if eq $current_schedule "reaction" }}<b>{{- .Params.requirements  -}}</b>{{- end -}}<b>{{ title .Title }}:</b> {{- .Params.description -}} {{ if eq $current_schedule  nil }} -- Written by {{ title .Params.author -}}{{ end }}
+</p>
+{{ end }}
+
+{{ end }} 
+{{ end }}
+
+
+
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<h3>{{ title  $current_schedule }}</h3>
+<p><b>{{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b> Modules to run </p>
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range sort (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule) "Params.weight" -}}
+
+     <h1> {{ title .Params.title -}} </h1>{{ $module_title := .Params.title -}}
+
+<p><b>Written By:</b> {{ .Params.author -}}
+{{- if (.Params.reviewer) -}}<div id="reviewer"> <p><b>Reviewed By:</b> {{ .Params.reviewer }} {{ end }}
+{{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
+<div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
+{{- $requirements := (slice ) -}}
+{{- if .Params.requirements -}} 
+{{- if not (reflect.IsSlice .Params.requirements) -}}{{- $requirements = (slice .Params.requirements ) -}}
+{{- else -}} {{- $requirements = append $requirements .Params.requirements -}}{{- end -}} 
+{{- end -}}
+
+{{- if .Params.schedule -}}{{- $schedule := print "Run on " ( title .Params.schedule )  -}}{{- $requirements = append $requirements (slice ( $schedule ) ) -}} {{- end -}}
+
+{{- if $requirements -}}
+<div id ="requirements"> 
+<p><b>Requirements:</b></p>
+    {{- range  $requirements -}}
+    <li>{{- . -}}</li>
+    {{- end -}}
+</div>
+{{ end }}
+ {{- if .Params.background -}}<div id="background"> <p><b>Background:</b> {{ .Params.background | markdownify -}}</p></div>{{- end -}}
+{{- if .Params.synopsis -}} <div id="synopsis"> <p><b>Synopsis:</b> {{ .Params.synopsis | markdownify -}}</p></div> {{ end }}
+{{- if .Params.outcomes -}} 
+{{- $outcomes := (slice ) -}} 
+{{ if not (reflect.IsSlice .Params.outcomes) }}{{ $outcomes = (slice .Params.outcomes ) }}
+{{ else  }} {{ $outcomes = append $outcomes .Params.outcomes }}{{ end }} 
+<div id= "outcomes" ><p><b>Outcomes:</b></p>
+<ol>
+    {{ range $outcomes }}
+    <li>{{ . }}</li>
+    {{ end }}
+</ol></div>
+<h5>~</h5>
+<div id="number_of_cast_members"> <p><b>Number of Cast Members:</b> {{ .Params.number_of_cast_members | default "1" }}<p></div> 
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+<div id="roles"><p><b>Roles:</b> 
+{{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+{{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+{{ if (ne $index 0) }}, {{ end }}
+{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}}
+    {{- end -}}
+{{ end }}
+</p></div>
+{{- end }}
+
+
+{{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
+<div id="misc"><p><b>Misc: </b>
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+{{- if (ne $index 0) }}, {{ end -}}{{- .Title -}}{{- end -}}
+
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+{{- if (ne $index 0) }}, {{ end -}}{{- .Title -}}{{- end -}}</p></div>
+{{- end -}}
+
+
+
+{{ $props := (slice ) }}
+{{ if  .Params.props }} 
+{{ $props = $props  | append .Params.props }}
+{{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
+                      {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+    {{ end }}
+{{ end }}
+
+{{ $props = $props  | uniq }}
+{{ if (gt ($props | len) 0) }}
+<div id="props"> <p><b>Props: </b> 
+{{ delimit $props ", "}}
+</p></div> 
+{{ end }}
+
+
+{{ $makeup := (slice ) }}
+{{ if  .Params.makeup }} 
+{{ $makeup = $makeup  | append .Params.makeup }} {{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
+           {{ if  .Params.makeup }}{{ $makeup = $makeup  | append .Params.makeup }}{{ end }}
+    {{ end }}
+{{ end }}
+{{ $makeup := $makeup | uniq }} 
+{{ if (gt ($makeup | len) 0) }}
+<div id="makeup"> <p><b>Makeup: </b>
+{{ delimit $makeup ", "}}
+</p></div> 
+{{ end }}
+
+{{ $costuming := (slice ) }}
+{{ if  .Params.costuming }}
+{{ $costuming =  $costuming |append .Params.costuming }}
+{{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" )  }}
+             {{ if .Params.costuming }}  {{ $costuming =  $costuming |append .Params.costuming }} {{ end }}
+    {{ end }}
+{{ end }}
+{{ $costuming := $costuming | uniq }}
+{{ if (gt ($costuming | len) 0) }}
+<div id="costuming"><p><b>Costuming:</b>
+{{ delimit $costuming  ", "}}
+</p></div> 
+{{ end }}
+
+
+
+
+
+{{ if or (.Params.treasure)  (.Params.magic_items) }}
+<div id="treasure"> <p><b>Treasure:</b>
+{{- $treasure := (slice ) -}} 
+{{ if not (reflect.IsSlice .Params.treasure) }}{{ $treasure = (slice .Params.treasure ) }}
+{{ else  }} {{ $treasure = append $treasure .Params.treasure }} {{- end -}} 
+{{ delimit  $treasure ", " -}}
+{{ $magic_items := (slice )  }}
+{{- if .Params.magic_items -}}
+    {{- $magic_items = append $magic_items .Params.magic_items -}}
+{{- end -}}
+{{- if (gt ($magic_items | len) 0) -}}
+
+{{- range  $index,$magic_items  -}}
+,
+<b><i>{{- title .name -}}(</b></i>
+<b>Description:</b> {{ .description }}
+<b>Duration:</b> {{ title .duration }}
+<b>Effects:</b> {{ delimit .effects ", " }}<b>)</b>
+{{ end }} 
+{{ end }}
+</p></div>
+{{ end }}
+
+{{ if .Params.rumors }} <div id="rumors"> <p> <b>Rumors:</b> {{ .Params.rumors | markdownify }}</p></div> {{ end }} 
+
+<div id="hook"> {{ if .Params.hook }}<p ><b>Hook:</b> {{ .Params.hook }} </p> {{ end }} </div> 
+
+{{ if  .Params.scenes }} 
+<div id="scenes"><p><b>Scenes:</b> {{ range .Params.scenes }}
+      <ul><b>In Game:</b> {{ .ig}} 
+      <b>Out of Game:</b> {{ .oog}} 
+      <b>Flee Point:</b> {{ .flee_point}}</ul>
+   {{ end }}</div>
+{{ end}}
+
+{{ if .Params.non_standard_effects }}<div id="non_standard_effects"> <p><b>Non Standard Effects:</b> {{ .Params.non_standard_effects }}</p> </div> {{ end }} 
+{{ if .Params.rules_clarifications }}<div id="rules_clarifications"> <p><b>Rules Clarifications:</b> {{ .Params.rules_clarifications }}</p> </div> {{ end }} 
+{{ if .Params.craftsman_information }}<div id="craftsman_information"><p><b>Craftsman Information:</b> {{ .Params.craftsman_information }}</p></div> {{ end }} 
+{{ if .Params.transformations }}<div id="transformations"><p><b>Transformations:</b> {{ .Params.transformations }}</p></div> {{ end }} 
+{{ if .Params.running_notes }}<div id ="running_notes"> <p><b>Running Notes:</b> {{ .Params.running_notes }}</p></div>{{ end }} 
+
+{{ .Content }} 
+{{ if eq $skip_cards nil }} 
+{{ range where .Pages ".Params.Layout" "=="  "role"  }}
+
+
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
+
+{{ if .Params.introduction }}<p><i>{{ .Params.introduction | markdownify }}</i></p><hr>{{ end }} 
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
+{{- if .Params.names -}}
+{{- $current_name := .Params.names -}} 
+{{- $names := index .Site.Data "names" -}}
+{{- $orc_names := shuffle $names.orc  -}}
+<p><b>Names:</b> {{ delimit (first 5  $orc_names) ", " -}}</p>
+{{- end -}}
+{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end}}
+{{ if .Params.weapons }}<p><b>Weapons:</b> {{ .Params.weapons }}</p>{{ end }}
+{{ if .Params.damage }}<p><b>Damage:</b> {{ .Params.damage }}</p> {{ end }}
+
+
+
+
+{{ $magic := (slice ) }}
+{{ if .Params.magic }}
+{{ if not (reflect.IsSlice .Params.magic)}}{{ $magic = (slice .Params.magic) }}
+{{ else  }} {{ $magic = append $magic .Params.magic }}
+{{ end }}
+<p><b>Magic:</b> {{ delimit $magic ", "}}</p> {{ end }}
+
+
+
+
+{{ $defenses := (slice ) }} 
+{{ if .Params.defenses }}
+{{ if not (reflect.IsSlice .Params.defenses) }}{{ $defenses = (slice .Params.defenses ) }}
+{{ else  }} {{ $defenses = append $defenses .Params.defenses }}
+{{ end }}
+<p><b>Defenses:</b> {{ delimit  $defenses ", " }}</p>
+{{ end }}
+
+
+
+{{ $abilities := (slice ) }}
+{{ if .Params.abilities }}
+{{ if not (reflect.IsSlice .Params.abilities)  }}{{ $abilities = (slice .Params.abilities ) }}
+{{ else }} {{ $abilities = append $abilities .Params.abilities }}
+{{ end }} 
+
+<p><b>Abilities:</b> {{ delimit $abilities ", "}}</p>
+{{ end }}
+
+{{ if  .Params.props }} 
+<p><b>Props:</b> {{ delimit  .Params.props ", " |  }}</p>
+{{ end }}
+
+{{ if  .Params.costume }} 
+<p><b>Costume:</b> {{ delimit  .Params.costume ", " |  }}</p>
+{{ end }} 
+
+{{ if  .Params.makeup }} 
+<p><b>Makeup:</b> {{ delimit  .Params.makeup ", " |  }}</p>
+{{ end }} 
+
+
+{{ if  .Params.treasure }} 
+<p><b>Treasure:</b> {{ delimit  .Params.treasure ", " }}</p>
+{{ end }} 
+{{ if  .Params.rumors }}<p><b>Rumors:</b> {{ .Params.rumors }}</p>{{ end }} 
+
+{{ if .Params.killing_blow }} <p><b>Killing Blow:</b> {{ .Params.killing_blow | default "no" }}</p> {{ end}}
+{{ if .Params.motivation }}<p><b>Motivation:</b> {{ .Params.motivation }}</p> {{ end }}
+{{ if .Params.speech }}<p><b>Speech:</b> {{ .Params.speech }}</p> {{ end }}
+{{ if .Params.tactics }}<p><b>Tactics:</b> {{ .Params.tactics | markdownify}}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.search }}<p><b>Search:</b> {{ .Params.search }}</p>{{ end }} 
+{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{ .Params.descriptive_phrase }}</p>{{ end }} 
+{{ if .Params.played_by }}<p><b>Played By:</b> {{ .Params.played_by }}</p>{{ end }} 
+
+
+
+{{ end }}
+    
+    
+    
+    
+    
+    
+
+
+
+{{ range where .Pages ".Params.Layout" "=="  "national_monster_card"  }}
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
+
+
+
+
+{{ .Content }} 
+<hr>
+  
+{{ $immune_to := (slice ) }} 
+{{ if .Params.immune_to }}
+{{ if not (reflect.IsSlice .Params.immune_to) }}{{ $immune_to = (slice .Params.immune_to ) }}
+{{ else  }} {{ $immune_to = append $immune_to .Params.immune_to }}
+{{ end }}
+{{ end }}
+
+{{ $vulnerabilities := (slice ) }} 
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities) }}{{ $vulnerabilities = (slice .Params.vulnerabilities ) }}
+{{ else  }} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}
+{{ end }}
+{{ end }}
+
+{{ $defensive_abilities := (slice ) }} 
+{{ if .Params.defensive_abilities }}
+{{ if not (reflect.IsSlice .Params.defensive_abilities) }}{{ $defensive_abilities = (slice .Params.defensive_abilities ) }}
+{{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
+{{ end }}
+{{ end }}
+
+{{ $offensive_abilities := (slice ) }} 
+{{ if .Params.offensive_abilities }}
+{{ if not (reflect.IsSlice .Params.offensive_abilities) }}{{ $offensive_abilities = (slice .Params.offensive_abilities ) }}
+{{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
+{{ end }}
+{{ end }}
+
+{{ $costuming := (slice ) }} 
+{{ if .Params.costuming }}
+{{ if not (reflect.IsSlice .Params.costuming) }}{{ $costuming = (slice .Params.costuming ) }}
+{{ else  }} {{ $costuming = append $costuming .Params.costuming }}
+{{ end }}
+{{ end }}
+
+{{ $makeup := (slice ) }} 
+{{ if .Params.makeup }}
+{{ if not (reflect.IsSlice .Params.makeup) }}{{ $makeup = (slice .Params.makeup ) }}
+{{ else  }} {{ $makeup = append $makeup .Params.makeup }}
+{{ end }}
+{{ end }}
+
+{{ $motivation := (slice ) }} 
+{{ if .Params.motivation }}
+{{ if not (reflect.IsSlice .Params.motivation) }}{{ $motivation = (slice (.Params.motivation | title)) }}
+{{ else  }} {{ $motivation = append $motivation .Params.motivation}}
+          {{ $motivations_to_title_case := (slice ) }}
+                                {{ range $motivation }}
+                                    {{ $latest_motivation := . | title }} 
+                                    {{ $motivations_to_title_case := $motivations_to_title_case |append  $latest_motivation }} 
+                                {{ $motivation = $motivations_to_title_case }}{{ end }}
+{{ end }}
+{{ end }}
+
+{{ if .Params.reset }}<p><b>Reset:</b> {{ .Params.reset }}</p> <hr>{{ end }} 
+
+
+{{ if .Params.Body_points }}<p><b>Body Points:</b> {{ .Params.Body_points }}</p>{{ end }}
+{{ if .Params.Strength_bonus }}<p><b>Strength Bonus:</b> {{ .Params.Strength_bonus }}</p> {{ end }}
+{{ if .Params.threshold }}<p><b>Threshold:</b> {{ .Params.threshold }}</p> {{ end }}
+{{ if .Params.rips_from }}<p><b>Rips From:</b> {{ .Params.rips_from }}</p> {{ end }} 
+{{ if .Params.movement }}<p><b>Movement:</b> {{ .Params.movement }}</p> {{ end }}
+{{ if .Params.Type }}<p><b>Type:</b> {{ .Params.Type }}</p>{{ end }} 
+{{ if .Params.APL }}<p><b>APL:</b> {{ .Params.APL }}</p>{{ end }} 
+{{ if .Params.Inteligence }}<p><b>Inteligence:</b> {{ .Params.Inteligence }}</p>{{ end }} 
+{{ if .Params.Society }}<p><b>Society:</b> {{ .Params.Society }}</p>{{ end }} 
+{{ if .Params.Motivation }}<p><b>Motivation:</b> {{delimit  $motivation ", "  }}</p>{{ end }} 
+{{ if .Params.armor }}<p><b>Armor:</b> {{ .Params.armor }}</p>{{ end }} 
+{{ if .Params.offensive_abilities }}<p><b>Offensive Abilities:</b> {{ delimit $offensive_abilities ", " }}</p>{{ end }} 
+{{ if .Params.defensive_abilities }}<p><b>Defensive Abilities:</b> {{ delimit $defensive_abilities ", " }}</p>{{ end }} 
+{{ if .Params.vulnerabilities }}<p><b>Vulnerabilities:</b> {{ delimit $vulnerabilities ", " }}</p>{{ end }} 
+{{ if .Params.spells }}<p><b>Spells:</b> {{ .Params.spells }}</p>{{ end }} 
+{{ if .Params.pyramid }}<p><b>Pyramid:</b> {{ .Params.pyramid }}</p>{{ end }} 
+{{ if .Params.rec_treasure }}<p><b>Recomended Treasure:</b> {{ .Params.rec_treasure }}</p>{{ end }} 
+{{ if .Params.notes }}<p><b>Notes:</b> {{ .Params.notes }}</p>{{ end }} 
+{{ if .Params.weapon_use }}<p><b>Weapon Use:</b> {{ .Params.weapon_use }}</p>{{ end }} 
+{{ if .Params.claws }}<p><b>Claws:</b> {{ .Params.claws }}</p>{{ end }} 
+{{ if .Params.base_damage_call }}<p><b>Base Damage Call:</b> {{ .Params.base_damage_call }}</p>{{ end }} 
+{{ if .Params.at_death }}<p><b>At Death:</b> {{ .Params.at_death }}</p>{{ end }} 
+{{ if .Params.healed_by }}<p><b>Healed By:</b> {{ .Params.healed_by }}</p>{{ end }} 
+{{ if .Params.immune_to }}<p><b>Immune To:</b> {{ delimit $immune_to ", " }}</p>{{ end }} 
+{{ if .Params.Protectives }}<p><b>Protectives:</b> {{ .Params.Protectives }}</p>{{ end }} 
+{{ if .Params.descriptive_phrase }}<p><b>Descriptive Phrase:</b> {{  .Params.descriptive_phrase  }}</p>{{ end }} 
+{{ if .Params.costuming }}<p><b>Costuming:</b> {{ delimit $costuming ", " }}</p>{{ end }} 
+{{ if .Params.makeup }}<p><b>Costuming:</b> {{ delimit $costuming ", " }}</p>{{ end }} 
+
+{{ end }} 
+
+
+{{ end }}<!--  end skip cards  -->
+
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+
+{{- end -}}
+
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+<h2>{{ $module_title }} : {{ title .Title }}</h2>
+{{ if .Content }} {{ .Content }}  <hr>{{ end }} 
+
+{{- end -}}
+{{ end }}
+
+
+{{ end }}
+
+{{ end }} 
+{{ end }}

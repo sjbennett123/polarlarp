@@ -1,0 +1,66 @@
+{{ partial "header.html" . }}
+
+{{ $levels := (slice 1 2 3 4 5 6 7 8 9 ) }}
+{{ $spell_level := 0 }} 
+{{- $spell_reference := index .Site.Data "spells" }}
+{{- $spells_items := $spell_reference.spells }}
+{{- $spells_filtered := "" }}
+
+{{- $cantrip_reference := index .Site.Data "cantrips" }}
+{{- $cantrip_items := $cantrip_reference.cantrips }}
+
+{{ $spells_items | len}}
+{{ $spells_filtered | len}}
+
+
+{{ .Content }}
+
+<hr>
+<p> P is for potion S is for scroll M is for Manifold</p>
+
+{{ range $levels }}
+                <h3 style="text-align:center;">{{ . }}</h3>
+                {{ $spell_level = . }} 
+    {{ range  $spells_items }}
+        {{- if ( eq .level $spell_level )   }} 
+
+                <h3>{{ .name }}</h3>
+                    <p><b>Incantation: </b>{{ .incantation }}</p>
+                    <p><b>Level: </b>{{ .level }}</p>
+                    <p><b>School: </b> {{ if .Celestial }}Celestial {{ end }}
+                                       {{ if .Scroll }} (S) {{ end }}
+                                       {{ if .Earth }} Earth {{ end }}
+                                       {{ if .Potion }} (P) {{ end }}
+                                       {{ if .Manifold }} (M) {{ end }} </p>
+                    <p><b>Duration: </b>{{ .Duration }}</p>
+                    <p><b>Description: </b>{{ .description | markdownify }}</p>
+                    {{ end }} 
+    {{ end }}
+{{ end }}
+
+                <h3 style="text-align:center;">Cantrips</h3>
+
+{{ range  $cantrip_items }}
+
+                <h3>{{ .name }}</h3>
+                    <p><b>Level: </b>Cantrip</p>
+                    <p><b>Incantation: </b>{{ .Incantation }}</p>
+                    <p><b>Type: </b>{{ .Type }}</p>
+                    <p><b>School: </b>{{ if .Celestial }}Celestial {{ end }}
+                                      {{ if .Earth }} Earth {{ end }}
+                                       </p>
+                    <p><b>Duration: </b>{{ .Duration }}</p>
+                    <p><b>Component Cost: </b>{{ .Cost }}</p>
+                    {{ if .oog_notes }}<p><b>Out of Game Notes: </b>{{ .oog_notes }}</p>{{ end }}
+
+                    <p><b>Effect: </b>{{- .Effect | markdownify -}}</p>
+{{ end }}
+
+<footer class="footline">
+	{{with .Params.LastModifierDisplayName}}
+	    <i class='fas fa-user'></i> <a href="mailto:{{ $.Params.LastModifierEmail }}">{{ . }}</a> {{with $.Date}} <i class='fas fa-calendar'></i> {{ .Format "02/01/2006" }}{{end}}
+	    </div>
+	{{end}}
+</footer>
+
+{{ partial "footer.html" . }}

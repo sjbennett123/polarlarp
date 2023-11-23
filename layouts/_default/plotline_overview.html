@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+</p>{{ .Params.description }}</p>
+
+{{ .Content }}
+
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+<div id="roles"><p><b>Roles:</b>
+{{ if .Params.roles -}}{{ .Params.roles }} {{ end }}
+{{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+    {{- range  $index, $value := where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}}
+{{- if (ne $index 0) -}}, {{ end -}}
+<a href="{{.Permalink}}">{{ .Params.quantity | default ""}}{{ if .Params.quantity }}X {{ end }} {{.Title}} </a>
+    {{- end -}}
+{{ end }}
+</p></div>
+{{- end }}
+{{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
+<div id="misc"><p><b>Misc: </b>
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}
+
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
+{{- end -}}
+{{ partial "footer.html" . }}
