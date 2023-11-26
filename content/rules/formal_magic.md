@@ -354,9 +354,209 @@ At this time, the Marshal should:
 
 
 
- 
+| roll |          |
+| ---- | -------- |
+| 1    | success  |
+| 2-5  | flaw     |
+| 6-9  | failure  |
+| 10   | backlash |
 
-# Formal Magic Cantrips
+Flaw and Backlash Tables Instructions:
+1. Roll on General Flaw Eﬀect or General Backlash Eﬀect Table as applicable.
+2. If directed, roll on Random Delimit table or applicable Formal-Specifc Table.
+3. If directed to use an applicable Formal-Specifc Table and no table is applicable, re-roll.
+4. Note that all references to magic being destroyed follow the limits of the Destroy Formal Magic
+    Spell.
+5. Eﬀects of ﬂaws and backlashes are always removable by the appropriate Destroy Formal Magic
+    Spell.
+
+| Roll  | Result                                                       |
+| ----- | ------------------------------------------------------------ |
+| 1-3   | Formal succeeds, scroll is destroyed.                        |
+| 4-7   | All in circle lose all spells and cantrips currently active upon them. |
+| 8     | All x-ever items in the circle lose a charge.                |
+| 9     | All x-ever items in the circle lose all charges.             |
+| 10    | All magic items in the circle (except for ward and wizard lock keys) cease working for 24 hours. They remain rendered indestructible and spirit link/locked if they had been. |
+| 11-12 | Caster is divested from any circle that he/she was inside while casting the Formal. |
+| 13-15 | Caster must perform an action as part of all Formals they are involved in from now on. (Action is determined by the marshal, negotiable with the player, action must be able to be completed within 60 seconds. Examples: Clap 5 times, jump on one foot 5 times, spin in a circle 5 times, recite a particular poem, etc.) |
+|       | Additional power components totaling the level of the Formal must be destroyed in the circle within 1 minute or the Formal fails. |
+|       | All in circle lose Formal casting ability for 24 hours.      |
+|       | Primary caster loses all spells and cantrips currently active upon him/her. |
+|       | All per-day items in circle lose one charge per effect, for the day. |
+|       | All per-day items in circle lose all charges for the day.    |
+|       | Any circle containing the Formal (even if not being used to cast) loses all investitures, one randomly selected person in the circle gains investiture. |
+|       | Additional level 1 components totaling the level of the Formal must be destroyed in the circle within 1 minute or the Formal fails. Components must be of a type used in the Formal. |
+|       | Silver totaling 5 times the level of the Formal must be destroyed within the circle within 1 minute of the end of the Formal or it fails. |
+|       | Gold totaling 5 times the level of the Formal must be destroyed within the circle within 1 minutes of the end of the Formal or it fails. |
+|       | Primary caster loses 1 body for the base duration of the formal being performed. |
+|       | Formal duration is halved.                                   |
+|       | All silver in the circle in which the Formal is being cast is destroyed. |
+|       | All gold in the circle in which the Formal is being cast is destroyed. |
+|       | All components in the circle in which the Formal is being cast are consumed. |
+|       | All per-day magic items in the circle in which the Formal is being cast recharge their uses for the day. |
+|       | 46 1% Formal eﬀect occurs twice.                             |
+|       | 47 - 48 2% Primary caster's pyramid in the school of the Formal renews |
+|       | 49 - 51 3% All in the circle in which the Formal is being cast have their pyramids in the school of the Formal renewed. |
+|       | 52 - 54 3% All in the circle in which the Formal is being cast renew all skills. |
+|       | 55 1% Primary caster is invested in any circle that he/she was inside while casting the Formal. |
+|       | 56 - 57 2% Primary caster renews all skills.                 |
+|       | 58 - 59 2% Formal duration is doubled (up to 2 years unless LCO). |
+|       | 60 - 61 2% Any Creation components are not consumed in this Formal. |
+|       | 62 - 63 2% Any Elemental components are not consumed in this Formal. |
+|       | 64 - 65 2% Any Spirit components are not consumed in this Formal. |
+|       | 66 - 67 2% Any Time components are not consumed in this Formal. |
+|       | 68 - 69 2% Any Destruction components are not consumed in this Formal. |
+|       | 70 - 71 2% Any Void components are not consumed in this Formal. |
+|       | 72 - 73 2% Any Power components are not consumed in this Formal. |
+|       | 74 - 75 2% No components are consumed in this Formal.        |
+|       | 76 - 80 5% Roll twice, both eﬀects happen simultaneously.    |
+|       | 81 - 100 20% Roll on Formal-Specifc Flaw Table.              |
+
+
+
+
+
+General Backlash Effect
+
+| Roll                    | Odds | Result                                                       |
+| ----------------------- | ---- | ------------------------------------------------------------ |
+| 1 -10                   | 10%  | Roll twice, both eﬀects happen simultaneously.               |
+| 11 -17                  | 7%   | Scroll is destroyed.                                         |
+| 18 - 19                 | 2%   | All Formal magic in the circle (including circle) expires immediately. |
+| 20 - 25                 | 6%   | Primary caster is divested from any circle that he/she was inside while casting the Formal. |
+| 26 - 27                 | 2%   | Any circle containing the Formal (even if not being used to cast) loses all investitures, all in circle are ejected. |
+| 28 - 31                 | 4%   | All magic (Batle and Formal) on primary caster is destroyed. This includes carried items. |
+| 32                      | 1%   | Primary caster goes to resurrect.                            |
+| 33                      | 1%   | All casters go to resurrect.                                 |
+| 34                      | 1%   | All in the circle in which the Formal is being cast go to resurrect. |
+| 35                      | 1%   | All in the circle in which the Formal is being cast take 15 times the formal spell level in arcane body damage. |
+| 36 - 41                 | 6%   | All casters die, may receive life spells.                    |
+| 42 - 46                 | 5%   | All in the circle in which the Formal is being cast except primary caster die, may receive life spells. |
+| 47 - 49                 | 3%   | All in the circle in which the Formal is being cast die, may receive life spells. |
+| 50 -51                  | 2%   | Arms of primary caster withered as per the spell, may be restored. |
+| 52 -53                  | 2%   | All limbs of primary caster withered as per the spell, may be restored. |
+| 54                      | 1%   | All limbs of all casters are withered as per the spell, may be restored. |
+| 55                      | 1%   | All limbs of all in the circle in which the Formal is being cast are withered as per the spell, may be restored. |
+| 56                      | 1%   | All in the circle in which the Formal is being cast go ‘Berserk’, immediately atacking all creatures in the vicinity, including each other, to the best of their ability and the exclusion of all other actions, for ten minutes. |
+| 57 - 58                 | 2%   | Any circle containing the Formal (even if not being used to cast) is destroyed. |
+| 59 - 62                 | 4%   | All in the circle in which the Formal is being cast lose all daily skills until next reset. |
+| 63 - 65                 | 3%   | Any circle containing the Formal (even if not being used to cast) becomes a Formal Magic Platform (non-protective) until next reset. |
+| 66                      | 1%   | All in the circle in which the Formal is being cast lose ½ body (round the loss down) for one year. |
+| 67 - 68                 | 2%   | Cure Light Wounds spell acts as a death spell against the primary caster for one year. |
+| 69 - 70 | 2%   | Ingested and Gas Alchemical substances act as a death spell against the primary caster for one year. |
+| 71 - 72 | 2%   | Elemental Shield spell acts as a death spell against the primary caster for one year. |
+| 73 - 74 | 2%   | Magic Armor spell acts as a death spell against the primary caster for one year. |
+| 75      | 1%   | Magic Armor spell acts as a death spell against the primary caster indefnitely. |
+| 76      | 1%   | All casters take 1/2 eﬀect from what normally heals them for one year. |
+| 77 - 78 | 2%   | Primary caster takes double damage from one of the following for one year: Chaos (healing if undead), fre, lightning, ice, stone, magic missile / storm, silver weapons, magic weapons, normal weapons - note that “weapons” includes any boﬀer atack that delivers damage of the appropriate type. Determine randomly). |
+| 79 - 82 | 4%   | Primary caster must have at least one secondary caster to perform any Formal magic for one year. |
+| 83 - 85 | 3%   | Primary caster may not be the primary caster in any Formal magic cast in Dark Territory for one year. |
+| 86 - 90 | 5%   | Primary caster automatically casts in dark territory for six months. |
+| 91      | 1%   | Any circle containing the Formal (even if not being used to cast) switches schools. |
+| 92 - 96 | 5%   | Primary caster becomes an idiot, unable to use any skills, for one hour. |
+| 97      | 1%   | All charged items in circle activate one charge upon their possessor (may not be accepted under shield magic, activations occur in random order). |
+| 98      | 1%   | All charged items in circle activate one charge upon the primary caster (may not be accepted under shield magic, activations occur in random order). |
+| 99      | 1%   | All charged items in circle activate all charges upon their possessor (may not be accepted under shield magic, activations occur in random order). |
+| 100     | 1%   | All charged items in circle activate all charges upon the primary caster (may not be accepted under shield magic, activations occur in random order). |
+
+Summon Formal Magic Spells
+
+| Roll     | Odds | Result                                                       |
+| -------- | ---- | ------------------------------------------------------------ |
+| 1 - 20   | 20%  | Creature summoned will be friendly and cooperative towards the primary caster. |
+| 21 - 40  | 20%  | Creature summoned will atack the primary caster immediately. |
+| 41 - 60  | 20%  | Creature summoned will atack a random secondary caster (primary if no secondary casters are present) immediately. |
+| 61 - 80  | 20%  | Creature summoned cannot speak or hear.                      |
+| 81 - 100 | 20%  | Caster is rifted to summoned creature's plane of origin, with planar asylum, for one hour. |
+
+Item Creation Formals Including Damage Aura, Elemental Aura, Magic Aura
+
+| Roll     | Odds | Result                                                       |
+| -------- | ---- | ------------------------------------------------------------ |
+| 1 - 10   | 10%  | Item is randomly Delimited - See Delimit Table               |
+| 11 - 20  | 10%  | The Formal is placed on a random appropriate item in the circle. It fails if no other appropriate item is present. |
+| 21 -30   | 10%  | Formal batch may not be extended (reroll if durations were instant). |
+| 31 - 40  | 10%  | Batch receives a Greater Extension (reroll if durations were instant). |
+| 41 - 50  | 10%  | Item receives Render Indestructible formal magic.            |
+| 51 - 60  | 10%  | User of item must perform an action before item's Formal can be invoked. (Action is determined by the marshal, negotiable with the player, action must be able to be completed within 60 seconds. Examples: Clap 5 times, jump on one foot 5 times, spin in a circle 5 times, recite a particular poem, etc.) This applies each time the item is activated, or at least once an hour if donned or drawn. |
+| 61 - 70  | 10%  | Formal is eﬀective only at night (6 PM to 6 AM). This does not apply to Render Indestructible or Spirit Link/Lock. |
+| 71 - 80  | 10%  | Formal is eﬀective only during day (6 AM to 6 PM). This does not apply to Render Indestructible or Spirit Link/Lock) |
+| 81- 90   | 10%  | Item must be worn openly to perform its function.            |
+| 91 - 100 | 10%  | User of item takes 5 arcane body damage when item is activated, or when appropriate for always-on items (e.g., a Magic Aura sword will deliver the damage each time it is grabbed or drawn). |
+
+
+
+
+
+| Spirit Formal Magic Castings |      |                                                              |
+| ---------------------------- | ---- | ------------------------------------------------------------ |
+| Roll                         | Odds | Result                                                       |
+| 1 - 15                       | 15%  | Target spirit gains 1 body for base duration of Formal (may not be extended). |
+| 16 - 32                      | 17%  | Person whose spirit is the target may not wear armor while the Formal is in eﬀect (does not apply to instant Formals). |
+| 33 - 49                      | 17%  | A mark (determined by caster with no input from target spirit if other than the caster) is placed on target spirit. |
+| 50 - 66                      | 17%  | A mark (determined by target) is placed on target spirit.    |
+| 67 - 83                      | 17%  | Person whose spirit is the target must receive and be aﬀected by a benefcial spell (determined by the marshal) every 24 hours (while in-game) for the Formal to function (Does not apply to instantaneous Formal spells. Formal is considered suppressed until aﬀected by determined spell). |
+| 84 - 100                     | 17%  | Target spirit (primary caster's spirit if Obliterate is being cast) is weakened by 1 death but need not resurrect or draw. |
+
+| Spirit Formal Magic Castings |      |                                               |
+| ---------------------------- | ---- | --------------------------------------------- |
+| Roll                         | Odds | Result                                        |
+| 1 - 4                        | 4%   | A Fighter                                     |
+| 5 - 8                        | 4%   | A Rogue                                       |
+| 9 - 12                       | 4%   | A Scholar                                     |
+| 13 - 16                      | 4%   | A Templar                                     |
+| 17 - 22                      | 6%   | Someone under X level (roll 1-10)             |
+| 23 - 27                      | 5%   | Someone under X level (roll 1-10 + 10)        |
+| 28 -29                       | 2%   | Someone over X level (roll 1-10 + 10)         |
+| 30 - 32                      | 3%   | A Human                                       |
+| 33 - 35                      | 3%   | A Mystic Wood Elf                             |
+| 36 - 38                      | 3%   | An Elf (any except Stone Elf)                 |
+| 39 - 41                      | 3%   | A Dark Elf                                    |
+| 42 - 44                      | 3%   | A Stone Elf                                   |
+| 45 - 47                      | 3%   | A Gypsy                                       |
+| 48 - 50                      | 3%   | A Scavenger                                   |
+| 51 - 53                      | 3%   | A Barbarian                                   |
+| 54 - 56                      | 3%   | A Biata                                       |
+| 57 - 59                      | 3%   | A Half Orc                                    |
+| 60 - 62                      | 3%   | A Half Ogre                                   |
+| 63 - 65                      | 3%   | A Dwarf                                       |
+| 66 - 68                      | 3%   | A Sarr                                        |
+| 69 - 71                      | 3%   | A Hobling                                     |
+| 72                           | 1%   | Someone with Weapon skill X (caster's choice) |
+| 73                           | 1%   | Someone with Backstab skill                   |
+| 74                           | 1%   | Someone with Dodge/Assassinate skill          |
+| 75                           | 1%   | Someone with Profciency skill                 |
+| 76                           | 1%   | Someone with Critical Slay/Parry skill        |
+| 77                           | 1%   | Someone with Master Profciency skill          |
+| 78                           | 1%   | Someone with Master Critical Slay/Parry skill |
+| 79                           | 1%   | Someone with Waylay skill                     |
+
+
+
+| Spirit Formal Magic Castings |      |                                                        |
+| ---------------------------- | ---- | ------------------------------------------------------ |
+| Roll                         | Odds | Result                                                 |
+| 80                           | 1%   | Someone with Pick Locks skill                          |
+| 81                           | 1%   | Someone with Disarm Traps skill                        |
+| 82                           | 1%   | Someone with Create/Set Traps skill                    |
+| 83 - 84                      | 2%   | Someone with Smithing skill                            |
+| 85                           | 1%   | Someone with Herbal Lore skill                         |
+| 86                           | 1%   | Someone with Alchemy skill                             |
+| 87                           | 1%   | Someone with Craftsman Other (Astrologer) skill        |
+| 88                           | 1%   | Someone with Craftsman (OtherX) skill                  |
+| 89                           | 1%   | Someone with Read and Write skill                      |
+| 90                           | 1%   | Someone with Read Magic skill                          |
+| 91                           | 1%   | Someone with First Aid skill                           |
+| 92                           | 1%   | Someone with Healing Arts skill                        |
+| 93                           | 1%   | Someone with Earth spell slot level X (Random 1-9)     |
+| 94                           | 1%   | Someone with Celestial spell slot level X (Random 1-9) |
+| 95                           | 1%   | Someone with Earth Formal level X (Random 1-10)        |
+| 96                           | 1%   | Someone with Celestial Formal level X (Random 1-10)    |
+| 97                           | 1%   | Someone with Create Potion skill                       |
+| 98                           | 1%   | Someone with Create Scroll skill                       |
+| 99- 100                      | 2%   | Someone with Wear Extra Armor skill                    |
+
+Formal Magic Cantrips
 
 For a player to cast a Cantrip he/she must have the skill Earth Formal Magic or Celestial Formal Magic. A player may cast one Cantrip of their school of magic per day for each level of formal magic they possess. The full list of Cantrips, their effects, and components costs is available at www.nerolarp.com.
 
