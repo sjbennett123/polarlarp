@@ -1,3 +1,8 @@
+---
+title: formal rituals
+---
+
+
 Arcane Armor
 Level 3
 Target Item which must be a piece of Armor

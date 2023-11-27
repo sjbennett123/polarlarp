@@ -354,7 +354,7 @@ At this time, the Marshal should:
 
 
 
-| roll |          |
+| roll | effect   |
 | ---- | -------- |
 | 1    | success  |
 | 2-5  | flaw     |
@@ -394,27 +394,23 @@ Flaw and Backlash Tables Instructions:
 |       | All gold in the circle in which the Formal is being cast is destroyed. |
 |       | All components in the circle in which the Formal is being cast are consumed. |
 |       | All per-day magic items in the circle in which the Formal is being cast recharge their uses for the day. |
-|       | 46 1% Formal eﬀect occurs twice.                             |
-|       | 47 - 48 2% Primary caster's pyramid in the school of the Formal renews |
-|       | 49 - 51 3% All in the circle in which the Formal is being cast have their pyramids in the school of the Formal renewed. |
-|       | 52 - 54 3% All in the circle in which the Formal is being cast renew all skills. |
-|       | 55 1% Primary caster is invested in any circle that he/she was inside while casting the Formal. |
-|       | 56 - 57 2% Primary caster renews all skills.                 |
-|       | 58 - 59 2% Formal duration is doubled (up to 2 years unless LCO). |
-|       | 60 - 61 2% Any Creation components are not consumed in this Formal. |
-|       | 62 - 63 2% Any Elemental components are not consumed in this Formal. |
-|       | 64 - 65 2% Any Spirit components are not consumed in this Formal. |
-|       | 66 - 67 2% Any Time components are not consumed in this Formal. |
-|       | 68 - 69 2% Any Destruction components are not consumed in this Formal. |
-|       | 70 - 71 2% Any Void components are not consumed in this Formal. |
-|       | 72 - 73 2% Any Power components are not consumed in this Formal. |
-|       | 74 - 75 2% No components are consumed in this Formal.        |
-|       | 76 - 80 5% Roll twice, both eﬀects happen simultaneously.    |
-|       | 81 - 100 20% Roll on Formal-Specifc Flaw Table.              |
-
-
-
-
+| 46    | 1% Formal eﬀect occurs twice.                                |
+|   47 - 48     |  Primary caster's pyramid in the school of the Formal renews |
+|    49 - 51  |  All in the circle in which the Formal is being cast have their pyramids in the school of the Formal renewed. |
+|    52 - 54   |  3% All in the circle in which the Formal is being cast renew all skills. |
+|  55     |  1% Primary caster is invested in any circle that he/she was inside while casting the Formal. |
+|   56 - 57    |   Primary caster renews all skills.                 |
+|    58 - 59   |  Formal duration is doubled (up to 2 years unless LCO). |
+|  60 - 61     |  Any Creation components are not consumed in this Formal. |
+| 62 - 63     |  Any Elemental components are not consumed in this Formal. |
+|  64 - 65     |  Any Spirit components are not consumed in this Formal. |
+|  66 - 67      | Any Time components are not consumed in this Formal. |
+|   68 - 69    |  Any Destruction components are not consumed in this Formal. |
+|    70 - 71   |  Any Void components are not consumed in this Formal. |
+|    72 - 73    | Any Power components are not consumed in this Formal. |
+|   74 - 75    |  No components are consumed in this Formal.        |
+|  76 - 80      | Roll twice, both eﬀects happen simultaneously.    |
+|   81 - 100     |  Roll on Formal-Specific Flaw Table.      |
 
 General Backlash Effect
 
@@ -485,12 +481,11 @@ Item Creation Formals Including Damage Aura, Elemental Aura, Magic Aura
 | 91 - 100 | 10%  | User of item takes 5 arcane body damage when item is activated, or when appropriate for always-on items (e.g., a Magic Aura sword will deliver the damage each time it is grabbed or drawn). |
 
 
+Spirit Formal Magic Castings 
 
 
-
-| Spirit Formal Magic Castings |      |                                                              |
-| ---------------------------- | ---- | ------------------------------------------------------------ |
 | Roll                         | Odds | Result                                                       |
+| ---------------------------- | ---- | ------------------------------------------------------------ |
 | 1 - 15                       | 15%  | Target spirit gains 1 body for base duration of Formal (may not be extended). |
 | 16 - 32                      | 17%  | Person whose spirit is the target may not wear armor while the Formal is in eﬀect (does not apply to instant Formals). |
 | 33 - 49                      | 17%  | A mark (determined by caster with no input from target spirit if other than the caster) is placed on target spirit. |
@@ -498,9 +493,9 @@ Item Creation Formals Including Damage Aura, Elemental Aura, Magic Aura
 | 67 - 83                      | 17%  | Person whose spirit is the target must receive and be aﬀected by a benefcial spell (determined by the marshal) every 24 hours (while in-game) for the Formal to function (Does not apply to instantaneous Formal spells. Formal is considered suppressed until aﬀected by determined spell). |
 | 84 - 100                     | 17%  | Target spirit (primary caster's spirit if Obliterate is being cast) is weakened by 1 death but need not resurrect or draw. |
 
-| Spirit Formal Magic Castings |      |                                               |
-| ---------------------------- | ---- | --------------------------------------------- |
+
 | Roll                         | Odds | Result                                        |
+| ---------------------------- | ---- | --------------------------------------------- |
 | 1 - 4                        | 4%   | A Fighter                                     |
 | 5 - 8                        | 4%   | A Rogue                                       |
 | 9 - 12                       | 4%   | A Scholar                                     |
@@ -531,11 +526,10 @@ Item Creation Formals Including Damage Aura, Elemental Aura, Magic Aura
 | 78                           | 1%   | Someone with Master Critical Slay/Parry skill |
 | 79                           | 1%   | Someone with Waylay skill                     |
 
+ Spirit Formal Magic Castings
 
-
-| Spirit Formal Magic Castings |      |                                                        |
-| ---------------------------- | ---- | ------------------------------------------------------ |
 | Roll                         | Odds | Result                                                 |
+| ---------------------------- | ---- | ------------------------------------------------------ |
 | 80                           | 1%   | Someone with Pick Locks skill                          |
 | 81                           | 1%   | Someone with Disarm Traps skill                        |
 | 82                           | 1%   | Someone with Create/Set Traps skill                    |
@@ -556,7 +550,7 @@ Item Creation Formals Including Damage Aura, Elemental Aura, Magic Aura
 | 98                           | 1%   | Someone with Create Scroll skill                       |
 | 99- 100                      | 2%   | Someone with Wear Extra Armor skill                    |
 
-Formal Magic Cantrips
+## Formal Magic Cantrips
 
 For a player to cast a Cantrip he/she must have the skill Earth Formal Magic or Celestial Formal Magic. A player may cast one Cantrip of their school of magic per day for each level of formal magic they possess. The full list of Cantrips, their effects, and components costs is available at www.nerolarp.com.
 
