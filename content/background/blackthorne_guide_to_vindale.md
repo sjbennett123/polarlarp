@@ -19,13 +19,13 @@ credits: |
       - Share — copy and redistribute the material in any medium or format
       - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 
-cover_thumbnail: /zines/blackthorne_guide_cover_front_thumbnail.png
-book_block_pdf: /zines/blackthorne_guide.pdf
-book_block_affinity_publisher: /zines/blackthorne_guide_cover.afpub
-front_cover_pdf: /zines/blackthorne_guide_cover_front.pdf
-front_cover_image: /zines/blackthorne_guide_cover_front.png
-back_cover_pdf: /zines/blackthorne_guide_cover_back.pdf
-cover_affinity_publisher: /zines/blackthorne_guide_cover.afpub
+cover_thumbnail: /zines/blackthorne_guide_to_vindale_cover_front_thumbnail.png
+book_block_pdf: /zines/blackthorne_guide_to_vindale.pdf
+book_block_affinity_publisher: /zines/blackthorne_guide_to_vindale_cover.afpub
+front_cover_pdf: /zines/blackthorne_guide_to_vindale_cover_front.pdf
+front_cover_image: /zines/blackthorne_guide_to_vindale_cover_front.png
+back_cover_pdf: /zines/blackthorne_guide_to_vindale_cover_back.pdf
+cover_affinity_publisher: /zines/blackthorne_guide_to_vindale_cover.afpub
 mixam_printlink: https://mixam.com/print-on-demand/64fd048a35ca8829038e7b74
 ---
 

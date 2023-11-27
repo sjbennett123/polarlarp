@@ -12,6 +12,24 @@
         {{ .Params.credits | markdownify }}
     </div>
 </div>
+
+<div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
+        <span>
+            Audio
+    	</span>
+    </div>
+    <div class="expand-content" style="display: none;">
+        <p> <b> Audio</b> <a href="/audio/{{ .Params.mp3 }}"> MP3</a> <a href="/audio/{{ .Params.reaper }}">  Reaper</a> 
+
+<audio controls preload="metadata">
+<source src="/audio/{{ .Params.mp3 }}" type="audio/mpeg">
+<figcaption>{{ .Params.Title }}</figcaption>
+</audio>
+   </p>  </div>   
+</div>
+
 <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
@@ -30,14 +48,11 @@
             <a href="{{ .Params.cover_affinity_publisher }}">Cover Affinity Publisher</a></p>
         <p> <b> Mixam Printlink:</b> 
             <a href="{{ .Params.mixam_printlink }}">{{ .Params.Title }} Mixam Printlink</a></p>
-        <p> <b> Audio</b> <a href="/audio/{{ .Params.mp3 }}"> MP3</a> <a href="/audio/{{ .Params.reaper }}">  Reaper</a> 
 
-<audio controls preload="metadata">
-<source src="/audio/{{ .Params.mp3 }}" type="audio/mpeg">
-<figcaption>{{ .Params.Title }}</figcaption>
-</audio>
-    </div></p>
 </div>
+
+
+
 {{ .Content }}
 
 

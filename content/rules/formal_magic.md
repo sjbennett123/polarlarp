@@ -595,4 +595,3 @@ Cantrips may have the following durations:
 **Invoked**: When an invoked Cantrip is cast the caster will receive 5 charges of the effectin the appropriate school of formal magic. Using the effect uses one charge. An effect can be used against a single opponent for a maximum of 5 minutes or line of sight. All unused charges expire at the next tag reset. Multiple charges may be used against multiple opponents at the same time. The caster must state “I Invoke <Cantrip name> against you” to the opponent it is being used against so that the opponent can hear it. This is an in-game statement and will not work if the Caster is silenced.
 
 **2 Year**: Until removed by in-game methods or 2 years passes. Unless otherwise indicated, the effect of any Cantrip with the duration of Day is lost if the target requires a life spell.
-
