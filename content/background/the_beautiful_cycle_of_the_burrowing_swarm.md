@@ -1,5 +1,5 @@
 ---
-title: A Collection of Magical Treatises
+title: The Beautiful Cycle_of The Burrowing Swarm
 layout: zine
 cover_thumbnail: /zines/the_beautiful_cycle_of_the_burrowing_swarm_cover_front_thumbnail.png
 layout: zine
@@ -30,4 +30,6 @@ back_cover_pdf: /zines/the_beautiful_cycle_of_the_burrowing_swarm_cover_back.pdf
 cover_affinity_publisher: /zines/the_beautiful_cycle_of_the_burrowing_swarm_cover.afpub
 mixam_printlink: https://mixam.com/print-on-demand/64fd048a35ca8829038e7b74
 ---
+
+notes on orcamedies other projects 
 
