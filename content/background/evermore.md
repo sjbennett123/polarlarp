@@ -24,7 +24,7 @@ The Wolf Totem following is very deep into ritual and ceremony. One of the most 
 
 ## The Bear Totem
 
-Enter Bear Totem schpeel here.
+
 
 ## The Warriors
 
@@ -44,8 +44,8 @@ The Deathbringers are now a relatively small sect of the Evermore Tribe, and whi
 
 ## The Craftsmen
 
- The most numerous group of Evermore tribesmen are the Craftsmen. They are the ones who till the soil, gather berries and roots, hunt game, make pottery and other tools, and build homes. While the occupations described previously are generally only filled out by actual Barbarians, the ranks of the craftsmen are filled by members of all the races that are counted as part of the Evermore name. Though given the least amount of prestige and honors, they could be said to be the most important and fundamental group in the Tribe, for without them the Shamans and Warriors would have no food to eat, nor homes to sleep in. All manner of trades and crafts are undertaken by this caste, and while their products tend to be of a rougher cut than those found in human-dominated communities, they are no less efficient or effective in their intended uses.
+The most numerous group of Evermore tribesmen are the Craftsmen. They are the ones who till the soil, gather berries and roots, hunt game, make pottery and other tools, and build homes. While the occupations described previously are generally only filled out by actual Barbarians, the ranks of the craftsmen are filled by members of all the races that are counted as part of the Evermore name. Though given the least amount of prestige and honors, they could be said to be the most important and fundamental group in the Tribe, for without them the Shamans and Warriors would have no food to eat, nor homes to sleep in. All manner of trades and crafts are undertaken by this caste, and while their products tend to be of a rougher cut than those found in human-dominated communities, they are no less efficient or effective in their intended uses.
 
 ## Rites and Ceremonies
 
- Certain rituals and ceremonies are specific to a Totem, as described above. However many are common to all members of the Evermore Tribe. Amongst the most important of them is the Rite of Manhood. Each member of the tribe, upon reaching his majority, is assigned a task to prove his worth. Often times the task is related to a portent foreseen by the Shamans, but in all cases it is decided upon by whatever Elders preside over the youth in question. 
+Certain rituals and ceremonies are specific to a Totem, as described above. However many are common to all members of the Evermore Tribe. Amongst the most important of them is the Rite of Manhood. Each member of the tribe, upon reaching his majority, is assigned a task to prove his worth. Often times the task is related to a portent foreseen by the Shamans, but in all cases it is decided upon by whatever Elders preside over the youth in question. 
