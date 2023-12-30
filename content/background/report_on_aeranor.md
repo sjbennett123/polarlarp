@@ -29,6 +29,7 @@ front_cover_image: /zines/report_on_aeranor_cover_front.png
 back_cover_pdf: /zines/report_on_aeranor_cover_back.pdf
 cover_affinity_publisher: /zines/report_on_aeranor_cover.afpub
 mixam_printlink: https://mixam.com/print-on-demand/64fd048a35ca8829038e7b74
+draft: true
 ---
 
 
